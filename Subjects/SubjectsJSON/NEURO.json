@@ -1,0 +1,109 @@
+{
+  "Name": "Neuroscience",
+  "Code": "NEURO",
+  "Courses": [
+    {
+      "Name": "NEURO 2000 - INTRO TO NEUROSCIENCE",
+      "Description": [
+        "A comprehensive introduction to the neurosciences. Topics include molecular properties of neurons; neural plasticity; development of the brain and nervous system; sensory, motor and integrative systems; neural mechanisms of behaviour and cognition, including memory, language, and consciousness. Molecular and genetic techniques, electrophysiological recording, and brain imaging methods will be examined.",
+        "Antirequisite(s): Psychology 2220A/B and Psychology 2221A/B, if taken in 2013/14 or onward.",
+        "Extra Information: 2 lecture hours, 2 tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5419",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M384",
+          "Instructor": "D. Mitchell",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Psychology 1000 with a minimum mark of 60%; either Biology 1001A or Biology 1201A with a minimum mark of 60%; and either Biology 1002B or Biology 1202B with a minimum mark of 60%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7271",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M384",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "NEURO 3000G - CURRENT TOPICS IN NEUROSCIENCE",
+      "Description": [
+        "Students will read and critique current neuroscience research from the experimental and clinical literature. Topics will range from cellular properties of neurons to cognitive neuroscience. Critical thinking, evaluation of data, research design, and the conduct of scientific inquiry will be emphasized along with the ethical implications of research in neuroscience.",
+        "Extra Information: 3 lecture and discussion hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5597",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "T. Bussey",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN YR 3 HONS SPZ IN NEUROSCIENCE. ",
+            "REQUISITES: Prerequisite(s): Neuroscience 2000 with a minimum mark of 75% and registration in Year 3 of an Honours Specialization in Neuroscience."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "NEURO 4000E - HON THESIS",
+      "Description": [
+        "An independent laboratory project in Neuroscience emphasizing experimental design, instrumentation, data collection and analysis, and communication of experimental results by oral, poster and written presentations. Topics covered in seminar time include animal and human research ethics and institutional approval of animal and human experimentation, laboratory safety, and scientific communication skills.",
+        "Extra Information: Minimum 15 hours per week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5986",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "J. Grahn",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN YR 4 HONS SPZ IN NEUROSCIENCE. ",
+            "REQUISITES: Prerequisite(s): Neuroscience 3000F/G with a minimum mark of 75%; one of Biology 2244A/B, Statistical Sciences 2244A/B or Psychology 2810; Pharmacology 3620; Physiology 3140A; one of Medical Sciences 3900F/G/Z, Communication Sciences and Disorders 3317A/B, Psychology 3996F or Psychology 3997G; and registration in Year 4 of an Honours Specialization in Neuroscience."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

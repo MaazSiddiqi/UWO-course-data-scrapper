@@ -1,0 +1,1893 @@
+{
+  "Name": "Statistical Sciences",
+  "Code": "STATS",
+  "Courses": [
+    {
+      "Name": "STATS 1023A - STATISTICAL CONCEPTS",
+      "Description": [
+        "An examination of statistical issues aiming towards statistical literacy and appropriate interpretation of statistical information. Common misconceptions will be targeted. Assessment of the validity and treatment of results in popular and scientific media. Conceptual consideration of study design, numerical and graphical data summaries, probability, sampling variability, confidence intervals and hypothesis tests.",
+        "Antirequisite(s): Statistical Sciences 2037A/B.",
+        "Extra Information: Offered in two formats: 3 lecture hours, or weekly online lectures and 2 in-class lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3975",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Provost",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES. STUDENTS MUST ALSO REGISTER FOR AND ATTEND THE LAB SECTION ON CAMPUS. CROSS-LISTED WITH STATS 2037A."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5319",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "WSC-55",
+          "Instructor": "S. Provost",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 1023B - STATISTICAL CONCEPTS",
+      "Description": [
+        "An examination of statistical issues aiming towards statistical literacy and appropriate interpretation of statistical information. Common misconceptions will be targeted. Assessment of the validity and treatment of results in popular and scientific media. Conceptual consideration of study design, numerical and graphical data summaries, probability, sampling variability, confidence intervals and hypothesis tests.",
+        "Antirequisite(s): Statistical Sciences 2037A/B.",
+        "Extra Information: Offered in two formats: 3 lecture hours, or weekly online lectures and 2 in-class lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5794",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "CROSS-LISTED WITH STATS 2037B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5794",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "CROSS-LISTED WITH STATS 2037B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 1024A - INTRODUCTION TO STATISTICS",
+      "Description": [
+        "Statistical inference, experimental design, sampling design, confidence intervals and hypothesis tests for means and proportions, regression and correlation.",
+        "Antirequisite(s): All other courses or half courses in Introductory Statistics, except Statistical Sciences 1023A/B and Statistical Sciences 2037A/B.",
+        "Extra Information: Offered in two formats:  3 lecture hours, or weekly online lectures and 2 in-class lab hours (Main); 3 lecture hours (Huron, King's).",
+        "Note also that Statistical Sciences 1024A/B cannot be taken concurrently with any Introductory Statistics course. For a full list of Introductory Statistics courses please see: ",
+        "https://www.westerncalendar.uwo.ca/Departments.cfm?DepartmentID=55&SelectedCalendar=Live&ArchiveID="
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1142",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-SA151",
+          "Instructor": "L. Murray",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Mathematics or Mathematics 0109A/B, Mathematics 0110A/B or Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1446",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W166",
+          "Instructor": "L. Murray",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Mathematics or Mathematics 0109A/B, Mathematics 0110A/B or Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 1024B - INTRODUCTION TO STATISTICS",
+      "Description": [
+        "Statistical inference, experimental design, sampling design, confidence intervals and hypothesis tests for means and proportions, regression and correlation.",
+        "Antirequisite(s): All other courses or half courses in Introductory Statistics, except Statistical Sciences 1023A/B and Statistical Sciences 2037A/B.",
+        "Extra Information: Offered in two formats:  3 lecture hours, or weekly online lectures and 2 in-class lab hours (Main); 3 lecture hours (Huron, King's).",
+        "Note also that Statistical Sciences 1024A/B cannot be taken concurrently with any Introductory Statistics course. For a full list of Introductory Statistics courses please see: ",
+        "https://www.westerncalendar.uwo.ca/Departments.cfm?DepartmentID=55&SelectedCalendar=Live&ArchiveID="
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1268",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-W168",
+          "Instructor": "X. Jiang",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Mathematics or Mathematics 0109A/B, Mathematics 0110A/B or Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1295",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-DL130",
+          "Instructor": "X. Jiang",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Mathematics or Mathematics 0109A/B, Mathematics 0110A/B or Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "3143",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "4:00 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Mathematics or Mathematics 0109A/B, Mathematics 0110A/B or Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2035 - STATISTICS FOR BUS & SOC SCI",
+      "Description": [
+        "Descriptive statistics and graphs, probability and distributions. Sampling, hypothesis testing, and confidence intervals. Experimental design and analysis of variance. Regression and correlation, including multiple regression. Applications emphasized. This course cannot be taken for credit in any module in Data Science, Statistics, Actuarial Science, or Financial Modelling, other than the Minor in Applied Statistics.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B and Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B,MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences  2141A/B, Statistical Sciences  2143A/B, Statistical Sciences 2244A/B, Statistical Sciences  2858A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010, former Psychology 2885 (Brescia), former Statistical Sciences 2122A/B, former Social Work 2205.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1143",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": "L. Murray",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ANTIREQ: ECO 2122A/B AND 2222A/B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One full course or equivalent from: Applied Mathematics 1201A/B, Applied Mathematics 1413, Statistical Sciences 1024A/B, Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1699",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ANTIREQ: ECO 2122A/B AND 2222A/B. ",
+            "REQUISITES: Prerequisite(s): One full course or equivalent from: Applied Mathematics 1201A/B, Applied Mathematics 1413, Statistical Sciences 1024A/B, Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3628",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-1059",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One full course or equivalent from: Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, the former Applied Mathematics 1413, Statistical Sciences 1024A/B, Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "3629",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NSC-1",
+          "Instructor": "S. Kopp",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One full course or equivalent from: Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, the former Applied Mathematics 1413, Statistical Sciences 1024A/B, Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2037A - STATISTICS FOR HEALTH",
+      "Description": [
+        "An examination of statistical issues aiming towards statistical literacy and appropriate interpretation of statistical information. Common misconceptions will be targeted. Assessment of the validity and treatment of results in popular and scientific media. Conceptual consideration of study design, numerical and graphical data summaries, probability, sampling variability, confidence intervals and hypothesis tests. Emphasis will be placed on health-related applications.",
+        "Antirequisite(s) at Main campus: Statistical Sciences 1023A/B.",
+        "Antirequisite(s) at Huron: All other courses or half courses in Introductory Statistics.",
+        "Extra Information: Offered in two formats: 3 lecture hours, or weekly online lectures and 2 in-class lab hours (Main); 3 lecture hours (Huron). ",
+        "Note at Main campus: Cannot be taken for credit by students registered in the Faculty of Science and Schulich School of Medicine and Dentistry with the exception of students in Food and Nutrition."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3630",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Provost",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES. STUDENTS MUST ALSO REGISTER FOR AND ATTEND THE LAB SECTION ON CAMPUS, NOT INTENDED FOR STATS/MATH/ACT SCI STUDENTS. STATS/MATH/ACT SCI STUDENTS CAN NOT RECEIVE CREDIT."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5797",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "WSC-55",
+          "Instructor": "S. Provost",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2037B - STATISTICS FOR HEALTH",
+      "Description": [
+        "An examination of statistical issues aiming towards statistical literacy and appropriate interpretation of statistical information. Common misconceptions will be targeted. Assessment of the validity and treatment of results in popular and scientific media. Conceptual consideration of study design, numerical and graphical data summaries, probability, sampling variability, confidence intervals and hypothesis tests. Emphasis will be placed on health-related applications.",
+        "Antirequisite(s) at Main campus: Statistical Sciences 1023A/B.",
+        "Antirequisite(s) at Huron: All other courses or half courses in Introductory Statistics.",
+        "Extra Information: Offered in two formats: 3 lecture hours, or weekly online lectures and 2 in-class lab hours (Main); 3 lecture hours (Huron). ",
+        "Note at Main campus: Cannot be taken for credit by students registered in the Faculty of Science and Schulich School of Medicine and Dentistry with the exception of students in Food and Nutrition."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7894",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "CROSS-LISTED WITH STATS 1023B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7894",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "CROSS-LISTED WITH STATS 1023B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2141A - APPL PROB & STATS FOR ENGINEER",
+      "Description": [
+        "An introduction to statistics with emphasis on the applied probability models used in Electrical and Civil Engineering and elsewhere.  Topics covered include samples, probability, probability distributions, estimation (including comparison of means), correlation and regression. This course cannot be taken for credit in any module in Data Science, Statistics, Actuarial Science, or Financial Modelling, other than the Minor in Applied Statistics or the Minor in Applied Financial Modeling.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B, Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B,MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences 2035, Statistical Sciences  2143A/B, Statistical Sciences 2244A/B, Statistical Sciences  2858A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4687",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MC-110",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "RESTRICTED TO ELECTRICAL, COMPUTER, SOFTWARE, CIVIL AND YR 4 MECHATRONICS ENGINEERING STUDENTS, SCIENCE STUDENTS, CONCURRENT BUSINESS STUDENTS, AND SCHOLARS ELECTIVES. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 1412A/B and Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or 0.5 course from Calculus 1000A/B, or Calculus 1500A/B plus 0.5 course from Calculus 1301A/B or Calculus 1501A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4688",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "NSC-1",
+          "Instructor": "M. Raaymakers",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2143B - APP STATS & DATA ANLYSIS - ENG",
+      "Description": [
+        "A data-driven introduction to statistics intended primarily for students in Chemical and Mechanical Engineering. Exploratory data analysis, probability, the Binomial, Poisson, Normal, Chi-Square and F distributions. Estimation, correlation and regression (model building and parameter estimation), analysis of variance, design of experiments. This course cannot be taken for credit in any module in Data Science, Statistics, Actuarial Science, or Financial Modelling, other than the Minor in Applied Statistics or the Minor in Applied Financial Modeling.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B, Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B,MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences 2035, Statistical Sciences  2141A/B,  Statistical Sciences 2244A/B, Statistical Sciences  2858A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3893",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-146",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO CHEMICAL, GREEN PROCESS, MECHANICAL, MECHATRONICS, INTEGRATED, COMPUTER AND CIVIL ENGINEERING STUDENTS, SCIENCE STUDENTS AND SCHOLARS ELECTIVES. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 1412A/B and Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or 0.5 course from Calculus 1000A/B, or Calculus 1500A/B plus 0.5 course from Calculus 1301A/B or Calculus 1501A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4120",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WSC-55",
+          "Instructor": "A. Hassanzadeh",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "7600",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NS-7",
+          "Instructor": "A. Hassanzadeh",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2244A - STATISTICS FOR SCIENCE",
+      "Description": [
+        "An introductory course in the application of statistical methods, intended for honours students in departments other than Statistical and Actuarial Sciences, Applied Mathematics, Mathematics, or students in the Faculty of Engineering. Topics include sampling, confidence intervals, analysis of variance, regression and correlation. Cannot be taken for credit in any module in Data Science, Statistics, Actuarial Science, or Financial Modelling other than the Minor in Applied Statistics.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B, Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B,MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences 2035, Statistical Sciences  2141A/B, Statistical Sciences  2143A/B, Statistical Sciences  2858A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010.",
+        "Extra Information: 2 lecture hours, 3 lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5154",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NS-145",
+          "Instructor": "J. Peter",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5155",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NS-145",
+          "Instructor": "J. Peter",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "12128",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5157",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "5158",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "5159",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "5160",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "5161",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "5162",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LAB",
+          "Class Nbr": "5163",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-13",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LAB",
+          "Class Nbr": "5164",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LAB",
+          "Class Nbr": "5165",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "LAB",
+          "Class Nbr": "5166",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "LAB",
+          "Class Nbr": "5167",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "LAB",
+          "Class Nbr": "5516",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "LAB",
+          "Class Nbr": "5156",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2244B - STATISTICS FOR SCIENCE",
+      "Description": [
+        "An introductory course in the application of statistical methods, intended for honours students in departments other than Statistical and Actuarial Sciences, Applied Mathematics, Mathematics, or students in the Faculty of Engineering. Topics include sampling, confidence intervals, analysis of variance, regression and correlation. Cannot be taken for credit in any module in Data Science, Statistics, Actuarial Science, or Financial Modelling other than the Minor in Applied Statistics.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B, Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B,MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences 2035, Statistical Sciences  2141A/B, Statistical Sciences  2143A/B, Statistical Sciences  2858A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010.",
+        "Extra Information: 2 lecture hours, 3 lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5168",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "J. Peter",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5169",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NSC-1",
+          "Instructor": "J. Peter",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "12129",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH BIOLOGY 2244B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Mathematics course or equivalent numbered 1000 or above. Data Science 1000A/B or the former Statistical Sciences 1024A/B or Integrated Science 1001X can be used to meet 0.5 of the 1.0 mathematics course requirement."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5171",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "5172",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "5173",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "5174",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "5175",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-13",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "5176",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LAB",
+          "Class Nbr": "5177",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LAB",
+          "Class Nbr": "5178",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-13",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LAB",
+          "Class Nbr": "5179",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "LAB",
+          "Class Nbr": "5539",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "LAB",
+          "Class Nbr": "5625",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "LAB",
+          "Class Nbr": "5626",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "LAB",
+          "Class Nbr": "5170",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2503B - ADV MATH FOR STAT APPLICATION",
+      "Description": [
+        "Modeling deterministic systems with differential equations: first and second order ODEs, systems of linear differential equations. Laplace transforms and moment generating functions. Modeling stochastic systems with Markov chains: discrete and continuous time chains, Chapman-Kolmogorov equations, ergodic theorems. ",
+        "Antirequisite(s): The former Applied Mathematics 2503A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5994",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-55",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS ENROLLED IN A MODULE OFFERED BY THE DEPARTMENTS OF APPLIED MATHEMATICS; MATHEMATICS; AND STATISTICAL AND ACTUARIAL SCIENCES. ",
+            "REQUISITES: Prerequisite(s): Calculus 2402A/B or (Calculus 2502A/B and Calculus 2503A/B) or (Calculus 2502A/B and Mathematics 2123A/B), Mathematics 1600A/B (or the former Linear Algebra 1600A/B) or Applied Mathematics 1411A/B, Statistical Sciences 2857A/B (or the former Statistical Sciences 2657A), or Economics 2122A/B. In each course a minimum mark of 60% is required."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2857A - PROBABILITY & STATISTICS I",
+      "Description": [
+        "Probability axioms, conditional probability, Bayes' theorem. Random variables motivated by real data and examples. Parametric univariate models as data reduction and description strategies. Multivariate distributions, expectation and variance. Likelihood function will be defined and exploited as a means of estimating parameters in certain simple situations. ",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4704",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "S. Bonner",
+          "Notes": [
+            "PRIORITY TO STUDENTS ENROLLED IN A MODULE OFFERED BY THE DEPARTMENTS OF APPLIED MATHEMATICS; MATHEMATICS; AND STATISTICAL AND ACTUARIAL SCIENCES. ",
+            "REQUISITES: Prerequisite(s): 0.5 course from Calculus 1000A/B, Calculus 1500A/B, or Applied Mathematics 1412A/B, each with a minimum mark of 60%, plus 0.5 course from Calculus 1301A/B (minimum mark 85%), Calculus 1501A/B (minimum mark 60%), or Applied Mathematics 1414A/B (minimum mark 60%). The former Applied Mathematics 1413 with a minimum mark of 60% may also be used to meet this 1.0 course prerequisite."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4705",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": "S. Bonner",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2858B - PROBABILITY & STATISTICS II",
+      "Description": [
+        "An introduction to the theory of statistics with strong links to data as well as its probabilistic underpinnings. Topics covered include estimation and hypothesis testing, sampling distributions, linear regression, experimental design, law of large numbers and central limit theorem.",
+        "Antirequisite(s): All other courses in Introductory Statistics (except Statistical Sciences 1023A/B and Data Science 1000A/B or the former Statistical Sciences 1024A/B): Biology 2244A/B, Economics 2122A/B, Economics 2222A/B, Geography 2210A/B, Health Sciences 3801A/B, MOS 2242A/B, Psychology 2810, Psychology 2820E, Psychology 2830A/B, Psychology 2850A/B, Psychology 2851A/B, Social Work 2207A/B, Sociology 2205A/B, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Statistical Sciences 2037A/B if taken prior to Fall 2010, former Psychology 2885 (Brescia), former Statistical Sciences 2122A/B, former Social Work 2205.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3894",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-2200",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS ENROLLED IN A MODULE OFFERED BY THE DEPARTMENTS OF APPLIED MATHEMATICS; MATHEMATICS; AND STATISTICAL AND ACTUARIAL SCIENCES. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2857A/B (or the former Statistical Sciences 2657A/B)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3895",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "TC-141",
+          "Instructor": "H. Gweon",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2864A - STATISTICAL PROGRAMMING",
+      "Description": [
+        "An introduction to programming using a high level language (currently R).",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8692",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2857A/B (or the former Statistical Sciences 2657A/B) or a minimum mark of 70% in one of Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Biology 2244A/B, Economics 2222A/B, MOS 2242A/B, Psychology 2810; and enrollment in a module offered by the departments of Applied Mathematics; Mathematics; and Statistical and Actuarial Sciences.  ",
+            "Pre-or Corequisite(s): Statistical Sciences 2858A/B for those using Statistical Sciences 2857A to meet the prerequisites."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8692",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2857A/B (or the former Statistical Sciences 2657A/B) or a minimum mark of 70% in one of Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Biology 2244A/B, Economics 2222A/B, MOS 2242A/B, Psychology 2810; and enrollment in a module offered by the departments of Applied Mathematics; Mathematics; and Statistical and Actuarial Sciences.  ",
+            "Pre-or Corequisite(s): Statistical Sciences 2858A/B for those using Statistical Sciences 2857A to meet the prerequisites."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8693",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HSB-16",
+          "Instructor": "J. Ren",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "8694",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "J. Ren",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 2864B - STATISTICAL PROGRAMMING",
+      "Description": [
+        "An introduction to programming using a high level language (currently R).",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3818",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "B&GS-0165",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS ENROLLED IN A MODULE OFFERED BY THE DEPARTMENTS OF APPLIED MATHEMATICS; MATHEMATICS; AND STATISTICAL AND ACTUARIAL SCIENCES. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2857A/B (or the former Statistical Sciences 2657A/B) or a minimum mark of 70% in one of Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Biology 2244A/B, Economics 2222A/B, MOS 2242A/B, Psychology 2810; and enrollment in a module offered by the departments of Applied Mathematics; Mathematics; and Statistical and Actuarial Sciences.  ",
+            "Pre-or Corequisite(s): Statistical Sciences 2858A/B for those using Statistical Sciences 2857A to meet the prerequisites."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3892",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-16",
+          "Instructor": "H. Yu",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "4383",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-16",
+          "Instructor": "H. Yu",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "5633",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-1032",
+          "Instructor": "H. Yu",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3657A - INTERMEDIATE PROBABILITY",
+      "Description": [
+        "A continuation of the study of multivariate probability and stochastic processes. This course builds on the background developed in the second year courses, and focuses on the more advanced aspects of multivariate probability, namely transformations where the domain of random variables must be carefully considered.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3631",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2858A/B and in Statistical Sciences 2503A/B or Calculus 2503A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4121",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": "K. Sendova",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3843A - INTRO TO STUDY DESGIN",
+      "Description": [
+        "A case study approach to how data are collected in science, social science and medicine, including the methods of designed experiments, sample surveys, observational studies and administrative records. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4857",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-37",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2858A/B or a minimum mark of 70% in one of Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Biology 2244A/B, Economics 2222A/B, MOS 2242A/B, Psychology 2810; and enrollment in a module offered by the departments of Applied Mathematics; Mathematics; and Statistical and Actuarial Sciences."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3858B - MATHEMATICAL STATISTICS",
+      "Description": [
+        "Point estimation: sufficiency, completeness, consistency, unbiasedness, Cramer-Rao inequality, Rao-Blackwell theorem, Hypotheses tests: uniformly most powerful tests, likelihood ratio tests. ",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3632",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "S. Provost",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 3657A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4122",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3859A - REGRESSION",
+      "Description": [
+        "Simple and multiple linear regression models and their use to model data using computing including model specification and assumptions, inference and estimation, use of indicator variables, regression diagnostics, model building and selection. Introduction to forecasting and time series.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3817",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "B&GS-0165",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2858A/B.",
+            "Pre- or Corequisite(s): Statistical Sciences 2864A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3817",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "B&GS-0165",
+          "Instructor": "R. Zitikis",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2858A/B.",
+            "Pre- or Corequisite(s): Statistical Sciences 2864A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4123",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "B&GS-0153",
+          "Instructor": "H. Gweon",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3860B - GENERALIZED LINEAR MODELS",
+      "Description": [
+        "Estimation and tests for generalized linear models, including residual analysis and the use of statistical packages. Logistic regression, log-linear models. Additional topics may include generalized estimating equations, quasi-likelihood and generalized additive models.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8066",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 3859A/B with at least 60%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8066",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 3859A/B with at least 60%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 3869B - APPLIED LINEAR MODELS",
+      "Description": [
+        "Applied linear modelling emphasizing data analysis using software including statistical inference review, visualization, multiple regression, logistic regression, and extensions. Core topics include assumptions, estimation, confidence/prediction intervals, hypothesis testing, diagnostics, indicator variables, cross validation, prediction, model building and model assessment. Other topics may include random effects or smoothing methods.",
+        "Antirequisite(s): Statistical Sciences 3859A/B, Statistical Sciences 3860A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10326",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "PAB-34",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 2858A/B or a minimum mark of 70% in one of Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Biology 2244A/B, Economics 2222A/B, MOS 2242A/B, Psychology 2810. Enrollment in a module offered by either the Department of Statistical and Actuarial Sciences, Mathematics or Applied Mathematics.",
+            "Pre- or Corequisite(s): Statistical Sciences 2864A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4654A - MARKOV CHAINS WITH APPLICATION",
+      "Description": [
+        "Continuous-time Markov chains, applications to phase-type distributions, Markov chain Monte Carlo simulation and queuing theory. ",
+        "Antirequisite(s): The former Statistical Sciences 3652A/B, former Statistical Sciences 4652A/B, former Statistical Sciences 4657A/B and former Statistical Sciences 4737A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8288",
+          "Days": [
+            "M",
+            "Tu",
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-61",
+          "Instructor": "R. Mamon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Statistical Sciences 3657A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4844B - DATA ANALYTICS CONSULTING",
+      "Description": [
+        "An introduction to data analytics consulting in the context of Problem, Plan, Data, Analysis and Conclusion, including interpersonal techniques; communication; teamwork; project management; copyright, intellectual property, compensation and negotiation; robust data analysis; and ethics. A large portion of the course will be conducted in a seminar format with student participation. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8248",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "D. Woolford",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 3859A/B with at least 60%. Registration in fourth year of the Honours Specialization in Data Science or Honours Specialization in Statistics modules."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8248",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "D. Woolford",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 3859A/B with at least 60%. Registration in fourth year of the Honours Specialization in Data Science or Honours Specialization in Statistics modules."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4846A - EXPERIMENTAL DESIGN",
+      "Description": [
+        "Completely randomized designs, randomized complete and incomplete block designs, factorial and fractional factorial designs, latin square designs, hierarchical designs, random and fixed effect models. ",
+        "Antirequisite(s): The former Statistical Sciences 3846A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8245",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "PAB-34",
+          "Instructor": "W. He",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 3843A/B or Statistical Sciences 2858A/B and Statistical Sciences 3859A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4850G - ADV DATA ANALYSIS",
+      "Description": [
+        "Modern methods of data analysis including linear and generalized linear models, modern nonparametric regression, principal component analysis, multilevel modelling and bootstrapping.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5320",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "C. Pedrosa Estevam de Souza",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in both Statistical Sciences 3843A/B and Statistical Sciences 3859A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4861B - TIME SERIES",
+      "Description": [
+        "ARIMA models, seasonality, dynamic regression, model building using an interactive computer package, forecasting, intervention analysis, control, applications in econometrics, business, and other areas. ",
+        "Antirequisite(s): The former Statistical Sciences 3861A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4706",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in both Statistical Sciences 3858A/B and Statistical Sciences 2864A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4706",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in both Statistical Sciences 3858A/B and Statistical Sciences 2864A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4864A - ADVANCED STATISTICAL COMPUTING",
+      "Description": [
+        "Review of fundamental concepts in statistical computing, including programming, optimization methods and Monte Carlo simulations. A selection of advanced topics such as bootstrapping, robust methods, statistical graphics, Markov chain Monte Carlo, nonlinear regression, relational databases, time series analysis, and spatial statistics.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8246",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "B&GS-1056",
+          "Instructor": "H. Yu",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Statistical Sciences 2864A/B and Statistical Sciences 3859A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "STATS 4960F - BUSINESS SKILLS",
+      "Description": [
+        "This course aims to develop important business skills that are often not emphasized in the formal education of quantitative financial professionals. The course focuses on four main topic areas: how businesses work, financial statement analysis, oral and written communications skills, and leadership and people management.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8247",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "K. Leistner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in fourth year of an Actuarial Science, Data Science, Statistics or",
+            "Financial Modeling module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

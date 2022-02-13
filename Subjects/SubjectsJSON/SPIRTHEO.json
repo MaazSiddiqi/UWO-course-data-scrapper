@@ -1,0 +1,46 @@
+{
+  "Name": "Spiritual Theology",
+  "Code": "SPIRTHEO",
+  "Courses": [
+    {
+      "Name": "SPIRTHEO 5269A - SELECTED TOPICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1168",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPIRTHEO 5269B - SELECTED TOPICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1169",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

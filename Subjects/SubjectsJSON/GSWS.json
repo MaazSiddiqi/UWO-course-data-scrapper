@@ -1,0 +1,1855 @@
+{
+  "Name": "Gender, Sexuality, & Womens St",
+  "Code": "GSWS",
+  "Courses": [
+    {
+      "Name": "GSWS 1020E - INTRODUCTION TO WOMEN'S STUDIE",
+      "Description": [
+        "A survey of selected topics in the study of gender structures and the status of women in historical and cross-cultural perspective. These will include consideration of social and psychological processes by which gender identity is established in the individual, its institutional manifestations, and its articulation with class and race structures. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main); 3 hours, limited enrolment (Brescia, King's)"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1163",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105C",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1173",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11437",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-1059",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11439",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "TC-342",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "11440",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "11441",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "11442",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "11443",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "11444",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-34",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "11445",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "11446",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "11438",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "020",
+          "Component": "TUT",
+          "Class Nbr": "11447",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "021",
+          "Component": "TUT",
+          "Class Nbr": "11448",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "022",
+          "Component": "TUT",
+          "Class Nbr": "11449",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "023",
+          "Component": "TUT",
+          "Class Nbr": "11450",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "024",
+          "Component": "TUT",
+          "Class Nbr": "11451",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-34",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "025",
+          "Component": "TUT",
+          "Class Nbr": "11452",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "026",
+          "Component": "TUT",
+          "Class Nbr": "11453",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "027",
+          "Component": "TUT",
+          "Class Nbr": "11454",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 1021F - INTRO TO SEXUALITY STUDIES",
+      "Description": [
+        "We introduce students to current social and political issues in sexuality studies, with a focus on contemporary issues around sexuality, including formation of sexual identities, sexual practices and politics, policing of sexuality, questions of sexual diversity, and the historical and global nature of ideas and controversies around sexuality.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5420",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Roulston",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5600",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-3225",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "5601",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-34",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "5602",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "5603",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "8824",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "8825",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "7348",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-106",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "7349",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 1022G - GENDER, JUSTICE, CHANGE",
+      "Description": [
+        "The 21st century is a period of accelerating change focused around issues of gender, justice and activism. This course will introduce students to the ways in which movements for justice and change are informed by and take up gender issues in matters of education, health, poverty, globalization, the environment, etc.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5421",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "B. Baruah",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5604",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "5605",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-3220",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "5606",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "PAB-148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "5607",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "5608",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "5609",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3307",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "7350",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "7351",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "5877",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1405",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "5876",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "TUT",
+          "Class Nbr": "5990",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "WSC-240",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "5991",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-3220",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "TUT",
+          "Class Nbr": "12547",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "TUT",
+          "Class Nbr": "12548",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "TUT",
+          "Class Nbr": "12549",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "017",
+          "Component": "TUT",
+          "Class Nbr": "12550",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "018",
+          "Component": "TUT",
+          "Class Nbr": "12551",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "019",
+          "Component": "TUT",
+          "Class Nbr": "12552",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UC-2110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 1023G - GAY LIFE & CULTURE IN 21ST C.",
+      "Description": [
+        "Judging by the media, you would think the only issue in gay life today is same-sex marriage. This course will examine many of the other issues affecting gay men, such as sexual politics and practices, body image, health, consumer culture, social media, television and film, and intersections with race and class.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11264",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-67",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 1024F - INTR EQUITY, DIV, & HMN RIGHTS",
+      "Description": [
+        "This course surveys theory and practice in the fields of equity, diversity, and human rights as they are taken up in institutional domains such as social work, education, and law and in schools of thought such as critical race studies, feminism and gender studies, sexuality studies, and disability studies.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11265",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11266",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11267",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-3225",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11268",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "11269",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "11270",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "11271",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2160A - INTIMATE RELATIONS: SEX,GND&LV",
+      "Description": [
+        "Intimate Relations focuses on how expectations of intimacy and relationships rely on particular understandings of love, sex, sexuality and bodies to shape how we experience ourselves as gendered and sexual beings. The course considers how intimacy (sexual, maternal, familial, affectionate) is understood in relation to history, philosophy, health, society and popular culture.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8042",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "SEB-1200",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2161B - WOMEN AND POPULAR CULTURE",
+      "Description": [
+        "How are women represented in popular culture? Women's images in the media, from newspaper and magazines to television, film and music videos produce particular notions of what it means to be a woman, be feminine, etc. We will examine both the historical and contemporary roles of women in popular culture.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8813",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "N. Edwards",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2162B - THE BODY",
+      "Description": [
+        "How we understand the body, whether through scientific investigation or through its representation in media, literature or art, has material effects on how people's lives and experiences are shaped. We will examine social and scientific constructions of the body, including concepts of beauty, health, fitness, sexuality, and questions of representation.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8043",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "SEB-1200",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2163A - SEX, HOW TO: SEX ED",
+      "Description": [
+        "Sex education is a controversial topic; should we even be teaching people how to have sex or how not to have sex? This course traces the history of sex education and its many controversies as well as looking at contemporary sex education practices both locally and in an international context.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8814",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "N. Edwards",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2164A - GENDER & FASHION",
+      "Description": [
+        "This course examines the world of fashion from a critical feminist perspective. Topics covered may include fashion's role in gender and sexuality identity; the relationship between women's fashions and women's liberation; the history, sociology, aesthetics of fashion; the mass production of fashion; and feminist concerns about exploitation and sweatshop labour.",
+        "Extra Information: 2 lecture hours, 1 online hour."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7230",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Evoy",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2167B - QUEER(ING) POPULAR CULTURE",
+      "Description": [
+        "How are Queer individuals represented in popular culture? Images of 2SLGBTQ+ individuals in media, including news, film, and television, produce particular ideas of queer identity. This course examines the historical and contemporary presence of queer individuals within popular culture and popular culture produced for and by 2SLGBTQ+ people. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11283",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2200E - ADV. WOMEN'S ST. SURVEY",
+      "Description": [
+        "The course is divided into sections on the image of women in literature, film and art; psycho- social development; the effects of social structure on women; and differences among women. These topics are addressed from the perspective of literature, psychology, theology, sociology, etc. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3119",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): GSWS 1020E or completion of first year university."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2205G - MAKING MEN:CRITICAL STUDIES",
+      "Description": [
+        "This course examines how historical and contemporary constructions of masculinity have shaped our understanding of what it means to act and be male in our society. It draws on critical gender theory to interrogate how issues associated with maleness and masculinity interact with questions of race, class, gender and sexuality.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8815",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3026",
+          "Instructor": "C. Ylagan",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2220E - FEMINIST THEORY & PRACTICE",
+      "Description": [
+        "An examination of the implications of feminist theories and practices at work in many different disciplines, including arts, media, social sciences, health sciences, science, law. We introduce students to theoretical concepts and ask questions about the ways sex, gender and sexuality are understood and researched from a range of perspectives.",
+        "Antirequisite(s): GSWS 2257E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5422",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-56",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2225F - INTRO TO GIRLHOOD STUDIES",
+      "Description": [
+        "This course examines social and cultural constructions of girlhood. Topics may include the commercialization of girlhood, popular culture and girls, negotiating identities, violence, sexualities, agency and activism in a globalizing world, and categories of difference. We will consider how feminism and Women's and Gender Studies have contributed to Girlhood Studies.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11284",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "M. Green-Barteet",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2240F - FOUNDATION OF FEMINIST THOUGHT",
+      "Description": [
+        "This course takes up foundational readings in the history of feminist thought from early feminists' calls for women's equality and rights to postmodern understandings of gender. The course will consider how feminist thought has emerged, developed and evolved in response to various historical, intellectual, social, political and cultural challenges.",
+        "Antirequisite(s): The former Women's Studies 2250E.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12467",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "TC-342",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2243F - FEMINIST TPCS IN SEXUALITY ST",
+      "Description": [
+        "Sexuality Studies is an interdisciplinary field focusing on the history and construction of human sexualities and gender identities. Areas of investigation may include anthropology, art, health care, law, literature, popular culture, psychology, sociology, and theatre. While specific topics will vary, the course will present various feminist perspectives on human sexualities.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11701",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: TECHNOLOGY AND EMBODIMENT. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2244 - WOMEN AND HEALTH",
+      "Description": [
+        "This course provides an overview of historical, social, economic, political and biological influences on women's health. Using a feminist perspective, both experiential and theoretically based knowledge will be explored through the process of critical reflection.",
+        "Antirequisite(s): The former Women's Studies 2154.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6277",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-1240",
+          "Instructor": "J. Polzer",
+          "Notes": [
+            "CROSS-LISTED WITH HEALTH SCIENCES 2244. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2246B - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11832",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "V. Jara",
+          "Notes": [
+            "SCREENING WILL BE HELD VIRTUALLY, LECTURE WILL BE IN-PERSON CROSS-LISTED WITH FILM 2194B AND CLC 2108B. TOPIC: WORK LITERATURE AND FILM: WOMEN AND THE ENVIRONMENT."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2265G - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Selected topics in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11702",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: YOUTH ACTIVISM. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2273E - SEXUAL SUBJECTS",
+      "Description": [
+        "This interdisciplinary course focuses on sexuality as a subject of study and considers how sexuality defines individual and social subjectivity. The course will explore sexual subjects within a theoretical context and might include sexology, psychoanalysis, queer theory, feminism, the history of sexual identity, and its representation in cultural production.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11276",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2274G - INTRO TO TRANSGENDER STUDIES",
+      "Description": [
+        "This course will focus on trans identities, history, theory and politics from the perspectives of feminist, queer, and emerging trans theory. Topics may include transphobia and oppression of trans people, sex and gender change, transvestism, gender passing, transgender children and their families, and intersectionalities with sexuality, race, class, ability, etc.",
+        "Antirequisite(s): the former Women's Studies 4460F/G if taught in Winter 2013; the former Women's Studies 3343F/G if taught in Fall 2015.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11277",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "TC-341",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 2283G - DESIRING WOMEN",
+      "Description": [
+        "This course uses feminist, queer and trans theory to interrogate how female sexuality and desire can be understood, both historically and within a variety of contemporary cultures. It will consider the impact that representation, socialization and medicalization have had on the way female sexual subjectivity is experienced and expressed.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11278",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "PAB-117",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3133G - LESBIAN LIVES & CULTURES",
+      "Description": [
+        "What does it mean to be a lesbian today? This course will relate contemporary forms of lesbianism to their historical antecedents and examine lesbian culture since the early 20th century. Attention will be paid to a variety of aspects of lesbian life, including intersectionality, activism, community-building, sex, art and politics.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8827",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "C. Roulston",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3173G - INTRODUCTION TO QUEER THEORY",
+      "Description": [
+        "What is queer theory, where did it come from, how is it changing? Examining key foundational texts in queer theory, the contexts for its emergence, and debates over its contemporary usefulness and direction, students in this course will trace the development of queer theory and investigate its current applications.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11279",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "W. Pearson",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2273E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3305F - GENDER, SEX & CULTURE RESIST",
+      "Description": [
+        "While popular culture operates to naturalize and distribute dominant discourses about gender and sexuality, it is also a fertile space through which resistance can be enacted. This course examines 'common sense' representations of gender and sexuality within Western popular culture and the ways these representations have been confronted and contested.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11280",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-2105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2253E or GSWS 2273E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3321G - ADV TOPICS IN FEMINIST THEORY",
+      "Description": [
+        "This course applies a wide range of feminist theories and critical practices, including queer theories, literary criticism, psychoanalysis, and postcolonial studies, to a diverse array of artistic practices, including literature, film, and the performing and visual arts."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12506",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or the former Women's Studies 2256E or GSWS 2257E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3322F - ADV TOPICS IN FEMINIST THEORY",
+      "Description": [
+        "An advanced examination of the application of feminist theories and practices to topics in the social sciences. Focus will include epistemological and methodological questions raised in feminist engagement across the various social science disciplines. Topics addressed may include a range of social-economic, cultural, political, and policy issues.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12507",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or the former Women's Studies 2256E or GSWS 2257E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3324G - CONTEMP TPCS CRITICAL RACE ST",
+      "Description": [
+        "Focusing on the changing meanings of race and racism in the twenty-first century, this course discusses and analyzes conceptual frameworks for understanding the multi-faceted and intersectional dimensions of race and racism, and examines how these inform social justice movements and other initiatives that seek to challenge institutional racism and racial violence.",
+        "Antirequisite(s): the former Women's Studies 3331F/G if taught in Fall 2015.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8819",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH ENGLISH 3204G AND ARTHUM 3390G. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3330F - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11704",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: GENDER, RACE AND REBELLION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3333F - FEM TPCS IN SEXUALITY STUDIES",
+      "Description": [
+        "Sexuality Studies is an interdisciplinary field focusing on the history and construction of human sexualities and gender identities. Areas of investigation may include anthropology, art, health care, law, literature, popular culture, psychology, sociology, and theatre. While specific topics will vary, the course will present various feminist perspectives on human sexualities.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11703",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "K. Korycki",
+          "Notes": [
+            "TOPIC:RESISTING HOMOPHOBIA ACROSS THE GLOBE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 3362G - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11705",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "TC-342",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: TOXIC MASCULINITY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4455E - HON THESIS",
+      "Description": [
+        "Individual instruction in the selection of a topic, the preparation of materials, and the writing of a thesis in Women's Studies. ",
+        "Extra Information: 3 hours. Limited enrolment."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11281",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): GSWS 2220E or permission of the Department. Restricted to fourth-year Honours Gender, Sexuality, and Women's Studies students."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4458F - ADV SEM IN FEMINIST THRY & PRC",
+      "Description": [
+        "Selected topics on issues connected to feminist theory and practice. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current seminar topics. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12168",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "S. Brocklehurst",
+          "Notes": [
+            "TOPIC: STIGMA: PEOPLE, PLACES AND POPULATIONS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4459G - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9398",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": "G. Gifford",
+          "Notes": [
+            "TOPIC: A BUSINESS OF PLEASURE AND PAIN: AN EXPLORATION OF SEX WORK IN CANADA . WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4461F - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8826",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3355",
+          "Instructor": "L. Cayen",
+          "Notes": [
+            "TOPIC: POST-FEMINISM, ADVERTISING AND INFLUENCERS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4463F - ADV SEMINAR IN SEXUALITY ST",
+      "Description": [
+        "Selected topics on issues connected to Sexuality Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current seminar topics.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11287",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "TC-343",
+          "Instructor": "W. Pearson",
+          "Notes": [
+            "TOPIC: QUEER SCIENCE FICTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E or GSWS 2253E or GSWS 2273E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GSWS 4464G - SPEC TOPICS IN WOMEN'S STUDIES",
+      "Description": [
+        "Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11282",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "FNB-1220",
+          "Instructor": "B. Baruah",
+          "Notes": [
+            "TOPIC: GENDER AND THE ENVIRONMENT. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): GSWS 2220E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

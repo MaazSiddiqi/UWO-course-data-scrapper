@@ -1,0 +1,417 @@
+{
+  "Name": "Dance",
+  "Code": "DANCE",
+  "Courses": [
+    {
+      "Name": "DANCE 2174A - DANCE BASICS",
+      "Description": [
+        "Students with no previous dance training develop movement awareness, coordination and skill through practice and analysis of basic movements and combinations from dance types such as modern, ballet, theatre, character and ballroom. Learning will include rhythm components associated with step and movement patterns.",
+        "Extra Information: 6 lecture/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9627",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN YRS 2 & 3."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2270A - DANCE IMPROVISATION",
+      "Description": [
+        "Students will explore improvisation as a process that facilitates the spontaneous response to cues and stimuli for the purpose of opening doorways to their own movement creativity. Topics will consider relaxation, improvisational states, structures for improvisations, participant and leader roles, building group trust, and the progression from spontaneity to form. ",
+        "Extra Information: 1 lecture hour, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4100",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2274B - MOVEMENT MAKING",
+      "Description": [
+        "The ability to create movement combinations, patterns, and sequences based on specific guidelines or components is essential for those who work in applied movement fields such as fitness, recreation, and teaching. The building process, understanding and use of essential and accessory ingredients, and development of instructor skills will be considered. ",
+        "Extra Information: 4 lecture/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5476",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Previous movement training or experience is recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2275A - INTRO MODERN DANCE TECH",
+      "Description": [
+        "Development of movement skills and application of theoretical knowledge that will assist the student in understanding and appreciating Modern Dance as a physical activity and an art form. ",
+        "Extra Information: 6 lecture/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4099",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Previous dance training or experience required."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2275B - INTRO MODERN DANCE TECH",
+      "Description": [
+        "Development of movement skills and application of theoretical knowledge that will assist the student in understanding and appreciating Modern Dance as a physical activity and an art form. ",
+        "Extra Information: 6 lecture/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5666",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Previous dance training or experience required."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2276B - ELEM MODERN DANCE TECH",
+      "Description": [
+        "Studies begun in Dance 2275A/B are continued and developed to give a deeper understanding of the movement skills and theoretical materials that apply to the technical study of Modern Dance. ",
+        "Extra Information: 6 lecture/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6503",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Dance 2275A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2375B - BALLET FUNDAMENTALS",
+      "Description": [
+        "Development of classical ballet techniques through in-depth study of body line, posture and weight placement, coordinated use of arms and eyeline, and the relationship between musicality and dynamics. Sessions will be comprised of rigorous ballet classes where the foundations of techniques and movement combinations are discussed as part of the class.",
+        "Extra Information: 6 hours lecture/laboratory."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5149",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Dance 2275A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 2476B - INTRO TO THEATRE DANCE",
+      "Description": [
+        "Development of movement skills and application of theoretical knowledge that will assist the student in understanding and appreciating various dance types and styles that are used in musical and theatre productions including modern, tap, jazz, ballroom and Latin American dance.",
+        "Extra Information: 6 hours lecture/laboratory."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6504",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 1.0 credit from Dance 2275A/B, Dance 2276A/B, Dance 2375A/B, or permission of Music."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6504",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 1.0 credit from Dance 2275A/B, Dance 2276A/B, Dance 2375A/B, or permission of Music."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 3371A - BEGINNING DANCE COMP & PROD",
+      "Description": [
+        "Individual creative movement exploration and problem solving, using the elements of dance to express ideas, feelings and/or images in the finished product of a dance composition. ",
+        "Extra Information: 2 lecture hours, 2 laboratory hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6502",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Dance 2270A/B, Dance 2274A/B or permission of Music."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 3372B - INTERMED DANCE COMP",
+      "Description": [
+        "Group creative movement exploration and problem solving using form and structure of movement to express ideas, feelings and/or images in the finished product of a dance composition. ",
+        "Extra Information: 2 lecture hours, 2 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6501",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO ALL YRS 2, 3 & 4 DANCE MINOR, KINESIOLOGY AND MUSIC STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Dance 3371A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 4491A - INDEPENDENT STUDY IN DANCE",
+      "Description": [
+        "Reading and discussion on, or field experience in, selected topics in Dance agreed upon through consultation between the student and the supervising professor."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5860",
+          "Days": [
+            "M",
+            "F"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "12:30 PM",
+          "Location": "AH-17",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN THE DANCE MINOR."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 4491B - INDEPENDENT STUDY IN DANCE",
+      "Description": [
+        "Reading and discussion on, or field experience in, selected topics in Dance agreed upon through consultation between the student and the supervising professor."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10048",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: COMPOSITION AND PERFORMANCE."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 4492A - INDEPENDENT STUDY IN DANCE",
+      "Description": [
+        "Reading and discussion on, or field experience in, selected topics in Dance agreed upon through consultation between the student and the supervising professor."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7946",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: DANCE CHOREOGRAPHY."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DANCE 4492B - INDEPENDENT STUDY IN DANCE",
+      "Description": [
+        "Reading and discussion on, or field experience in, selected topics in Dance agreed upon through consultation between the student and the supervising professor."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4162",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "INDEPENDENT STUDY."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    }
+  ]
+}

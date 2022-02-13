@@ -1,0 +1,236 @@
+{
+  "Name": "Intercultural Communications",
+  "Code": "ICC",
+  "Courses": [
+    {
+      "Name": "ICC 2200G - NOT \"LOST IN TRANSLATION\"",
+      "Description": [
+        "How does culture mold habits of thought? What is \"lost in translation\" between one culture and another? Explore cultural values, practices, symbols, rituals, heroes, and non-verbal and verbal communication. Examples and projects will be based on language and storytelling in literature, film, music, popular culture, food, fashion, and more.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11290",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 2291G AND GERMAN 2260G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 2500G - BRIDGING CLASSROOM & COMMUNITY",
+      "Description": [
+        "Develop intercultural competence by examining individual experiences of learning and maintaining language and of integrating cultural heritage. Connect in-class learning about language, identity, memory, storytelling, and related issues with service-learning projects in London or the surrounding region.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11312",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH COMPLIT 2500G/GERMAN 2500G/ITALIAN 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department.",
+            "Pre-or Corequisite(s): Arabic 2250 or German 2200 or Italian 2200 or Japanese 2260 or Spanish 2200."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11312",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH COMPLIT 2500G/GERMAN 2500G/ITALIAN 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department.",
+            "Pre-or Corequisite(s): Arabic 2250 or German 2200 or Italian 2200 or Japanese 2260 or Spanish 2200."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3300G - MAKING A DIFFERENCE",
+      "Description": [
+        "What do you need to be interculturally effective? Using local experiences, gain global competencies by developing a comparative perspective on expectations, myths, roles, norms, rituals, and language. Figure out how to make a difference by applying your skills."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "9758",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "ONLINE COURSE. MUST EMAIL BOTH Borchert@uwo.ca AND umll@uwo.ca FOR ENROLMENT REQUEST. ",
+            "REQUISITES: Prerequisite(s): ICC 2200F/G.",
+            "Pre-or Corequisite(s): ICC 2500F/G."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3300Z - MAKING A DIFFERENCE",
+      "Description": [
+        "What do you need to be interculturally effective? Using local experiences, gain global competencies by developing a comparative perspective on expectations, myths, roles, norms, rituals, and language. Figure out how to make a difference by applying your skills."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9759",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): ICC 2200F/G.",
+            "Pre-or Corequisite(s): ICC 2500F/G."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3600G - IMMERSED IN THE EXPERIENCE",
+      "Description": [
+        "Practice Intercultural Communication through study abroad in a non-English speaking environment of your choice. Use your own experiences of culture and community such as good, media, family, and student life to reflect on how you transform as you adapt. Develop an awareness of how communication, verbal and non-verbal, impacts intercultural understandings."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "9755",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): ICC 2200F/G."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3600Z - IMMERSED IN THE EXPERIENCE",
+      "Description": [
+        "Practice Intercultural Communication through study abroad in a non-English speaking environment of your choice. Use your own experiences of culture and community such as good, media, family, and student life to reflect on how you transform as you adapt. Develop an awareness of how communication, verbal and non-verbal, impacts intercultural understandings."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "9756",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): ICC 2200F/G."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3800G - WORKING WITH A MENTOR",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with a minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses, or community groups with interests related to Intercultural Communication.",
+        "Extra Information: Pass or Fail.",
+        "Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "9752",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. MUST EMAIL BOTH Borchert@uwo.ca AND umll@uwo.ca FOR ENROLMENT REQUEST. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department. Registration in the third or fourth year of a module in Intercultural Communication, with a minimum modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "ICC 3800Z - WORKING WITH A MENTOR",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with a minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses, or community groups with interests related to Intercultural Communication.",
+        "Extra Information: Pass or Fail.",
+        "Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9753",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department. Registration in the third or fourth year of a module in Intercultural Communication, with a minimum modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

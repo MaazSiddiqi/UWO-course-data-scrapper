@@ -1,0 +1,97 @@
+{
+  "Name": "Integrated Engineering",
+  "Code": "IE",
+  "Courses": [
+    {
+      "Name": "IE 2297A - INTEGRATED SYSTEM ENG & DESIGN",
+      "Description": [
+        "Introduction to classical system engineering and associated methods, tools and practices, with application experienced through team-based, interdisciplinary design projects. Students build life-long learning skills while working in self-directed teams to gain knowledge across topics that include the System Engineering V-model, human-centered design, modeling and optimization, Design for X, sustainability, risk management and human decision making. ",
+        "Antirequisite(s): MME 2259A/B or the former Engineering Science 2297A/B.",
+        "Extra Information: 4 lecture hours per week. Accreditation units Engineering Science = 25%, Engineering Design = 75%."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12402",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-2094",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in Integrated Engineering."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12402",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-2094",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in Integrated Engineering."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "IE 4499 - INTERDISC ENG DESIGN PROJECT",
+      "Description": [
+        "Students develop and practice engineering design skills by working on an interdisciplinary team-based project. The students will experience all phases of the design process, including: problem definition, generation and evaluation of concepts, engineering analysis and testing, and preparation of design documentation. Project management and communications skills will also be emphasized. ",
+        "Antirequisite(s): CBE 4497, CEE 4441, ECE 4416, MME 4499, SE 4450 or the former ES 4499.",
+        "Extra Information: 4 tutorial hours/week; meetings with advisors."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12403",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "ACEB-1450",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Completion of Year III of the Integrated Engineering Program. Students who have completed Year III of another Western Engineering Program may be eligible with the permission of the Director of Integrated Engineering and the Undergraduate Chair for their program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "12404",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

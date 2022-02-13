@@ -1,0 +1,325 @@
+{
+  "Name": "Rehabilitation Sciences",
+  "Code": "REHABSCI",
+  "Courses": [
+    {
+      "Name": "REHABSCI 3060A - HEALTH CONDITIONS & DISEASE",
+      "Description": [
+        "Diseases frequently encountered in rehabilitation practices will be presented in this introductory course. Definitions and concepts regarding people with disabilities will be applied within this course.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4324",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": "T. Seely",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Health Sciences 2300A/B or Kinesiology 2222A/B or Anatomy and Cell Biology 2221.",
+            "Pre-or Corequisite(s): Registration in a Rehab Sci module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 3061B - FOUNDATIONS IN REHAB SCIENCE",
+      "Description": [
+        "The primary definitions and principles of rehabilitation sciences will be covered. Practices of rehabilitation professionals will be investigated within an evidence-based context.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4325",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": "J. Raman",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 3062B - FUNCTNL NEUROSCI SP POPULTNS",
+      "Description": [
+        "Basic neuroanatomy and neurophysiology will be presented in this introductory course. Students will learn primary structural and functional elements of neurology that are most often encountered in rehabilitation.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10420",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": "S. Hunter",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Health Sciences 2300A/B or Kinesiology 2222A/B or Anatomy and Cell Biology 2221. Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 3125A - ENABLING HEALTH & WELL-BEING",
+      "Description": [
+        "This course addresses the construct of 'occupation' as explored and understood within the field of occupational science and practice of occupational therapy. Students will develop and apply an occupational perspective to address contemporary issues and to consider the relationship between occupation and health and well-being.",
+        "Antirequisite(s): Health Sciences 3091A section 001 if taken in 2011-12 or 2012-13. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8520",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-3028",
+          "Instructor": "S. Steinwender",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8520",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3028",
+          "Instructor": "S. Steinwender",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 3360B - MUSCULOSKELETAL DSRDS IN REHAB",
+      "Description": [
+        "An introductory course in the area of musculoskeletal disorders as encountered in sport and in the workplace. Materials covered include the mechanisms of injury, tissue biomechanics, pathology, assessment, treatment and prevention of acute and chronic trauma. Current evidence-based practices in diagnostic testing and treatment options will be addressed.",
+        "Antirequisite(s): Health Sciences 3091B section 001 if taken in 2011. ",
+        "Extra Information: 3 lecture/seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5560",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": "M. Robinson",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Health Sciences 2300A/B or Health Sciences 2330A/B or Kinesiology 2222A/B or Anatomy and Cell Biology 2221.",
+            "Pre-orCorequisite(s): Registration in a Rehabilitation Sciences mod or enrl in third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5560",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": "M. Robinson",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Health Sciences 2300A/B or Health Sciences 2330A/B or Kinesiology 2222A/B or Anatomy and Cell Biology 2221.",
+            "Pre-orCorequisite(s): Registration in a Rehabilitation Sciences mod or enrl in third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 3760B - REHAB FOR CHILDHOOD DISORDERS",
+      "Description": [
+        "his course provides students with a foundational background in both common and unique clinical disorders in childhood, including principles regarding assessment, evaluation, and treatment. Emphasis is placed on recent research and evidence-based practice. Topics include neurological, intellectual, and motor disorders, as well as coverage of the areas of vision, hearing and speech/language development.",
+        "Antirequisite(s): Health Sciences 3090B section 002 if taken in 2011. ",
+        "Extra Information: 3 lecture/seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10419",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-35",
+          "Instructor": "I. Ibrahim",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Health Sciences 2700A/B or Kinesiology 3347A/B.",
+            "Pre-or Corequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 4212A - INNOVATIONS IN REHABILITATION",
+      "Description": [
+        "This course examines both conceptual and practical approaches to innovations in rehabilitation practice including those that incorporate: 1) health promotion /self-management perspectives, 2) high-intensity activity-based approaches, and 3) evidence-informed ways to implement practice change. Examples will focus on neuro-rehabilitation practice associated with persons with spinal cord and acquired brain injury.",
+        "Antirequisite(s): The former Rehabilitation Sciences 4210A/B or Health Sciences 4090A section 002 if taken in 2012",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7637",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": "D. Wolfe",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7637",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": "D. Wolfe",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 4605A - REHABILITATION PSYCHOLOGY",
+      "Description": [
+        "This course will cover a range of applications of psychology in rehabilitation. Topics such as pain management, cognitive retraining and psychological adjustment to disability will be explored using examples of rehabilitation of traumatic brain injury, spinal cord injury and sport injury.",
+        "Antirequisite(s): Health Sciences 4091A section 001 if taken in 2011-12 or 2012-13. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7871",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3014",
+          "Instructor": "N. Wesch",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN REHABILITATION SCIENCE MODULES.\u00a0 JULY 28 PRIORITY CHANGE: ACCESS TO YRS 3 & 4 BHSC, YRS 3 & 4 KINESIOLOGY STUDENTS AND BHSC & KINESIOLOGY SPECIAL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Rehabilitation Sciences module or enrolment in the third or fourth year of the School of Health Studies or School of Kinesiology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "REHABSCI 4970E - REHAB SCI PRACTICUM",
+      "Description": [
+        "This experiential learning course offers an in-depth examination of the required background, concepts and practical considerations related to a series of rehabilitation practices selected to expose the student to a broad range of activities over several patient populations and associated with a variety of health care disciplines.",
+        "Antirequisite(s): The former Health Sciences 4900E, the former Health Sciences 4910F/G.",
+        "Extra Information: 2 seminar hours; Priority will be given to students enrolled in the Honours Specialization in Rehabilitation Sciences."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7873",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": "D. Wolfe",
+          "Notes": [
+            "APPLICATION REQUIRED. 1 SEMINAR HOUR, 6 PRACTICUM HOURS. ",
+            "REQUISITES: Prerequisite(s): Permission of the School of Health Studies; Enrolment in the fourth year of an Honours Specialization module in the School of Health Studies. Application Required."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

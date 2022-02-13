@@ -1,0 +1,225 @@
+{
+  "Name": "Analytics and Decision Science",
+  "Code": "ADS",
+  "Courses": [
+    {
+      "Name": "ADS 2298B - INTRO TO OPERATIONS RESEARCH",
+      "Description": [
+        "Decision analysis, linear programming, integer programming, dynamic programming, introduction to computer programming, statistical distributions, Markov chains, Monte Carlo simulation, queuing, discrete event simulation. Students will use a variety of tools to investigate applications including transportation networks, revenue management, and sports analytics.",
+        "Antirequisite(s): Financial Modelling 3817A/B, Statistical Sciences 4654A/B.",
+        "Extra Information: 3 lecture hours, 2 lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3121",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W170",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN ADS MINOR AT KING'S. JULY 28 PRIORITY CHANGE: ACCESS TO TO KING'S STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from: Applied Mathematics 1412A/B, the former Applied Mathematics 1413, Applied Mathematics 1414A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1120A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1230A/B, Mathematics 1600A/B, and Statistical Sciences 1024A/B, and 0.5 from: Economics 2122A/B, Economics 2222A/B, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2857A/B, or by permission of the School 1.0 credits in statistics or a quantitative research methods (e.g., Psychology 2840F/G, Psychology 3891F/G, Psychology 3892F/G, Sociology 2205A/B, Sociology 2206A/B) at the 2000 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "3122",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ADS 3293A - MODELING, RISK AND SIMULATION",
+      "Description": [
+        "Stochastic optimization modelling, decision making under uncertainty, simulation modelling, regression and forecasting models and data mining.",
+        "Extra Information: 3 lecture hours, 1 lab hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3125",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": "X. Jiang",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN ADS MINOR AT KING'S. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Analytics and Decision Sciences 2298A/B, 0.5 from Mathematics 1229A/B or Mathematics 1600A/B; 1.0 from Economics 2122A/B, Economics 2123A/B, Economics 2222A/B, Economics 2223A/B or Statistical Sciences 2035, Statistical Sciences 2857A/B, Statistical Sciences 2858A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "3126",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ADS 3864B - DATA VIZ FOR SOCIAL SCIENCES",
+      "Description": [
+        "Statistical programming in a high-level language, data visualization design principles, extracting insights from data visualization, data mining and machine learning, data classification; visualization of multivariate, time-series, and hierarchical data. Currently using R including ggplot2 and other relevant packages.",
+        "Antirequisite(s): Statistical Sciences 2864A/B.",
+        "Extra Information: 3 lecture hours, 2 lab hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3128",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-W148",
+          "Instructor": "L. Murray",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN ADS MINOR AT KING'S. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Economics 2222A/B, Economics 2223A/B, Statistical Sciences 2035, Statistical Sciences 2857A/B, Statistical Sciences 2858A/B; or 1.0 credits from Psychology 2840F/G, Psychology 3891F/G, Psychology 3892F/G, Sociology 2205A/B, Sociology 2206A/B; or by permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "3129",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-KC004",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ADS 4293A - PROFESSIONAL ANALYTICS",
+      "Description": [
+        "Practical analytics and software tools explored through case analyses. Linear programming, statistical analysis, decision analysis, game theory, inventory analysis, queuing theory, simulation, Markovian decision model, and forecasting will be applied in a variety of scenarios.",
+        "Extra Information: 3 hours, 1 lab hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3131",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC006",
+          "Instructor": "F. Rodrigues",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN ADS MINOR AT KING'S. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Analytics and Decision Sciences 2298A/B, 0.5 from Mathematics 1229A/B or Mathematics 1600A/B; 1.0 from Economics 2122A/B, Economics 2123A/B, Economics 2222A/B, Economics 2223A/B or Statistical Sciences 2035, Statistical Sciences 2857A/B, Statistical Sciences 2858A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "3132",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ADS 4294B - COMPLEX PROBLEMS",
+      "Description": [
+        "Heuristics, satisficing, disruptive logic, and entrepreneurial thinking are explored and applied to concrete problems that do not fit into well-established frameworks. An intensive experiential learning component involves a 10-day group problem-solving project done in consultation with a not-for-profit, educational, private, or government partner.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3134",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-KC006",
+          "Instructor": "J. Turnbull",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN ADS MINOR AT KING'S. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in any Honours Specialization or Honours Double-Major at King\u2019s University College, and completion of Philosophy 2293A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

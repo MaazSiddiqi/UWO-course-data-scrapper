@@ -1,0 +1,1850 @@
+{
+  "Name": "Mechatronic Systems Engineerin",
+  "Code": "MSE",
+  "Courses": [
+    {
+      "Name": "MSE 2200Q - ENGINEERING SHOP SAFETY TR",
+      "Description": [
+        "This course will provide mechatronic system engineering undergraduate students with uniform training in the safe use of Engineering student shops.",
+        "Antirequisite(s): MME 2200Q/R/S/T.",
+        "Extra Information: Non-credit course."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6921",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "ACEB-1450",
+          "Instructor": "L. Brown",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ALSO HELD IN ACEB 2415 AND 1410.. ",
+            "REQUISITES: Pre-or Corequisite(s): MSE 2201A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "6922",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "TEB-50",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN CMLP 63/CMLP 54/TEB 50."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6923",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "TEB-50",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN CMLP 63/CMLP 54/TEB 50."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6924",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "TEB-50",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN CMLP 63/CMLP 54/TEB 50."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "6925",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "TEB-50",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN CMLP 63/CMLP 54/TEB 50."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2201A - INTRO TO ELECTRICAL INSTRUMENT",
+      "Description": [
+        "Introduction to instrumentation and basic electronics; Laboratory experiments associated with ECE 2205A/B, as well as laboratory experiments in instrumentation and measurement; review of laboratory practice, health and safety issues, simulation software, data collecting methods; errors and their calculus; accuracy; averaging, signal conditioning, and data interpolation.",
+        "Antirequisite(s): ECE 2240A/B.",
+        "Extra Information: 2 lecture hours, 2 laboratory hours. ",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5252",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1415",
+          "Instructor": "J. McLeod",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Corequisite(s): ECE 2205A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5252",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "ACEB-1420",
+          "Instructor": "J. McLeod",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Corequisite(s): ECE 2205A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5253",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SEB-3107",
+          "Instructor": "J. McLeod",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6177",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-3107",
+          "Instructor": "J. McLeod",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6896",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SEB-3107",
+          "Instructor": "J. McLeod",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2202B - INTRO TO MECHATRONIC DESIGN",
+      "Description": [
+        "Introduces engineering design and structured design methods from the perspective of mechatronic systems that integrate mechanical, electrical and control technologies. Topics include the mechatronic design process, simple sensors and actuators, heat management, electronic communications and microcontroller-based software design.",
+        "Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5257",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": "K. McIsaac",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1021A/B, Engineering Science 1022A/B/Y, Engineering Science 1050"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5257",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-3109",
+          "Instructor": "K. McIsaac",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1021A/B, Engineering Science 1022A/B/Y, Engineering Science 1050"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5258",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "K. McIsaac",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5259",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "K. McIsaac",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6187",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "K. McIsaac",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "12015",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "K. McIsaac",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2212A - MECHANICS OF MATERIALS",
+      "Description": [
+        "Stress and strain, Mohr's stress circle, behaviour of structures, axial loading of columns and struts, torsion of shafts, bending of beams, buckling of columns and combined loading of components.",
+        "Antirequisite(s): CEE 2202A/B, MME 2202A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 0.5 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6932",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": "L. Jiang",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y, Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6932",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": "L. Jiang",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y, Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6932",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1415",
+          "Instructor": "L. Jiang",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y, Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6933",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6934",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-3101",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6935",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-1074",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "6936",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 3101."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "6937",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-1074",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2213B - ENGINEERING DYNAMICS",
+      "Description": [
+        "Topics include: rectilinear, angular and curvilinear motion; kinetics of a particle, a translating rigid body and a rigid body in pure rotation; definitions of different energies and energy balance: power and efficiency; and linear impulse and momentum.",
+        "Antirequisite(s): MME 2213A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6941",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-3109",
+          "Instructor": "R. Khayat",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y.",
+            "Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6941",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": "R. Khayat",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y.",
+            "Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6941",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": "R. Khayat",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1022A/B/Y.",
+            "Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6942",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2214A - THERMODYNAMICS",
+      "Description": [
+        "Properties of a pure substance, first law of thermodynamics, processes in open and closed systems, second law of thermodynamics; ideal gases, compressors and energy conversion systems.",
+        "Antirequisite(s): CBE 2214A/B, MME 2204A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 0.5 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6943",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "C. DeGroot",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6943",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "ACEB-1410",
+          "Instructor": "C. DeGroot",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6943",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1450",
+          "Instructor": "C. DeGroot",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6944",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6945",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-1076",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1076."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6946",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1076."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "6947",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1076."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "6948",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-1076",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1076."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2233B - CIRCUITS AND SYSTEMS",
+      "Description": [
+        "Introduction to a system level analysis of electrical circuits. The S-Plane and frequency response of circuits, frequency selective circuits, state variables, introduction to Fourier analysis, Fourier transform and Laplace transform techniques. Transfer functions and system functions.",
+        "Antirequisite(s): ECE 2233A/B. ",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 1 laboratory hour.",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program or in Computer Engineering Option B."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5254",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SEB-1059",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND COMPUTER OPTION B ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2270A/B, ECE 2205A/B.",
+            "Pre-or Corequisite(s): Applied Mathematics 2276A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5254",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND COMPUTER OPTION B ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2270A/B, ECE 2205A/B.",
+            "Pre-or Corequisite(s): Applied Mathematics 2276A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5254",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND COMPUTER OPTION B ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2270A/B, ECE 2205A/B.",
+            "Pre-or Corequisite(s): Applied Mathematics 2276A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5255",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "HELD IN SEB 3107."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5256",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "HELD IN SEB 3107."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5927",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "",
+          "Instructor": "Q. Rahman",
+          "Notes": [
+            "HELD IN SEB 3107."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 2273B - FLUID MECHANICS & HEAT TRANSFR",
+      "Description": [
+        "An introduction to fluid mechanics and heat transfer. The fluid mechanics covers fluid properties, fluid statics including buoyancy and stability, one-dimensional fluid dynamics including conservation of mass and energy and losses in pipe networks. Heat transfer covers development of the general energy equation for three dimensions and steady-state conduction in one and two dimensions.",
+        "Antirequisite(s): MME 2273A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 0.5 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8279",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": "E. Savory",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8279",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-3109",
+          "Instructor": "E. Savory",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8279",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "ACEB-1415",
+          "Instructor": "E. Savory",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Applied Mathematics 2270A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8280",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "8281",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-1077",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "8282",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-1077",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "8283",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-1077",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3301A - MATERIALS SELECTION & MNFT",
+      "Description": [
+        "Fundamentals of shaping and strengthening materials used in mechatronics components. Material selection based on the composite properties of an application. Smart material fabrication and application to modern mechatronic devices.",
+        "Antirequisite(s): MME 3379A/B. ",
+        "Extra Information: 3 lecture hours, 2 laboratory hours.",
+        "Restricted to students enrolled in the Integrated or Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5462",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-3109",
+          "Instructor": "E. Johlin",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 2202A/B or ES 2297A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5462",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SEB-2202",
+          "Instructor": "E. Johlin",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 2202A/B or ES 2297A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5463",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-1004",
+          "Instructor": ".",
+          "Notes": [
+            "ALSO HELD IN ACEB 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3302B - SENSORS & ACTUATORS",
+      "Description": [
+        "In this course, students are introduced to advanced concepts in sensing and actuation for mechatronic systems, including both traditional sensors and actuators an introduction to advanced topics in micro electromechanical system (MEMS) sensing, and smart materials.",
+        "Extra Information: 3 lecture hours, 3 laboratory/project hours.",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5464",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "D. Jacques",
+          "Notes": [
+            "RESTRICTED TO YR 3 MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 2202A/B, MSE 3310A/B, ECE 3330A/B.",
+            "Corequisite(s): ECE 3375A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5464",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "D. Jacques",
+          "Notes": [
+            "RESTRICTED TO YR 3 MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 2202A/B, MSE 3310A/B, ECE 3330A/B.",
+            "Corequisite(s): ECE 3375A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5465",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "D. Jacques",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5491",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "D. Jacques",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6527",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "D. Jacques",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "12016",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": "D. Jacques",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3310A - ELECTRIC MOTORS AND DRIVES",
+      "Description": [
+        "Overview of the fundamental principles related to the operation of DC and AC motors, the associated power electronic converters and drives. Emphasis will be placed on the design and integration of these devices into mechatronic systems.",
+        "Antirequisite(s): ECE 3332A/B, ECE 4457A/B.",
+        "Extra Information: 3 lecture hours, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8284",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "ACEB-1420",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): MSE 2201A/B, MSE 2233A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8284",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1410",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): MSE 2201A/B, MSE 2233A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "12018",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "8285",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-2093",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 2093."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "8286",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 2093."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "8287",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 2093."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "12017",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 2093."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3360B - FINITE ELEMENT METHODS FOR MSE",
+      "Description": [
+        "Overview of the finite element method (FEM) and its use to solve general problems in 2-D and 3-D. Applications include structural mechanics, heat transfer, thermal stress, electromagnetism and radiation. Methods and applications of optimization in support of engineering design are also introduced.",
+        "Antirequisite(s): MME 3360A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 2 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6953",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "P. Kurowski",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1036A/B or Computer Science 1026A/B, Applied Mathematics 2270A/B, or the former Applied Mathematics 2415, MME 2202A/B or MSE 2212A/B or CEE 2202A/B, MME 2204A/B or MSE 2214A/B, MSE 2202A/B or MME 2259A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6953",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "FNB-1270",
+          "Instructor": "P. Kurowski",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1036A/B or Computer Science 1026A/B, Applied Mathematics 2270A/B, or the former Applied Mathematics 2415, MME 2202A/B or MSE 2212A/B or CEE 2202A/B, MME 2204A/B or MSE 2214A/B, MSE 2202A/B or MME 2259A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6953",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "P. Kurowski",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS AND INTEGRATED ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Engineering Science 1036A/B or Computer Science 1026A/B, Applied Mathematics 2270A/B, or the former Applied Mathematics 2415, MME 2202A/B or MSE 2212A/B or CEE 2202A/B, MME 2204A/B or MSE 2214A/B, MSE 2202A/B or MME 2259A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6954",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6955",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "ACEB-2415",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "8459",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "ACEB-2415",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3380B - MECH COMP DSGN MECHATRONIC SYS",
+      "Description": [
+        "This course investigates the stress analysis, design, and selection of various mechanical components typically employed in mechatronic systems. Topics include advanced solid modeling, failure theory, and the analysis and design of gearing, shafts, bearings and fasteners.",
+        "Antirequisite(s): MME 3380A/B.",
+        "Extra Information: 3 lecture hours, 3 laboratory/tutorial hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6543",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1420",
+          "Instructor": "A. Price",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MME 2200Q/R/S/T or MSE 2200Q/R/S/T, MME 2202A/B or MSE 2212A/B, MSE 2202A/B, MME 3381A/B or MSE 3381A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6543",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "ACEB-1415",
+          "Instructor": "A. Price",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MME 2200Q/R/S/T or MSE 2200Q/R/S/T, MME 2202A/B or MSE 2212A/B, MSE 2202A/B, MME 3381A/B or MSE 3381A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6544",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "12019",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "7224",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "7785",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "ACEB-3435",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "12020",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "12021",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "ACEB-3435",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 3381A - KINETICS & DYNAMICS OF MACHINE",
+      "Description": [
+        "Displacement, velocity and acceleration analysis of linkages; static and dynamic force analysis of mechanisms; balancing of reciprocating and rotating masses; special-purpose joints and mechanisms.",
+        "Antirequisite(s): MME 3381A/B.",
+        "Extra Information: 3 lecture hours, 2 tutorial hours, 0.5 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6956",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-1450",
+          "Instructor": "G. Langohr",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MME 2213A/B or MSE 2213A/B, Applied Mathematics 2270A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6956",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-1450",
+          "Instructor": "G. Langohr",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MME 2213A/B or MSE 2213A/B, Applied Mathematics 2270A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6956",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "ACEB-1450",
+          "Instructor": "G. Langohr",
+          "Notes": [
+            "RESTRICTED TO MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MME 2213A/B or MSE 2213A/B, Applied Mathematics 2270A/B or the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6957",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-2202",
+          "Instructor": "G. Langohr",
+          "Notes": [
+            "HELD IN SEB 1028."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6958",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-3101",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1028."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6959",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-3101",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1028."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "6960",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-3101",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN SEB 1028."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 4401A - ROBOTIC MANIPULATORS",
+      "Description": [
+        "Introduces the basic principles and techniques involved in modeling, simulating and controlling rigid-link manipulators. Forward and inverse kinematics. Manipulator dynamics. Control of robot manipulators.",
+        "Extra Information: 3 lecture hours, 2 laboratory/project hours. ",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5578",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SEB-2100",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "RESTRICTED TO YR 4 MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 3302A/B.",
+            "Pre-or Corequisite(s): MSE 3381A/B or MME 3381A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5578",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-2202",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "RESTRICTED TO YR 4 MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 3302A/B.",
+            "Pre-or Corequisite(s): MSE 3381A/B or MME 3381A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5579",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": "R. Patel",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5580",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-2093",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "ALSO HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "7346",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "ALSO HELD IN ACEB 3435."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "7368",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "ALSO HELD IN ACEB 3435."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "12022",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "SEB-2093",
+          "Instructor": "R. Patel",
+          "Notes": [
+            "ALSO HELD IN ACEB 3435."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MSE 4499 - MECHATRONIC DESIGN PROJECT",
+      "Description": [
+        "The aim of the course is to develop and practice the interdisciplinary skills required to solve open-ended engineering design problems from a mechatronics perspective. Students will experience all phases of the design process, including: problem definition, generation and evaluation of concepts, engineering analysis and testing, and preparation of design documentation. Project management and communications skills will also be emphasized. A faculty advisor will supervise project teams and an interdisciplinary committee comprised of Mechatronics program faculty members will assess project outcomes.",
+        "Antirequisite(s): CBE 4497, the former MME 4419, CEE 4441, GPE 4497, SE 4450, MME 4499, ECE 4415, ECE 4416, Engineering Science 4499. ",
+        "Extra Information: 6 laboratory/project hours. ",
+        "Restricted to students enrolled in the Mechatronic Systems Engineering program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5581",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "ACEB-1410",
+          "Instructor": "A. Samani",
+          "Notes": [
+            "RESTRICTED TO YR 4 MECHATRONIC SYSTEMS ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): MSE 3302A/B, MSE 3380A/B or MME 3380A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

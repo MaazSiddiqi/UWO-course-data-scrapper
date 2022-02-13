@@ -1,0 +1,102 @@
+{
+  "Name": "Field Education",
+  "Code": "FLDEDUC",
+  "Courses": [
+    {
+      "Name": "FLDEDUC 5110A - INTRODUCTION TO MINISTRY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2354",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W104",
+          "Instructor": "D. Davis",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FLDEDUC 5211A - PARISH/COMMUNITY PRACTICUM",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1964",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "D. Davis",
+          "Notes": [
+            "REQUISITES: Prerequisite: Field Educ 5110 A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FLDEDUC 5212B - PARISH/COMMUNITY PRACTICUM",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1954",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W2",
+          "Instructor": "D. Davis",
+          "Notes": [
+            "RESTRICTED TO THEOLOGY STUDENTS AT HURON.  PERMISSION REQUIRED FOR NON-HURON STUDENTS. ",
+            "REQUISITES: Prerequisite: Field Educ 5110 A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FLDEDUC 5313A - PARISH/COMMUNITY PRACTICUM",
+      "Description": [
+        "A third field education practicum in a parish, congregational or community setting, under the supervision of the Director of Field Education.",
+        "Extra Information: 2 hours class; 10 hours placement."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "10354",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Davis",
+          "Notes": [
+            "REQUISITES: Prerequisite(s):  Field Education 5211A/B and Field Education 5212A/B."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

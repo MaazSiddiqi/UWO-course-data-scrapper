@@ -1,0 +1,684 @@
+{
+  "Name": "Physiology",
+  "Code": "PHYSIOL",
+  "Courses": [
+    {
+      "Name": "PHYSIOL 1020 - HUMAN PHYSIOLOGY",
+      "Description": [
+        "A survey course outlining the principles of human/mammalian physiology; general properties of the living cell and the internal environment; neural, muscle, cardiovascular, respiratory, gastrointestinal, renal and endocrine systems; metabolism, reproduction and homeostasis.",
+        "Antirequisite(s): Physiology 1021, Physiology 2130, Physiology 3120.",
+        "Extra Information: Limited to students enrolled in the Nursing program. 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3796",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Bell",
+          "Notes": [
+            "ONLINE COURSE. RESTRICTED TO NURSING STUDENTS AT WESTERN. ",
+            "REQUISITES: Prerequisite(s): Grade 12U (SBI4U) Biology and Grade 12U (SCH4U) Chemistry, or their equivalent. First year courses in Biology and Chemistry are recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "051",
+          "Component": "TUT",
+          "Class Nbr": "3797",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-148",
+          "Instructor": "C. Bell",
+          "Notes": [
+            "RESTRICTED TO NURSING STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "052",
+          "Component": "TUT",
+          "Class Nbr": "3798",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "B&GS-1056",
+          "Instructor": "C. Bell",
+          "Notes": [
+            "RESTRICTED TO NURSING STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 1021 - INTRO TO HUMAN PHYSIOLOGY",
+      "Description": [
+        "An introductory course, outlining the principles of human/mammalian physiology along with a general survey of various physiological systems (e.g. cardiovascular, renal, neural, motor, gastrointestinal, endocrine, respiratory, etc.).",
+        "Antirequisite(s): Physiology 1020, Physiology 2130, Physiology 3120.",
+        "Extra Information: Limited to students enrolled in first year Kinesiology and first year",
+        "Bachelor of Science (Foods and Nutrition).",
+        "2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3976",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NS-145",
+          "Instructor": "A. Beye",
+          "Notes": [
+            "RESTRICTED TO KIN STUDENTS, YR 1 FOOD SCIENCE TECHNOLOGY, AND YR 1 NUTRITION & DIETETICS STUDENTS. PREREQ: GR 12U BIOLOGY. GR 12U CHEMISTRY HIGHLY RECOMMENDED. ",
+            "REQUISITES: Prerequisite(s): Grade 12U Biology or its equivalent. Grade 12U Chemistry is recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3977",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-9",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "3978",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-2110",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "3979",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NS-7",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "3981",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "VAC-100",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "3980",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "VAC-100",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "3982",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "3983",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-293",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "3984",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NCB-293",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "9795",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "B&GS-0165",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "9796",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "VAC-100",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "TUT",
+          "Class Nbr": "9797",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-60",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "9798",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-60",
+          "Instructor": ".",
+          "Notes": [
+            "THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 2130 - HUMAN PHYSIOLOGY",
+      "Description": [
+        "A survey course outlining the principles of human/mammalian physiology: general properties of the living cell and internal environment; neural, muscle, cardiovascular, respiratory, gastro-intestinal, renal and endocrine system; metabolism, reproduction, and homeostasis.",
+        "Antirequisite(s): Physiology 1020, Physiology 1021, Physiology 3120. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "4278",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Bell",
+          "Notes": [
+            "ONLINE COURSE. OPEN TO ALL STUDENTS, FIRST-YEAR COURSES IN BIOLOGY AND CHEMISTRY ARE RECOMMENDED.  WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): First-year courses in Biology and Chemistry are recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 3120 - HUMAN PHYSIOLOGY",
+      "Description": [
+        "A survey of the physiology of various systems (e.g. neural, endocrine, renal, cardiovascular, digestive, respiratory, etc.) of the human.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4136",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HSB-40",
+          "Instructor": "A. Woods",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): one of Physics 1201A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B; 1.0 course from: Calculus 1000A/B, Calculus 1500A/B, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Statistical Sciences 1024A/B, Applied Mathematics 1201A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413, the former Applied Mathematics 1414A/B; one of Biology 1001A or Biology 1201A and one of Biology 1002B or Biology 1202B; or permission of the department. Integrated Science 1001X can be used as a prerequisite in place of Biology 1002B, Calculus 1301A/B and Physics 1202A/B. It is strongly recommended that Biochemistry 2280A and Biology 2382A/B be taken prior to Physiology 3120. Open only to students who are registered in Years 3 or 4."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 3140A - CELLULAR PHYSIOLOGY",
+      "Description": [
+        "A survey of principles of cellular physiology including membrane, ion channel, receptor, and transport protein function, and signal transduction mechanisms.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3163",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HSB-40",
+          "Instructor": "J. Di Guglielmo",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): one of Physics 1201A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B; 1.0 course from: Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Statistical Sciences 1024A/B, Applied Mathematics 1201A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413, the former Applied Mathematics 1414A/B; one of Biology 1001A or Biology 1201A and one of Biology 1002B or Biology 1202B; or permission of the department. Integrated Science 1001X can be used as a prerequisite in place of Biology 1002B, Calculus 1301A/B and Physics 1202A/B. It is strongly recommended that Biochemistry 2280A and Biology 2382A/B be taken prior to Physiology 3140A. Open only to students who are registered in Years 3 or 4."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4200B - RESPIRATORY HEALTH & DISEASE",
+      "Description": [
+        "This course examines the normal pulmonary environment, including lung development and adaptations  to high altitude and exercise, and a variety of pathophysiological conditions and processes. For each condition or disease, physiological abnormalities and current therapies will be discussed, as will pathophysiological mechanisms with some emphasis on chronic and acute inflammation.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5833",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M384",
+          "Instructor": "S. Gill",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4510A - PHYSIOL OF STEM CELL FUNCTION",
+      "Description": [
+        "This course examines the basic molecular, biochemical and morphological events that regulate pluripotent stem cell biology. Students will learn about the physiology, research principles and ethical issues that surround the generation and clinical use of pluripotent stem cells.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7226",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "D. Betts",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120 and Physiology 3140A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4520B - STEM CELLS & REGENERATIVE MED",
+      "Description": [
+        "Central concepts in regenerative medicine are explored, with a focus on the preclinical development of stem cell therapies. Emphasized are: fundamentals of tissue-specific (post-natal) stem cell isolation, expansion and functional characterization using xenotransplantation into immunodeficient mouse models for the treatment of human hematopoietic disorders, ischemic vascular diseases, diabetes and cancer.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4472",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "DSB-2016",
+          "Instructor": "D. Hess",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120 and 3140A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4600A - DISEASES OF ION CHANNELS",
+      "Description": [
+        "Diseases related to ion channels, such as sensorineural hearing loss, immunodeficiency, Charcot-Marie-Tooth disease and cardiac arrhythmias. The physiology and pathophysiology of relevant ion channels will be covered.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5472",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "DSB-2016",
+          "Instructor": "D. Bai",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120 and Physiology 3140A."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4610B - CARDIOVASC. PHYSIOLOGY",
+      "Description": [
+        "A study of the regulation of the circulation including factors involved in the regulation of cardiac output, reflex control of the circulation and long-term control of arterial pressure.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5331",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M282",
+          "Instructor": "R. Gros",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4620A - REPRODUCTIVE ENDOCRINOLOGY",
+      "Description": [
+        "Selected topics in reproduction and its endocrine regulation.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3158",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "A. Watson",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120, Physiology 3140A and either Physiology and Pharmacology 3000E or the former Physiology 3130Z; or Physiology 3120 (with a mark of at least 75%) and Physiology 3140A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4650A - NEUROPHYS HOMEOSTASIS & STRESS",
+      "Description": [
+        "The hypothalamus and limbic system contribute to the neural integration of autonomic, endocrine and skeletomotor responses which contribute to homeostasis and adaptive behaviors. Topics include the regulation of neuroendocrine function, blood pressure, energy and water balance, circadian rhythms and the integration of reproductive function.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6521",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M282",
+          "Instructor": "W. Inoue",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120 and 3140A; or Neuroscience 2000, Physiology 3140A and registration in Year 4 of an Honours Specialization in Neuroscience."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4680B - CELLULAR/MOLECULAR NEUROBIO",
+      "Description": [
+        "Cellular function and communication in the central nervous system. Topics will cover physiological mechanisms of intrinsic neuronal activity, excitatory and inhibitory synaptic transmission, integrative neuronal activities and protein processing pathways related to neuronal signalling and degeneration in Alzheimer's disease. Specific examples relevant to neuronal functions and dysregulations will be used.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3753",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "DSB-3008",
+          "Instructor": "W. Lu",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120 and Physiology 3140A; or Neuroscience 2000, Physiology 3140A and registration in Year 4 of an Honours Specialization in Neuroscience."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4700B - FETAL PHYSIOLOGY",
+      "Description": [
+        "This course covers placental function (endocrine, nutrient transport and parturition), fetal growth and development (heart, brain, kidneys, vessels, adipose, liver, lung, muscle and pancreas) and deals with the concept of the fetus as a patient to be followed during poor in utero conditions, such as hypoxia or poor diet.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3574",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "DSB-2016",
+          "Instructor": "T. Regnault",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "PHYSIOL 4730B - CELL SGN IN TISSUE, INJ & REPR",
+      "Description": [
+        "Examines the basic principles and surveys molecular mechanisms of regulation of cell growth, adhesion, migration, and differentiation and their functional integration to support survival and development. Dysregulation of these processes in disease will also be examined. The course is composed of both lectures and student presentations of scientific literature.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3987",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "MSB-M384",
+          "Instructor": "S. Cregan",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Physiology 3120."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

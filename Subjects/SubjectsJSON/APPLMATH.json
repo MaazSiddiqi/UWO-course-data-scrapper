@@ -1,0 +1,576 @@
+{
+  "Name": "Applied Mathematics",
+  "Code": "APPLMATH",
+  "Courses": [
+    {
+      "Name": "APPLMATH 1201B - CALC & PROBABILITY W BIO APPS",
+      "Description": [
+        "Applications of integration, integration using mathematical software packages. Scaling and allometry. Basic probability theory. Fundamentals of linear algebra: vectors, matrices, matrix algebra. Difference and differential equations. Each topic will be illustrated by examples and applications from the biological sciences, such as population growth, predator-prey dynamics, age-structured populations.",
+        "Extra Information: 2 lecture hours, 2 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5569",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. ",
+            "REQUISITES: Prerequisite(s): One or more of Calculus 1000A/B, Calculus 1500A/B or Mathematics 1225A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "10050",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "10318",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10319",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10320",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10321",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10322",
+          "Days": [
+            "Tu",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "10323",
+          "Days": [
+            "Tu",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NS-7",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "10324",
+          "Days": [
+            "M",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "10325",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "11838",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 2402A - ORDINARY DIFF EQUATIONS",
+      "Description": [
+        "Introduction to first order differential equations, linear second and higher order differential equations with applications, complex numbers including Euler's formula, series solutions, Bessel and Legendre equations, existence and uniqueness, introduction to systems of linear differential equations.",
+        "Extra Information: 3 lecture hours, 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5056",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "FNB-3210",
+          "Instructor": "L. Wahl",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Calculus 1301A/B, or a minimum mark of 55% in Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B or the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. ",
+            "Pre-or Corequisite(s): Mathematics 1600A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5057",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5058",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5059",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 2811B - LINEAR ALGEBRA II",
+      "Description": [
+        "Vector space examples. Inner products, orthogonal sets including Legendre polynomials, trigonometric functions, wavelets. Projections, least squares, normal equations, Fourier approximations. Eigenvalue problems, diagonalization, defective matrices. Coupled difference and differential equations; applications such as predator-prey, business competition, coupled oscillators. Singular value decomposition, image approximations. Linear transformations, graphics.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3562",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "X. Zou",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): (Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B, or a minimum mark of 60% in Mathematics 1600A/B) and (Numerical and Mathematical Methods 1414A/B or Calculus 1301A/B or Calculus 1501A/B, or the former Applied Mathematics 1413 or the former Applied Mathematics 1414A/B). Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 2814G - NUMERICAL ANALYSIS",
+      "Description": [
+        "Introduction to numerical analysis; polynomial interpolation, numerical integration, matrix computations, linear systems, nonlinear equations and optimization, the initial value problem. Assignments using a computer and the software package, Matlab, are an important component of this course. ",
+        "Extra Information:3 lecture hours, 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6098",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-37",
+          "Instructor": "G. Reid",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in Mathematics 1600A/B.",
+            "Pre-or Corequisite(s): Calculus 2302A/B, Calculus 2402A/B or Calculus 2502A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "6099",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6100",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 3615A - MATHEMATICAL BIOLOGY",
+      "Description": [
+        "An introduction to mathematical biology. Case studies from neuroscience,immunology, medical imaging, cell biology, molecular evolution and ecology will give an overview of this diverse field, illustrating standard mathematical approaches such as compartmental analysis and evolutionary game theory.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11645",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1110",
+          "Instructor": "L. Wahl",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One of Calculus 2302A/B, Calculus 2402A/B, Calculus 2502A/B; plus one of Mathematics 1600A/B or the former Linear Algebra 1600A/B, or Applied Mathematics 1411A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11645",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1110",
+          "Instructor": "L. Wahl",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One of Calculus 2302A/B, Calculus 2402A/B, Calculus 2502A/B; plus one of Mathematics 1600A/B or the former Linear Algebra 1600A/B, or Applied Mathematics 1411A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 3811A - COMPLEX VARIABLES WITH APPLCTN",
+      "Description": [
+        "Functions of a complex variable, analytic functions, integration in the complex plane, Taylor and Laurent series, analytic continuation, Cauchy's theorem, evaluation of integrals using residue theory, applications to Laplace transforms, conformal mapping and its applications.",
+        "Antirequisite(s): Mathematics 3124A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3896",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MC-17",
+          "Instructor": "G. Wild",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Calculus 2303A/B or Calculus 2503A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 3813B - NONLINEAR ORDINARY DIFF EQS",
+      "Description": [
+        "Existence and uniqueness of solutions, phase space, singular points, stability, periodic attractors, Poincar\u00e9-Bendixson theorem, examples from physics, biology and engineering, frequency (phase) locking, parametric resonance, Floquet theory, stability of periodic solutions, strange attractors and chaos, Lyapunov exponents, chaos in nature, fractals.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5834",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UCC-61",
+          "Instructor": "P. Yu",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2402A or the former Differential Equations 2402A; Calculus 2303A/B or Calculus 2503A/B and Mathematics 1600A/B or the former Linear Algebra 1600A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 3815A - PARTIAL DIFFERENTL EQUATIONS I",
+      "Description": [
+        "Boundary value problems for Laplace, heat, and wave equations; derivation of equations; separation of variables; Fourier series; Sturm-Liouville Theory; eigenfunction expansions; cylindrical and spherical problems; Legendre and Bessel functions; spherical harmonics; Fourier and Laplace transforms.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3640",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "FNB-3210",
+          "Instructor": "X. Zou",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): (i) Mathematics 1600A/B; Applied Mathematics 2402A; Calculus 2303A/B or Calculus 2503A/B;  or (ii) Calculus 2402A/B and Statistical Sciences 2503A/B.  In each course a minimum mark of 60% is required."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 4615F - INTRO TO APP COMPUTER ALGEBRA",
+      "Description": [
+        "Strengths and limitations of computer algebra systems (CAS); complexity of exact computations versus possible instability of numerical computations; selecta from Groebner bases, resultants, fractional derivatives, Risch integration algorithm, special functions including the Lambert W function. The emphasis is on preparing the student to use CAS in mathematics, science, and engineering.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9783",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HSB-35",
+          "Instructor": "D. Jeffrey",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2814F/G or the former Applied Mathematics 2413, the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9783",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-13",
+          "Instructor": "D. Jeffrey",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Applied Mathematics 2814F/G or the former Applied Mathematics 2413, the former Applied Mathematics 2415."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "APPLMATH 4999Z - PROJECT",
+      "Description": [
+        "The student will work on a project under faculty supervision. The project may involve an extension, or more detailed coverage, of material presented in other courses. Credit for the course will involve a written as well as oral presentation."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3803",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "G. Wild",
+          "Notes": [
+            "RESTRICTED TO YR 4 APPLIED MATHEMATICS STUDENTS - PROJECT COURSE. ",
+            "REQUISITES: Prerequisite(s): Registration in the fourth year of a program in Applied Mathematics."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    }
+  ]
+}

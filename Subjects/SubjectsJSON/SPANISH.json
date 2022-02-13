@@ -1,0 +1,1642 @@
+{
+  "Name": "Spanish",
+  "Code": "SPANISH",
+  "Courses": [
+    {
+      "Name": "SPANISH 1030 - SPANISH FOR BEGINNERS",
+      "Description": [
+        "Using traditional and communicative practices (songs, videos, films, games) this course prepares students to interact in a daily life context and provides the foundation for continued studies in Spanish. Designed for students with little or no knowledge of Spanish. Includes a Community Service Learning option. ",
+        "Antirequisite(s) at Main campus: Grade 12 U Spanish.",
+        "Extra Information: 3 lecture hours plus 1 hour online (Main); Those students with Grade 12U Spanish (or equivalent) must consult the Department before registering for this course (Brescia, King's)"
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2544",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-203",
+          "Instructor": "S. Brooks",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1132",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-W143",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "3146",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W143",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3612",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "8604",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-1B04",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "8604",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AHB-1B04",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "3777",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-34",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "3777",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-34",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3613",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3613",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "3614",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3317",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "3614",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3317",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "206",
+          "Component": "LEC",
+          "Class Nbr": "3615",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "TC-342",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "206",
+          "Component": "LEC",
+          "Class Nbr": "3615",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-342",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "207",
+          "Component": "LEC",
+          "Class Nbr": "3616",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "207",
+          "Component": "LEC",
+          "Class Nbr": "3616",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "208",
+          "Component": "LEC",
+          "Class Nbr": "3617",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "MC-105B",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "208",
+          "Component": "LEC",
+          "Class Nbr": "3617",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "MC-105B",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "209",
+          "Component": "LEC",
+          "Class Nbr": "3724",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "TC-342",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "209",
+          "Component": "LEC",
+          "Class Nbr": "3724",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "TC-342",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "210",
+          "Component": "LEC",
+          "Class Nbr": "3725",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "210",
+          "Component": "LEC",
+          "Class Nbr": "3725",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UCC-59",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "211",
+          "Component": "LEC",
+          "Class Nbr": "3845",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "FNB-1200",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "211",
+          "Component": "LEC",
+          "Class Nbr": "3845",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1200",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "212",
+          "Component": "LEC",
+          "Class Nbr": "7815",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3024",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "212",
+          "Component": "LEC",
+          "Class Nbr": "7815",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-3024",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "213",
+          "Component": "LEC",
+          "Class Nbr": "3968",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "MC-105B",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "213",
+          "Component": "LEC",
+          "Class Nbr": "3968",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "MC-105B",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "214",
+          "Component": "LEC",
+          "Class Nbr": "5425",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-2317",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "214",
+          "Component": "LEC",
+          "Class Nbr": "5425",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SH-2317",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "215",
+          "Component": "LEC",
+          "Class Nbr": "7808",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "UC-3220",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8934",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2102A - MEXICO CITY",
+      "Description": [
+        "Examine Mexico City through its history of continuous transformations from Aztec empire to the megalopolis it is today. Identify traces of the various pasts in the city's contemporary urban landscape and daily life, through art, film and literature. Comparisons to other Latin American cities will be drawn. Taught in English.",
+        "Antirequisite(s): CLC 2129A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11327",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 2192A AND AH 2692F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11327",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 2192A AND AH 2692F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2200 - INTERMEDIATE SPANISH",
+      "Description": [
+        "Combining grammar and communication this course prepares students to discuss, read and write about a variety of topics and to explore ideas about Hispanic culture in relation to their own. Includes a Community Service Learning option.",
+        "Extra Information: 3 lecture hours plus 1 hour online (Main); 4 hours, 1 laboratory hour (Brescia)."
+      ],
+      "Components": [
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3619",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-1B02",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3619",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AHB-1B02",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "6296",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "6296",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "6297",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "6297",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3880",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3880",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "8942",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "TC-343",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "8942",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-343",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030 with a minimum standing of 60%, or Grade 12U Spanish, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2214A - COMPRTV GRAMMAR ENGLISH & SPAN",
+      "Description": [
+        "Is Spanish easier to learn than English? In this course you will compare the structure of both. You will learn, for example, that Spanish has more verb forms, and English has a simpler word order. Exploring the contrasts will lead to a deeper understanding of grammar.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5275",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "MC-17",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5275",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "MC-17",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2215G - EXPLORING HISPANIC CULTURES I",
+      "Description": [
+        "Introduction to reading, writing and researching in the visual, performing and literary arts and in socio-lingustics. Students develop foundations in these fields through a series of case studies across generic historical, geographical areas of the Hispanic world. Taught by one core professor in conjunction with different specialists.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11325",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "TC-203",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11325",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "TC-203",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2220B - SPANISH CONVERSATION",
+      "Description": [
+        "This course revolves around 12 conversations dealing with current issues in Spain, North America, Mexico and the Caribbean, Central and South America. Topics will range from social, political and economic issues to celebrity culture, food, sports, tourism.",
+        "Antirequisite(s): Spanish 3327A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7883",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 3327B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7883",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 3327B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2500G - BRIDGING CLASSROOM & COMMUNITY",
+      "Description": [
+        "Develop intercultural competence by examining individual experiences of learning and maintaining language and of integrating cultural heritage. Connect in-class learning about language acquisition, identity, memory and related issues with service-learning projects in London or the surrounding region. Taught in English and Spanish.",
+        "Antirequisite(s): CLC 2500F/G, Italian 2500F/G, German 2500F/G, Intercultural Communication 2500F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11314",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/ITALIAN 2500G/COMPLIT 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11314",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/ITALIAN 2500G/COMPLIT 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2700G - WORLD CULTURES, GLOBAL SCREENS",
+      "Description": [
+        "Looking at a body of audiovisual texts from the Middle East, Asia, Latin America, Africa and Oceania, this course aims to expose students to a wide range of questions and debates about culture, identity and representation, while also relating these matters to ideas about transnational media and global (art) cinemas.",
+        "Antirequisite(s): Comparative Literature and Culture 2700F/G; Comparative Literature and Culture 2107A/B or Spanish 2901A/B or Film Studies 2195A/B offered in Fall 2017.",
+        "Extra Information: 2-hour Lecture + Screenings. Taught in English."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9330",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-1401",
+          "Instructor": "C. Burucua",
+          "Notes": [
+            "SCREENING WILL BE HELD VIRTUALLY, LECTURE WILL BE IN-PERSON CROSS-LISTED WITH CLC 2700G AND FILM 2191G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "9331",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2902A - SPECIAL TOPICS IN SPANISH",
+      "Description": [
+        "Please consult with the Department for current course offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10017",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-2B02",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. TOPIC: CONTEMPORARY ISSUES. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10017",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-2B02",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. TOPIC: CONTEMPORARY ISSUES. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 2200 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 2908A - SPECIAL TOPICS IN SPANISH",
+      "Description": [
+        "Special Topics for Hispanic Language and Culture.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11640",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": "B. Romero Ferron",
+          "Notes": [
+            "CROSS-LISTED WITH MSC 2620F. TOPIC: EXPOSICIONES DE ARTE: ORGANIZACION Y DISENO."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11643",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "LWH-2210",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3300 - ADVANCED SPANISH LANGUAGE",
+      "Description": [
+        "Further development of oral and written skills with systematic acquisition of vocabulary and selective grammar review. Based on a multimedia and communicative approach, this course aims to develop fluency. Discussions, readings, and writing will focus on the cultures of Spanish-speaking countries. Includes an optional Community Service Learning component.",
+        "Antirequisite(s) at Main campus: Spanish 3301E.",
+        "Extra Information: 4 hours (Main); 3 hours (Brescia)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3620",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200 with a minimum standing of 60% or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "3879",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "A. Garcia-Allen",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200 with a minimum standing of 60% or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3303B - THE STRUCTURE OF SPANISH",
+      "Description": [
+        "This course will introduce students to basic concepts in linguistics from a Spanish perspective. It examines the different levels of structure, including the Spanish sound system (phonology), word formation (morphology), and sentence formation (syntax). It will also examine the relationships between form and meaning.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11326",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 3300 or Spanish 3301E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11326",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 3300 or Spanish 3301E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3318A - THE SOUNDS OF SPANISH",
+      "Description": [
+        "Using samples of recorded interviews, music and movie clips, students discuss Spanish sounds and sound patterns. Topics include the mental representation of speech units, sound change and variation as well as acquisition. Both Spanish of the Americas and Peninsular Spanish will be considered. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "12105",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "Y. Rafat",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 3303A/B or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3319A - THE ACQUISITION OF SPANISH",
+      "Description": [
+        "Using real data, students examine the different stages children go through during first language acquisition and compare this process to second language acquisition. Topics include the age factor for language acquisition and the importance of interaction. ",
+        "Antirequisite(s): Linguistics 2244A/B, the former Spanish 3315F/G. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10722",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3024",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "CROSS-LISTED WITH LINGUISTICS 2244A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 3303A/B or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "10723",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11958",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3327B - ADVANCED SPANISH CONVERSATION",
+      "Description": [
+        "This advanced course revolves around 12 conversations dealing with current issues in Spain, North America, Mexico and the Caribbean, Central and South America. Topics will range from social, political and economic issues to celebrity culture, food, sports, tourism. ",
+        "Antirequisite(s): Spanish 2220A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7884",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 2220B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200, 2200W/X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7884",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "O. Tararova",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 2220B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200, 2200W/X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3421F - TRANSLATION I: PRACTICAL TEXTS",
+      "Description": [
+        "This course will enhance student's lexical and semantic knowledge of Spanish though direct experience in translation. Source texts in English and Spanish are chosen from science, literature, film, advertising, tourism, government and legal documents. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8126",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "F. Quintanilla",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200 or permission of the Department.",
+            "Pre-or Corequisite(s): Spanish 2215F/G, Spanish 2216F/G or Spanish 3300."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3505B - \u00a1SEAMOS CREATIVOS! CEL+",
+      "Description": [
+        "Students curate a space for the conjuring of print and digital publications of poetry, prose, podcasts, short films, as well as a space for community engagement. We engage with artifacts from Latin America; make use of and critique key concepts; and participate in hands-on cultural production workshops.",
+        "Antirequisite(s): Comparative Literature and Culture 2150A/B.",
+        "Extra Information: 3 hours (2-hour lecture in English + 1-hour tutorial in English for students in Comparative Literature / 1-hour tutorial in Spanish for students in Spanish)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11329",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "MC-17",
+          "Instructor": "F. Quintanilla",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 2150B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 1030, Spanish 2200.",
+            "Corequisite(s): Spanish 3300."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "12360",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3600F - INTERNSHIP IN SPANISH",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Spanish.",
+        "Extra Information: Pass, or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a midterm as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9961",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CONTACT AGARCIA@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST ",
+            "REQUISITES: Prerequisite(s): Permission of the Department and Intercultural Communications 2200F/G. Registration in the third or fourth year of a module in Spanish, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre- or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3600G - INTERNSHIP IN SPANISH",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Spanish.",
+        "Extra Information: Pass, or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a midterm as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9962",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CONTACT AGARCIA@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department and Intercultural Communications 2200F/G. Registration in the third or fourth year of a module in Spanish, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre- or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 3901G - SPECIAL TOPICS IN SPANISH",
+      "Description": [
+        "Please consult with the Department for current course offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11330",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "WIRB-1130",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "TOPIC: ART AND SOCIETY: SPAIN & LATIN AMERICA. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200 or permission of the Department.",
+            "Pre-or Corequisite(s): Spanish 2215F/G or Spanish 2216F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11330",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WIRB-1130",
+          "Instructor": "V. Wolff",
+          "Notes": [
+            "TOPIC: ART AND SOCIETY: SPAIN & LATIN AMERICA. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2200 or permission of the Department.",
+            "Pre-or Corequisite(s): Spanish 2215F/G or Spanish 2216F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 4412F - SPANISH IN CONTACT",
+      "Description": [
+        "Throughout its history, Spanish has come into contact with many other languages: Arabic in the Iberian Peninsula, indigenous languages in the Americas, and more recently - English. This course examines how such contact has influenced Spanish and the contact languages. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11332",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "PAB-148",
+          "Instructor": "Y. Rafat",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Spanish 3303A/B with a minimum standing of 60% or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "SPANISH 4500G - SENIOR RESEARCH PROJECT",
+      "Description": [
+        "In this capstone course, students develop their own research project with a specific historical or geographical perspective centred on a designated general theme. Students work in conjunction with peers and professors and choose their own medium of presentation ranging from the traditional to the experimental.",
+        "Antirequisite(s): CLC 4500F/G, Italian 4500F/G, German 4500F/G."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11333",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "M. Adamson",
+          "Notes": [
+            "CROSS-LISTED WITH CLC/GERMAN/ITALIAN 4500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Spanish 2215F/G, Spanish 2216F/G.",
+            "Pre-or Corequisite(s): Spanish 3300 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

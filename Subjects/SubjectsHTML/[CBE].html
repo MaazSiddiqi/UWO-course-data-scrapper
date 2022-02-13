@@ -1,0 +1,6731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option selected="" value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+123   Results <br/><br/><br/>
+<h4>CBE 2206A - INTRO INDUSTRIAL ORGANIC CHEM</h4>
+<p class="font-md"><b>Course Description:</b> This course presents the fundamental principles governing the structure and reactivity of organic molecules. Organic molecules form the basis of industrial chemical and environmental processes. The laboratory section focuses on bench scale processing of organic chemical products, and the use of modern instruments for analysis of organic materials and monitoring of chemical processes.
+
+Antirequisite(s): Chemistry 2213A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4607</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chemistry 1302A/B or the former Chemistry 1024A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4607</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chemistry 1302A/B or the former Chemistry 1024A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>4834</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-1082 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>4608</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-1082 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>4609</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-1082 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2207B - APPLIED INDUSTRIAL ORG CHEM</h4>
+<p class="font-md"><b>Course Description:</b> This course applies previously learned concepts in organic chemistry to describe chemical transformations that form the basis of industrial and environmental processes. The laboratory section focuses on the bench scale synthesis of organic chemical products, and the use of modern instruments for their analysis and quality control.
+
+Antirequisite(s): Chemistry 2223B or the former CBE 2216. 
+
+Extra Information: 3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4610</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												ACEB-1410 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2206A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4610</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2206A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>4611</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>4612</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>4613</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2214A - ENGINEERING THERMODYNAMICS</h4>
+<p class="font-md"><b>Course Description:</b> Properties of a pure substance, first law of thermodynamics, processes in open and closed systems, second law of thermodynamics; ideal gases, mixture of ideal gases, and psychometry, compressors and energy conversion systems.
+
+Antirequisite(s): MME 2204A/B.
+
+Extra Information: 3 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3820</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1411A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3820</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1411A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>3821</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2220A - CHEMICAL PROCESS CALCULATIONS</h4>
+<p class="font-md"><b>Course Description:</b> The objective of this course is to introduce the fundamental concepts of
+material and energy balances which form the basis of chemical and biochemical engineering processes. Calculations related to specific problems in these fields are carried out. New directions in chemical and biochemical engineering are introduced.
+
+Extra Information: 3 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4106</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        A. Bassi 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 1414A/B, Chemistry 1302A/B, Physics 1401A/B and Physics 1402A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4106</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        A. Bassi 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 1414A/B, Chemistry 1302A/B, Physics 1401A/B and Physics 1402A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4107</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        A. Bassi 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2221B - FLUID FLOW</h4>
+<p class="font-md"><b>Course Description:</b> To introduce chemical engineering students to the basics of momentum transfer and fluid flow; their application to the solution of engineering problems. Topics include: conservation of mass, momentum and energy, flow of fluids, measurement of fluid flow, laminar and turbulent flow, compressible and incompressible flow, pumps, nozzles, flow meters, turbines. 
+
+Extra Information: 3 lecture hours, 3 tutorial/lab hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3651</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3651</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>3652</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>4317</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+		                                       HELD IN SEB 1081. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>4330</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+		                                       HELD IN SEB 1081. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>4606</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+		                                       HELD IN SEB 1081. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2224B - CHEMICAL ENG THERMODYNAMICS</h4>
+<p class="font-md"><b>Course Description:</b> Provides the basics of the thermodynamics involved in chemical engineering with emphasis on material and energy balances, thermo physics, thermo chemistry, and thermodynamics of chemical processes. Emphasis is placed on the application of thermodynamics to practical problems in phase equilibria and on solutions and reaction equilibria in separations and reaction engineering.
+
+Extra Information: 3 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4108</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS  ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2214A/B or MME 2204A/B, Applied Mathematics 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4108</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS  ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2214A/B or MME 2204A/B, Applied Mathematics 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4108</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SSC-3006 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS  ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2214A/B or MME 2204A/B, Applied Mathematics 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4109</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2290A - FUNDAMENTALS OF BIOCHEM AND EN</h4>
+<p class="font-md"><b>Course Description:</b> The overall objective of the course is to apply the principles of microbiology, biochemistry to understand and solve environmental problems. This course covers the fundamental concepts of biological processes that are important in natural and engineered environmental systems. Students will gain basic skills of biochemistry and microbiology in laboratory section.
+
+Extra Information: 3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3669</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, GREEN PROCESS AND INTEGRATED ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chemistry 1302A/B or the former Chemistry 1024A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3669</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, GREEN PROCESS AND INTEGRATED ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chemistry 1302A/B or the former Chemistry 1024A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3669</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, GREEN PROCESS AND INTEGRATED ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chemistry 1302A/B or the former Chemistry 1024A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>3765</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-2032 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>3670</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2032 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>5584</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-2032 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 2291B - COMPUTATNL METHD FOR ENGINEERS</h4>
+<p class="font-md"><b>Course Description:</b> This course is designed to introduce the student to technical computing for Engineers and Scientists using the high level, interactive, computational tools provided by the Matlab-Simulink Environment. Students will learn both the object oriented programming and command line modes of Matlab and apply them to the solution of a variety of problems involving optimization and dynamic simulation of Engineering processes.
+
+Antirequisite(s): CEE 2219A/B. 
+
+Extra Information: 3 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3671</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SEB-3109 
+											</td>
+<td>
+		                                        L. Samavedham 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1036A/B or Computer Science 1026A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3671</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SSC-2020 
+											</td>
+<td>
+		                                        L. Samavedham 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED  AND GREEN  PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1036A/B or Computer Science 1026A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4258</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HSB-13 
+											</td>
+<td>
+		                                        L. Samavedham 
+		                                    </td>
+<td>
+		                                       ALSO HELD IN HSB 14. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3307A - ENERGY AND ENVIRONMENT</h4>
+<p class="font-md"><b>Course Description:</b> An overview of energy conversion efficiency and related environmental impact aspects in the chemical engineering industry.
+
+Extra Information: 3 lecture hours per week, 1 tutorial hour per week.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10212</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												ACEB-1410 
+											</td>
+<td>
+		                                        D. Karamanev<br/>
+		                                            M. Ray<br/>
+</td>
+<td>
+		                                       CROSS-LISTED WITH GPE 3384A. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2221A/B, CBE 2290A/B and CBE 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10212</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-1B08 
+											</td>
+<td>
+		                                        D. Karamanev<br/>
+		                                            M. Ray<br/>
+</td>
+<td>
+		                                       CROSS-LISTED WITH GPE 3384A. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2221A/B, CBE 2290A/B and CBE 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>10213</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        M. Ray<br/>
+		                                            D. Karamanev<br/>
+</td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3310B - PROCESS DYNAMICS &amp; CONTROL</h4>
+<p class="font-md"><b>Course Description:</b> The course covers the dynamic behavior, modeling and control of chemical processes. The principles of feedback control of commonly-encountered systems such as level, flow, temperature, pressure, are described. Theory is introduced to illustrate current practice. Simulations of dynamic behavior of processes will make use of the MATLAB/Simulink programming environment.
+
+Antirequisite(s): The former CBE 4410A/B.
+
+Extra Information: 3 lecture hours, 1 laboratory hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4614</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED OR GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 2277A/B, CBE 2291A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4614</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, INTEGRATED OR GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 2277A/B, CBE 2291A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4615</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>4840</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HSB-14 
+											</td>
+<td>
+		                                        S. Rohani 
+		                                    </td>
+<td>
+		                                       ALSO HELD IN HSB 16. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3315A - REACTION ENGINEERING</h4>
+<p class="font-md"><b>Course Description:</b> Chemical kinetics as applied to the large-scale manufacture of chemicals. An introduction to the factors which affect the design and size of chemical reactors, as well as the conditions under which they are to be operated for maximum efficiency.
+
+Extra Information: 3 lecture hours, 1.5 laboratory hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3672</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1414A/B, CBE 2224A/B and Chemistry 1302A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3672</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												ACEB-1410 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 1414A/B, CBE 2224A/B and Chemistry 1302A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>3673</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-2036 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>3674</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2036 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>6917</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2036 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+		                                       PRIORITY TO CHEMICAL OPTION B STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>4841</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												ACEB-1410 
+											</td>
+<td>
+		                                        J. Herrera 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3316B - SUSTAINABLE CHEM ENGG. &amp; LCA</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to the approaches used to evaluate the environmental impacts of chemical technology and processes such as energy conversion, food production, transportation and waste management. This course will also focus on the application of green engineering concepts in chemical process design and evaluation.
+
+Antirequisite(s): GPE 3382A/B, GPE 3386A/B.
+
+Extra Information: 3 lecture hours per week, 1 tutorial hour per week.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10214</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        P. Charpentier 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2214A/B.
+
+Corequisite(s): CBE 3319A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10214</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        P. Charpentier 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2214A/B.
+
+Corequisite(s): CBE 3319A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10214</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        P. Charpentier 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2214A/B.
+
+Corequisite(s): CBE 3319A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>10215</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        P. Charpentier 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3318A - INTRO TO CHEMICAL PROCESS SIM</h4>
+<p class="font-md"><b>Course Description:</b> This course aims to introduce and to develop student skills on modern methods for simulation of chemical process units.  Differential heat balance, mass balance.  Energy and material balance methods in process units.  Executive systems for overall balance methods.  Physical properties, computer packages.
+
+Extra Information: 2 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5822</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL OR GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1050, CBE 2220A/B, CBE 2221A/B, and either CBE 2224A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>5823</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												UCC-65 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+		                                       PRIORITY TO CHEMICAL OPTION B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>8269</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3319B - INTRO TO PLANT DESIGN &amp; SAFETY</h4>
+<p class="font-md"><b>Course Description:</b> This course introduces students to chemical processes, analysis and design considering safety, environment and economics. Students will be exposed to fundamental aspects of chemical process design and integration of safety from theoretical and practical perspective. Students will be also provided with detailed review and analysis of major accidents in chemical industry and preventive measures.
+
+Antirequisite(s): GPE 3382A/B.
+
+Extra Information: 2 lecture hours, 2 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5824</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1050, CBE 2220A/B, CBE 2221A/B, and either CBE 2224A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5824</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1050, CBE 2220A/B, CBE 2221A/B, and either CBE 2224A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>5939</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        H. De Lasa 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3322A - HEAT TRANSFER OPERATIONS</h4>
+<p class="font-md"><b>Course Description:</b> Introduce chemical engineering students to the basics of heat transfer, including conduction, convection, radiation and phase change. This knowledge will be used for the design of various types of equipment such as heat exchangers with and without phase change agitated reactors, evaporators, condensers.
+
+Extra Information: 3 lecture hours, 1 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4110</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, GREEN PROCESS AND INTEGRATED ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B, or registration in the Integrated Engineering program.
+Corequisite(s): CBE 3395Y, or CBE 3396Y, or GPE 3395Y, or registration in the Integrated Engineering program. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4110</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL, GREEN PROCESS AND INTEGRATED ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B, or registration in the Integrated Engineering program.
+Corequisite(s): CBE 3395Y, or CBE 3396Y, or GPE 3395Y, or registration in the Integrated Engineering program. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4842</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        K. Mequanint 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3323B - STAGED OPERATIONS</h4>
+<p class="font-md"><b>Course Description:</b> This course will focus on the staged unit operations in chemical engineering. It is designed to familiarize the students with the nature and theory of chemical engineering unit operations, analysis and physical separation processes based on the ideal stage concept.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7314</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												FNB-1240 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL OR GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B, CBE 2224A/B.
+
+Corequisite(s): CBE 3395Y or CBE 3396Y or GPE 3395Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7314</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												FNB-1240 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL OR GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B, CBE 2224A/B.
+
+Corequisite(s): CBE 3395Y or CBE 3396Y or GPE 3395Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>7317</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3324B - MASS TRANSFER OPERATIONS</h4>
+<p class="font-md"><b>Course Description:</b> This course reviews the fundamentals of interphase mass transfer and transfer units and then reviews the design of differential mass transfer equipment, with special emphasis on absorption, stripping, humidification and drying. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4447</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B.
+Corequisite(s): CBE 3395Y or CBE 3396Y or GPE 3395Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4447</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B.
+Corequisite(s): CBE 3395Y or CBE 3396Y or GPE 3395Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4447</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL AND GREEN PROCESS ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B.
+Corequisite(s): CBE 3395Y or CBE 3396Y or GPE 3395Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4448</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3330A - BIOREACTION &amp; BIOPROCESS ENG</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on enzyme, kinetics and bioreactor engineering; homogeneous and immobilized enzyme technology; microbial cell processes; free suspended and immobilized cell processes; batch and continuous bioreactor operation; oxygen mass transfer; aeration, agitation and mixing; sterilization of gases and liquids; basics of bioreactor scale-up.
+
+Antirequisite(s): CBE 3301A/B and CBE 3320A/B.
+
+Extra Information:3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7113</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												FNB-2240 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 3 CHEMICAL ENGINEERING STUDENTS IN THE BIOCHEM OPTION. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B.
+
+Corequisite(s): CBE 3315A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7113</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SH-3305 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 3 CHEMICAL ENGINEERING STUDENTS IN THE BIOCHEM OPTION. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B.
+
+Corequisite(s): CBE 3315A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>7114</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												SEB-2032 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>7115</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2032 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3395Y - CHEMICAL ENGINEERING LAB</h4>
+<p class="font-md"><b>Course Description:</b> This laboratory course applies and integrates concepts/theories presented in the following four courses: CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, and CBE 3325A/B .
+
+Antirequisite(s): GPE 3395Y, or CBE 3396Y.
+
+Extra Information: 3 laboratory hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5937</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Corequisite(s): CBE 3322A/B, CBE 3323A/B, CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>6608</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>6609</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>6610</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        C. Xu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 3396Y - BIOCHEM ENGINEERING LAB COURSE</h4>
+<p class="font-md"><b>Course Description:</b> This laboratory course applies and integrates concepts/theories presented in the following five courses: CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, CBE 3325A/B and CBE 3330A/B.
+
+Antirequisite(s): CBE 3395Y.
+
+Extra Information: 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8199</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SH-3317 
+											</td>
+<td>
+		                                        L. Rehmann 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Corequisite(s): CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, CBE 3330A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>8200</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-1081 
+											</td>
+<td>
+		                                        L. Rehmann 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4403B - BIOCHEMICAL SEPARATION PROCESS</h4>
+<p class="font-md"><b>Course Description:</b> The main objective of this course is to introduce the student to the basic fundamentals of downstream separation and purification processes such as membrane separation processes, protein separation and purification and other separation processes of economic importance to fermentation industry.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6150</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        L. Rehmann 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 OR 4 CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B, or Biology 1001A and Biology 1002B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6150</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        L. Rehmann 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 OR 4 CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B, or Biology 1001A and Biology 1002B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>6151</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        L. Rehmann 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4405B - AIR POLLUTION CONTROL</h4>
+<p class="font-md"><b>Course Description:</b> The nature, effects and mitigation strategies for air pollution including the structure and physical behavior of the atmosphere, types and origins of air pollutants, chemical reactions in the atmosphere, atmospheric dispersion, techniques of pollutant evaluation, control, surveys and effects of air pollution on health and other aspects of urban and natural environments.
+
+Antirequisite(s): CEE 4405A/B.
+.
+Extra Information: 3.0 lecture hours, 1.0 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9801</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												ACEB-2435 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CEE 2224 or CBE 2221A/B or MME 2273A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9801</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												ACEB-2435 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CEE 2224 or CBE 2221A/B or MME 2273A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>9802</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4409B - WASTEWATER TREATMENT</h4>
+<p class="font-md"><b>Course Description:</b> This course introduces a basic understanding of municipal wastewater treatment processes. The course reviews pertinent environmental regulations, and general wastewater quality parameters. Processes and unit operations in wastewater treatment are introduced with particular emphasis on process design. Considerations in integrating unit processes and operations into a treatment system are presented.
+
+Antirequisite(s): The former CBE 3363A/B. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4843</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>10:00 PM</td>
+<td>
+												SH-3305 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 3 OR 4 CHEMICAL, OR YR 4 GREEN PROCESS, INTEGRATED OR YR 3 CIVIL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B or CEE 2217A/B or Chemistry 2210A/B 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4844</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-1056 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4411A - ENGINEERING COFFEE</h4>
+<p class="font-md"><b>Course Description:</b> This course combines and demonstrates chemical engineering principles using coffee as a teaching tool. Experiential learning will include hands-on applications of concepts through multiple lab activities and an examination of a local café through a case-based learning activity.
+
+Extra information: 3 lab hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11896</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+		                                       REGISTRATION BY PERMISSION OF DEPARTMENT 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2221A/B, CBE 3322A/B, CBE 3323A/B, CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>11897</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												SEB-1079 
+											</td>
+<td>
+		                                        L. Briens 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4415 - CHEMICAL ENGINEERING PROJECT</h4>
+<p class="font-md"><b>Course Description:</b> Selection and investigation of an engineering problem. Analytical and/or experimental work is carried out by individual students under the supervision of a faculty member. Progress reports, a final engineering report and a public lecture are required. It is the responsibility of the student to identify a supervisor and suitable engineering problem for investigation before registering in the course.
+
+Antirequisite(s): CBE 4425, GPE 4415, CEE 4440, MME 4410.
+
+Extra Information: 6 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3690</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 4 CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Completion of third year of the Chemical Engineering program with a minimum 78% third year term average and permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4416A - CARBON FOOTPRINT &amp; MANAGEMENT</h4>
+<p class="font-md"><b>Course Description:</b> An overview of the main sources of CO2 emissions, their comparative impacts and the emerging technologies for CO2 management. The course focuses on the technical details associated with CO2 capture and storage and the practical challenges associated with implementation of these technologies.
+
+Antirequisite(s): CBE 4413A/B.
+
+Extra Information: 3.0 lecture hours, 1.0 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12640</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SSC-2032 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 3315A/B or GPE 3315A/B; CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12640</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 3315A/B or GPE 3315A/B; CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>12641</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												SSC-2032 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4421A - INTRO TO BIOMATERIALS ENGINRNG</h4>
+<p class="font-md"><b>Course Description:</b> An introduction of materials science and engineering topics. 2. The four materials classes (metals, ceramics, polymers, composites) will be addressed with emphasis upon the material types and material properties pertinent to their use in implanted medical devices. 3. The structure and properties of biologic tissues and biocompatibility. 4. Specific implant applications will be addressed.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4950</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												ACEB-1415 
+											</td>
+<td>
+		                                        A. Rizkalla 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 OR 4 CHEMICAL OR YR 4 GREEN PROCESS ENGINEERING OR YR 4 INTEGRATED ENGINEERING STUDENTS OR YR 3 CHEMICAL/HBA STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1021A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4950</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Rizkalla 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 OR 4 CHEMICAL OR YR 4 GREEN PROCESS ENGINEERING OR YR 4 INTEGRATED ENGINEERING STUDENTS OR YR 3 CHEMICAL/HBA STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Engineering Science 1021A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4951</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        A. Rizkalla 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4422B - NANOBIOTECHNOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> Nanobiotechnology is an emerging frontier in nanotechnology. It integrates materials science, chemical engineering, physics and life science toward the biological and biochemical applications. This course introduces the fundamental concepts of nanobiotechnology and the upto-date application of nanotechnology in biomedical industries.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7116</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												ACEB-1420 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 &amp; 4 CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Completion of third year of the Chemical Engineering program. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7116</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HSB-11 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YRS 3 &amp; 4 CHEMICAL ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Completion of third year of the Chemical Engineering program. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>7117</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HSB-11 
+											</td>
+<td>
+		                                        J. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4423B - TISSUE ENGINEERING</h4>
+<p class="font-md"><b>Course Description:</b> Integrates principles of engineering and life sciences towards the fundamental understanding of structure-function relationships in normal and pathological mammalian tissues. The course will cover the applications of engineering design concepts and molecular cell biology to understand the development of biological substitutes to restore, maintain or improve tissue/organ function. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10220</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Paul 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B, CBE 2221A/B, CBE 3322A/B, CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10220</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Paul 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2290A/B, CBE 2221A/B, CBE 3322A/B, CBE 3324A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>10221</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-2202 
+											</td>
+<td>
+		                                        A. Paul 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4425 - BIOCHEM &amp; ENV ENGINEER PROJECT</h4>
+<p class="font-md"><b>Course Description:</b> Selection and investigation of a biochemical engineering problem. Analytical and/or experimental work is carried out by individual students under the supervision of a faculty member. Progress reports, a final engineering report and a public lecture are required. It is the responsibility of the student to identify a supervisor and suitable engineering problem for investigation before registering in the course.
+
+Antirequisite(s): GPE 4415, CBE 4415, CEE 4440, MME 4410.
+
+Extra Information: 6 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6919</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 4 CHEMICAL ENGINEERING STUDENTS IN THE BIOCHEM OPTION. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Completion of third year of the Chemical Engineering program with a minimum 78% third year term average and permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4428A - INTRO TO NANOENGINEERING</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to fundamental concepts in nanoengineering, emphasizing limitations of macroscale models and presenting alternative molecular approaches to the engineering of nanoscale systems.
+
+Extra Information: 3.0 lecture hours, 1.0 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9807</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 2277A/B or Applied Mathematics 2276A/B; CBE 2214A/B or MME 2204A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9807</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Applied Mathematics 2277A/B or Applied Mathematics 2276A/B; CBE 2214A/B or MME 2204A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>9808</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        M. Boutilier 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4432A - ENERGY &amp; FUELS PRD SYSTEMS</h4>
+<p class="font-md"><b>Course Description:</b> This course introduces students to different sources of energy and fuels and their production systems, operations, feedstock and products characteristics. Description of main conversion processes and their evolution will be discussed in the context of environmental and economic considerations. Current trends and future of the industry will be addressed.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8202</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Prakash 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2206A/B, CBE 3315A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8202</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Prakash 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2206A/B, CBE 3315A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8202</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        A. Prakash 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2206A/B, CBE 3315A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>8203</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												SEB-2094 
+											</td>
+<td>
+		                                        A. Prakash 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4485B - ENERGY AND SOCIETY</h4>
+<p class="font-md"><b>Course Description:</b> Energy is the greatest challenge facing humanity in the 21st century. This course will cover the historical aspects of energy conversion and use by humans, the types of energy available (including both renewable and non-renewable), their conversion to useful forms of energy, conversion efficiency, and cost of conversion. A very important aspect of the course is the environmental effect of energy conversion. The atmospheric pollution by greenhouse gases as well as conventional pollutants during energy conversion will be discussed. The main methods of pollution reduction by power industries will be presented.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8204</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8204</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												HSB-9 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>8205</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SEB-2099 
+											</td>
+<td>
+		                                        D. Karamanev 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4493B - POLYMER ENGINEERING</h4>
+<p class="font-md"><b>Course Description:</b> The basics of polymer science and engineering are covered. The theory of macromolecules, macromolecular chemistry and fundamentals of polymerization are discussed. Specific manufacturing processes and polymer types are considered.
+
+Antirequisite(s): Chemistry 3320A/B, the former CBE 3392A/B. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10222</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												AHB-1B02 
+											</td>
+<td>
+		                                        P. Charpentier<br/>
+		                                            A. Hrymak<br/>
+</td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2207A/B or Chemistry 2213A/B and Chemistry 2223B or the former Chemistry 2216, or GPE 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10222</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SH-3307 
+											</td>
+<td>
+		                                        P. Charpentier<br/>
+		                                            A. Hrymak<br/>
+</td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2207A/B or Chemistry 2213A/B and Chemistry 2223B or the former Chemistry 2216, or GPE 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>10223</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												SH-3307 
+											</td>
+<td>
+		                                        A. Hrymak<br/>
+		                                            P. Charpentier<br/>
+</td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4497 - CHEMICAL PROCESS &amp; PLNT DESIGN</h4>
+<p class="font-md"><b>Course Description:</b> A design is prepared for a full-scale chemical process. This involves the detailed design of all major pieces of equipment, an estimate of the requirements for new materials and energy, and a calculation of total costs. Problem formulation, alternative design solutions and professional decision making are emphasized.
+
+Antirequisite(s): GPE 4497, CEE 4441, ECE 4416, MME 4499, SE 4450, ES 4499, MSE 4499, ECE 4415.
+
+Extra Information: 2 lecture hours, 3 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3710</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SH-2317 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO YR 4 CHEMICAL ENGINEERING STUDENTS AND YR 4 CHEMICAL/HBA STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 2220A/B, CBE 2224A/B, CBE 3315A/B, CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, and CBE 3318A/B and CBE 3319A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>6918</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>10:00 PM</td>
+<td>
+												SH-3355 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>11985</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												TC-205 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>11986</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												TC-205 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>11987</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												TC-205 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CBE 4498 - BIOCHEM PROCESS &amp; PLANT DESIGN</h4>
+<p class="font-md"><b>Course Description:</b> A design is prepared for a full-scale biochemical process. This involves the detailed design of all major pieces of equipment, an estimate of the requirements for new materials and energy, and a calculation of total costs. Problem formulation, alternative design solutions and professional decision making are emphasized.
+
+Antirequisite(s): CBE 4497, CEE 4441, ECE 4415, ECE 4416, ES 4499, GPE 4497, MME 4499, MSE 4499, SE 4450.
+
+Extra Information: 2 lecture hours, 3 tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8206</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SH-2317 
+											</td>
+<td>
+		                                        S. Barghi 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): CBE 3315A/B, CBE 3318A/B, CBE 3319A/B, CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, CBE 3330A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>8207</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												LWH-2210 
+											</td>
+<td>
+		                                        S. Barghi<br/>
+		                                            A. Prakash<br/>
+</td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>11988</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												LWH-2205 
+											</td>
+<td>
+		                                        S. Barghi<br/>
+		                                            A. Prakash<br/>
+</td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

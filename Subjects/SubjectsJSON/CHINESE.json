@@ -1,0 +1,911 @@
+{
+  "Name": "Chinese",
+  "Code": "CHINESE",
+  "Courses": [
+    {
+      "Name": "CHINESE 1150 - BEGINNERS' CHINESE I",
+      "Description": [
+        "An introduction to oral and written standard Chinese for students with no previous knowledge of the language and no previous exposure to Chinese culture. Students will learn approximately 400 characters, 40 sentence structures, basic grammar, and will be able to write short passages and conduct brief, informal dialogues. The pinyin romanization system will be introduced. Prepares students for progression to Chinese 2250. ",
+        "Antirequisite(s): Chinese 1151, Chinese 1152A/B, Chinese 1153A/B, Grade 12U Chinese or equivalent.",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2004",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "Y. Lu",
+          "Notes": [
+            "FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ ",
+            "REQUISITES: Prerequisite(s): Permission of the department."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 1151 - CHINESE I",
+      "Description": [
+        "An introduction to oral and written standard Chinese for students with no previous knowledge of the language. Students will learn approximately 400 characters, 40 sentence structures, basic grammar, and will be able to write short passages and conduct brief, informal dialogues. The pinyin romanization system will be introduced. ",
+        "Antirequisite(s): Chinese 1150, Chinese 1152A/B, Chinese 1153A/B; Grade 12U Chinese or equivalent.  ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2364",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W112",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ ",
+            "REQUISITES: Prerequisite(s): Permission of the department."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 1650G - PERSPECTIVES ON CHINA",
+      "Description": [
+        "An examination of China as it emerges in the era of globalization. Contents include territory, people, society, language, science and technology, development and sustainability. Analysis of dominant and diverse realities will provide an essential basis for an appreciation of continuity and change in China. Students will learn how to access major sources of information and critically to evaluate perspectives and debates. Taught in English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2054",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "Y. Zhang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2054",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "Y. Zhang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 1651F - CHINESE SYMBOLS & ICONS",
+      "Description": [
+        "This course surveys traditional symbols and icons still prevalent in China's everyday life, ranging from \"yin-yang\", \"dragon\", \"mandarin ducks\" and \"the double-happiness\", to \"the three stars\", \"Lord Guan\" and \"Avalokitesvara\" (Guanyin). Treating these symbols and icons as image-signifiers, the course illustrates the socio-historical contexts that have shaped major symbolism in China. Students will gain a basic understanding of Chinese culture and develop skills in critical examination of cultural phenomena. Taught in English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2036",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H221",
+          "Instructor": "G. Liu",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2036",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H221",
+          "Instructor": "G. Liu",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2240F - UNDRSTNDNG CHNSE BUS CULTURE 1",
+      "Description": [
+        "An intensive study of contemporary language and socio-cultural issues and topics involved in domestic and international businesses in China. Discussion of selected readings from print and internet resources will help the student to gain language and cultural skills crucial to understanding business interactions in China. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2037",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2037",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2241G - UNDRSTNDNG CHNSE BUS CULTURE 2",
+      "Description": [
+        "An intensive study of spoken and non-verbal communication and practices in the cultural context of contemporary Chinese business. Discussion of real cases will help the student to develop an awareness of cultural nuances involved in doing business with the Chinese in China.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2038",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2038",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2242F - RPRSNTV WRKS IN TRAD CHNSE LIT",
+      "Description": [
+        "A survey of major works of prose by pre-modern Chinese writers. This course focuses on reading texts and analyzing their textual structure, aesthetic values, and historical contexts. Attention will also be paid to the evolution of the Chinese language from the Classical to the vernacular.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1934",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1934",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2244G - RPRSNTATV WRKS MOD CHINESE LIT",
+      "Description": [
+        "A survey of major works of prose by modern Chinese writers. Selected works will be discussed in relation to the writers' ideas of political involvement, social change, revolution and the function of literature. Events that have shaped modern Chinese history and society will also be examined.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2089",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2089",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2245F - CINEMA IN THE CHINESE MAINLAND",
+      "Description": [
+        "This course examines representative films produced in major historical periods in the Chinese Mainland, with an emphasis on issues of nationalism and national identity, as well as cultural, social, and political changes occurred and are occurring in 20th century and contemporary China.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2099",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "L. He",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2246G - CHINESE CINEMA IN TAIWAN & HK",
+      "Description": [
+        "This course examines representative films produced in major historical periods in Taiwan and Hong Kong, with an emphasis on issues of nationalism and national identity, as well as cultural, social, and political changes occurred and are occurring in 20th century and contemporary Taiwan and Hong Kong.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2098",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "L. He",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2247F - CHINESE CITIES & CHINESE CLTR",
+      "Description": [
+        "In an interdisciplinary approach, this course will examine major ancient and modern Chinese cities, with a focus on the city's form and function as an aesthetic symbol in Chinese culture, exploring the city's significant role in the making of China's cultural identity.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2365",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2365",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2250 - BEGINNERS' CHINESE 2",
+      "Description": [
+        "A course in standard Chinese and a continuation of Chinese 1150. Students will build on skills in reading, writing, and speaking developed in earlier courses. They will gain an increased vocabulary (approximately 1000 characters) and a greater understanding of more complex grammatical structures. The pinyin romanization system will be used.",
+        "Antirequisite(s): Chinese 2252A/B, Chinese 2253A/B. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2035",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "L. He",
+          "Notes": [
+            "FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ ",
+            "REQUISITES: Prerequisite(s): Chinese 1150 or Chinese 1151, or permission of the department."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2601A - POL & SCL-ECON FND MOD CHINA",
+      "Description": [
+        "A survey of the social, political, and economic factors that shape modern China. Taught in English.",
+        "Antirequisite(s): The former Centre of Global Studies 2202A/B. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2090",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2090",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2602B - CULTURAL FND OF MODERN CHINA",
+      "Description": [
+        "A survey of the artistic, philosophical, and religious factors that shape modern China. Taught in English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2366",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2366",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 2650G - FIC & TRD CHINESE SOCIETY",
+      "Description": [
+        "A study of the philosophical, cultural, and political aspects of traditional Chinese society through the reading of narrative texts, short stories, and novels. Literature of various genres and historical periods will be considered to illustrate the thought patterns, popular beliefs, and daily lives characteristic of traditional China. Taught in English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11551",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11551",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3340A - BUSINESS CHINESE I",
+      "Description": [
+        "This course is intended for students who can read and write Modern Standard Chinese. Students will develop specific knowledge and skills in business communication in Chinese. Business etiquette and protocol will be discussed. Translation and competence in interpretation will be fostered by the study of business terms, documents, and practices. ",
+        "Extra Information: 4 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2005",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3341B - BUSINESS CHINESE 2",
+      "Description": [
+        "This course is intended for students who can read and write Modern Standard Chinese. Students will study business terms, communication styles and formats, and acquire linguistic and cultural knowledge for conducting business in Chinese. Students will develop competence through practical experience in reading and writing market reports and analysing contracts. ",
+        "Extra Information: 4 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2368",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "C. Gordon",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3350 - CHINESE 3",
+      "Description": [
+        "A third-level course in standard Chinese. Advanced conversation, written composition, listening and speaking skills, and translation techniques will be emphasized. Students will learn all the basic grammatical patterns and gain a larger vocabulary (approximately 1600 characters). Selections from newspapers and short essays will be incorporated.",
+        "Antirequisite(s): Chinese 3352A/B, Chinese 3353A/B. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2091",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "L. He",
+          "Notes": [
+            "FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ ",
+            "REQUISITES: Prerequisite(s): Chinese 2250 or permission of the department."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3655G - CHINESE THEATRE & CULTURE",
+      "Description": [
+        "This course will offer an overview of traditional Chinese theatre from the 13th Century to the early 20th Century. Seeing traditional Chinese theatre as a form of popular entertainment developed across ages in its changing cultural contexts, this course will discuss a number of themes prevalent in Chinese theatre, with special attention to their economic and socio-political backgrounds, as well as their ideological implications. Literary and performing conventions of traditional Chinese theatre will also be examined. Taught in English."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2369",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2369",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "G. Liu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3951G - SPECIAL TOPIC IN CHINA STUDIES",
+      "Description": [
+        "Topics selected by the instructor. Consult the Department of French and Asian Studies.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2370",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "Y. Lu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2370",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "Y. Lu",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 3952F - SPECIAL TOPIC IN CHINA STUDIES",
+      "Description": [
+        "Topics selected by the instructor. Consult the Department of French and Asian Studies.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2371",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2371",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE ",
+            "REQUISITES: Prerequisite(s): 1.0 Essay course from Category A or B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 4440A - BUSINESS TRANSLATION 1",
+      "Description": [
+        "English and Chinese translation with fundamentals of theory and practice for oral and written business-oriented communication. Reflective conversation and intensive practice sessions help students obtain insights and techniques to avoid common translation pitfalls and to develop the skills for more natural and accurate translations in business Chinese and English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2032",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Chinese 3340A/B or Chinese 3341A/B or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2032",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Chinese 3340A/B or Chinese 3341A/B or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CHINESE 4441B - BUSINESS TRANSLATION 2",
+      "Description": [
+        "Chinese and English translation to deepen understanding of theory and to enhance language proficiency in business-oriented communication. This course continues Chinese 4440A/B Business Translation 1. Students build competence through analyzing texts and deploying strategies to resolve issues encountered in translating a variety of authentic and increasingly complex business documents.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2158",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W108",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Chinese 4440A/B or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2158",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W108",
+          "Instructor": "Y. Zhang",
+          "Notes": [
+            "PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Chinese 4440A/B or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

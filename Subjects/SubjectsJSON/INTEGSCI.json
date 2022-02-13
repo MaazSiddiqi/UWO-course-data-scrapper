@@ -1,0 +1,439 @@
+{
+  "Name": "Integrated Science",
+  "Code": "INTEGSCI",
+  "Courses": [
+    {
+      "Name": "INTEGSCI 1000Z - EVOLUTION SCIENTIFIC PROCESS",
+      "Description": [
+        "A focused analysis of classic experiments and how the scientific process has changed over time. Students will engage in understanding seminal discoveries by learning the underlying science and studying experimental design. The course will also discuss how complex and challenging problems facing humanity today require an integrated approach.",
+        "Extra Information: 2 lecture hours, 2 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7281",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-3315",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 1 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 1001X - EXPLORING THE LANDSCAPE OF SCI",
+      "Description": [
+        "Foundational topics of biology, chemistry, computer science, earth science and physics learned through an integrated problem-based approach. Small-group interactions and integrated laboratory experiments will foster teamwork and develop problem-solving and critical-thinking skills. The importance of mathematical approaches and the use of statistics will be emphasized throughout the course. ",
+        "Antirequisite(s): Chemistry 1302A/B; Physics 1102A/B, Physics 1202A/B, and Physics 1502A/B, and the former Physics 1029A/B, and the former Physics 1302A/B; Biology 1002B; Mathematics 1225A/B, and Calculus 1301A/B and Calculus 1501A/B.",
+        "Extra Information: 12 lecture hours and 12 laboratory/tutorial hours per week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7282",
+          "Days": [
+            "M",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-106",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 1 of the Western Integrated Science program and a minimum of 60% in each of Calculus 1000A/B or Calculus 1500A/B; Chemistry 1301A/B; and Physics 1201A/B or Physics 1501A/B or the former Physics 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7282",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-106",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 1 of the Western Integrated Science program and a minimum of 60% in each of Calculus 1000A/B or Calculus 1500A/B; Chemistry 1301A/B; and Physics 1201A/B or Physics 1501A/B or the former Physics 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7282",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-106",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 1 of the Western Integrated Science program and a minimum of 60% in each of Calculus 1000A/B or Calculus 1500A/B; Chemistry 1301A/B; and Physics 1201A/B or Physics 1501A/B or the former Physics 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "7303",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "LAB 002 INCLUDES LABS M W 1:30-4:30 PM AND TUTORIALS TU TH 1:30-3:30 PM."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "7303",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HSB-9",
+          "Instructor": ".",
+          "Notes": [
+            "LAB 002 INCLUDES LABS M W 1:30-4:30 PM AND TUTORIALS TU TH 1:30-3:30 PM."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "7304",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": ".",
+          "Notes": [
+            "LAB 003 INCLUDES LABS TU TH 1:30-4:30 PM AND TUTORIALS M W 1:30-3:30 PM."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "7304",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "LAB 003 INCLUDES LABS TU TH 1:30-4:30 PM AND TUTORIALS M W 1:30-3:30 PM."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 2001F - SUSTAINABILITY & ENVIRONMENT",
+      "Description": [
+        "An exploration of socio-scientific issues facing humanity, including climate change, world hunger, energy/water availability and habitat loss. The interdisciplinary nature and interconnectivity of these issues will be discussed. Students will access the scientific literature and government reports, critically",
+        "evaluate the data presented and use it to develop cogent arguments. ",
+        "Antirequisite(s): Environmental Science 1021F/G.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7858",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "UCC-56",
+          "Instructor": "T. Hain",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 2 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7859",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-56",
+          "Instructor": "T. Hain",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 2002B - BIG DATA & MATH MODELLING",
+      "Description": [
+        "Introduction to the tools and techniques used to manage, process and analyze large data sets enabling scientists to identify relevant information more quickly. Data visualization and mathematical modeling techniques will also be discussed. Assignments will use data from research programs at Western and local companies helping them address important questions.",
+        "Antirequisite(s): Computer Science 2034A/B, Computer Science 2035A/B.",
+        "Extra Information: 2 lecture hours, 2 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7910",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH DATA SCIENCE 2000B. ",
+            "REQUISITES: Prerequisite(s): Enrolment in Year 2 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7911",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-11",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "7912",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 3001G - MATERIALS & BIOMATERIALS",
+      "Description": [
+        "An examination of the properties and applications of materials that are important to modern society. This includes both natural materials and synthetics including alloys, polymer/nanoparticle composites and optical and electronic materials. Team-based projects will investigate a problem related to the development, manufacture or analysis of a new material or biomaterial.",
+        "Antirequisite(s): Chemistry 3364A/B.",
+        "Extra Information: 2 lecture hours, 2 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8523",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 3 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8524",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "NCB-293",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 3002A - SCIENCE IN THE COMMUNITY",
+      "Description": [
+        "This experiential learning course will foster interaction between students and community partners regarding a specific project. Students will mobilize their classroom and laboratory knowledge in order to address questions of relevance to a local company or non-profit organization.",
+        "Extra Information: 2 lecture, 2 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8240",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "PAB-36",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 3 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8241",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8241",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 4001Y - PEER MENTORING AND LEADERSHIP",
+      "Description": [
+        "Mentorship and leadership skill development for senior WISc students. Through both formal and informal interactions with students in the first and second year of WISc, students in the course will refine a range of interpersonal and collaborative skills. Students will also attend workshops on professional development",
+        "and leadership.",
+        "Extra Information: 1 lecture hour. Pass/Fail."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9987",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in Year 4 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INTEGSCI 4999E - INTEGRATED RESEARCH PROJECT",
+      "Description": [
+        "A major experimental or theoretical project that integrates at least two scientific disciplines. Key aspects of the project will include experimental design, instrumentation, collection and analysis of data, and communication of results. Projects require co-supervision by at least two faculty members, at least",
+        "one of whom must be from the Faculty of Science. ",
+        "Antirequisite(s): Biology 4970F/G, Biology 4999E, Chemistry 4491E, Earth Sciences 4490E, Computer Science 4490Z, Physics 4999E."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9397",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "MEETING TIMES WILL BE ARRANGED IN SEPTEMBER. ",
+            "REQUISITES: Prerequisite(s): Enrolment in Year 4 of the Western Integrated Science program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

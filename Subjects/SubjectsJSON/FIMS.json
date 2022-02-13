@@ -1,0 +1,60 @@
+{
+  "Name": "FIMS",
+  "Code": "FIMS",
+  "Courses": [
+    {
+      "Name": "FIMS 3999A - INTERNSHIP",
+      "Description": [
+        "The FIMS Internship is a for-credit internship for up to four months, or a minimum of 140 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations and businesses with media-related or information-related interests, public service organizations, and community groups. ",
+        "Extra Information: Pass/Fail.",
+        "The student is required to a) complete an Internship Experience Proposal b) submit three reflection papers c) complete an internship project and portfolio, demonstrating how the experience gained through the internship relates to his/her degree coursework and d) maintain a satisfactory level of performance in the position as verified by the employer through evaluations."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9770",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "PERMISSION OF FACULTY REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Registration in the third or fourth year of either a Major or Honours Specialization module within the Faculty of Information & Media Studies, with a cumulative average of at least 70%, no more than 1.0 failure in a non-FIMS course, and no documented academic offences. Approval of, and acceptance into, an internship placement from the Faculty of Information and Media Studies. This course will count towards a Bachelor of Arts degree but will not count towards a module in FIMS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FIMS 3999B - INTERNSHIP",
+      "Description": [
+        "The FIMS Internship is a for-credit internship for up to four months, or a minimum of 140 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations and businesses with media-related or information-related interests, public service organizations, and community groups. ",
+        "Extra Information: Pass/Fail.",
+        "The student is required to a) complete an Internship Experience Proposal b) submit three reflection papers c) complete an internship project and portfolio, demonstrating how the experience gained through the internship relates to his/her degree coursework and d) maintain a satisfactory level of performance in the position as verified by the employer through evaluations."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9771",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "PERMISSION OF FACULTY REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Registration in the third or fourth year of either a Major or Honours Specialization module within the Faculty of Information & Media Studies, with a cumulative average of at least 70%, no more than 1.0 failure in a non-FIMS course, and no documented academic offences. Approval of, and acceptance into, an internship placement from the Faculty of Information and Media Studies. This course will count towards a Bachelor of Arts degree but will not count towards a module in FIMS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

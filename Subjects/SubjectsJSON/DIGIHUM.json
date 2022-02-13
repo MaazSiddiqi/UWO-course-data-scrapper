@@ -1,0 +1,573 @@
+{
+  "Name": "Digital Humanities",
+  "Code": "DIGIHUM",
+  "Courses": [
+    {
+      "Name": "DIGIHUM 2120F - DIGITAL CREATIVITY",
+      "Description": [
+        "From recent work in arts, neuroscience and business to exemplary cases of present-day creativity, this course studies and fosters innovation. It provides hands-on experience and collaborative work that will lead to the development of a creative idea into a business plan.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11319",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UCC-56",
+          "Instructor": "J. Suarez",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2126G - ETHICS FOR A DIGITAL WORLD",
+      "Description": [
+        "Through social media, computer gaming, and virtual communities, we spend a considerable portion of our lives in the digital world. What moral considerations ought to guide our conduct as digital citizens? This class will explore cases of online ethical challenges and theories that might provide some answers. ",
+        "Antirequisite(s): Philosophy 2078F/G. ",
+        "Extra Information: 3 hours, blended format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10629",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-146",
+          "Instructor": "R. Robb",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN PERSON INSTRUCTION. CROSS-LISTED WITH PHIL 2078G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2127B - CREATIVITY STUDIO",
+      "Description": [
+        "Practice and enhance your creativity with hands-on creative collaborative exercises, learning to develop a personal business plan and learning the fundamentals of solving problems with design thinking. ",
+        "Extra Information: 2 hours (1-hour lecture + 1-hour studio practice)."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11887",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Suarez",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON LABS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "11911",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "FNB-2220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "11888",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-2220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "12542",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "FNB-2220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2144B - DATA ANALYTICS: PRINCIPLES",
+      "Description": [
+        "A comprehensive and interdisciplinary introduction to data analytics using modern computing systems, with equal attention to fundamentals and practical aspects. Topics include sources of data, data formats and transformation, usage of spreadsheets and databases, statistical analysis, pattern recognition, data mining, big data, and methods for data presentation and visualization. ",
+        "Antirequisite(s): Computer Science 2034A/B.",
+        "Extra Information: 2 lecture hours, 2 laboratory/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6537",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH COMP SCI 2034B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "6538",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "6539",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "6540",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HSB-16",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "6541",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "6573",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "SSC-1032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "8111",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HSB-14",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2220A - COMPUTING & INFORMATICS I",
+      "Description": [
+        "Essential information processing skills for humanities students. Includes an introduction to programming; creating programs and scripts to address problems that arise in applied research; examples of data sets and projects drawn from different areas of the humanities and social science. No previous formal programming background required.",
+        "Antirequisite(s): Computer Science 1025A/B or Computer Science 1026A/B, Engineering Science 1036A/B, Computer Science 2120A/B. ",
+        "Extra Information: 3 lecture hours, 1 laboratory/tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5634",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NSC-1",
+          "Instructor": "D. Jones",
+          "Notes": [
+            "CROSS-LISTED WITH COMP SCI 2120A. ",
+            "REQUISITES: Prerequisite(s): Computer Science 1033A/B or Digital Humanities 1011A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5634",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NSC-1",
+          "Instructor": "D. Jones",
+          "Notes": [
+            "CROSS-LISTED WITH COMP SCI 2120A. ",
+            "REQUISITES: Prerequisite(s): Computer Science 1033A/B or Digital Humanities 1011A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5635",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HSB-236",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "5636",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B08",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11234",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": ".",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2221B - MODERN SURVIVAL SKILLS II",
+      "Description": [
+        "An overview of core data structures and algorithms in computing, with a focus on applications to informatics and analytics in a variety of disciplines. Includes lists, stacks, queues, trees, graphs, and their associated algorithms; sorting, searching, and hashing techniques. Suitable for non-Computer Science students.",
+        "Antirequisite(s): Computer Science 2210A/B, Software Engineering 2205A/B, Computer Science 2121A/B. ",
+        "Extra Information: 3 lecture hours, 1 laboratory/tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5638",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-37",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH COMP SCI 2121B. ",
+            "REQUISITES: Prerequisite(s): Digital Humanities 2220A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5638",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-37",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH COMP SCI 2121B. ",
+            "REQUISITES: Prerequisite(s): Digital Humanities 2220A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5639",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-1032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "5640",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "NCB-105",
+          "Instructor": ".",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 2223A - DIGITAL TRANSFORMATION",
+      "Description": [
+        "Conceptual and analytical tools to understand the digital momentum of an organization and learning of tools to plan its digital transformation. ",
+        "Extra Information: 2 hours (1-hour lecture + 1-hour studio practice)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11886",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "PAB-34",
+          "Instructor": "J. Suarez",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 3220A - DATABASES FOR THE HUMANITIES",
+      "Description": [
+        "A study of relational databases. Theoretical concepts will be covered, including relational algebra and relational calculus. Commercially available database systems will be used to demonstrate concepts such as Structured-Query-Language (SQL), writing code to connect and query a database, query optimization, Atomicity-Consistency-Isolation-Durability (ACID) concepts, and database design.",
+        "Antirequisite(s): Computer Science 3319A/B, Software Engineering 3352A/B, Computer Science 3120A/B. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "6191",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-110",
+          "Instructor": "L. Reid",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. CROSS-LISTED WITH CS 3319A AND CS 3120A. ",
+            "REQUISITES: Prerequisite(s): Digital Humanities 2221A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "6191",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-110",
+          "Instructor": "L. Reid",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. CROSS-LISTED WITH CS 3319A AND CS 3120A. ",
+            "REQUISITES: Prerequisite(s): Digital Humanities 2221A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 3600F - INTERNSHIP DIGITAL HUMANITIES",
+      "Description": [
+        "The Academic Internship is an unpaid, credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Digital Humanities.",
+        "Extra Information:  Pass or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship",
+        "relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11320",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department. Registration in the third or fourth year of a module in Digital Humanities, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGIHUM 3600G - INTERNSHIP DIGITAL HUMANITIES",
+      "Description": [
+        "The Academic Internship is an unpaid, credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Digital Humanities.",
+        "Extra Information:  Pass or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship",
+        "relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10003",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department. Registration in the third or fourth year of a module in Digital Humanities, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or are completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

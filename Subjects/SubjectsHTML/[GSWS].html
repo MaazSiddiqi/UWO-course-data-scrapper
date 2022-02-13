@@ -1,0 +1,5102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option selected="" value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+89   Results <br/><br/><br/>
+<h4>GSWS 1020E - INTRODUCTION TO WOMEN'S STUDIE</h4>
+<p class="font-md"><b>Course Description:</b> A survey of selected topics in the study of gender structures and the status of women in historical and cross-cultural perspective. These will include consideration of social and psychological processes by which gender identity is established in the individual, its institutional manifestations, and its articulation with class and race structures. 
+
+Extra Information: 2 lecture hours, 1 tutorial hour (Main); 3 hours, limited enrolment (Brescia, King's)</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1163</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>2:30 PM</td>
+<td>
+												KC-LH105C 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1173</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												KC-W170 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11437</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												SEB-1059 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>11439</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												TC-342 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>11440</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>11441</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SSC-3018 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>11442</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>11443</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>11444</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-34 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>TUT</td>
+<td>11445</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>011</td>
+<td>TUT</td>
+<td>11446</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>11438</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												AHB-1R40 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>020</td>
+<td>TUT</td>
+<td>11447</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>021</td>
+<td>TUT</td>
+<td>11448</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>022</td>
+<td>TUT</td>
+<td>11449</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												SH-3355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>023</td>
+<td>TUT</td>
+<td>11450</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												SH-3355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>024</td>
+<td>TUT</td>
+<td>11451</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-34 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>025</td>
+<td>TUT</td>
+<td>11452</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>026</td>
+<td>TUT</td>
+<td>11453</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>027</td>
+<td>TUT</td>
+<td>11454</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 1021F - INTRO TO SEXUALITY STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> We introduce students to current social and political issues in sexuality studies, with a focus on contemporary issues around sexuality, including formation of sexual identities, sexual practices and politics, policing of sexuality, questions of sexual diversity, and the historical and global nature of ideas and controversies around sexuality.
+
+Extra Information: 2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>200</td>
+<td>LEC</td>
+<td>5420</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        C. Roulston 
+		                                    </td>
+<td>
+		                                       BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Blended
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>5600</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UC-3225 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>5601</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-34 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>5602</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>5603</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SH-3305 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>8824</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												PAB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>8825</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>7348</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>7349</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 1022G - GENDER, JUSTICE, CHANGE</h4>
+<p class="font-md"><b>Course Description:</b> The 21st century is a period of accelerating change focused around issues of gender, justice and activism. This course will introduce students to the ways in which movements for justice and change are informed by and take up gender issues in matters of education, health, poverty, globalization, the environment, etc.
+
+Extra Information: 2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>200</td>
+<td>LEC</td>
+<td>5421</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        B. Baruah 
+		                                    </td>
+<td>
+		                                       BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Blended
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>5604</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SH-2355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>5605</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												UC-3220 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>5606</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>5607</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>5608</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-1B06 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>5609</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SH-3307 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>7350</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>7351</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												STVH-3166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>TUT</td>
+<td>5877</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												UC-1405 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>011</td>
+<td>TUT</td>
+<td>5876</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>012</td>
+<td>TUT</td>
+<td>5990</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												WSC-240 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>013</td>
+<td>TUT</td>
+<td>5991</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												UC-3220 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>014</td>
+<td>TUT</td>
+<td>12547</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												SH-2355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>015</td>
+<td>TUT</td>
+<td>12548</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SH-2355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>016</td>
+<td>TUT</td>
+<td>12549</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>017</td>
+<td>TUT</td>
+<td>12550</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>018</td>
+<td>TUT</td>
+<td>12551</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>019</td>
+<td>TUT</td>
+<td>12552</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												UC-2110 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 1023G - GAY LIFE &amp; CULTURE IN 21ST C.</h4>
+<p class="font-md"><b>Course Description:</b> Judging by the media, you would think the only issue in gay life today is same-sex marriage. This course will examine many of the other issues affecting gay men, such as sexual politics and practices, body image, health, consumer culture, social media, television and film, and intersections with race and class.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11264</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												UCC-67 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 1024F - INTR EQUITY, DIV, &amp; HMN RIGHTS</h4>
+<p class="font-md"><b>Course Description:</b> This course surveys theory and practice in the fields of equity, diversity, and human rights as they are taken up in institutional domains such as social work, education, and law and in schools of thought such as critical race studies, feminism and gender studies, sexuality studies, and disability studies.
+
+Extra Information: 2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11265</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												SSC-2036 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>11266</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>11267</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												UC-3225 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>11268</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>11269</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>11270</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												STVH-2166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>11271</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												STVH-1155 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2160A - INTIMATE RELATIONS: SEX,GND&amp;LV</h4>
+<p class="font-md"><b>Course Description:</b> Intimate Relations focuses on how expectations of intimacy and relationships rely on particular understandings of love, sex, sexuality and bodies to shape how we experience ourselves as gendered and sexual beings. The course considers how intimacy (sexual, maternal, familial, affectionate) is understood in relation to history, philosophy, health, society and popular culture.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8042</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												SEB-1200 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2161B - WOMEN AND POPULAR CULTURE</h4>
+<p class="font-md"><b>Course Description:</b> How are women represented in popular culture? Women's images in the media, from newspaper and magazines to television, film and music videos produce particular notions of what it means to be a woman, be feminine, etc. We will examine both the historical and contemporary roles of women in popular culture.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>8813</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        N. Edwards 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2162B - THE BODY</h4>
+<p class="font-md"><b>Course Description:</b> How we understand the body, whether through scientific investigation or through its representation in media, literature or art, has material effects on how people's lives and experiences are shaped. We will examine social and scientific constructions of the body, including concepts of beauty, health, fitness, sexuality, and questions of representation.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8043</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												SEB-1200 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2163A - SEX, HOW TO: SEX ED</h4>
+<p class="font-md"><b>Course Description:</b> Sex education is a controversial topic; should we even be teaching people how to have sex or how not to have sex? This course traces the history of sex education and its many controversies as well as looking at contemporary sex education practices both locally and in an international context.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>8814</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        N. Edwards 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2164A - GENDER &amp; FASHION</h4>
+<p class="font-md"><b>Course Description:</b> This course examines the world of fashion from a critical feminist perspective. Topics covered may include fashion's role in gender and sexuality identity; the relationship between women's fashions and women's liberation; the history, sociology, aesthetics of fashion; the mass production of fashion; and feminist concerns about exploitation and sweatshop labour.
+
+Extra Information: 2 lecture hours, 1 online hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>7230</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        J. Evoy 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2167B - QUEER(ING) POPULAR CULTURE</h4>
+<p class="font-md"><b>Course Description:</b> How are Queer individuals represented in popular culture? Images of 2SLGBTQ+ individuals in media, including news, film, and television, produce particular ideas of queer identity. This course examines the historical and contemporary presence of queer individuals within popular culture and popular culture produced for and by 2SLGBTQ+ people. 
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11283</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												SH-2355 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2200E - ADV. WOMEN'S ST. SURVEY</h4>
+<p class="font-md"><b>Course Description:</b> The course is divided into sections on the image of women in literature, film and art; psycho- social development; the effects of social structure on women; and differences among women. These topics are addressed from the perspective of literature, psychology, theology, sociology, etc. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>3119</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												KC-SA060 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 1020E or completion of first year university. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2205G - MAKING MEN:CRITICAL STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> This course examines how historical and contemporary constructions of masculinity have shaped our understanding of what it means to act and be male in our society. It draws on critical gender theory to interrogate how issues associated with maleness and masculinity interact with questions of race, class, gender and sexuality.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8815</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SSC-3026 
+											</td>
+<td>
+		                                        C. Ylagan 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2220E - FEMINIST THEORY &amp; PRACTICE</h4>
+<p class="font-md"><b>Course Description:</b> An examination of the implications of feminist theories and practices at work in many different disciplines, including arts, media, social sciences, health sciences, science, law. We introduce students to theoretical concepts and ask questions about the ways sex, gender and sexuality are understood and researched from a range of perspectives.
+
+Antirequisite(s): GSWS 2257E.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5422</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												UCC-56 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2225F - INTRO TO GIRLHOOD STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> This course examines social and cultural constructions of girlhood. Topics may include the commercialization of girlhood, popular culture and girls, negotiating identities, violence, sexualities, agency and activism in a globalizing world, and categories of difference. We will consider how feminism and Women's and Gender Studies have contributed to Girlhood Studies.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11284</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        M. Green-Barteet 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2240F - FOUNDATION OF FEMINIST THOUGHT</h4>
+<p class="font-md"><b>Course Description:</b> This course takes up foundational readings in the history of feminist thought from early feminists' calls for women's equality and rights to postmodern understandings of gender. The course will consider how feminist thought has emerged, developed and evolved in response to various historical, intellectual, social, political and cultural challenges.
+
+Antirequisite(s): The former Women's Studies 2250E.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12467</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												TC-342 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2243F - FEMINIST TPCS IN SEXUALITY ST</h4>
+<p class="font-md"><b>Course Description:</b> Sexuality Studies is an interdisciplinary field focusing on the history and construction of human sexualities and gender identities. Areas of investigation may include anthropology, art, health care, law, literature, popular culture, psychology, sociology, and theatre. While specific topics will vary, the course will present various feminist perspectives on human sexualities.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11701</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       TOPIC: TECHNOLOGY AND EMBODIMENT. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2244 - WOMEN AND HEALTH</h4>
+<p class="font-md"><b>Course Description:</b> This course provides an overview of historical, social, economic, political and biological influences on women's health. Using a feminist perspective, both experiential and theoretically based knowledge will be explored through the process of critical reflection.
+
+Antirequisite(s): The former Women's Studies 2154.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6277</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												FNB-1240 
+											</td>
+<td>
+		                                        J. Polzer 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH HEALTH SCIENCES 2244. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2246B - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11832</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												AHB-1B02 
+											</td>
+<td>
+		                                        V. Jara 
+		                                    </td>
+<td>
+		                                       SCREENING WILL BE HELD VIRTUALLY, LECTURE WILL BE IN-PERSON CROSS-LISTED WITH FILM 2194B AND CLC 2108B. TOPIC: WORK LITERATURE AND FILM: WOMEN AND THE ENVIRONMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2265G - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Selected topics in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11702</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       TOPIC: YOUTH ACTIVISM. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2273E - SEXUAL SUBJECTS</h4>
+<p class="font-md"><b>Course Description:</b> This interdisciplinary course focuses on sexuality as a subject of study and considers how sexuality defines individual and social subjectivity. The course will explore sexual subjects within a theoretical context and might include sexology, psychoanalysis, queer theory, feminism, the history of sexual identity, and its representation in cultural production.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11276</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2274G - INTRO TO TRANSGENDER STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> This course will focus on trans identities, history, theory and politics from the perspectives of feminist, queer, and emerging trans theory. Topics may include transphobia and oppression of trans people, sex and gender change, transvestism, gender passing, transgender children and their families, and intersectionalities with sexuality, race, class, ability, etc.
+
+Antirequisite(s): the former Women's Studies 4460F/G if taught in Winter 2013; the former Women's Studies 3343F/G if taught in Fall 2015.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11277</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												TC-341 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 1020E, or 1.0 course from GSWS 1021F/G, GSWS 1022F/G, GSWS 1023F/G, GSWS 1024F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 2283G - DESIRING WOMEN</h4>
+<p class="font-md"><b>Course Description:</b> This course uses feminist, queer and trans theory to interrogate how female sexuality and desire can be understood, both historically and within a variety of contemporary cultures. It will consider the impact that representation, socialization and medicalization have had on the way female sexual subjectivity is experienced and expressed.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11278</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												PAB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3133G - LESBIAN LIVES &amp; CULTURES</h4>
+<p class="font-md"><b>Course Description:</b> What does it mean to be a lesbian today? This course will relate contemporary forms of lesbianism to their historical antecedents and examine lesbian culture since the early 20th century. Attention will be paid to a variety of aspects of lesbian life, including intersectionality, activism, community-building, sex, art and politics.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8827</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-2B04 
+											</td>
+<td>
+		                                        C. Roulston 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3173G - INTRODUCTION TO QUEER THEORY</h4>
+<p class="font-md"><b>Course Description:</b> What is queer theory, where did it come from, how is it changing? Examining key foundational texts in queer theory, the contexts for its emergence, and debates over its contemporary usefulness and direction, students in this course will trace the development of queer theory and investigate its current applications.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11279</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												AHB-1B02 
+											</td>
+<td>
+		                                        W. Pearson 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2273E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3305F - GENDER, SEX &amp; CULTURE RESIST</h4>
+<p class="font-md"><b>Course Description:</b> While popular culture operates to naturalize and distribute dominant discourses about gender and sexuality, it is also a fertile space through which resistance can be enacted. This course examines 'common sense' representations of gender and sexuality within Western popular culture and the ways these representations have been confronted and contested.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11280</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UC-2105 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2253E or GSWS 2273E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3321G - ADV TOPICS IN FEMINIST THEORY</h4>
+<p class="font-md"><b>Course Description:</b> This course applies a wide range of feminist theories and critical practices, including queer theories, literary criticism, psychoanalysis, and postcolonial studies, to a diverse array of artistic practices, including literature, film, and the performing and visual arts.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12506</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-1B02 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or the former Women's Studies 2256E or GSWS 2257E or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3322F - ADV TOPICS IN FEMINIST THEORY</h4>
+<p class="font-md"><b>Course Description:</b> An advanced examination of the application of feminist theories and practices to topics in the social sciences. Focus will include epistemological and methodological questions raised in feminist engagement across the various social science disciplines. Topics addressed may include a range of social-economic, cultural, political, and policy issues.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12507</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or the former Women's Studies 2256E or GSWS 2257E or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3324G - CONTEMP TPCS CRITICAL RACE ST</h4>
+<p class="font-md"><b>Course Description:</b> Focusing on the changing meanings of race and racism in the twenty-first century, this course discusses and analyzes conceptual frameworks for understanding the multi-faceted and intersectional dimensions of race and racism, and examines how these inform social justice movements and other initiatives that seek to challenge institutional racism and racial violence.
+
+Antirequisite(s): the former Women's Studies 3331F/G if taught in Fall 2015.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8819</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												AHB-2B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ENGLISH 3204G AND ARTHUM 3390G. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3330F - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11704</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												PAB-36 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       TOPIC: GENDER, RACE AND REBELLION. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3333F - FEM TPCS IN SEXUALITY STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Sexuality Studies is an interdisciplinary field focusing on the history and construction of human sexualities and gender identities. Areas of investigation may include anthropology, art, health care, law, literature, popular culture, psychology, sociology, and theatre. While specific topics will vary, the course will present various feminist perspectives on human sexualities.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11703</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-2B04 
+											</td>
+<td>
+		                                        K. Korycki 
+		                                    </td>
+<td>
+		                                       TOPIC:RESISTING HOMOPHOBIA ACROSS THE GLOBE. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2273E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 3362G - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. 
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11705</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												TC-342 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       TOPIC: TOXIC MASCULINITY. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4455E - HON THESIS</h4>
+<p class="font-md"><b>Course Description:</b> Individual instruction in the selection of a topic, the preparation of materials, and the writing of a thesis in Women's Studies. 
+
+Extra Information: 3 hours. Limited enrolment.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11281</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or permission of the Department. Restricted to fourth-year Honours Gender, Sexuality, and Women's Studies students. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4458F - ADV SEM IN FEMINIST THRY &amp; PRC</h4>
+<p class="font-md"><b>Course Description:</b> Selected topics on issues connected to feminist theory and practice. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current seminar topics. 
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12168</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												AHB-1B02 
+											</td>
+<td>
+		                                        S. Brocklehurst 
+		                                    </td>
+<td>
+		                                       TOPIC: STIGMA: PEOPLE, PLACES AND POPULATIONS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4459G - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. 
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9398</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        G. Gifford 
+		                                    </td>
+<td>
+		                                       TOPIC: A BUSINESS OF PLEASURE AND PAIN: AN EXPLORATION OF SEX WORK IN CANADA . WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4461F - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings. 
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8826</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												SH-3355 
+											</td>
+<td>
+		                                        L. Cayen 
+		                                    </td>
+<td>
+		                                       TOPIC: POST-FEMINISM, ADVERTISING AND INFLUENCERS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4463F - ADV SEMINAR IN SEXUALITY ST</h4>
+<p class="font-md"><b>Course Description:</b> Selected topics on issues connected to Sexuality Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current seminar topics.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11287</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												TC-343 
+											</td>
+<td>
+		                                        W. Pearson 
+		                                    </td>
+<td>
+		                                       TOPIC: QUEER SCIENCE FICTION. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E or GSWS 2253E or GSWS 2273E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>GSWS 4464G - SPEC TOPICS IN WOMEN'S STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics of current interest in Women's Studies. Consult the Department of Gender, Sexuality, and Women's Studies and Feminist Research for current offerings.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>11282</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												FNB-1220 
+											</td>
+<td>
+		                                        B. Baruah 
+		                                    </td>
+<td>
+		                                       TOPIC: GENDER AND THE ENVIRONMENT. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): GSWS 2220E, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

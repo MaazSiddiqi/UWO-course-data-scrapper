@@ -1,0 +1,884 @@
+{
+  "Name": "Social Justice & Peace Studies",
+  "Code": "SOCLJUST",
+  "Courses": [
+    {
+      "Name": "SOCLJUST 1025F - INTRO TO SOC JUST & PEACE ST",
+      "Description": [
+        "An interdisciplinary introduction to theories and strategies for pursuing social justice and peace. The course confronts the ethical implications of the structure and ideology of globalization under capitalism, the military industrial complex, war, corporate power, inequality, poverty, labour conflict, indigenous rights, gender issues, diversity, and environmental degradation, among other issues. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "1346",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "574",
+          "Component": "LEC",
+          "Class Nbr": "1347",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "575",
+          "Component": "TUT",
+          "Class Nbr": "1368",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "576",
+          "Component": "TUT",
+          "Class Nbr": "1369",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "577",
+          "Component": "TUT",
+          "Class Nbr": "1370",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 1025G - INTRO TO SOC JUST & PEACE ST",
+      "Description": [
+        "An interdisciplinary introduction to theories and strategies for pursuing social justice and peace. The course confronts the ethical implications of the structure and ideology of globalization under capitalism, the military industrial complex, war, corporate power, inequality, poverty, labour conflict, indigenous rights, gender issues, diversity, and environmental degradation, among other issues. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1348",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1371",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1372",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1373",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W045",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 1026G - APPROACHES TO SJPS",
+      "Description": [
+        "This course provides a comprehensive survey of theoretical approaches to social justice and peace. It examines contemporary theories of justice, such as utilitarian, libertarian, distributive, procedural, religious and feminist. It examines contemporary theories of peace such as conflict resolution, pacifism, non-violence, war and humanitarian intervention. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1349",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1374",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-DL012",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1375",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-KC006",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "575",
+          "Component": "LEC",
+          "Class Nbr": "1414",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W168",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "576",
+          "Component": "TUT",
+          "Class Nbr": "1415",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "577",
+          "Component": "TUT",
+          "Class Nbr": "1416",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2278B - SP TOP IN SOCL JUSTICE & PEACE",
+      "Description": [
+        "Selected topics of current interest in Social Justice and Peace Studies. A course description will be available at time of registration. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11865",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: ECOLOGY, SPIRITUALITY AND JUSTICE. CROSS-LISTED WITH RELSTUD 2277B. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2290B - CONTEMPORARY FIRST NATIONS",
+      "Description": [
+        "This course will explore contemporary topics of concern for First Nations in Canada from common, media, and Indigenous perspectives. In exploring these topics, students will investigate the history behind these \"issues\" and will critically examine and challenge their own and common perceptions, assumptions, and mis/representations of Indigenous peoples in Canada.",
+        "Antirequisite(s): Social Justice and Peace Studies 2270A/B 2016-17 \u2013 2019-20, Anthropology 2218F/G; Indigenous Studies 2218F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11295",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2301B - SOCIAL ACTIVISM",
+      "Description": [
+        "This class exposes students to a wide range of perspectives and debates on social activism and political change. We will investigate the major theories of how political change occurs, examine several prominent case studies of how activists have changed their society, and investigate contemporary debates in Canadian activism.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1406",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2302A - BUILDING PEACE",
+      "Description": [
+        "This course examines the various ways scholars and activists define peace and the challenges faced in building peace in a world of conflict. It will explore the causes of conflict, war, and other forms of violence; various approaches to constructive transformation; and the different means of promoting peace and justice.",
+        "Antirequisite(s): Social Justice and Peace Studies 2277B if taken in 2015-16.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1440",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G; or Sociology 1020, Sociology 1020X, or Sociology 1021E; or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2303B - HUMANITARIANISM & GLB JUSTICE",
+      "Description": [
+        "This course surveys practices of humanitarian actors, focusing on the role of non-governmental organizations, civil society groups, global leaders and celebrity activism. It will compare and contrast historical responses to global crisis with contemporary attempts to make poverty history.",
+        "Antirequisite(s): Social Justice and Peace Studies 2197B if taken in 2015-16.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1441",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 2304F - SOC. NETWORK, POWER&PRIVILEGE",
+      "Description": [
+        "This course will prepare students to be aware of power relations and ethical complexities in experiential learning or practicum settings, and to be reflexive and critical about their own positions, motives and potential influence.",
+        "Antirequisite(s): The former Interdisciplinary Studies 2240F/G.",
+        "Extra Information: 3.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1508",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3210G - GLOBALIZATION & CITIZENSHIP",
+      "Description": [
+        "This course combines an investigation of global citizenship, globalization and social justice with international travel. In class, students will examine key concepts and theories in these fields. Students will apply their insights and social justice praxis during the travel. Additional costs to be borne by students.",
+        "Antirequisite(s): Social Justice and Peace Studies 3376F/G if taken in 2015-16; Sociology 3398F/G if taken in 2016-17; Sociology 3210F/G.",
+        "Extra Information: 3.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1810",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [
+            "REGISTRATION IN THIS COURSE IS BY APPROVED APPLICATION ONLY. FOR MORE DETAILS, PLEASE CHECK THE KING\u2019S DEPARTMENT OF SJPS WEBPAGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, and Social Justice and Peace Studies 2304F/G, or the former Interdisciplinary Studies 2240F/G; and permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3211G - GLOBAL NETWORKS FOR JUSTICE",
+      "Description": [
+        "This course uses international travel and in-class discussions to examine the contributions of global civil society groups to social justice. Students will explore challenges of working outside formal state institutions and evaluate possibilities for transnational partnership for social justice. Additional costs to be borne by students.",
+        "Antirequisite(s): Social Justice and Peace Studies 3374F/G if taken in 2015-16.",
+        "Extra Information: 3.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1475",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "2:00 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "REGISTRATION IN THIS COURSE IS BY APPROVED APPLICATION ONLY. FOR MORE DETAILS, PLEASE CHECK THE KING\u2019S DEPARTMENT OF SJPS WEBPAGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, and Social Justice and Peace Studies 2304F/G, or the former Interdisciplinary Studies 2240F/G; and permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3320E - WOMEN IN CIVIC LEADERSHIP",
+      "Description": [
+        "Women continue to be underrepresented in civic leadership. This course offers a unique experience for students who identify as women and are interested in becoming engaged in civic leadership and community building. Students are paired with a female civic leader to learn about the opportunities and barriers facing women.",
+        "Antirequisite(s): Social Justice and Peace Studies 3398F, Social Justice and Peace Studies 3399G in 2016-2017; Political Science 3320E.",
+        "Extra Information: 2 hours. Limited enrolment. Meeting minimum requirements does not guarantee admission to the course. Priority will be given to students registered in Political Science or Social Justice and Peace Studies at Kings; or Political Science or Leadership Studies at Brescia. Application and interview are required. Check deadlines with your Program Coordinator/Chair."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1527",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:00 PM",
+          "End Time": "5:00 PM",
+          "Location": "KC-LH220",
+          "Instructor": "J. Newman",
+          "Notes": [
+            "REGISTRATION IN THIS COURSE IS BY APPROVED APPLICATION ONLY. FOR MORE DETAILS, PLEASE CHECK THE KING\u2019S DEPARTMENT OF SJPS WEBPAGE. CROSS-LISTED WITH POLI SCI 3320E. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0, or the equivalent, from: Social Justice and Peace Studies 2301A/B, Social Justice and Peace Studies 2302A/B, Social Justice and Peace Studies 2303A/B, Social Justice and Peace Studies 2304F/G or the former Interdisciplinary Studies 2240F/G, Political Science 2230E, Political Science 2236E, Political Science 2255F/G, Leadership Studies 2233A/B, the former Dimensions Of Leadership 2233A/B, and permission of the Program Co-ordinator/Chair."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3360F - ISLAM, JUSTICE & PEACE",
+      "Description": [
+        "By exploring the religious foundations of justice and peace in Islam's theology, Sufism, and law, this course examines Muslims' conceptualizations and (successful or failed) expressions of justice and peace in historical  and modern contexts. Of particular interest will be contemporary issues of social, gender, racial, and environmental justice.",
+        "Antirequisite(s): Religious Studies 3360F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1394",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W175",
+          "Instructor": "M. Tourage",
+          "Notes": [
+            "CROSS-LISTED WITH RELIGIOUS STUDIES 3360F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G; or 1.0 essay course at the 2000-level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3365F - ALTERNATIVE DISPUTE RESOLUTION",
+      "Description": [
+        "This course examines the major methods and theories used for resolving disputes by situating Alternative Dispute Resolution [ADR] in its historical, social and legal context. It will provide a critical examination of ADR techniques and processes through cases studies and role-playing.",
+        "Antirequisite(s): Social Justice and Peace Studies Special Topics 3370 F/G (2018-19).",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1684",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3367G - EXILE AND FORCED MIGRATION",
+      "Description": [
+        "This course investigates the relationship between globalization, justice and forced migration, emphasizing experiences of the forcibly displaced around the world. The approach is thematic, engaging a variety of theories and methods to explore the causes and consequences of forced migration and possibilities for change.",
+        "Antirequisite(s): Social Justice and Peace Studies Special Topics 3371F/G (2018-19).",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1685",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105B",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3380F - JUSTICE & ALT ECO SYSTEMS",
+      "Description": [
+        "An advanced exploration of the main philosophical debates over what a just and free society should look like. We investigate the strengths and weaknesses of contemporary capitalism, and contrast it with a range of economic alternatives including social democracy, state-socialism, market socialism, universal caregiving, workplace democracy, and basic income.",
+        "Antirequisite(s): Social Justice and Peace Studies 3375F/G (if taken in 2014-15).",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1442",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W147",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G; or 1.0 course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3382G - LIVING A JUST LIFE",
+      "Description": [
+        "The first part of this course investigates a number of philosophical debates about what it means to live justly. The second part exposes students to a range of possible career paths in order to gain some insight into how one might reconcile progressive values with living in the real world.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1443",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-KC006",
+          "Instructor": "A. Larkin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G; or 1.0 course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3383G - ECOLOGICAL JUSTICE",
+      "Description": [
+        "This course critically examines ecological ideas. Students will study ecological philosophies, concepts, major environmental challenges, impacts of human experiments on the environment, as well as creative ways to develop environmentally just society where all life systems can flourish.",
+        "Antirequisite(s): Social Justice and Peace Studies Special Topics 2274A/B (2015-16), (2014-15).",
+        "Extra Information: 3.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3044",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G; or 1.0 course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3385G - ADV ALT DISPUTE RESOLUTION",
+      "Description": [
+        "This course prepares students to facilitate inter-community dialogue in times of conflict. Students will focus on the ways power, individual and community identities, race, ethnicity, gender and sexuality, along with experiences of oppression, complicate social relations, communication and understanding. Simulations, case studies and contemporary disputes/events are integrated into the curriculum.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11961",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, and Social Justice and Peace Studies 2304F/G, or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3451F - RELIGION & CONFLICT RESOLUTION",
+      "Description": [
+        "This course introduces a variety of theoretical and practical perspectives on the role religion plays in international conflict resolution and peace building. Cases involving representatives of major religious traditions will provide a basis for comparing theories and practices of resolving conflict.",
+        "Antirequisite(s): Religious Studies 3451F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1601",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W175",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "CROSS-LISTED WITH RELIGIOUS STUDIES 3451F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Third or fourth year standing in a Social Justice and Peace Studies or Religious Studies program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3452G - GLOBALIZATION JUSTICE & SPIRIT",
+      "Description": [
+        "An exploration of globalization and justice, and the spiritual resources for responding to injustice, grounded especially in Christian reflection on the theme of liberation.",
+        "Antirequisite(s): Religious Studies 3452F/G.",
+        "Extra Information: 3 lecture hours. Cross-listed with Religious Studies 3452F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3045",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": "J. Kato",
+          "Notes": [
+            "CROSS-LISTED WITH RELIGIOUS STUDIES 3452G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 3500E - COMMUNITY-BASED LEARNING",
+      "Description": [
+        "Current social justice theories/concepts applied to an actual justice-oriented service learning project which students will co-design with a partner non-profit organization. Students will develop an understanding of the interrelationship between theory and practice and critically reflect upon their roles in furthering social justice goals through placements, reflections, and discussion.",
+        "Antirequisite(s): the former Social Justice and Peace Studies 3201A/B/Y.",
+        "Extra Information: 3 hours. This course normally involves 80 hours of community placement."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1683",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W045",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Social Justice and Peace Studies 1025F/G and Social Justice and Peace Studies 1026F/G, and Social Justice and Peace Studies 2304F/G or the former Interdisciplinary Studies 2240F/G; or permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 4404F - RESEARCH SYMPOSIUM",
+      "Description": [
+        "A research seminar designed to facilitate a final year integration process in Social Justice and Peace Studies. This course will focus on an in-depth individual research project that relates to the history, and philosophical foundations of social justice and peace, while exploring the relationship between theory, research and practice.",
+        "Antirequisite(s): The former Social Justice and Peace Studies 4401F/G, the former Social Justice and Peace Studies 4402F/G and the former Social Justice and Peace Studies 4403E. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1574",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W147",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Fourth year standing in a Social Justice and Peace Studies program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCLJUST 4404G - CONTEMPORARY ISSUES",
+      "Description": [
+        "A research seminar designed to facilitate a final year integration process in Social Justice and Peace Studies. This course will focus on an in-depth individual research project that relates to the history, and philosophical foundations of social justice and peace, while exploring the relationship between theory, research and practice.",
+        "Antirequisite(s): The former Social Justice and Peace Studies 4401F/G, the former Social Justice and Peace Studies 4402F/G and the former Social Justice and Peace Studies 4403E. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1575",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Fourth year standing in a Social Justice and Peace Studies program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

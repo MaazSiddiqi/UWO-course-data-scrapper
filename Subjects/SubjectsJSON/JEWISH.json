@@ -1,0 +1,162 @@
+{
+  "Name": "Jewish Studies",
+  "Code": "JEWISH",
+  "Courses": [
+    {
+      "Name": "JEWISH 1250F - INTRO TO MODERN JEWISH THOUGH",
+      "Description": [
+        "A selective survey of various recent Jewish philosophical self-understandings, including an examination of some contemporary Jewish biblical scholarship dealing with disputed moral issues such as sexuality, reproductive issues, the position of women, capital punishment, and the environment.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2223",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "D. Conter",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2223",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "D. Conter",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "JEWISH 1370G - THE PROBLEM OF ANTI-SEMITISM",
+      "Description": [
+        "An introductory survey of some of the forms that anti-Semitic ideas have taken from the time of the later Roman Empire until today, together with an examination of some responses to those ideas by philosophers and political theorists.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2138",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-V207",
+          "Instructor": "J. Hope",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2138",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-V207",
+          "Instructor": "J. Hope",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "JEWISH 2791F - SPECIAL TOPICS IN JEWISH STUD",
+      "Description": [
+        "This course explores topics in Jewish Studies related to Jewish history and/or experience. Consult the Faculty of Arts and Social Sciences for current offerings.",
+        "Extra information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2224",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H227",
+          "Instructor": "J. Hope",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2224",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H227",
+          "Instructor": "J. Hope",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "JEWISH 4790F - SPECIAL TOPICS IN JEWISH STUD",
+      "Description": [
+        "This seminar explores topics in Jewish Art and Literature. Consult the Faculty of Arts and Social Sciences for current offerings.",
+        "Extra information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11901",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H227",
+          "Instructor": "R. Baker",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

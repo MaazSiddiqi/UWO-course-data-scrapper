@@ -1,0 +1,165 @@
+{
+  "Name": "Museum and Curatorial Studies",
+  "Code": "MCS",
+  "Courses": [
+    {
+      "Name": "MCS 2620F - GALLERY, MUSEUM & CURATORIAL",
+      "Description": [
+        "This course introduces to the ways that museums function. Class materials cover different kinds of museums, collections, and archives through case studies, debates, and problem solving. The class includes both the study of existing museums, collections, and exhibitions as well as participatory assignments and curatorial work. ",
+        "Antirequisite(s): the former VAH 2292F/G.",
+        "Extra Information: 3 hours: lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11641",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": "B. Romero Ferron",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 2908A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Art History 1640 or the former VAH 1040 or two of Art History 1641A/B \u2013 1648A/B or the former VAH 1041A/B \u2013 1045A/B or 1.0 essay course from Arts and Humanities, FIMS, or Social Science, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11642",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "LWH-2210",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MCS 3620B - INTRO TO EXHIBITION DESIGN",
+      "Description": [
+        "This course will provide a \"behind the scenes\" study of museums. By working with community partners, students will learn about collections management, conservation, funding strategies and fundraising, cultural policy, and graphic design for museums. The course promotes experiential learning and provides vital transferable skills for students aiming to work in the cultural sector.",
+        "Antirequisite(s): the former VAH 3383A/B/Y, the former VAS 3383A/B/Y.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10847",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "VAC-247",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Museum and Curatorial Studies 2620F/G or the former VAH 2292F/G, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MCS 3660B - DIGITAL TOOLS FOR ARTS PROF.",
+      "Description": [
+        "The course introduces students of art history and museum and curatorial studies to some of the basic digital tools required for professionals in the field. Topics will include: image editing and optimization, documentation and digital photography, poster and catalogue design, creating didactic panels, 360 video and photo capture, etc.",
+        "Extra Information: Pass/Fail, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11866",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "VAC-134",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ALSO HELD IN VAC 249/135. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Arts module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "MCS 3690G - SPEC TOPICS MUS & CUR STUDIES",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11757",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "VAC-249",
+          "Instructor": "A. Hoekstra",
+          "Notes": [
+            "CROSS-LISTED WITH AH 3690G AND SA 3690B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Art Module or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MCS 4605E - MUSEUM AND CURATORIAL PRACTICU",
+      "Description": [
+        "In this capstone seminar class, students work together with the professor to plan and execute a major curatorial project. This class provides essential skills and practical experience for those hoping to move into careers in the museums and culture fields. ",
+        "Antirequisite(s): the former VAH 4485E, the former VAS 4485E.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9016",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "VAC-247",
+          "Instructor": "H. Gregory",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN YRS 3&4 IN HONS SPECIALIZATION IN ART HISTORY AND MUSEUM STUDIES, MAJOR IN MUSEUM AND CURATORIAL STUDIES, OR PERMISSION OF THE DEPARTMENT. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in year 3 and 4 in Honours Specialization in Art History and Museum Studies or Major in Museum and Curatorial Studies, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

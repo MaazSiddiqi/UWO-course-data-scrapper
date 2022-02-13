@@ -1,0 +1,60 @@
+{
+  "Name": "Theological Studies",
+  "Code": "THEOLST",
+  "Courses": [
+    {
+      "Name": "THEOLST 2207F - INTRO TO SYSTEMATIC THEOLOGY",
+      "Description": [
+        "An introduction to systematic theology, its sources, methods, and authorities. Particular attention will be given to the content of Christian understanding of God, creation and humanity, and to the philosophical context in which these ideas are formulated.",
+        "Antirequisite(s): Systematic Theology 5103A. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1918",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W2",
+          "Instructor": "B. Potter",
+          "Notes": [
+            "CROSS-LISTED WITH SYS THEO 5103A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "THEOLST 3312G - CRTCL INVSTGTN THEOLGCL ETHICS",
+      "Description": [
+        "An introduction to basic themes in theology and ethics. This course will address themes in current areas of ethical and theological debate.",
+        "Antirequisite(s): Theological Ethics 5203A/B, Religious Studies 2238F/G. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1984",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "",
+          "Instructor": "H. Gruning",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

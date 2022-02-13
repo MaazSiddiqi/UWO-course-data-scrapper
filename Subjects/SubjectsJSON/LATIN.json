@@ -1,0 +1,199 @@
+{
+  "Name": "Latin",
+  "Code": "LATIN",
+  "Courses": [
+    {
+      "Name": "LATIN 1000 - INTRODUCTORY LATIN",
+      "Description": [
+        "An introduction course in Latin covering major points of grammar and syntax.",
+        "Antirequisite(s): Those students with Grade 12U level Latin must consult the Department before registering for this course. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4023",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": "D. Wood",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "4024",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": "D. Wood",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "LATIN 2000 - ADVANCED LATIN",
+      "Description": [
+        "A continuation of Latin grammar and an introduction to the works of Latin authors.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4025",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": "K. Gervais",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Latin 1000."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "LATIN 3100A - LATIN PROSE SELECTIONS",
+      "Description": [
+        "A selection of Latin prose authors.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7634",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "STVH-3166",
+          "Instructor": "D. Nousek",
+          "Notes": [
+            "CROSS-LISTED WITH LATIN 4903A. ",
+            "REQUISITES: Prerequisite(s): Latin 2000 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "LATIN 3200B - LATIN POETRY SELECTIONS",
+      "Description": [
+        "A selection of Latin poetry.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7635",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "K. Gervais",
+          "Notes": [
+            "CROSS-LISTED WITH LATION 4904B. ",
+            "REQUISITES: Prerequisite(s): Latin 2000 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "LATIN 4903A - SPECIAL TOPICS IN LATIN",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8012",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "STVH-3166",
+          "Instructor": "D. Nousek",
+          "Notes": [
+            "CROSS-LISTED WITH LATIN 3100A. ",
+            "REQUISITES: Prerequisite(s): Any 3000-level course in Latin or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "LATIN 4904B - SPECIAL TOPICS IN LATIN",
+      "Description": [
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8013",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "K. Gervais",
+          "Notes": [
+            "CROSS-LISTED WITH LATIN 3200B. ",
+            "REQUISITES: Prerequisite(s): Any 3000-level course in Latin or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "Name": "Calculus",
+  "Code": "CALCULUS",
+  "Courses": [
+    {
+      "Name": "CALCULUS 1000A - CALCULUS I",
+      "Description": [
+        "Review of limits and derivatives of exponential, logarithmic and rational functions. Trigonometric functions and their inverses. The derivatives of the trig functions and their inverses. L'Hospital's rules. The definite integral. Fundamental theorem of Calculus. Simple substitution. Applications including areas of regions and volumes of solids of revolution.",
+        "Antirequisite(s): Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 2 lecture hours, 2 tutorial hours (Main campus); 4 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3135",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-LH103",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5391",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Uren",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3218",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "3993",
+          "Days": [
+            "M",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "4411",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "3228",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "5147",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "3898",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "4489",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "4467",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "4488",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "TUT",
+          "Class Nbr": "10276",
+          "Days": [
+            "Tu",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "10277",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "TUT",
+          "Class Nbr": "10278",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "TUT",
+          "Class Nbr": "10279",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "B&GS-0153",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "TUT",
+          "Class Nbr": "10280",
+          "Days": [
+            "Tu",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "017",
+          "Component": "TUT",
+          "Class Nbr": "10281",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "018",
+          "Component": "TUT",
+          "Class Nbr": "10282",
+          "Days": [
+            "Tu",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "019",
+          "Component": "TUT",
+          "Class Nbr": "10283",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "020",
+          "Component": "TUT",
+          "Class Nbr": "10284",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "021",
+          "Component": "TUT",
+          "Class Nbr": "10285",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "022",
+          "Component": "TUT",
+          "Class Nbr": "12139",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "023",
+          "Component": "TUT",
+          "Class Nbr": "12140",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [
+            "OPEN WHEN ALL OTHER TUTORIALS ARE FULL."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 1000B - CALCULUS I",
+      "Description": [
+        "Review of limits and derivatives of exponential, logarithmic and rational functions. Trigonometric functions and their inverses. The derivatives of the trig functions and their inverses. L'Hospital's rules. The definite integral. Fundamental theorem of Calculus. Simple substitution. Applications including areas of regions and volumes of solids of revolution.",
+        "Antirequisite(s): Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 2 lecture hours, 2 tutorial hours (Main campus); 4 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1692",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-LH100",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3219",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Uren",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "10286",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2032",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "6438",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SSC-2024",
+          "Instructor": "N. Kiriushcheva",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10287",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10288",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SSC-2024",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10289",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "MC-105B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10290",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 1301A - CALCULUS II",
+      "Description": [
+        "For students requiring the equivalent of a full course in calculus at a less rigorous level than Calculus 1501A/B.  Integration by parts, partial fractions, integral tables, geometric series, harmonic series, Taylor series with applications, arc length of parametric and polar curves, first order linear and separable differential equations with applications.",
+        "Antirequisite(s): Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413.",
+        "Antirequisite(s) at Brescia, King's campus: Calculus 1501A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1691",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105B",
+          "Instructor": "J. Turnbull",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): A final mark of at least 55% in either Calculus 1000A/B or Calculus 1500A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 1301B - CALCULUS II",
+      "Description": [
+        "For students requiring the equivalent of a full course in calculus at a less rigorous level than Calculus 1501A/B.  Integration by parts, partial fractions, integral tables, geometric series, harmonic series, Taylor series with applications, arc length of parametric and polar curves, first order linear and separable differential equations with applications.",
+        "Antirequisite(s): Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413.",
+        "Antirequisite(s) at Brescia, King's campus: Calculus 1501A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3221",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "J. Adamus",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 55% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "10291",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-146",
+          "Instructor": "J. Adamus",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 55% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "10292",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "NCB-113",
+          "Instructor": "K. Nguyen",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 55% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "10293",
+          "Days": [
+            "M",
+            "W",
+            "Th",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SH-3345",
+          "Instructor": "Z. Krougly",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 55% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 1500A - CALCULUS I FOR MATH SCIENCES",
+      "Description": [
+        "An enriched version of Calculus 1000A/B. Basic set theory and an introduction to mathematical rigour. The precise definition of limit. Derivatives of exponential, logarithmic, rational trigonometric functions. L'Hospital's rule. The definite integral. Fundamental theorem of Calculus. Integration by substitution. Applications.",
+        "Antirequisite(s): Calculus 1000A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5334",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "B&GS-0165",
+          "Instructor": "G. Sinnamon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 1501B - CALCULUS II",
+      "Description": [
+        "Students who intend to pursue a degree in Actuarial Science, Applied Mathematics, Astronomy, Mathematics, Physics, or Statistics should take this course. Techniques of integration; The Mean Value Theorem and its consequences; series, Taylor series with applications; parametric and polar curves with applications; first order linear and separable differential equations with applications.",
+        "Antirequisite(s): Calculus 1301A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413.",
+        "Antirequisite(s) at Brescia, King's campus: Calculus 1301A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3220",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "3M-3250",
+          "Instructor": "M. Pinsonnault",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 60% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "3897",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "D. Jeffrey",
+          "Notes": [
+            "REQUIRES FINAL MARK OF AT LEAST 60% IN CALC 1000A/B OR 1100A/B. ",
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 2302A - INTERMEDIATE CALCULUS I",
+      "Description": [
+        "Three dimensional analytic geometry: dot and cross product; equations for lines and planes; quadric surfaces; vector functions and space curves; arc length; curvature; velocity; acceleration. Differential calculus of functions of several variables: level curves and surfaces; limits; continuity; partial derivatives; tangent planes; differentials; chain rule; implicit functions; extrema; Lagrange multipliers.",
+        "Antirequisite(s): Calculus 2502A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3226",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "T. Barron",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 55% in one of Calculus 1501A/B, Calculus 1301A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 2402A - CALCULUS W/ ANALYSIS FOR STATS",
+      "Description": [
+        "Functions of multiple variables and their differential calculus. The gradient and the Hessian. Constrained and unconstrained optimization of scalar-valued functions of many variables: Lagrange multipliers. Multidimensional Taylor series. Integrating scalar-valued functions of several variables: Jacobian transformations. Pointwise and uniform convergence. Power series.",
+        "Antirequisite(s): Calculus 2302A/B, Calculus 2502A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4732",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-141",
+          "Instructor": "K. Nguyen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, in each case with a minimum mark of 55%. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 2502A - ADVANCED CALCULUS I",
+      "Description": [
+        "Differential calculus of functions of several variables: level curves and surfaces; limits; continuity; partial derivatives; total differentials; Jacobian matrix; chain rule; implicit functions; inverse functions; curvilinear coordinates; derivatives; the Laplacian; Taylor Series; extrema; Lagrange multipliers; vector and scalar fields; divergence and curl.",
+        "Antirequisite(s): Calculus 2302A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3224",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "M. Khalkhali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B.",
+            "Pre-or Corequisite(s): Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CALCULUS 2503B - ADVANCED CALCULUS II",
+      "Description": [
+        "Integral calculus of functions of several variables: multiple integrals; Leibnitz' rule; arc length; surface area; Green's theorem; independence of path; simply connected and multiply connected domains; three dimensional theory and applications; divergence theorem; Stokes' theorem.",
+        "Antirequisite(s): Calculus 2303A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3225",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "M. Khalkhali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in Calculus 2502A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

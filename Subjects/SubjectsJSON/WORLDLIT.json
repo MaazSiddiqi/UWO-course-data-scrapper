@@ -1,0 +1,52 @@
+{
+  "Name": "World Literatures and Cultures",
+  "Code": "WORLDLIT",
+  "Courses": [
+    {
+      "Name": "WORLDLIT 1030 - EAST TO WEST & NORTH TO SOUTH",
+      "Description": [
+        "Explore the roots of today's global world through a selection of writers, artists, and works that have shaped, challenged, and connected civilizations, past and present. Study cross-cultural patterns and exchanges while on a journey of discovery that will take you from Europe to Asia, from Africa to the Americas.",
+        "Antirequisite(s): CLC 1010, CLC 1050E.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11288",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 1010."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11288",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 1010."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

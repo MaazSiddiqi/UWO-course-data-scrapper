@@ -1,0 +1,1158 @@
+{
+  "Name": "Centre for Global Studies",
+  "Code": "CGS",
+  "Courses": [
+    {
+      "Name": "CGS 1021F - INTRO TO GLOBAL CULTURE",
+      "Description": [
+        "This course explores how studies of our world are shaped by practices of and cultural contestations in mapping, narration, definition, classification, and aesthetic production, informed by historical experiences and politics of knowing. Students learn to gain critical perspectives on contemporary ideas of the world and their own locations in it.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2025",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "HC-V208",
+          "Instructor": "K. Lawless",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2025",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-V208",
+          "Instructor": "K. Lawless",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 1021G - INTRO TO GLOBAL CULTURE",
+      "Description": [
+        "This course explores how studies of our world are shaped by practices of and cultural contestations in mapping, narration, definition, classification, and aesthetic production, informed by historical experiences and politics of knowing. Students learn to gain critical perspectives on contemporary ideas of the world and their own locations in it.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2060",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H221",
+          "Instructor": "M. Franke",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2060",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H221",
+          "Instructor": "M. Franke",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 1022F - INTRODUCTION TO GLOBALIZATION",
+      "Description": [
+        "This course offers an interdisciplinary introduction to the dominant material and cultural trends under the conditions of economic globalization. Key topics are labour in the global economy, the globalization of the capitalist mode of production, transnational resource flows, responses to inequality and resistance. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2019",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "W. Russell",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2019",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "W. Russell",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 1022G - INTRODUCTION TO GLOBALIZATION",
+      "Description": [
+        "This course offers an interdisciplinary introduction to the dominant material and cultural trends under the conditions of economic globalization. Key topics are labour in the global economy, the globalization of the capitalist mode of production, transnational resource flows, responses to inequality and resistance. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1921",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "N. Golkar",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1921",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "N. Golkar",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 1023F - INTRO TO GLOBAL DEVELOPMENT",
+      "Description": [
+        "This course is an introduction to the interdisciplinary field of international development studies with the focus on investigating the notion of 'poverty'. It will examine the roles of development organizations, states and civil society in addressing globally identified development issues through the negotiation of global development agendas.",
+        "Antirequisite(s): Centre for Global Studies 2001F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1922",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-V214",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "CROSS-LISTED WITH CGS 2001F."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1922",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "CROSS-LISTED WITH CGS 2001F."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 1023G - INTRO TO GLOBAL DEVELOPMENT",
+      "Description": [
+        "This course is an introduction to the interdisciplinary field of international development studies with the focus on investigating the notion of 'poverty'. It will examine the roles of development organizations, states and civil society in addressing globally identified development issues through the negotiation of global development agendas.",
+        "Antirequisite(s): Centre for Global Studies 2001F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1933",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. McBurney",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1933",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. McBurney",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 2002F - PROBLEMS OF GLOBAL DEVELOPMENT",
+      "Description": [
+        "This course provides a comparative and theoretical examination of societies and cultures undergoing significant change and of the complex global relations between developing and industrialized areas.  It offers an interdisciplinary perspective on such issues as economic development, development indicators, gender, foreign policy, development aid, participatory development and post-development.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1970",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Centre for Global Studies 1023F/G or Centre for Global Studies 2001F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1970",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Centre for Global Studies 1023F/G or Centre for Global Studies 2001F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 2003F - DISCOURSES OF GLOBAL STUDIES",
+      "Description": [
+        "This course investigates how methods and objects of inquiry in global studies are formed in the limiting and productive interplay of ideas, language, and social/political force. Students examine how our studies of global problems are made possible in systems of communication that render us responsible for their formation and address.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2084",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W8",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2084",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W8",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 2004G - CRITIQUE OF CAPITALISM",
+      "Description": [
+        "This course explores the socio-economic form of 'capitalism', and examines the development and spread of the key features of capitalist social organization - the division of labour, private property, primitive accumulation - and examines their functioning in a rapidly globalizing world. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1938",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "W. Russell",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1938",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "W. Russell",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN A CGS MODULE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3001F - COLLABORATIVE & PARTICIPATORY",
+      "Description": [
+        "This course examines the work of formulating and collaborating in community-based projects. Students learn to recognize and respond to ethical, socio-political, institutional and epistemological dimensions of collaboration, participation and research practice in contexts characterized by forms of inequality. Students prepare a research proposal, funding application and ethics review.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2358",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H220",
+          "Instructor": "R. Shrimali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from Centre for Global Studies 2002F/G - 2004F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3001G - COLLABORATIVE & PARTICIPATORY",
+      "Description": [
+        "This course examines the work of formulating and collaborating in community-based projects. Students learn to recognize and respond to ethical, socio-political, institutional and epistemological dimensions of collaboration, participation and research practice in contexts characterized by forms of inequality. Students prepare a research proposal, funding application and ethics review.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1948",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from Centre for Global Studies 2002F/G - 2004F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3006G - CRTCL & ANTI-OPPRESSIVE METHOD",
+      "Description": [
+        "This course addresses collective and community approaches to knowledge production in the service of protecting and promoting cultural, political, and territorial integrity and self-determination. Students learn to engage with empirical research based on emancipatory goals and are introduced to how notions of antioppression, `cosmovision', and interculturalism are mobilized in research.",
+        "Antirequisite(s): the former Centre for Global Studies 3002A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2359",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from Centre for Global Studies 2002F/G - 2004F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3201G - THINK GLOBAL, ACT LOCAL",
+      "Description": [
+        "Students will engage with a local non-governmental organization where they will study a globally relevant issue. Each student will critically engage with the organization's goals and activities through a series of scholarly projects.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2143",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W102",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "PERMISSION OF THE INSTRUCTOR WILL BE REQUIRED TO MAINTAIN COURSE ENROLLMENT ",
+            "REQUISITES: Prerequisite(s): 0.5 course from CGS 2002F/G, CGS 2003F/G, CGS 2004F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3203G - GLOBAL STUDIES PARTICIPATORY",
+      "Description": [
+        "Students will participate for at least one month with community based or non-governmental organisations on projects pertaining to problems concerning Global Studies, emphasizing the cultivation of critical and practical insights into these problems. Students will engage in pre-departure preparation and post-return critical reflection, completing major academic assignments at both stages."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2021",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W102",
+          "Instructor": "C. Dakin",
+          "Notes": [
+            "PERMISSION OF THE INSTRUCTOR WILL BE REQUIRED TO MAINTAIN COURSE ENROLLMENT ",
+            "REQUISITES: Prerequisite(s): 0.5 course from CGS 2002F/G, CGS 2003F/G, CGS 2004F/G, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3509G - INDIGENOUS PPL & GLBL DISPOSS",
+      "Description": [
+        "An examination of the impact of global capitalism and neo-colonialism on territories Indigenous Peoples use and claim. The course examines strategies to secure land-based community autonomy against global dispossession. The question of the coexistence of dominant practices of global development with Indigenous ways of knowing is addressed.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2882",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W101",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2882",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W101",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3513G - NON-HEGEMONIC ECON FORMS",
+      "Description": [
+        "An examination of the function and socio-political outcomes of informal, subsistence, land-based and other allied economies in the context of global capitalism. Themes include the production of communitybased",
+        "economic autonomy, localization, place-making and alternative economic development.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2883",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "R. Shrimali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2883",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "R. Shrimali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3514F - GLOBAL RESISTANCE MOVEMENTS",
+      "Description": [
+        "An examination of the political, social and cultural foundations of resistance movements that claim a transnational, global or international scale. Cases may include: anti-globalization, environmentalism, indigenous people's rights, women's rights, human rights, Fair Trade, and alternative trade organizations.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2884",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "W. Russell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2884",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "W. Russell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3515F - GLOBAL CULTURES OF GENDERING",
+      "Description": [
+        "This course examines how material and social orders of our world are organised in practices of gendering and the normalising of social and bodily orientations. Students will engage contemporary feminist and queer theory, practical deployments of gender and orientation globally, and problems of resistance pertinent to the politics of both.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2885",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "C. Dakin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2885",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "C. Dakin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3516F - ECONOMIES OF DEVELOPMENT",
+      "Description": [
+        "This course examines alternative tools for assessing development, such as development indicators and indices (GNP/GDP, Human Development/Poverty Indices, Physical Quality of Life Index, Gender Empowerment Measure), community-based indicators, and explanations of economic development in micro and macro contexts.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2886",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2886",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3517F - DECOLONIALITY",
+      "Description": [
+        "This course explores decoloniality as a practical and analytical orientation to confrontations with the entrenched injustices identified with coloniality. The course considers decoloniality through characteristic projects, practices ",
+        "and globalized movements to decolonize knowledge, livelihoods, politics and community. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2887",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "C. Dakin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2887",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "C. Dakin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3519G - GLBL INEQUAL BASED SEXUAL DIFF",
+      "Description": [
+        "This course examines core ways in which persons and populations are situated in positions of inequality under globalization and development contexts on bases of sexual difference and differences in sexuality. Students will study the significance of these differences and will gain practice in research methods appropriate to such a focus.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2288",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W101",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2288",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W101",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3520G - OVERCOMING MGMT PARADIGMS",
+      "Description": [
+        "This course critically examines how practices of Global Development are typically reduced to problems of management and how such paradigms are problematic and incompetent with respect to the global inequalities that provoke development as a question. Students will explore alternative approaches,  seeking greater practical address of responsibilities in development work.",
+        "Antirequisite(s): the former Centre for Global Studies 3004A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2020",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2020",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "M. McBurney",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3522F - GLOBAL MOBILITIES",
+      "Description": [
+        "This course examines how we may analyse human life, globally, as in movement and as different forms of mobilities, and how it is that social, political, economic, legal, and cultural orders in the world are conditioned, at fundamental levels, by efforts to manage, shape, objectify, and discipline movement.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2888",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2888",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "K. Lawless",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3523F - LAW GLBL RLTNS & LANG OF PWR",
+      "Description": [
+        "This course examines struggles to define subjects of law and establish just rules of behaviour between them within global contexts. Students will examine and critically evaluate often conflicting efforts of movements, actors, institutions, and social groups to make lawful specific ideals or, alternatively, to delegitimise the world views of others.  ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2360",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2360",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3526G - CHALLENGING RGMS GLB CITIZENS",
+      "Description": [
+        "Examines how practices to promote global citizenship and internationalize learning respond to relations of power. Focus is given to pedagogical strategies initiated by universities, charities, and civil society organizations to situate their memberships within orders of difference. Emphasis is placed on learning critical practices of de-internationalization in global awareness.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2889",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2889",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "M. Franke",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3527G - GLOBLZD CAPITALIST AGRICULTURE",
+      "Description": [
+        "An examination of the deployment and consumption of labour, natural resources, manufactured inputs, and transportation regimes in the production of agricultural products. This course examines each of these broad themes as it is shaped by and produces capitalist social, political, and material relations.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2890",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "R. Shrimali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2890",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "R. Shrimali",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 3529F - GLOBAL GOVERNMENTALITY",
+      "Description": [
+        "Critical examinations of global institutional and state-based networks\u2019 efforts to incite governable and manageable conduct amongst persons and groups in the world who do not already conform to masculinist rationalism and individualism or orders of territory, population, and security. Emphasis is placed on recognising conditions for possible resistance to governmentality.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2891",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "M. Papadatos",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 Centre for Global Studies course at the 1000-1099 level, or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 4013F - HON SEMINAR: PLACE & MOVEMENT",
+      "Description": [
+        "Examinations of the relationships between and problems regarding geography, human territories, change, and human movement. For core themes in the current session, please see the Centre for Global Studies.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2362",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-H233",
+          "Instructor": "M. Llavaneras Blanco",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from Centre for Global Studies 3001F/G-3005F/G or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CGS 4015G - HON SEM: POWER & RESISTANCE",
+      "Description": [
+        "Examination of the relations of power and resistance, including studies of forms of oppression, hegemonic structures, and forms of organizing. For core themes in the current session, please see the Centre for Global Studies.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2363",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-H233",
+          "Instructor": "W. Russell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from Centre for Global Studies 3001F/G-3005F/G or permission of the Centre for Global Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

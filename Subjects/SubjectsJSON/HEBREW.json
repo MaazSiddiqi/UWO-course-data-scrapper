@@ -1,0 +1,301 @@
+{
+  "Name": "Hebrew",
+  "Code": "HEBREW",
+  "Courses": [
+    {
+      "Name": "HEBREW 1021B - INTRO TO MODERN HEBREW LANG",
+      "Description": [
+        "This course is an elementary course for students who have never studied the Hebrew language or those who have not studied it beyond grade 3. The course is designed to teach students the alphabet, basic grammar, syntax, and vocabulary. Course material will build basic oral and written comprehension. ",
+        "Antirequisite(s): Grades 4-12 Hebrew or equivalent. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11553",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W2",
+          "Instructor": "N. Ishai",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 1030 - HEBREW 1",
+      "Description": [
+        "A course in oral and written modern Hebrew for students with rudimentary  knowledge of the language. Prepares students for direct progression to Hebrew 2200 Hebrew 2.",
+        "Antirequisite(s): Grade 12 University-preparatory Hebrew, or equivalent level of secondary study.",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2222",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "N. Ishai",
+          "Notes": [
+            "FULL STATUS MEANS REGISTRATION IS BY INSTRUCTOR PERMISSION.  STUDENTS ARE ASKED TO COMPLETE THE FOLLOWING FORM AND SUBMIT FOR REVIEW:  https://huronuc.ca/form-centre/hebrew-course-placement-form ",
+            "REQUISITES: Prerequisite(s): Grade 12 University-preparatory Hebrew, or equivalent level of secondary study, or by permission of the faculty."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 1040A - INTRODUCTN TO BIBLICAL HEBREW",
+      "Description": [
+        "An introduction to the writing system and grammar of Biblical Hebrew for those with no previous knowledge of the language. Special attention will be paid to the noun, adjective, and participle. ",
+        "Antirequisite(s): Hebrew 1030 or Grade 4 Hebrew (or Grade 2 in Israel). ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2339",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W104",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 5040A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2339",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W104",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 5040A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 1041B - INTRO TO BIBLICAL HEBREW II",
+      "Description": [
+        "Continuation of Hebrew 1040A/B. An introduction to the grammar of Biblical Hebrew for those with little previous knowledge of the language. Special attention will be paid to forms of the verb. ",
+        "Antirequisite(s): Hebrew 1030 or Grade 6 Hebrew (or Grade 3 in Israel).",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2341",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 5041B. ",
+            "REQUISITES: Prerequisite(s): Hebrew 1040A/B or permission of the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2341",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 5041B. ",
+            "REQUISITES: Prerequisite(s): Hebrew 1040A/B or permission of the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 2200 - HEBREW 2",
+      "Description": [
+        "This course is designed to build upon skills in reading and speaking modern Hebrew, developed in earlier courses. Students will gain increased vocabulary, and a greater understanding of more complex grammatical structures.",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2010",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H227",
+          "Instructor": "N. Ishai",
+          "Notes": [
+            "REGISTRATION IS BY INSTRUCTOR PERMISSION.  STUDENTS ARE ASKED TO COMPLETE THE FOLLOWING FORM AND SUBMIT FOR REVIEW:  https://huronuc.ca/form-centre/hebrew-course-placement-form ",
+            "REQUISITES: Prerequisite(s): Hebrew 1020, Hebrew 1030, or Grade 12 University-preparatory Hebrew or equivalent, or permission of the faculty."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 3300 - ADV. MODERN HEBREW LANGUAGE",
+      "Description": [
+        "This course aims to build on the skills learned in Hebrew 2200 to improve students\u2019 competency in oral and written Modern Hebrew. Exposure to a variety of materials, including literature, poetry, articles, and films, will enable students to develop oral and written fluency.",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2287",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H227",
+          "Instructor": "N. Ishai",
+          "Notes": [
+            "REGISTRATION IS BY INSTRUCTOR PERMISSION.  STUDENTS ARE ASKED TO COMPLETE THE FOLLOWING FORM AND SUBMIT FOR REVIEW:  https://huronuc.ca/form-centre/hebrew-course-placement-form ",
+            "REQUISITES: Prerequisite(s): Hebrew 2200 or equivalent or by permission of the faculty"
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 5040A - INTRO TO BIBLICAL HEBREW",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2340",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W104",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 1040A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2340",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W104",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 1040A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HEBREW 5041B - INTRO TO BIBLICAL HEBREW",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2342",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 1041B. ",
+            "REQUISITES: Prerequisite(s): Hebrew 5040A/B or the former Hebrew 003A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2342",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "N. Meyer",
+          "Notes": [
+            "CROSS-LISTED WITH HEBREW 1041B. ",
+            "REQUISITES: Prerequisite(s): Hebrew 5040A/B or the former Hebrew 003A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

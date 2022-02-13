@@ -1,0 +1,35 @@
+{
+  "Name": "Chemical Biology",
+  "Code": "CHEMBIO",
+  "Courses": [
+    {
+      "Name": "CHEMBIO 4500E - RESEARCH PROJECT IN CHEM BIO",
+      "Description": [
+        "The major laboratory course for students in the Honours Specialization in Chemical Biology. Under the supervision of a faculty member, students will work on an independent research project, submit reports, write a thesis describing research findings and present and defend their findings in an oral seminar. Professional development activities include: skills for critical analysis of research, writing technical reports, ethics.",
+        "Antirequisite(s): Biochemistry 4483E, Biochemistry 4486E, Chemistry 4491E, the former Biochemistry 4485E.",
+        "Extra Information: 15 laboratory hours/week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5460",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": "K. Yeung",
+          "Notes": [
+            "RESTRICTED TO YEAR 4 HONORS SPECIALIZATION IN CHEMICAL BIOLOGY. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 3380G, Biochemistry 3381A and Biochemistry 3382A with marks of at least 70% in each; Chemistry 2271A, Chemistry 2272F, Chemistry 2273A, Chemistry 2374A, Chemistry 2281G, Chemistry 2283G, Chemistry 2384B; 1.0 course from: Chemistry 3371F, Chemistry 3372F/G, Chemistry 3373F, Chemistry 3374A/B; and registration in Year 4 of the Honours Specialization in Chemical Biology."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

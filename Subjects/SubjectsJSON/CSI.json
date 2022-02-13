@@ -1,0 +1,778 @@
+{
+  "Name": "Childhood & Social Institutns",
+  "Code": "CSI",
+  "Courses": [
+    {
+      "Name": "CSI 1025F - CHILDHOOD & SOCIAL INSTITUTION",
+      "Description": [
+        "An overview of the study of childhood in contemporary humanistic and social scientific disciplines. The course focuses on the concept of childhood as it is socially, historically, and culturally constructed. Emphasis is given to understanding children's perspectives, the discursive and structural position of childhood in modern culture and social institutions. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1269",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH100",
+          "Instructor": "D. Bendo",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1296",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1297",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1298",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "TUT",
+          "Class Nbr": "1299",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 1025G - CHILDHOOD & SOCIAL INSTITUTION",
+      "Description": [
+        "An overview of the study of childhood in contemporary humanistic and social scientific disciplines. The course focuses on the concept of childhood as it is socially, historically, and culturally constructed. Emphasis is given to understanding children's perspectives, the discursive and structural position of childhood in modern culture and social institutions. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1270",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-SA151",
+          "Instructor": "D. Bendo",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1300",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1301",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1302",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W178",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "TUT",
+          "Class Nbr": "1303",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "12638",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2210F - CHILDHOOD AND PUBLIC POLICY",
+      "Description": [
+        "This course examines childhood and youth as they are structured by public policies of citizenship rights, labour and education. Students are introduced to historical, ethnographic, discursive, and structural approaches as they explore how childhood and youth is produced and contested through institutional practices and policy debates.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1674",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2212G - CHILDHOOD AND THE LAW",
+      "Description": [
+        "An introduction to the study of childhood and law in Canada. By examining specific cases, statutes, treaties, and practices, students will have an opportunity to increase their understanding of the most relevant doctrines, principles, and debates about childhood in Canadian legal and political culture.",
+        "Antirequisite(s): The former Childhood and Social Institutions 2250F/G, the former Childhood and Social Institutions 2256F/G, and the former Childhood and Social Institutions 2253F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1669",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2213F - CHILDHOOD SYSTEMS AND LIFE",
+      "Description": [
+        "In this course, systems initiatives in areas such as environmental education, civic engagement, and child directed organizations are examined. Inter- and intra-generational relationships, citizenship, participation, rights, responsibilities, experiential age, and fairness constructed by children during their everyday play and work engagements with peers and adults are examined.",
+        "Antirequisite(s): The former Childhood and Social Institutions 2220F/G and the former Childhood and Social Institutions 2225F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1670",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH105A",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2214G - INTRODUCTION TO ADVOCACY",
+      "Description": [
+        "This course offers a foundation to engage in the conceptual and practical considerations of children and their place within discourses of advocacy. It offers a context for understanding the societal limitations that have defined advocacy with children, alongside a growing theoretical realisation of the value of engaging with children as \u2018participants\u2019.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3019",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH105A",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2215B - REPRESENTATIONS OF CHILDHOOD",
+      "Description": [
+        "An introduction to the structure of representations, figures, and discourses of childhood and youth in the media and in material culture.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3020",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W174",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2221A - INTERNATIONAL CHILDRENS RIGHTS",
+      "Description": [
+        "The course will take a global view of issues around children\u2019s rights internationally. It will explore how well the 1989 UNCRC has been adopted in practice over the last 30 years.",
+        "Antirequisite(s): Childhood and Social Institutions 3335F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3021",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W174",
+          "Instructor": "H. Mreiwed",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2251G - CHILDREN'S RIGHTS IN SCHOOLS",
+      "Description": [
+        "Through case studies, students will better understand the importance of the rights which have been conferred upon them and their obligation to ensure that these rights are respected in our public schools. The case studies represent real situations of rights violations, sometimes by even well-meaning educators.",
+        "Antirequisite(s): CSI 2295A/B if taken before 2015.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3022",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": "H. Mreiwed",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2292B - SP TOP IN CHILDHOOD & SOC INST",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3023",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W174",
+          "Instructor": "H. Mreiwed",
+          "Notes": [
+            "TOPIC: CHILD RIGHTS: A CRITICAL HISTORICAL CONTEXT. ",
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 2293A - SP TOP IN CHILDHOOD & SOC INST",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3024",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": "H. Mreiwed",
+          "Notes": [
+            "TOPIC: CHILDREN, CHILDHOOD AND THE MEDIA. ",
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3300F - CHILD,CITIZEN&PARTICIPAT",
+      "Description": [
+        "An examination of various attempts to include children in the decision making processes of social projects, settings, agencies and institutions. Various arguments for inclusion of children will be discussed along with an assessment of the outcomes associated with each attempt.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1243",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED IN 3RD OR 4TH YEAR CSI PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3311G - RESEARCHING CHILDHOOD",
+      "Description": [
+        "Each student will be responsible for designing a research project in the social study of childhood using ethnographic, discursive, or structural methodologies. Students will analyze literature, hypothesize research questions, and confront ethical and epistemological questions of social research with children.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1675",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": "D. Bendo",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Interdisciplinary Studies 2252F/G or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3320F - YOUTH CRIMINAL JUSTICE",
+      "Description": [
+        "Children are often required to testify in sexual and computer pornography cases. Courts are attempting to include children's perspectives on the impact of mental illness, parental incarceration and living with high risk offenders. How is the voice of the child to be heard? ",
+        "Antirequisite(s): Childhood and Social Institutions 3393A/B, if taken in 2009-10, 2010-11 or 2011-12. ",
+        "Extra Information: 3 seminar hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "10162",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 2212F/G, or by permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3340F - CHILDREN IN SEPARATION",
+      "Description": [
+        "This course examines the prescriptions and practices arising from attempts to increase child participation in separation and divorce by examining various key roles; such as, judges, lawyers, child advocates, parents and children. ",
+        "Extra Information: 3 seminar hours"
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1676",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "R. Birnbaum",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 2212F/G, or by permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3346G - CHILD PARTICIPATION IN CJS",
+      "Description": [
+        "An exploration of the Canadian criminal justice system focusing on participation of child victims and witnesses of crime. International best practices in the treatment of children in court, legislative reforms, rights, access to justice and, child friendly justice are examined.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11230",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 2212F/G, or by permission of the Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3351F - FACILITATING CHILD ADVOCACY",
+      "Description": [
+        "Childhood advocacy discourses and practices operate within institutional contexts populated by existing organizational discourses, policies, and practices often embedded in a network of interconnected agencies and groups. This course examines the enabling as well as restrictive features of the role adults play in terms of facilitating and inhibiting the planning, adoption and implementation of childhood advocacy initiatives.",
+        "Extra Information: 3 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "3026",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W164",
+          "Instructor": "S. Frankel",
+          "Notes": [
+            "REQUISITES: Prerequisite(s):  Childhood and Social Institutions 2214F/G and Enrolment in the Diploma or Certificate in Childhood and Advocacy, or third or fourth year of any CSI Program Module."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3353G - ADVOCACY WITH CHILDREN - INTL",
+      "Description": [
+        "This course examines recent changes in childhood advocacy initiatives stressing child participation in international organizations as well as in other national jurisdictions. It will offer students a practical opportunity to engage in the task of developing a child centred organization.",
+        "Extra Information: 3 seminar hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1473",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH220",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s):  Childhood and Social Institutions 2214F/G and Enrolment in the Diploma or Certificate in Childhood and Advocacy, or third or fourth year of any CSI Program Module."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3365G - CHILDHOOD, EDUCATION POLICY",
+      "Description": [
+        "An introduction to the primary debates, experiences, policies, and law confronting childhood and youth within educational institutions and programs in Canada",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3027",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 2210F/G or Childhood and Social Institutions 2212F/G; or by permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3380F - CHILD PARTICIPATION APPROACHES",
+      "Description": [
+        "Through field interventions, this course will examine various approaches to consulting children about issues affecting them, as well as ways of including the consultations in an organization\u2019s planning and decision-making processes.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "3028",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": "D. Bendo",
+          "Notes": [
+            "REQUISITES: Prerequisites(s): Registration in the third or fourth year of any CSI Module."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 3391A - SP TOP IN CHILDHOOD & SOC INST",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3029",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC004",
+          "Instructor": "H. Mreiwed",
+          "Notes": [
+            "TOPIC: INTRODUCTION TO DRAMA AS A CREATIVE MODE OF INQUIRY. ",
+            "REQUISITES: Prerequisite(s): Childhood and Social Institutions 1025F/G, or permission of the CSI Program Coordinator."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 4401F - EMERGING CHILDHOOD TOPICS I",
+      "Description": [
+        "This course will examine emerging conceptual, methodological and empirical themes and topics in the continually and rapidly developing new social studies of childhood perspective. It will also facilitate the examination of the mutual contributions of related developments in other disciplines.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1532",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": "S. Frankel",
+          "Notes": [
+            "REQUISITES: Prerequisites(s): Registration in the final year of any CSI Module."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "CSI 4402G - EMERGING CHILDHOOD TOPICS II",
+      "Description": [
+        "This course will examine emerging conceptual, methodological and empirical themes and topics in the continually and rapidly developing new social studies of childhood perspective. It will also facilitate the examination of the mutual contributions of related developments in other disciplines.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1533",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W178",
+          "Instructor": "D. Bendo",
+          "Notes": [
+            "REQUISITES: Prerequisites(s): Registration in the final year of any CSI Module."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    }
+  ]
+}

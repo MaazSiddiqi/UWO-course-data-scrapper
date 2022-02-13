@@ -1,0 +1,597 @@
+{
+  "Name": "Indigenous Studies",
+  "Code": "INDIGSTU",
+  "Courses": [
+    {
+      "Name": "INDIGSTU 1020E - INTRO TO INDIGENOUS STUDIES",
+      "Description": [
+        "An interdisciplinary survey of Indigenous issues, from academic and community perspectives including indigenous knowledge, historical background, oral history, socio-political context, arts, language and culture. Specific practical examples will be explored by researchers and community members actually engaged in their contemporary documentation and resolution. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3941",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "D. Lewis",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4097",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UCC-54A",
+          "Instructor": "D. Lewis",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "4113",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "STVH-3101",
+          "Instructor": "D. Lewis",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2104 - INTRODUCTORY MOHAWK LANGUAGE",
+      "Description": [
+        "In this unique introductory course, students will learn the basic structural framework of the Mohawk language and, through that process -- standing (metaphorically) at the \u201cedge of the woods\u201d -- will transform how they view an Indigenous culture and its traditions in a collaborative, supportive learning environment.",
+        "Antirequisite(s): The former First Nations Studies 2112.",
+        "Extra Information: 3 hour lecture."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "9693",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "9693",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2212G - CULTURES OF THE PACIFIC",
+      "Description": [
+        "Focusing on the cultures of Melanesia, Micronesia and Polynesia, this course reveals how people often understood as peripheral are at the centre of global processes. The course addresses topics including social structure, gender, politics, economies, ecologies, cosmologies, and the representation of Pacific peoples.",
+        "Antirequisite(s): Anthropology 2212F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9046",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "UC-3220",
+          "Instructor": "D. Campbell",
+          "Notes": [
+            "CROSS-LISTED WITH ANTHRO 2212G. ",
+            "REQUISITES: Prerequisite(s): Any first year Arts and Humanities or Social Science 1.0 or 0.5 Essay course."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2213F - HISTORICAL ISSUES",
+      "Description": [
+        "This course examines key issues related to the history of Indigenous peoples in Canada. The time frame covers the pre-contact era to the 1969 White Paper. Topics may include: Aboriginal rights and title; treaty-making; colonial policy development; residential schools; relocation and centralization; child welfare; and the 1969 White Paper.",
+        "Antirequisite(s): The former First Nations Studies 2217F/G, the former Anthropology 2217F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8614",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2218G - CONTEMPORARY INDIGENOUS ISSUES",
+      "Description": [
+        "This course explores the critical challenges still faced by Indigenous peoples in Canada. The material covered will be timely and relevant, including: legal and political mobilization; jurisdictional authority and self-determination; land rights and treaty relationships; the Truth and Reconciliation Commission; and the Missing and Murdered Indigenous Women and Girls inquiry.",
+        "Antirequisite(s): The former Anthropology 2218F/G. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "8460",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-67",
+          "Instructor": "K. Lewis Williams",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2233F - ARCHAEOLGY ONTARIO & GT LAKES",
+      "Description": [
+        "The prehistoric societies of Ontario and surrounding areas. Topics include the entry of humans into the New World and their arrival in Ontario; development of agriculture; appearance of historic period societies such as the Huron, Neutral and Ojibwa; impact of European settlement and economic systems on native societies.",
+        "Antirequisite(s): Anthropology 2233F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11955",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-150",
+          "Instructor": "P. Timmins",
+          "Notes": [
+            "CROSS-LISED WITH ANTHRO 2233F. ",
+            "REQUISITES: Prerequisite(s): Anthropology 1020 (formerly Anthropology 1020E), Anthropology 1025F/G and Anthropology 1026F/G or Anthropology 2100, or Indigenous Studies 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2601G - INDIGENOUS ENVIRONMENTS",
+      "Description": [
+        "The consequences of physical environmental change for Indigenous communities around the globe will be examined in relation to the processes of colonialism and environmental dispossession. Topics include: identity, culture, local economies, social functioning, food security and health.",
+        "Antirequisite(s): Geography 2411F/G. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11853",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "C. Richmond",
+          "Notes": [
+            "CROSS-LISTED WITH GEOG 2411G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from Environmental Science 1021F/G, Indigenous Studies 1020E, Geography 1100, Geography 1300A/B, Geography 1400F/G, Geography 1500F/G, Geography 2131A/B, Geography 2132A/B, Geography 2133A/B, Geography 2142A/B, Geography 2152F/G, Geography 2153A/B, Health Sciences 1001A/B, Health Sciences 1002A/B, Sociology 1020, Sociology 1021E, Sociology 1025A/B, Sociology 1026F/G, Sociology 1027A/B or enrolment in the Major in Ecosystem Health or in any of the Globalization Studies modules, or permission from the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11854",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11855",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3018",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 2919F - THE IROQUOIANS",
+      "Description": [
+        "An examination of the culture and history of the Iroquoian Peoples from European contact to present day as presented by historical and contemporary writings and interpretation of events. Students will use a combination of primary and secondary sources drawn from both Iroquoian and Non-Iroquoian traditions. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11851",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11851",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 3104 - INTERMEDIATE MOHAWK LANGUAGE",
+      "Description": [
+        "Your introduction to Iroquoian culture and tradition through the Mohawk language began when you arrived at the \u201cedge of the woods.\u201d Now, having acquired the consent of the village, you may head towards it by \u201ccrossing the fields\u201d and continuing on your learning journey of Mohawk language, culture, and tradition.",
+        "Antirequisite(s): The former Anthropology 2220E, the former First Nations Studies 2101E.",
+        "Extra Information: 3 hour lecture."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11856",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Indigenous Studies 2104."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11856",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3108",
+          "Instructor": "D. Kanatawakhon Maracle",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Indigenous Studies 2104."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 3140F - INDIGENOUS KNOWLEDGE & TRADTNS",
+      "Description": [
+        "Indigenous knowledge, as a distinctive field of study, is emerging as an important tool in the movement toward self determination and empowerment. This course will examine Indigenous beliefs, ways of knowing, and worldviews to understand their differences and similarities, while exploring contemporary expressions through a variety of sources and interpretations. ",
+        "Extra Information: 3 lecture/seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11857",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "K. Lewis Williams",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prequisite(s): Any course in Arts and Humanities or Social Science and registration in third year or higher."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 3142F - DOING RESEARCH",
+      "Description": [
+        "In this interactive course students will learn the theoretical and practical foundations for conducting research with Indigenous communities. Discussions will focus on the history of research with Indigenous peoples; ethics, especially as it relates to protocols for using Indigenous knowledge(s); Indigenous research models; research agreements; and data governance (OCAP Principle).",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11852",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "D. Lewis",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Indigenous Studies 2213F/G, or the former Anthropology 2217F/G, or the former FNS 2217F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 3722G - INDIGENOUS POLITCL & LEGAL ISS",
+      "Description": [
+        "Political and legal issues are inseparable in contemporary examinations of land use, self-determination, governance, individual and community rights. This course will examine the legal institutions and practices of traditional Indigenous cultures as well as contemporary practice. ",
+        "Antirequisite(s): Political Science 3398F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10970",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. CROSS-LISTED WITH POLITICAL SCIENCE 3398G. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from Indigenous Studies 2213F/G, Indigenous Studies 2218F/G, History 2201E, History 2205E, Law 2101, Political Science 2103A/B, Political Science 2230E, GSWS 2260, the former Anthropology 2218F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 3880F - INDIGENOUS LIT. TURTLE ISLAND",
+      "Description": [
+        "This course will introduce students to a diverse range of Indigenous storytelling practices from Turtle Island (North America), which may include oral narratives, literature, and visual and performance arts. Students will consider how these practices both shape and are shaped by specific historical and geographical contexts.",
+        "Antirequisite(s): English 3680F/G, the former English 3880F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8908",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "P. Wakeham",
+          "Notes": [
+            "CROSS-LISTED WITH ENGLISH 3680F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1000-level English or Indigenous Studies 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8908",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "P. Wakeham",
+          "Notes": [
+            "CROSS-LISTED WITH ENGLISH 3680F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1000-level English or Indigenous Studies 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 4001G - ADV SPC TOP INDIGENOUS STUDIES",
+      "Description": [
+        "Special topics of current interest in Indigenous Studies. List of special topics may be available from the Indigenous Studies office.",
+        "Extra Information: 3 seminar/lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12390",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": "C. Groat",
+          "Notes": [
+            "CROSS-LISTED WITH HISTORY 4296G. TOPIC: INDIGENOUS PEOPLES AND PUBLIC. ",
+            "REQUISITES: Prerequisite(s): Registration in any fourth year program with approval of the Director."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 4023G - RESEARCH IN INDIGENOUS STUDIES",
+      "Description": [
+        "This is an advanced community-based experiential course that combines in-class discussions with community based research. Students will train in methodologies and ethics of working with Indigenous communities. Areas of research may include but not limited to ecological restoration, land claims, self-government, education, health and wellness and urban issues.",
+        "Antirequisite(s): Geography 3000Y, Geography 3001F/G. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12482",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "D. Moser",
+          "Notes": [
+            "CROSS-LISTED WITH GEOG 3001G. ",
+            "REQUISITES: Prerequisite(s): Registration in third or fourth year Indigenous Studies with a minimum 70% average."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "INDIGSTU 4903G - INDIGENOUS RESEARCH AND METHOD",
+      "Description": [
+        "This advanced course examines the critical issues and tensions of doing research with and for Indigenous peoples.. Themes will include Indigenous methodologies (including but not limited to oral histories), and decolonizing research.",
+        "Extra Information: 3 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11858",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-41",
+          "Instructor": "K. Lewis Williams",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in any third or fourth year program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    }
+  ]
+}

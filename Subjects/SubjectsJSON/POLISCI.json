@@ -1,0 +1,4911 @@
+{
+  "Name": "Political Science",
+  "Code": "POLISCI",
+  "Courses": [
+    {
+      "Name": "POLISCI 1020E - INTRODUCTION TO POLI SCI",
+      "Description": [
+        "An introduction to the study of politics. The course focuses on ideas (including politics, power, democracy, justice, freedom), ideologies (including liberalism, conservatism, socialism, feminism), institutions (including the nation-state, constitutions, legislatures, executives, the judiciary), political mobilization (participation, elections, parties, interest groups), and research skills, emphasizing Canadian, comparative, and international examples. ",
+        "Antirequisite(s): Political Science 1021F/G, Political Science 1022F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1893",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-V214",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "552",
+          "Component": "TUT",
+          "Class Nbr": "1960",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-V207",
+          "Instructor": "N. Bradford",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "553",
+          "Component": "TUT",
+          "Class Nbr": "2092",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W112",
+          "Instructor": "N. Bradford",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "554",
+          "Component": "TUT",
+          "Class Nbr": "2093",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-V207",
+          "Instructor": "L. Scorgie-Porter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "555",
+          "Component": "TUT",
+          "Class Nbr": "2094",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "HC-V207",
+          "Instructor": "L. Scorgie-Porter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "2061",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-V210",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3575",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "NCB-101",
+          "Instructor": "",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "3577",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "3578",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-2316",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "3579",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "3580",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "3581",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-67",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "3582",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-63",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "3583",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-60",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "3584",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-65",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "TUT",
+          "Class Nbr": "3585",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-1B08",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "TUT",
+          "Class Nbr": "3586",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "017",
+          "Component": "TUT",
+          "Class Nbr": "3587",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "018",
+          "Component": "TUT",
+          "Class Nbr": "3588",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3006",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "020",
+          "Component": "TUT",
+          "Class Nbr": "3589",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B08",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "021",
+          "Component": "TUT",
+          "Class Nbr": "3590",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "022",
+          "Component": "TUT",
+          "Class Nbr": "3591",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "023",
+          "Component": "TUT",
+          "Class Nbr": "3592",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3006",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3576",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SH-3345",
+          "Instructor": "N. Narain",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "027",
+          "Component": "TUT",
+          "Class Nbr": "3593",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-60",
+          "Instructor": "N. Narain",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "028",
+          "Component": "TUT",
+          "Class Nbr": "4260",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-65",
+          "Instructor": "N. Narain",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "029",
+          "Component": "TUT",
+          "Class Nbr": "3594",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "SSC-3010",
+          "Instructor": "N. Narain",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "030",
+          "Component": "TUT",
+          "Class Nbr": "3595",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "UCC-63",
+          "Instructor": "N. Narain",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 1021F - PEOPLE, POWER AND THE STATE",
+      "Description": [
+        "This introduction to politics emphasizes how people and the state use power to achieve political aims. Students will learn essential concepts (power, authority, democracy, freedom) and influential ideologies (liberalism, conservatism, socialism, feminism, nationalism), explore our institutional landscape (legislatures, executives, the judiciary) and agents of change (parties, media, interest groups). ",
+        "Antirequisite(s): Political Science 1020E.",
+        "Extra Information: 2 hour lecture, 1 hour tutorial."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2776",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-136",
+          "Instructor": "A. Chater",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28  PRIORITY CHANGE: RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "2839",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "BR-136",
+          "Instructor": "A. Chater",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "2974",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "2975",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "2976",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "2977",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W045",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "LEC",
+          "Class Nbr": "2978",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "575",
+          "Component": "TUT",
+          "Class Nbr": "2979",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "576",
+          "Component": "TUT",
+          "Class Nbr": "2980",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-LH105C",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "577",
+          "Component": "TUT",
+          "Class Nbr": "2981",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH105C",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 1021G - PEOPLE, POWER AND THE STATE",
+      "Description": [
+        "This introduction to politics emphasizes how people and the state use power to achieve political aims. Students will learn essential concepts (power, authority, democracy, freedom) and influential ideologies (liberalism, conservatism, socialism, feminism, nationalism), explore our institutional landscape (legislatures, executives, the judiciary) and agents of change (parties, media, interest groups). ",
+        "Antirequisite(s): Political Science 1020E.",
+        "Extra Information: 2 hour lecture, 1 hour tutorial."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "2982",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Lawlor",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 1022F - GLOBAL POLITICS",
+      "Description": [
+        "This course introduces students to the study of global politics. Drawing on a range of perspectives, the course examines the most significant issues in global affairs such as war, peace, terrorism, security, diplomacy, nationalism, global justice, global environment, globalization, global governance, poverty, development, human rights, gender, and inequality.",
+        "Antirequisite(s): Political Science 1020E.",
+        "Extra Information: 2 hour lecture, 1 hour tutorial."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "2986",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": "E. Hannah",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "2987",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "2988",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "2989",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 1022G - GLOBAL POLITICS",
+      "Description": [
+        "This course introduces students to the study of global politics. Drawing on a range of perspectives, the course examines the most significant issues in global affairs such as war, peace, terrorism, security, diplomacy, nationalism, global justice, global environment, globalization, global governance, poverty, development, human rights, gender, and inequality.",
+        "Antirequisite(s): Political Science 1020E.",
+        "Extra Information: 2 hour lecture, 1 hour tutorial."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2777",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-136",
+          "Instructor": "A. Chater",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28  PRIORITY CHANGE: RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "2840",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "BR-136",
+          "Instructor": "A. Chater",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "2990",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": "E. Hannah",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "2991",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "2992",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "2993",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "2994",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Hannah",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S UNTIL JULY 28."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2101B - INTRO TO LAW AND PUBLIC POLICY",
+      "Description": [
+        "This course is designed to address a series of overarching questions about law, governance and public policy. Students will learn a variety of theoretical and methodological approaches to study law and public policy, with a focus on the application of these debates to contemporary social and political issues. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11257",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": "A. Lawlor",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2102A - CAPITALISM AND DEMOCRACY",
+      "Description": [
+        "A conceptual and historical examination of 'capitalism' and 'democracy' and of various understandings of the relationship between them. The course will examine: the relationship of capitalism and democracy to such ends as freedom, equality and justice; the economic, political and social aspects of capitalism and democracy.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "6103",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2130 - CANADIAN GOVERNMENT POLIT",
+      "Description": [
+        "A survey of the government, institutions, and political processes of Canada. ",
+        "Antirequisite(s): Political Science 2230E.",
+        "Extra Information: 3 hours. 2 hours (for King's)."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2740",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "CROSS-LISTED WITH POLISCI 2230E 530."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2740",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "CROSS-LISTED WITH POLISCI 2230E 530."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2135A - CANADA ABROAD",
+      "Description": [
+        "An analysis of significant factors in the determination of Canadian trade, defence and foreign policy; a comparison with similar determinants in other nations, where such comparisons are meaningful; the interplay of domestic and foreign considerations in the determination of national goals. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7023",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Simpson",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2140A - GLOBALIZATION",
+      "Description": [
+        "This course critically discusses the history and development of globalization and the cultural, social, religious and political impacts of an interconnected world. Topics include: global financial crisis and governance; global production and trade; rising fundamentalism and religious backlash; cultural homogeneity and westernization; global social movements and protest; global environmental issues.",
+        "Antirequisite(s): Political Science 2257; Political Science 2191A/B if taken in 2010-11 or 2011-12. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "5802",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Bousfield",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2141B - GLOBAL VIOLENCE & INJUSTICE",
+      "Description": [
+        "Lectures focus on international security issues including biological weapons, conventional warfare, environmentally-caused conflict, nuclear terrorism, and on the causes of global violence including forced migration, population growth, poverty, and underdevelopment. We discuss using deterrence, diplomacy, ",
+        "peacekeeping, and international organizations, like the UN and NATO to avert global violence. ",
+        "Antirequisite(s): Political Science 2192A/B if taken in 2012-13 or 2013-14. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "6157",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Simpson",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2142A - POLITICS & POP CULTURE",
+      "Description": [
+        "This course explores politics and popular culture through (and in) film, television, as well as digital and print media (advertisements, blogs etc.). The course will acquaint students with some major political theories, as well as examine selected issues such as capitalism, urbanism, consumerism, war, terrorism, transhumanism, technology and science. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "10608",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7643",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "N. Biswas Mellamphy",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2143A - POLITICS/MEDIA POST-TRUTH ERA",
+      "Description": [
+        "This course is designed to introduce students to the complex relationship between politics and media in different political systems. It explores how media systems operate and how they influence politics. Topics range from ownership structures (who owns the media and why it matters), to elections, infotainment, social media, and propaganda.",
+        "Antirequisite(s): Political Science 2190 if taken in 2016-17.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10958",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "M. Dyczok",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2144A - POLITICO-TAINMENT",
+      "Description": [
+        "Television is one of the means by which the pulse of politics and society is measured by political actors. This course will critically examine politics and television, focused on Canada and the US politics-focused shows. It will consider three types of political shows: political satire, political comedy, and political drama.",
+        "Antirequisite(s): Political Science 2192A/B if taken in 2017-18 or 2018-19.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10959",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "N. Narain",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2191B - SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8270",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Simpson",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2192A - SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10971",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HSB-40",
+          "Instructor": "M. Lebo",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2203F - PROBLEMS IN TRANSITIONAL JST",
+      "Description": [
+        "This course introduces students to interdisciplinary studies of transitional justice and post-conflict reconstruction, with emphasis on questions of conflict. Students will examine key concepts and explore theoretical problems in confronting and seeking solutions to the aftermath of large-scale events of social violence, including war, genocide, and authoritarian rule.",
+        "Antirequisite(s): Transitional Justice 2001F/G.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "7771",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-2202",
+          "Instructor": "S. El-Masri",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. CROSS-LISTED WITH TJ 2001F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7772",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-2202",
+          "Instructor": "S. El-Masri",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2211E - BUSINESS AND GOVERNMENT",
+      "Description": [
+        "This course examines the politics of economic issues. It focuses on the competition between free market and interventionist economic ideas and how businesses, unions, think tanks and lobby groups seek to influence government policy across various issue areas such as taxes, spending, trade, finance, regulation, the environment, recessions and competitiveness.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1186",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3596",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": "A. Harmes",
+          "Notes": [
+            "RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2225E - DEVELOPING CNTRS IN GLB POL",
+      "Description": [
+        "A study of the political, economic, and social issues related to development and underdevelopment, including development strategies, global institutions, foreign aid, state building, and democratization. The focus will be on Africa, Asia, and Latin America, supplemented by attention to specific national and regional case studies. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1276",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W170",
+          "Instructor": "T. Tieku",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2230E - CANADIAN GOVT-POLITICS",
+      "Description": [
+        "An examination of selected problems in Canadian government and politics, such as federalism, political parties and pressure groups.",
+        "Antirequisite(s): Political Science 2103A/B, Political Science 2130, Political Science 2133A/B, Political Science 2221F/G, Political Science 2223F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2741",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. CROSS-LISTED WITH POLISCI 2130 530. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2741",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. CROSS-LISTED WITH POLISCI 2130 530. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11545",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11545",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1037",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105C",
+          "Instructor": "J. Newman",
+          "Notes": [
+            "PRIORITY TO POLI SCI MODULES AT KING'S. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1170",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1496",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2231E - INTERNATIONAL RELATIONS",
+      "Description": [
+        "This course surveys contemporary world politics and examines contending theories used by scholars and policymakers to make sense of international affairs. It also provides the conceptual tools and theories to interpret the international system.",
+        "Antirequisite(s): Political Science 2131, Political Science 2231W/X.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1894",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "L. Sarkany",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON.  JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1894",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "L. Sarkany",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON.  JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2231W - INTERNATIONAL RELATIONS",
+      "Description": [
+        "This course surveys contemporary world politics and examines contending theories used by scholars and policymakers to make sense of international affairs. It also provides the conceptual tools and theories to interpret the international system. This is a 1.0 unit condensed course, meeting for 3 hours, twice weekly, for a total of 6.0 hours/week. ",
+        "Antirequisite(s): Political Science 2131, Political Science 2231E.",
+        "Extra Information: 6 hours. This course will apply the standard Senate requirements for Essay courses in classes 2000 or above (5,000 word minimum)."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "2998",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2237E - INTRO TO POLITICAL THEORY",
+      "Description": [
+        "An examination of central themes and issues in the history of political thought from ancient to modern times.",
+        "Antirequisite(s): Philosophy 2800F/G, Philosophy 2801F/G, Philosophy 2802E, Political Science 2237W/X.    ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1895",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON.  JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1895",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON.  JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2237X - INTRO TO POLITICAL THEORY",
+      "Description": [
+        "An examination of central themes and issues in the history of political thought from ancient to modern times. This is a 1.0 unit condensed course, meeting for 3 hours, twice weekly, for a total of 6.0 hours/week.",
+        "Antirequisite(s): Philosophy 2800F/G, Philosophy 2801F/G, Philosophy 2802E, Political Science 2237E.",
+        "Extra Information: 6 hours. This course will apply the standard Senate requirements for Essay courses in classes 2000 or above (5,000 word minimum)."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "2999",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W174",
+          "Instructor": "J. Grant",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2245E - INTRO COMPARATIVE POLI",
+      "Description": [
+        "Examines theoretical approaches to the study of comparative politics. The course introduces students to the methodology of comparative politics through the study of both developed and developing societies. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1902",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON.  JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1152",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1490",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2257 - GLOBAL POLITICAL ECONOMY",
+      "Description": [
+        "A comprehensive survey of the principal issues, perspectives and debates in the field of global political economy. Topics include the emergence of economic globalisation and its consequences for the environment, labour, democracy, international conflict and poverty. Alternatives to contemporary economic globalisation and contending approaches to international development are also considered.",
+        "Antirequisite(s): Political Science 3357E, Political Science 3356F/G, Political Science 3358F/G, Political Science 3365F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1974",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "D. Blair",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1974",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "D. Blair",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2270E - WOMEN AND POLITICS",
+      "Description": [
+        "This course focuses on how women participate and effect political change. It examines women's subordination and the wide-range of emancipatory struggles women have undertaken to achieve equality. ",
+        "Antirequisite(s): Political Science 2255F/G, Political Science 3207F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2216",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "C. Gaudet",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E or GSWS 1020E or registration in Honours Specialization or Major modules in Social Justice and Peace Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2216",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "C. Gaudet",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E or GSWS 1020E or registration in Honours Specialization or Major modules in Social Justice and Peace Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2279F - FAMILY POLICY IN CANADA",
+      "Description": [
+        "An examination of government policies affecting families in Canada. Areas of family policy considered include child care, parental leave, income support, tax benefits, and pension arrangements. Course reveals the importance of government for Canadian families and their successful development.",
+        "Antirequisite(s): Family Studies and Human Development 2250A/B and the former Family Studies 2250A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10191",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-304",
+          "Instructor": "Y. Asare-Bediako",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2289F - POLITICAL GAMES",
+      "Description": [
+        "A course which employs the theory of games to depict and resolve political situations involving an absence of cooperation. The prisoner\u2019s dilemma, chicken, stag hunt, and the ultimatum game are some of the games applied to such key events as trade disputes, nuclear threats, and the provision of public goods.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10984",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-MRW152",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10984",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-MRW152",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2292G - POLITICAL LEADERSHIP",
+      "Description": [
+        "An introductory course that examines the differing conceptions of leadership, the use of power in the exercise of leadership, and the skills and competencies associated with successful leaders. Also considered is the significance of leadership and its application in the past and present.",
+        "Antirequisite(s): Political Science 2290E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "11129",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-303",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "11129",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-304",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2293G - GENOCIDE,FAMINE, MASS ATROCITY",
+      "Description": [
+        "An introduction to the key theoretical frameworks and political debates in the study of genocide and other mass crimes of the state. The course provides a conceptual and historical overview, exploring cases of genocide and mass violence over the past century, their causes and consequences, and international responses.",
+        "Antirequisite(s): Political Science 2295F/G, Political Science 3394FG, if taken in 2017, 2018, Political Science 4426/G, History 3722F/G, MIT 3931F/G.",
+        "Extra Information: 2 seminar hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2446",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "L. Scorgie-Porter",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 1020E or Political Science 1021F/G or Political Science 1022F/G or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2446",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "L. Scorgie-Porter",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 1020E or Political Science 1021F/G or Political Science 1022F/G or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2294G - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2447",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "D. Lalonde",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2295F - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2448",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "K. Graham",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2295G - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2295",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "K. Graham",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2297F - CITIZENSHIP, BORDERS, STATES",
+      "Description": [
+        "With a critical focus on conceptions of citizenship and bordering practices, this course explores how contemporary domestic and global politics relate to questions of identity, belonging, territory, and sovereign power.",
+        "Antirequisite(s): Political Science 2294F/G, if taken in 2017-2018.",
+        "Extra Information: 3 lecture hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2260",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "E. Brown",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 1020E or Political Science 1021F/G or Political Science 1022F/G or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2260",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "E. Brown",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 1020E or Political Science 1021F/G or Political Science 1022F/G or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2325F - RESEARCH DESIGN IN POLISCI",
+      "Description": [
+        "This course introduces students to basic concepts and methods of research design in political science. Students will learn about how the scientific method of research can be applied to the study of human behaviour, adopting both qualitative or quantitative methods of analysis.",
+        "Antirequisite(s): Health Sciences 2801A/B, Psychology 2800E, Psychology 2820E, Psychology 2830A/B, Psychology 2840F/G, Psychology 2855F/G, Psychology 2856A/B, and Sociology 2206A/B. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10973",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "B&GS-0165",
+          "Instructor": "M. Turgeon",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO POLISCI MAJORS, HONS SPEC POLISCI, INTERNATIONAL RELATIONS, PPE-P, PPE-E, AND SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS.\u00a0WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2530F - FOUNDATIONS OF CAN GOV & POL",
+      "Description": [
+        "Canada is a country fraught with highly competitive and divergent interests and yet it continues to exist, somehow resisting the forces that should fragment and destroy it. What explains this situation? In this course, we survey the institutional and non-institutional forces that drive cooperation and conflict in Canada.",
+        "Antirequisite(s); Political Science 2230E, Political Science 2103A/B, Political Science 2130, Political Science 2133A/B, Political Science 2221F/G, Political Science 2223F/G.",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10974",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-2050",
+          "Instructor": "C. Alcantara",
+          "Notes": [
+            "RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11673",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11674",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11675",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "11676",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-61",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "11677",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "11678",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "11679",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "11680",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-61",
+          "Instructor": "C. Alcantara",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2531F - FOUNDATIONS INTERN RELATIONS",
+      "Description": [
+        "This course provides an introduction to the complexity of the international system. It considers how actors act and interact, and how the structures created at the international level mediate those relationships. The course focuses on the evolution of these interactions, with attention to the tensions between state and non-state actors.",
+        "Antirequisite(s); Political Science 2231E, Political Science 2131, Political Science 2231W/X.",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10976",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "TC-141",
+          "Instructor": "A. Harmes",
+          "Notes": [
+            "RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11665",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UC-3225",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11666",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SSC-3010",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11667",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UCC-61",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "11668",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-3305",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "11669",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-61",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "11670",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "11671",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "11672",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": "A. Harmes",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2532G - INTERNATIONAL LAW AND ORDER",
+      "Description": [
+        "This course provides an introduction to the complexity of the international system. It considers the ways in which actors are able to act and interact with one another, and how the structures that have been created at the international level mediate those relationships. The course focuses on the evolution of these interactions, paying careful attention to the tensions between state and non-state actors.",
+        "Antirequisite(s): Political Science 2231E, Political Science 2131, Political Science 2231W/X.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10977",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": "J. Quinn",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2533G - RACIALIZED INJUSTICE IN CANADA",
+      "Description": [
+        "This course explores \u2018race\u2019 as a stigmatizing force in Canadian politics and how laws and policies are constructed on the bedrock of whiteness. It examines how the racialization of Indigenous peoples, ethnoracialized groups and ethnoreligious minorities shapes contemporary controversies in the realms of law, public policy, policing and criminal justice.",
+        "Antirequisite(s): Political Science 2230E,Political Science 2103A/B, Political Science 2130, Political Science 2133A/B, Political Science 2221F/G, Political Science 2223F/G.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "12481",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "TC-141",
+          "Instructor": "C. Dick",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2537F - FOUNDATIONS POLITICAL THEORY",
+      "Description": [
+        "This course offers a topical survey of a very diverse field. It will address: (i) what is the purpose of the state? (ii) what is freedom and what are the limits of liberty? (iii) what is equality and should we pursue it? (iv) what is justice and how is it best achieved?",
+        "Antirequisite(s); Political Science 2237E, Philosophy 2800F/G, Philosophy 2801F/G, Philosophy 2802E, Political Science 2237W/X. ",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10978",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "TC-141",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11657",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "11658",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "11659",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "11660",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-3220",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "11661",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "11662",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "11663",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "11664",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2538G - ISSUES IN CONTEMP POLI THEORY",
+      "Description": [
+        "This course applies the concepts justice, equality, and liberty to relevant contemporary political issues including multiculturalism, race and sex, global justice, climate change, historical injustice, and immigration. The focus will be on teaching you how to critically review arguments and develop your own views of these matters.",
+        "Antirequisite(s): Political Science 2237E, Philosophy 2800F/G, Philosophy 2801F/G, Philosophy 2802E, Political Science 2237W/X.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10979",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-146",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2544G - FOUND OF AMERICAN GOVERN &POLI",
+      "Description": [
+        "This course introduces American politics by focusing on the Constitution, the institutions of the United States\u2019 government and the processes and bodies that determine public policies. We will cover the Constitution and the major components of the U.S. political system including elections, voters, political parties and the branches of government.",
+        "Antirequisite(s); Political Science 2244E; Political Science 2200F/G if taken in 2019-20, Political Science 2217F/G, Political Science 2239F/G.",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10972",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "ONLINE COURSE. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MODULE AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECTIVE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2545G - COMPARATIVE POLITICS",
+      "Description": [
+        "This course sets out the major themes, concepts, and approaches used in comparative politics. It undertakes systematic comparisons of political developments and institutions while providing students with an introductory look at the character of national political life in a variety of areas of the world.",
+        "Antirequisite(s); Political Science 2245E. ",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10980",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11655",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11656",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "12089",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "12090",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-3028",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "12091",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "12092",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "12093",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "12094",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3010",
+          "Instructor": "B. Morrison",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2546F - PUBLIC ADMINISTRATION",
+      "Description": [
+        "This course explores many of the inner workings of government. Students will be introduced to selected research and issues in public administration in the context of Canada\u2019s federal system. Topics include the machinery of government, the politics-administration dichotomy, intergovernmental relations, representative bureaucracy, accountability, and ethical dilemmas, among others.",
+        "Antirequisite(s); Political Science 2246E; Political Science 2201F/G if taken in 2020-21, Political Science 2146, Political Science 2218F/G.",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10981",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-37",
+          "Instructor": "J. Lyons",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E, BMOS MANAGEMENT AND LEGAL STUDIES, URBAN DEVELOPMENT, AND SCHOLARS ELECT."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11653",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-58",
+          "Instructor": "J. Lyons",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11654",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-2110",
+          "Instructor": "J. Lyons",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 2547G - POLICY PROCESS IN THEORY & PR",
+      "Description": [
+        "This course introduces students to selected theories of the policy process in the context of Canada\u2019s federal system. Students will acquire the knowledge and tools to examine government action or in-action in any policy area. An important skill set for active and informed citizenship.",
+        "Antirequisite(s): Political Science 2246E; Political Science 2201F/G if taken in 2020-21, Political Science 2146, Political Science 2218F/G.",
+        "Extra Information: 2 hours + 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10982",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": "J. Lyons",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, BMOS MANAGEMENT AND LEGAL STUDIES, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT"
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11652",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-65",
+          "Instructor": "J. Lyons",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "11651",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-2110",
+          "Instructor": "J. Lyons",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3001G - TRANSITIONAL JUSTICE",
+      "Description": [
+        "This course explores issues inherent to regions facing the aftermath of large-scale events of social violence, including war, genocide, and authoritarian rule, with an emphasis on questions of justice and post-conflict reconstruction. Students will examine specific cases of recent attempts to establish just responses to conflict within affected communities.",
+        "Antirequisite(s): Transitional Justice 3001F/G.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9127",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-2100",
+          "Instructor": "S. El-Masri",
+          "Notes": [
+            "CROSS-LISTED WITH TJ 3001G. ",
+            "REQUISITES: Prerequisite(s): Transitional Justice 2001F/G or Political Science 2203F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3201G - ISSUES IN INTERNATIONAL LAW",
+      "Description": [
+        "This course explores the political implications of international law. It examines competing approaches and considers the nature of  international law. International law is discussed in the context of contemporary issues, including dispute settlement, terrorism,  humanitarian intervention, international impunity, the law of the sea, and human rights.",
+        "Antirequisite(s): Political Science 3345E, Political Science 3369F/G.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "4592",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": "D. Bousfield",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3203F - INTERNATIONAL CRISES",
+      "Description": [
+        "This course interrogates global security issues through critical approaches, including feminist, Marxist and Gramscian, post-modern, environmentalist and post-colonial. It examines key dominant issues, such as nuclear weapons, but also alternative issues, such as racism in security policies, indigenous peoples' security, masculinity and warfare, and capitalism and the military-industrial complex.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "5752",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Simpson",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3205F - AFRICA IN WORLD POLITICS",
+      "Description": [
+        "Africa is growing in importance in International Relations. The place of Africa in world politics will be examined using the writings of prominent (mostly African) international relations theorists. As part of this, we will examine the ideas of 'Africa', the state, power, imperialism, legitimacy, institutions, and colonialism. ",
+        "Antirequisite(s): Political Science 3390F if taken in 2012-13 or 2013-14.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10983",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-37",
+          "Instructor": "R. Vandewetering",
+          "Notes": [
+            "PRIORITY TO YRS 3 & 4 POLISCI HONS SPEC MODULES, YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, AND SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS & POLISCI MAJORS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E, or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3207G - WOMEN, SEX AND POLITICS",
+      "Description": [
+        "This course explores the politics of gender, race, class and sexuality in global contexts by introducing students to the political history of women's movements, feminist political debates, political theories of gender inequality, and critical analyses of gender representations in political and social media.",
+        "Antirequisite(s): Political Science 3421F/G if taken in 2013-14 or 2014-15.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7773",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "N. Biswas Mellamphy",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY TO YRS 3 OR 4 HSP WOMEN\u2019S STUDIES OR HSP IN POLITICAL SCIENCE STUDENTS, YRS 3 OR 4 WOMEN\u2019S STUDIES MAJORS, OR MAJORS IN POLITICAL SCIENCE. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3210F - CANADA-U.S. RELATIONS",
+      "Description": [
+        "This course will critically assess the state of Canadian-American relations through different perspectives, issues and policy debates. Topics include theories and arguments related to North American integration and divergence from local, regional and global perspectives; economic and political integration; and developments in defence, security, environment, culture and labour.",
+        "Antirequisite(s): Political Science 3326E if taken before 2018-19.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "8443",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": "D. Bousfield",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 AMER STUDIES OR SCHOLARS ELECTIVES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, AND YRS 3 & 4 POLICI MAJORS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Political Science 2231E or Political Science 2244E or Political Science 2245E or International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3212G - THEORIES OF HUMAN RIGHTS",
+      "Description": [
+        "This course examines recent attempts to make sense of the idea of human rights. What are human rights? How are they justified? What do human beings have rights to? What is the point of a theory of human rights? How are human rights related to the goal of distributive equality? ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11650",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-37",
+          "Instructor": "C. Jones",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 POLISCI MODULES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E or Political Science 2537F/G or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3213G - COMPARATIVE AUTHORITARIANISM",
+      "Description": [
+        "Historically, most political regimes have been authoritarian, and there is no sign of authoritarianism\u2019s disappearance. This course addresses the sources of authoritarianism, the varieties of authoritarian regime, the institutions and practices supportive of dictatorship, the causes of authoritarian decline and failure, and the authoritarian impulses residing within some democratic regimes.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11646",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-37",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN POLISCI MAJOR OR MINOR, HONS SPEC POLISCI, INTERNATIONAL RELATIONS HONS SPEC, HONS DOUBLE MAJOR IN POLISCI AND HONS ECONOMICS, POLITICS AND PHILOSOPHY, PPE-P AND PPE-E AND SCHOLARS ELECT. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or Political Science",
+            "2531F/G or Political Science 2545F/G, or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3215G - HISTORY OF POLITICAL THEORY",
+      "Description": [
+        "This course surveys classic works in the history of political theory. Key themes include the bases of political authority and political obligation, the nature and defence of individual rights, the idea of a social contract, the meaning and status of equality, and the critique of liberal democracy. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11649",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-2036",
+          "Instructor": "C. Jones",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 POLISCI MODULES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E or Political Science 2537F/G or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3301G - (IN)EQUALITY & VIOLENCE",
+      "Description": [
+        "This course examines two inter-related topics central to modern political theory and modern societies: first, equality and inequality; second, violence. Readings include canonical statements (Rousseau, Marx, Fanon, Arendt), contemporary treatments and case studies. These include the purpose of equality, the distribution of wealth, the psychology of violence and its justifications.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3000",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-DL012",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level and 3rd or 4th year standing in any module/program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3304F - POLITICAL IDENTITIES",
+      "Description": [
+        "The formation of political identities is explored in the context of cultures, ideologies, discourses, and narratives in a globalizing world. Investigating citizenship, political participation, engagement in social movements and political protest, the course focuses on hybrid, fragmented, and multiple identities and their political consequences, notably attempts to construct singular identities. ",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10125",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "BR-UH26",
+          "Instructor": "K. Graham",
+          "Notes": [
+            "ONLINE-ASYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E plus 1.0 course in Political Science at the 2200 level, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3308F - INFORMAL GLOBAL GOVERNANCE",
+      "Description": [
+        "This course critically analyzes informal governance, laws, practices, processes, and norms, covering key global issues including peace, war, economy, gender, race, environment, internet, and health. It also investigates everyday practices of states, non-state actors, and informality in major international organizations, such as the UN, EU, AU and ASEAN.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "12531",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": "",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 Political Science course(s) at the 1000-level and 3rd or 4th year standing in any module/program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3311F - CIVIL SOC, COMMUNITY & DEMOCR",
+      "Description": [
+        "An examination of the relationship between civil society, community and democracy. This seminar focuses on if and how grassroots collective participation creates and/or enhances democratic spaces and practices. ",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3003",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W176",
+          "Instructor": "J. Newman",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in either Political Science or Social Justice and Peace Studies, or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3315G - SPECIAL TOPICS",
+      "Description": [
+        "Topics set by the Department.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11834",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-KC006",
+          "Instructor": "",
+          "Notes": [
+            "TOPIC: COVID AND PUBLIC POLICY. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in either Political Science or Social Justice and Peace Studies, or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3316F - POLITICAL PARTIES",
+      "Description": [
+        "An analytical study of political parties. Topics include: the historical development of political parties; theoretical approaches to political parties; the role of political parties in the electorate and in government; political parties and representation. Emphasis will be placed on Canadian parties and cross-national comparisons.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11028",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 POLISCI MODULES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Political Science 2234E or Political Science 2244E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3317F - INTEREST GRPS & SOCIAL MOVMNTS",
+      "Description": [
+        "An analytical study of interest groups and social movements. Topics include: theoretical approaches to interest group formation; the role of groups and movements in the policy-making process; their effectiveness as agents of democratic representation. Particular attention will be paid to the role of interest groups in Canada.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5129",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "J. Kovarikova",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 BMOS, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Political Science 2231E or Political Science 2244E or Political Science 2245E or International Relations 2702E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3320E - WOMEN IN CIVIC LEADERSHIP",
+      "Description": [
+        "Women continue to be underrepresented in civic leadership. This course offers a unique experience for students who identify as women and are interested in becoming engaged in civic leadership and community building. Students are paired with a female civic leader to learn about the opportunities and barriers facing women.",
+        "Antirequisite(s): Social Justice and Peace Studies 3398F, Social Justice and Peace Studies 3399G in 2016-2017; Social Justice and Peace Studies 3320E.",
+        "Extra Information: 2 hours, 1.0 course.",
+        "Limited enrolment. Meeting minimum requirements does not guarantee admission to the course. Priority will be given to students registered in Political Science or Social Justice and Peace Studies at Kings; or Political Science or Leadership Studies at Brescia. Application and interview are required. Check deadlines with your Program Coordinator/Chair."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2650",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:00 PM",
+          "End Time": "5:00 PM",
+          "Location": "BR-201",
+          "Instructor": "A. DeCicco-Best",
+          "Notes": [
+            "COURSE WILL RUN WEEKLY WITH A MIN 3 HRS/WEEK; INCLUDES A PLACEMENT AT CITY HALL. COURSE TIMES/DAYS TO BE DETERMINED IN SEPTEMBER. REQUIRES DEPARTMENT APPROVAL FOR REGISTRATION. CONTACT BRESCIA@UWO.CA. ",
+            "REQUISITES: Prerequisite(s): 1.0, or the equivalent, from: Social Justice and Peace Studies 2301A/B, Social Justice and Peace Studies 2302A/B, Social Justice and Peace Studies 2303A/B, Social Justice and Peace Studies 2304F/G or the former Interdisciplinary Studies 2240F/G, Political Science 2230E, Political Science 2236E, Political Science 2255F/G, Leadership Studies 2233A/B, the former Dimensions Of Leadership 2233A/B, and permission of the Program Co-ordinator/Chair."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1526",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:00 PM",
+          "End Time": "5:00 PM",
+          "Location": "KC-LH220",
+          "Instructor": "J. Newman",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH SJPS 3320E. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0, or the equivalent, from: Social Justice and Peace Studies 2301A/B, Social Justice and Peace Studies 2302A/B, Social Justice and Peace Studies 2303A/B, Social Justice and Peace Studies 2304F/G or the former Interdisciplinary Studies 2240F/G, Political Science 2230E, Political Science 2236E, Political Science 2255F/G, Leadership Studies 2233A/B, the former Dimensions Of Leadership 2233A/B, and permission of the Program Co-ordinator/Chair."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3324G - INTRO TO RSRCH METH IN POL SCI",
+      "Description": [
+        "This course introduces students to a range of methodological approaches to questions in political science. Students will become familiar with qualitative and quantitative data sources and ways of using each to address political issues.",
+        "Antirequisite(s) at Main campus: Health Sciences 2801A/B, Psychology 2800E, Psychology 2820E, and Sociology 2206A/B.",
+        "Antirequisite(s) at Huron, King's campus: Health Sciences 2801A/B, Psychology 2800E, Psychology 2820E, Psychology 2830A/B, and Sociology 2206A/B.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1550",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "A. Lawlor",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Enrolment in Honors Political Science, Honours Specialization in Political Science, Majors in Political Science."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3325F - INTRO QUANT METHODS IN POLISCI",
+      "Description": [
+        "This course introduces students to a range of methodological approaches to questions in political science. Students will become familiar with qualitative and quantitative data sources and ways of using each to address political issues.",
+        "Antirequisite(s): Political Science 3324F/G.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11029",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-37",
+          "Instructor": "C. Anderson",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO YRS 3 & 4 POLISCI HONS SPEC MODULES, YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, AND SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS & POLISCI MAJORS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2325F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3331G - COURTS AND THE CONSTITUTION",
+      "Description": [
+        "This course will provide an overview of Canada's judicial system and constitution. The course will focus on the impact of judicial decisions on the federal system, the shift to a constitutional discourse based on rights, and issues relating to the judiciary such as the rule of law and judicial independence.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10967",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": "C. Dick",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 SCHOLARS ELECTIVES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, AND YRS 3 & 4 POLICI MAJORS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3332F - LAW, POLITICS & CDN CRF",
+      "Description": [
+        "This course will examine and assess the Charter's implications for the Canadian political process. The course will focus on judicial interpretation of the Charter, the respective roles of Parliament and the judiciary in the political process, and Charter litigation commenced by competing social interests.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5612",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "C. Dick",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 SOCIOLOGY OR CRIMINOLOGY MODULES, YRS 3 & 4 SCHOLARS ELECTIVES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, YRS 3 & 4 BMOS, AND YRS 3 & 4 POLICI MAJORS. JULY 28 PRIORITY CHANGE TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Sociology 2260A/B or Sociology 3260A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3334E - CONTEMPORARY POL THEORY",
+      "Description": [
+        "A seminar on key themes, problems, beliefs and approaches in recent political theory.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3972",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-2B02",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3336G - ELECTIONS AND VOTING",
+      "Description": [
+        "This course examines the role of elections in maintaining democratic governance from theoretical and empirical perspectives. Topics to be covered include: electoral systems; the legal framework governing election campaigns; the role of parties and the media in election campaigns; and the social, psychological and economic influences on voting behaviour. ",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10968",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "L. Stephenson",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Political Science 2244E or the former Political Science 2234E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3342F - POWER AND RESISTANCE",
+      "Description": [
+        "Students will examine the ways in which imperialism and colonialism are embedded in disciplines of knowledge, and examine the implications of research for its participants and their communities, as well as the institution of research itself, its claims, values, practices, and relationships to power and the academic industrial complex.",
+        "Antirequisite(s): Sociology 3342F/G, the former Political Science 4422F/G.",
+        "Extra Information: 3 seminar hours. Cross-listed with Sociology 3342F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1789",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W164",
+          "Instructor": "D. Silva",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN THE CRITICAL SECURITY STUDIES CERTIFICATE/DIPLOMA. CROSS-LISTED WITH SOC 3342F. WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in third or fourth year of a module in Political Science, Social Justice and Peace Studies or Sociology; or enrolment in the Certificate in Critical Security Studies; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3343F - EU: THE POLITICS OF INTEGRATN",
+      "Description": [
+        "This course will survey the sources in history of European integration, the institutions and policy-making approaches that have resulted from these developments, and the extent to which the European Union has moved in a state-like or democratic direction and will do so in the future. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11030",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-2B04",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS.\u00a0 ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3344G - WESTERN EUROPEAN POLITICS",
+      "Description": [
+        "This course provides a detailed introduction to Western European politics, with an emphasis upon Britain, France, Germany, and Italy. Topics include: state and nation formation, early experiences of autocratic and parliamentary rule, the sources and nature of post-WWII democracies, and the recent resurgence of nationalism and regionalism.",
+        "Antirequisite(s): Political Science 2248E.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9130",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3345E - INTERNATIONAL LAW & ORG",
+      "Description": [
+        "A study of the principles and operations of international and regional associations such as the UN and NATO. An introduction to international law, emphasizing its relevance to the resolution of conflicts between nations. ",
+        "Antirequisite(s): Political Science 3369F/G, Political Science 3201F/G.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2096",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "L. Sarkany",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1551",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-W164",
+          "Instructor": "T. Tieku",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3348F - FEDERALISM",
+      "Description": [
+        "This course will describe, analyze and evaluate interactions between federal, provincial and local governments in Canada. The course will focus on the processes of interaction and the policy impacts of these relationships in the contemporary period.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7644",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "C. De Clercy",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or the former Political Science 2234E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3353E - SECURITY: THEORY & GOVERNANCE",
+      "Description": [
+        "This course offers a comprehensive overview and understanding of the field of \u201cSecurity Studies,\u201d as well as a critical exploration of specific topics, debates, and issues in contemporary security theory and governance.",
+        "Antirequisite(s): Political Science 3376E, if taken in 2017-2019.",
+        "Extra Information: 2 seminar hours, 1.0 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2293",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "J. Mustapha",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 2231E or Political Science 2131 or Political Science 2141A/B and enrolment in Honours Specialization or Major in Political Science or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3354F - GENDER AND THE INTERNATIONAL",
+      "Description": [
+        "Utilizing various critical feminist approaches, this course examines the gendered effects of war and conflict, gendered constructions of political identity, and the gendered aspects and implications of international governance.",
+        "Antirequisite(s): Political Science 3394F/G, if taken in 2017-2018.",
+        "Extra Information: 2 seminar hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "10990",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W112",
+          "Instructor": "J. Mustapha",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Pre-or Corequisite(s): Enrolment in Honours Specialization or Major in Political Science or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3357E - INTERN POLITICAL ECONOMY",
+      "Description": [
+        "A study of the politics of economic relations, including relations among the advanced industrialized countries, the integration of former centrally-planned economies into the world market economy, and relations between developed and developing countries. ",
+        "Antirequisite(s): Political Science 3365F/G.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1386",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W164",
+          "Instructor": "E. Hannah",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3359F - AFRICAN POLITICS",
+      "Description": [
+        "An introduction to the politics of contemporary Africa, with emphasis on the legacies of colonialism and leadership and governance trends. The course uses theoretical literature on Africa's politics and development, as well as focused case studies, to explore issues including conflict, China in Africa, development aid, women in politics, and HIV/AIDS.",
+        "Antirequisite(s): Political Science 3395F/G, if taken in 2018-2019.",
+        "Extra Information: 2 seminar hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2449",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "L. Scorgie-Porter",
+          "Notes": [
+            "REQUISITES: Pre-or Corequisite(s): Political Science 2245E or Political Science 2231E and enrolment in the Honours Specialization or Major in Political Science, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3363F - POWER IN THE CITY",
+      "Description": [
+        "An introduction to the structures and actors that shape the politics of urban issues in large North American and West European cities. Students apply concepts learned to an in-depth study of a city or cities of their choice.",
+        "Antirequisite(s): Political Science 3368E. ",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9131",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "M. Horak",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 POLISCI MAJORS, YRS 3 & 4 HONS SPEC IN URBAN DEVELOPMENT, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): At least 1.0 2200-level Political Science course."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3365G - GLOBAL POLITICAL ECONOMY",
+      "Description": [
+        "This course examines the nature of relations between developing and industrialized states with special focus on such issues as development, aid, trade, investment, food and agriculture.",
+        "Antirequisite(s): Political Science 3358F/G, Political Science 3357E.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "8444",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": "D. Bousfield",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 AMER STUDIES OR SCHOLARS ELECTIVES, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, AND YRS 3 & 4 POLICI MAJORS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3372G - THE POLITICS OF ONTARIO",
+      "Description": [
+        "An advanced course dealing with the politics and government of Ontario. Specific issues will be studied as an illustration of the governmental process and politics of the province. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8578",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-2028",
+          "Instructor": "R. Jonasson",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 BMOS, YRS 3 & 4 HONS SPEC IN URBAN DEVELOPMENT, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E or Political Science 2236E or the former Political Science 2234E or permission of Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3387F - SURVEILLANCE,SECURITY,SOCIETY",
+      "Description": [
+        "An examination of how surveillance has become ubiquitous and taken for granted in contemporary society. Beyond general themes of surveillance studies, such as control, visibility, classification, authentication, etc., this course focuses on the role of surveillance in social sorting and (in)security in society.",
+        "Antirequisite(s): Sociology 3325F/G if taken in 2017-18, Sociology 3387F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1570",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED IN THE CRITICAL SECURITY STUDIES CERTIFICATE/DIPLOMA. CROSS-LISTED WITH SOC 3387F. WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in either Political Science or Sociology."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3388E - INTERNATIONAL HUMAN RIGHTS",
+      "Description": [
+        "This course will provide an overview of the topic of human rights, from its origins to its 21st century reality, to its various conceptions, theoretical notions, and instruments. It will look at issues of concern, abuses and potential solutions.",
+        "Antirequisite(s): Political Science 2219E.    ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4279",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2032",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 INTERNATIONAL RELATIONS, YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, POLISCI MAJORS, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or Political Science 2245E or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3390G - SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11869",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "M. Caplan",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3394G - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2218",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-V207",
+          "Instructor": "J. Mustapha",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in any Political Science module, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3395F - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11931",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "L. Sarkany",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in any Political Science module, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3395G - SEL TOPCS IN POLITICAL SCIENCE",
+      "Description": [
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2450",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "L. Sarkany",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in any Political Science module, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3396F - SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11932",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "Z. Hassan",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3397G - SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11933",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "Z. Hassan",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3398G - INDIG. NATIONS POL & LEGAL ISS",
+      "Description": [
+        "Political and legal issues are inseparable in contemporary examinations of land use, self-determination, governance, individual and community rights. This course will examine the legal institutions and practices of traditional Indigenous cultures as well as contemporary practice.",
+        "Antirequisite(s): Indigenous Studies 3722F/G.      ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10969",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY TO STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR YRS 3 & 4 TRANSITIONAL JUSTICE MINOR OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. WAIT LIST OPTION AVAILABLE. CROSS-LISTED WITH  INDIGENOUS STUDIES 3722G. ",
+            "REQUISITES: Prerequisite(s): Indigenous Studies 2218F/G or Indigenous Studies 2901E or History 2209E or History 2201E or History 2205E or Political Science 2103A/B or Political Science 2230E, or Law 2101 or GSWS 2260 or the former Anthropology 2218F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3400G - POLITICS OF THE ARCTIC",
+      "Description": [
+        "A one term seminar half course surveying the public policy and foreign policy challenges facing Canada as an Arctic nation.  Among the topics to be covered are competing national sovereignty claims, the Arctic Council, resource politics, Aboriginal Peoples, and the nature of territorial government.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3004",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-W164",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3401G - SPECIAL TOPICS IN CND POLITICS",
+      "Description": [
+        "Topic available in department.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11031",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": "C. De Clercy",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YRS 3 & 4 HONS SPEC POLISCI, YRS 3 & 4 POLISCI MAJOR, YRS 3 & 4 HONS DOUBLE MAJOR IN POLISCI, YRS 3 & 4 BMOS, YRS 3 & 4 HONS SPEC IN URBAN DEVELOPMENT, YRS 3 & 4 PPE-P, YRS 3&4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL HONS PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E and registration in 3rd or 4th year of Political Science, International Relations or a BMOS Public Administration module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3404G - GOVERNMENT MANAGEMENT",
+      "Description": [
+        "A course for students who aspire to work in government as public servants and advisors or who seek careers in the private sector which require a close understanding of the operation of government. Focus is on Canada, but other countries are considered.",
+        "Antirequisite(s): Political Science 3339E.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10126",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "BR-202",
+          "Instructor": "P. Barker",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 1020E or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 3406F - SPECIAL TOPICS",
+      "Description": [
+        "Topics set by the Department.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "12562",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. TOPIC: INDIGENOUS GLOBAL GOVERNANCE. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year in either Political Science or Social Justice and Peace Studies, or permission of the Department"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4201F - THE UN AND GLOBAL GOVERNANCE",
+      "Description": [
+        "The seminar examines current issues before the United Nations and assesses the organization's contributions to the resolution of diverse global problems. It assesses the UN's objectives, structure and decision-making procedures and evaluates current UN policies and activities on a range of contemporary issues. Current proposals for reform are assessed.",
+        "Antirequisite(s): Political Science 4402F/G. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11033",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-4103",
+          "Instructor": "D. Bousfield",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 INTERNATIONAL RELATIONS, YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 3 HONS SPEC POLISCI, YR 3 INTERNATIONAL RELATIONS, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES.\u00a0WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E, or Political Science 2245E, or International Relations 2702E, or the former International Relations 2701E."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4203F - SOC DIVERSITY, GENDER & LAW",
+      "Description": [
+        "This course assesses the Canadian legal system's potential to address inequalities based on group differences such as race, ethnicity, religion, Aboriginality, socioeconomic class and sexual identity. Particular attention is paid to the internal tensions that often arise where women's equality rights and the rights claims of minority social groups conflict.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "5753",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-4255",
+          "Instructor": "C. Dick",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR YR 4 SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2230E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4206G - THEORIES OF GLOBAL JUSTICE",
+      "Description": [
+        "A seminar on the main approaches to, and debates about, issues of global justice in contemporary political theory. Topics may include cosmopolitan ethics, the causes of global inequality, social and economic rights, and ideas of global citizenship and national responsibility.",
+        "Antirequisite(s): The former Political Science 3396F/G if taken in 2004-05; the former Political Science 3397F/G if taken in 2006-07; the former Political Science 4463F/G if taken in 2010-11 or 2011-12. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9673",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-4112",
+          "Instructor": "R. Vernon",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR YR 4 SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4210F - GLOBALIZATION & URBAN POLITICS",
+      "Description": [
+        "This course explores how globalization and the rise of the post-industrial economy are transforming North American and European cities, and compares how policy-makers respond to the resulting challenges. Topics include ethno-cultural diversity, social inequality and segregation, and the changing character and functions of downtown business districts and suburbs.",
+        "Antirequisite(s): Political Science 3364F/G, Political Science 3368E.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11037",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-4112",
+          "Instructor": "M. Horak",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, OR YR 4 SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. NOTE: NO ACCESS TO REGISTRATION SYSTEM ON PRIORITY CHANGE DATES, SEE https://registrar.uwo.ca/academics/register_in_courses/fallwinter.html FOR DETAILS. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): At least 1.0 course in Political Science at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4213G - COMPARATIVE GLOBAL CORRUPTION",
+      "Description": [
+        "Political corruption has attracted intense and growing interest in recent decades. This seminar provides a critical look at the spread of corruption across the globe, the state of our knowledge about corruption and its causes, and the performance of various national and global campaigns against corruption.",
+        "Antirequisite(s): Political Science 4512F/G if taken in 2015-16 or earlier.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11034",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-4112",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 INTERNATIONAL RELATIONS, YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 3 HONS SPEC POLISCI, YR 3 INTERNATIONAL RELATIONS, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES.\u00a0WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E, Political Science 2245E, or International Relations 2702E or the former International Relations 2701E or permission of the instructor."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4215F - GLOBAL WELFARE STATES",
+      "Description": [
+        "This seminar explores the welfare state as a multifaceted phenomenon, which has assumed qualitatively different forms in different places. More recently, welfare states around the world have been subjected to significant pressure, and the causes, extent, and character of change will be subject to detailed debate.",
+        "Antirequisite(s): Political Science 4406F/G.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9676",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-4112",
+          "Instructor": "B. Morrison",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS YR 4 HSP IN POLITICAL SCIENCE AND YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E, Political Science 2245E, or International Relations 2702E, or the former International Relations 2701E or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4407G - BODY POLITICS",
+      "Description": [
+        "Bodies are at the core of our families, economies, and social and political institutions. This seminar course examines how social, economic, and political practices reflect habitual and legal patterns of bodily regulation and control and how individuals and movements seek to alleviate the oppressive effects of this power.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1712",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": "J. Newman",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Enrolment in year three or four of an Honours Specialization or Honours Double Major in Political Science or Social Justice and Peace Studies or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4413F - SPECIAL TOPICS",
+      "Description": [
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12087",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-4105",
+          "Instructor": "E. Finneron-Burns",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR YR 4 SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 2237E plus one of Political Science 2230E, Political Science 2231E, Political Science 2244E, or Political Science 2245E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4417F - ADV SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12088",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-4105",
+          "Instructor": "M. Turgeon",
+          "Notes": [
+            "PRIORITY TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI, YR 4 PPE-P OR YR 4 PPE-E, OR YR 4 SCHOLARS ELECTIVES. JULY 28 PRIORITY CHANGE TO ALL YR 3 HONS SPEC POLISCI, YR 3 HONS DOUBLE MAJOR IN POLISCI, YR 3 PPE-P, YR 3 PPE-E, OR YR 3 SCHOLARS ELECTIVES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4418G - TRADE LAW AND NEGOTIATION",
+      "Description": [
+        "This course addresses the negotiation, contestation, implementation, and enforcement of international trade law. Particular emphasis will be placed on the relationship between international trade law and negotiations and ostensibly non-trade areas including health, development, aid, environment, food safety, agriculture, water, and democracy.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3005",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": "E. Hannah",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Enrolment in year three or four of Honours Specialization or Honours Double Major in Political Science, Economics, Sociology or Social Justice and Peace Studies or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4419G - ADV SPECIAL TOPICS IN POLISCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11870",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-4255",
+          "Instructor": "N. Mcmahon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4421F - NEGOTIATING PEACE",
+      "Description": [
+        "Exploration of the exciting field of international negotiation. Students will get the opportunity to hone their diplomatic skills and to examine negotiation of peace agreements that fundamentally changed the modern world. Cases are drawn from peace talks that ended deadly wars in Africa, Americas, Asia, Europe and",
+        "Middle East.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3006",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": "T. Tieku",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Political Science 2231E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4426F - GENOCIDE",
+      "Description": [
+        "The course examines the theoretical and methodological issues related to the topic of genocide and considers empirical cases of genocide and genocidal acts, such as \"ethnic cleansing.\" The course begins by looking at the definition of genocide, then moves to discuss more recent cases of genocides and genocidal acts.",
+        "Antirequisite(s): History 3722F/G, MIT 3931F/G. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8513",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-4255",
+          "Instructor": "J. Quinn",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Political Science 3388E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4452F - SPECIAL TOPICS IN POLI SCI",
+      "Description": [
+        "Topic available in Department.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12637",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Enrolment in 3rd or 4th year Political Science, or permission of the Department for students not registered in Political Science programs."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4486F - SPECIAL TOPICS IN POL. SCI.",
+      "Description": [
+        "Topic and course description will be available at time of registration.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11459",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. TOPIC: HIGH CEILINGS AND GLASS CLIFFS - GENDER AND GLOBAL POLITICAL LEADERSHIP. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Enrolment in third or fourth year of a Political Science module, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4490E - THESIS",
+      "Description": [
+        "Thesis is to be submitted by April 15 of the fourth year."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12578",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Special permission of the instructor."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3610",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "PERMISSION REQUIRED. RESTRICTED TO MAIN CAMPUS STUDENTS ENROLLED IN YR 4 HONS SPEC POLISCI, YR 4 HONS DOUBLE MAJOR IN POLISCI OR SCHOLARS ELECTIVES.  THESIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Written Special Permission of the instructor and a minimum 80% average in third year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4498F - INDEPENDENT STUDY",
+      "Description": [
+        "Individual reading and research at an advanced level under faculty supervision. Students are responsible for arranging independent study credit with an individual faculty member."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5483",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WRITTEN SPECIAL PERMISSION OF INSTRUCTOR AND DEPARTMENT AND A MINIMUM 80% AVERAGE THE PREVIOUS YEAR REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Written permission of instructor and department and a minimum 80% average the previous year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4498G - INDEPENDENT STUDY",
+      "Description": [
+        "Individual reading and research at an advanced level under faculty supervision. Students are responsible for arranging independent study credit with an individual faculty member."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5484",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WRITTEN SPECIAL PERMISSION OF INSTRUCTOR AND DEPARTMENT AND A MINIMUM 80% AVERAGE THE PREVIOUS YEAR REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Written permission of instructor and department and a minimum 80% average the previous year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4499F - INDEPENDENT STUDY",
+      "Description": [
+        "Individual reading and research at an advanced level under faculty supervision. Students are responsible for arranging independent study credit with an individual faculty member."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5485",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WRITTEN SPECIAL PERMISSION OF INSTRUCTOR AND DEPARTMENT AND A MINIMUM 80% AVERAGE THE PREVIOUS YEAR REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Written permission of instructor and department and a minimum 80% average the previous year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "POLISCI 4499G - INDEPENDENT STUDY",
+      "Description": [
+        "Individual reading and research at an advanced level under faculty supervision. Students are responsible for arranging independent study credit with an individual faculty member."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5486",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WRITTEN SPECIAL PERMISSION OF INSTRUCTOR AND DEPARTMENT AND A MINIMUM 80% AVERAGE THE PREVIOUS YEAR REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Written permission of instructor and department and a minimum 80% average the previous year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    }
+  ]
+}

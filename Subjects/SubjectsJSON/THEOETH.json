@@ -1,0 +1,84 @@
+{
+  "Name": "Theological Ethics",
+  "Code": "THEOETH",
+  "Courses": [
+    {
+      "Name": "THEOETH 5190B - ISLAMIC LAW & LEGAL THEORY",
+      "Description": [
+        "A study of the history, practice and principles of Islamic law as understood by the major schools, with a focus on their ethical and theological foundations and their adaptations to changing times. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2353",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W104",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Any university-level course in Islamic Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "THEOETH 5203B - THEO ETHICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1985",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "",
+          "Instructor": "H. Gruning",
+          "Notes": [
+            "RESTRICTED TO THEOLOGY MASTERS STUDENTS AT HURON."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "THEOETH 5213A - ISLAMIC ETHICS",
+      "Description": [
+        "An examination of principled reasoning in classical Islamic jurisprudence, the theological status of reason in Islam, the principles and priorities of traditional ethical reasoning, the arguments for a goal-oriented approach to ethics, the contemporary emphasis on the context of the ethicist and the construction of religious authority, and the importance of individual moral formation.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2352",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "CROSS-LISTED WITH RELSTUD 3121F."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

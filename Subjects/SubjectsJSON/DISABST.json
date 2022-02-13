@@ -1,0 +1,921 @@
+{
+  "Name": "Disability Studies",
+  "Code": "DISABST",
+  "Courses": [
+    {
+      "Name": "DISABST 1010A - EXPLORING DISABILITY",
+      "Description": [
+        "Explores provocative ethical and practical Disability Studies topics using a Liberal Arts framework. Students actively engage both sides of cases with legal, medical, and recreational significance. Examines how disability, mental health and neuro-diversity intersect with modern culture and social institutions. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1337",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1363",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA151",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 1010B - EXPLORING DISABILITY",
+      "Description": [
+        "Explores provocative ethical and practical Disability Studies topics using a Liberal Arts framework. Students actively engage both sides of cases with legal, medical, and recreational significance. Examines how disability, mental health and neuro-diversity intersect with modern culture and social institutions. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1338",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1493",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-SA151",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY TO KING\u2019S STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2023A - DISABILITY SPORTS & RECREATION",
+      "Description": [
+        "Explore the dynamic sports and recreation venues where people with and without disability are involved in working towards diverse forms of participation and inclusion. These are crucial spheres of self-expression, sociability, integration and contribution. Recreational and elite sports, youth and adult programs and camp settings are covered."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "11627",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2201F - RETHINKING DISABILITY",
+      "Description": [
+        "Disability Studies challenges the historical, medical and mainstream views of disability and mental illness as personal tragedies or solely problems to be fixed. We explore diverse approaches to imagining disability, changes over time, and associated symbolic and material outcomes. ",
+        "Antirequisite(s): The former Disability Studies 2201A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1494",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "E. Katzman",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES MODULE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1585",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1586",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2201G - RETHINKING DISABILITY",
+      "Description": [
+        "Disability Studies challenges the historical, medical and mainstream views of disability and mental illness as personal tragedies or solely problems to be fixed. We explore diverse approaches to imagining disability, changes over time, and associated symbolic and material outcomes. ",
+        "Antirequisite(s): The former Disability Studies 2201A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1339",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-KC006",
+          "Instructor": "E. Katzman",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES MODULE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1587",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1588",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC006",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2202A - UNDRSTNDING DISABILITY LABELS",
+      "Description": [
+        "Learn how common disability and neuro-diversity conditions are defined and resourced. Understand the complex nature and tacit assumptions of diagnostic contexts and care systems, past and present. Consider both the empowering and constraining bio-political implications of medical labelling for individuals and groups. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1340",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES MODULE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2202B - UNDRSTNDING DISABILITY LABELS",
+      "Description": [
+        "Learn how common disability and neuro-diversity conditions are defined and resourced. Understand the complex nature and tacit assumptions of diagnostic contexts and care systems, past and present. Consider both the empowering and constraining bio-political implications of medical labelling for individuals and groups. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1495",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES MODULE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2210B - EDUCATION & DISABILITY ST",
+      "Description": [
+        "Learn about current and past frameworks for exceptional learners in education. Examine common systemic tensions between: macro-social policies and individualized learning plans, inclusion and specialized supports, ",
+        "universal design and quality, and how families navigate accessibility and relationships amidst limited resources and neoliberalism. ",
+        "Antirequisite(s): Childhood and Social Institutions 2294B if taken in Summer 2014.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1600",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2214B - INSTITUTIONALIZATION OVER TIME",
+      "Description": [
+        "This course uses diverse research and personal narratives to identify and challenge mainstream ways of thinking about the controversy of institutionalizing Intellectually and Physically Disabled, and Mad people. It explores the cultural context and social impact of the histories of de/institutionalization, intersectionality, criminalization, and housing.",
+        "Antirequisite(s): Disability Studies 2290A/B if taken in 2018-19, 2019-20.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "11626",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2216A - DISABILITY AND POPULAR CULTURE",
+      "Description": [
+        "Examine cultural contexts and attitudes that produce diverse, evolving representations of disability and normalcy in private reflections and public media (news, policies, memoirs, arts, social media) by care professionals, law, state, church and family. Students critique existing media representations and work on constructive alternatives. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "1530",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Preston",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN DISABILITY STUDIES. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2218A - MADNESS AND MAD STUDIES",
+      "Description": [
+        "This course draws on diverse research and first person narratives to identify and challenge mainstream ways of thinking about mental illness, psychiatry, labelling and processes of containment. Additionally, this course explores the themes of de/institutionalization, intersectionality, political economy, criminalization, housing and employment as they impact(ed) Mad people.",
+        "Antirequisite(s): Disability Studies 2290A/B if taken in 2016-17.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "11625",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2220A - CAMPS' INCLUSION AND ACCESS",
+      "Description": [
+        "There is no single solution for inclusion in camp and community recreational settings that satisfies the desires and needs of diverse kids. We study theories and cases of mainstream, specialized and reverse inclusion and their operationalization in organizational contexts including best practices for training, intake, disability support, accessibility and integration.",
+        "Antirequisite(s): Disability Studies 2291A/B if taken in 2016-17.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11630",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-SA151",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2224A - RESEARCH METHODS",
+      "Description": [
+        "Rooted in inquiry-based learning, this course engages students in key particulars of disability research. We focus on how to craft a robust research question and choose appropriate research tools (theoretical and methodological) to locate or source relevant data. Students learn to discern and assess these elements in academic articles.",
+        "Antirequisite(s): Disability Studies 2295A/B if taken in 2019-20.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3032",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2262G - WRITING AND DISABILITY STUDIES",
+      "Description": [
+        "This course invites students to analyze the implicit ableism of academic writing, and to engage with Disability Studies theorists who have foregrounded access and inclusion in teaching practice (in curricula, pedagogy, and assessment). Its active learning/practicum component will account for a substantial proportion of the course grade. ",
+        "Extra Information: 3 hours, cross-listed with Writing 2262F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11231",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": "S. Natarajan",
+          "Notes": [
+            "CROSS-LISTED WITH WRITING 2262G 570. ",
+            "REQUISITES: Prerequisite(s): Writing 1000F/G, Writing 1020F/G, Writing 1021F/G, Writing 1022F/G, Writing 1025F/G, Writing 1030F/G, or Writing 1031F/G with at least 70%, or Writing 2101F/G or Writing 2111F/G with at least 65%; or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2270F - DISABILITY, GENDER, &SEXUALITY",
+      "Description": [
+        "This course engages students with interdisciplinary academic texts, social media, videos and art in order to thoughtfully challenge mainstream constructions of disability using a gendered lens. This course encourages students to examine the circular influence that gender and disability can have on each other.",
+        "Antirequisite(s): Disability Studies 2294A/B if taken in 2017-19.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3033",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2272F - BIOETHICS AND DISABILITY",
+      "Description": [
+        "Introduction to how moral reasoning can help to identify and address current and emerging disability-related situations in health care practice, caregiving, health policy and research. Normative ethics, philosophy of health care, and Disability Studies models are applied to discussion of case studies.",
+        "Antirequisite(s): Philosophy 2272F/G, the former Disability Studies 2072F/G or the former",
+        "Philosophy 2072F/G.",
+        "Extra Information: 3 hours; Cross-listed with Philosophy 2272F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3034",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH PHIL 2272F 570."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2272G - BIOETHICS AND DISABILITY",
+      "Description": [
+        "Introduction to how moral reasoning can help to identify and address current and emerging disability-related situations in health care practice, caregiving, health policy and research. Normative ethics, philosophy of health care, and Disability Studies models are applied to discussion of case studies.",
+        "Antirequisite(s): Philosophy 2272F/G, the former Disability Studies 2072F/G or the former",
+        "Philosophy 2072F/G.",
+        "Extra Information: 3 hours; Cross-listed with Philosophy 2272F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3035",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2292B - SPEC TP IN DISABILITY STUDIES",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11628",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: CHALLENGING MEDICALIZATION. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2293A - SPEC TP IN DISABILITY STUDIES",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3036",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: FAITH, SPIRITUALITY, CARE PRACTICES ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2294A - SPEC TP IN DISABILITY STUDIES",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11629",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: NARRATIVES AND INTELLECTUAL DISABILITY. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 2296B - SPEC TP IN DISABILITY STUDIES",
+      "Description": [
+        "Topic and course description will be available at time of registration. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3042",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: FOUNDATIONS OF INTELLECTUAL DISABILITY PATHWAY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3311G - CHANGING CONTEXTS & PRACTICES",
+      "Description": [
+        "Introduces students to key innovations in leadership, rights, laws, policy and practices in the human services and modern disability sector. Research and cases highlight the tensions and possibilities between conceptual  ideals and the constraints of practice. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1376",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": "E. Katzman",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 2201F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3312G - DIVERSE D.S. PERSPECTIVES",
+      "Description": [
+        "The evolution and diversification of Disability Studies has led to innovative ways of rethinking disability such as: rights, sexuality, race, Marxism, globality, the body, post-structuralism. Students learn how these ideas extend, alter or challenge existing paradigms and how to critically analyze and compare DS research.",
+        "Antirequisite(s): Disability Studies 2293A/B if taken in 2016-17.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1528",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "J. Preston",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 2201F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3316F - MEMES AND DREAMS",
+      "Description": [
+        "Are memes just trivial social media noise or key indicators of who and what society considers legitimate? An interactive seminar-style class rooted in cultural criticism and disability justice, student analyze the tangible and ephemeral effects of the objectification of disability in digital culture and develop emancipatory strategies to (re)claim disability.",
+        "Antirequisite(s): Disability Studies 3394F/G if taken in 2018-19, 2019-20.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "3038",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "J. Preston",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B and Disability Studies 2201F/G, or permission of the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3320F - NARRATIVES OF DISAB & CARE",
+      "Description": [
+        "Explore the significance and influence of disability and mental health on family and care relationships over the life course. The course combines a Disability Studies lens with narrative, care and kinship concepts. Through written stories, we examine mutuality, discontinuity and creativity in relationships. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1751",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN A DISABILITY STUDIES MODULE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 2201F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3321F - APPLIED HEALTH PROFESSIONS",
+      "Description": [
+        "This course explores disability and chronic illness in the context of health professional practice. We examine the role of medical and psychiatric lenses in shaping the ways disabled people, families and professionals understand disability, and use case scenarios to consider applications for Disability Studies perspectives in healthcare.",
+        "Antirequisite(s): Disability Studies 3395F/G if taken in 2018-19, 2019-20.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3039",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH220",
+          "Instructor": "E. Katzman",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B and Disability Studies 2201F/G, or permission of the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3326G - DISABILITY RIGHTS AND LAW",
+      "Description": [
+        "Learn about the intersection of Human rights and related legal frameworks in relation to the Disability Rights movement. Through a Disability Studies lens, this course reviews domestic and international, historical and current cases that represent important legal and ethical turning points: workplace, competence, personhood, end-of-life, genetics and caregivers.",
+        "Antirequisite(s): Disability Studies 3325F/G, the former Disability Studies 3310F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "11753",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 2201F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3339G - DISABILITY CROSS-CULTURALLY",
+      "Description": [
+        "Explores how different cultures construct disability. Uses cases to examine the way diverse sociocultural norms inform definitions, policies, practices and attitudes towards people with disability and how this varies internationally.",
+        "Antirequisite(s): Sociology 3339F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "11624",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B, or 3rd or 4th year standing in a Sociology or Criminology or Disability Studies module, or with permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DISABST 3391G - SPECIAL TOPICS IN DISABILITY",
+      "Description": [
+        "Selected topics of current interest in Disability Studies. A course description will be available at time of registration.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "10163",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Disability Studies 1010A/B and Disability Studies 2201F/G, or permission of the Instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

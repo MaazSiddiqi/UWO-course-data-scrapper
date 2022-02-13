@@ -1,0 +1,1975 @@
+{
+  "Name": "Religious Studies",
+  "Code": "RELSTUD",
+  "Courses": [
+    {
+      "Name": "RELSTUD 0014A - RELIGION & CONTEMPORARY WORLD",
+      "Description": [
+        "An introduction to Religious Studies that incorporates autobiographies and/or biographies of contemporary people representing different religious perspectives and walks of life. The course introduces students to the theory of religion and focuses particularly on the tension between religious traditions and contemporary realities.",
+        "Antirequisite(s): Religious Studies 0011, Religious Studies 1031E, and Religious Studies 1034F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2788",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Knight-Messenger",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS"
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 0015B - RELIGION, CULTURE, VIOLENCE",
+      "Description": [
+        "An introduction to Religious Studies that incorporates the autobiographies and/or biographies of contemporary people representing different religious perspectives and walks of life. The course focuses particularly on religion\u2019s meaning and function in culture and such identity-shaping experiences as violence and persecution.",
+        "Antirequisite(s): Religious Studies 0011, Religious Studies 1031E and Religious Studies 1035F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2789",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Knight-Messenger",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS"
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1010F - RELIGION, THEOLOGY & GLOBAL",
+      "Description": [
+        "Introduction of religious studies and theology from a global perspective. Topics include theological and religious perspectives on: culture(s), politics, economics, sexuality, violence, identity and community, and spirituality.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2000",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "B. Potter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2000",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "B. Potter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1015G - RELIGION AND DIFFERENCE",
+      "Description": [
+        "An introduction to religion and theology, this course considers the way religious beliefs and practices draw distinctions, create boundaries, and establish limits. In addition to exploring how these lines are drawn, and why they matter, we consider strategies to close the distance these domains create in everyday life. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2248",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-H221",
+          "Instructor": "W. Acres",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1020B - BEAUTY AND BELIEF",
+      "Description": [
+        "An exploration of Christian beliefs through a study of various medium including paintings, icons, sculpture, church architecture, liturgical and devotional acts and their implication for religious faith and imagination.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3097",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "D. Grecco",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1022A - PERPLEXING ISSUES",
+      "Description": [
+        "An examination of selected thought provoking questions such as \"What's after death?\"; \"Why do bad things happen to good people?\"; \"Why are religions in conflict, sometimes violently?\"; \"Do miracles happen?\". The aim of this introductory study is to broaden students' awareness of religious ways of understanding the human condition. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1105",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1022B - PERPLEXING ISSUES",
+      "Description": [
+        "An examination of selected thought provoking questions such as \"What's after death?\"; \"Why do bad things happen to good people?\"; \"Why are religions in conflict, sometimes violently?\"; \"Do miracles happen?\". The aim of this introductory study is to broaden students' awareness of religious ways of understanding the human condition. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1082",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1265",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1023E - INTRODUCTN TO WORLD RELIGIONS",
+      "Description": [
+        "An introduction to the rich and varied religions of the world, past and present, set within their historical and cultural contexts. In the First Term, we delve into Hinduism, Jainism, Buddhism (Indian, Chinese, and Japanese), Sikhism, Confucianism, Daoism, and Shinto; in the Second Term, we examine Judaism, Christianity and Islam.",
+        "Antirequisite(s): Religious Studies 2130, Religious Studies 2203F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1028",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-LH105A",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1171",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-LH105A",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1027E - CATHOLIC CHRISTIANITY",
+      "Description": [
+        "This course introduces students to fundamental questions about human existence, the world, and God, and the ways in which the Catholic tradition in all its diversity has addressed these questions. Themes include: the nature of God, the destiny of creation and the meaning of Jesus Christ for salvation.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1205",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W045",
+          "Instructor": "M. Yenson",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1030B - UNDERSTANDING RELIGION",
+      "Description": [
+        "Understanding religion is fundamental to understanding human societies and cultures. Examine religion as a social phenomenon through historical and present-day case studies. Topics may include: religion and sex; religion and money; religion and dirt; politics and religion; religion and the environment; religion and colonization; innovation in religion; religion and violence.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2345",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H221",
+          "Instructor": "J. QuigleyJennifer",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1033A - MEANING OF LIFE AT THE MOVIES",
+      "Description": [
+        "An exploration of religious assumptions (including assumptions about how a person can live and die well) in contemporary films. ",
+        "Extra Information: 2 lecture hours, 2 screening hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1125",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1253",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1033B - MEANING OF LIFE AT THE MOVIES",
+      "Description": [
+        "An exploration of religious assumptions (including assumptions about how a person can live and die well) in contemporary films. ",
+        "Extra Information: 2 lecture hours, 2 screening hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1131",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1254",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1034F - RELIGION & CONTEMPORARY WORLD",
+      "Description": [
+        "An introduction to Religious Studies that incorporates autobiographies and/or biographies of contemporary people representing different religious perspectives and walks of life. The course introduces students to the theory of religion and focuses particularly on the tension between religious traditions and contemporary realities.",
+        "Antirequisite(s): Religious Studies 0011, Religious Studies 0014A/B and Religious Studies 1031E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2790",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Knight-Messenger",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS"
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 1035G - RELIGION, CULTURE, VIOLENCE",
+      "Description": [
+        "An introduction to Religious Studies that incorporates the autobiographies and/or biographies of contemporary people representing different religious perspectives and walks of life. The course focuses particularly on religion\u2019s meaning and function in culture and such identity-shaping experiences as violence and persecution.",
+        "Antirequisite(s): Religious Studies 0011, Religious Studies 0015A/B and Religious Studies 1031E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2791",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Knight-Messenger",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS"
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2112F - SPIRITUALITY OLD AND NEW",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1988",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "D. Marks",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2113G - MODERNITY, POSTMODERNITY & REL",
+      "Description": [
+        "An interdisciplinary exploration of interpretations of religion from the Enlightenment to the present day. Topics such as the conflict between science and religious belief, anti-religious thought, pluralism, feminism, and the impact of postmodernist theory will be examined. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1989",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "D. Marks",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2124G - INTRO NEW TESTAMENT",
+      "Description": [
+        "An introduction to the history, literature, and thought of primitive Christianity. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1966",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "J. QuigleyJennifer",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2126F - THE EARLY CHURCH",
+      "Description": [
+        "The history of the Christian Church from its origin to the late Middle Ages.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1993",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "S. McClatchie",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2127G - THE LATE MIDDLE AGES",
+      "Description": [
+        "The history of the Christian Church from the Late Middle Ages through to the modern period and contemporary world.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1994",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "W. Acres",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2130 - LIVING RELIGIONS",
+      "Description": [
+        "A study of the history, faith, and practices of the major living religions - selected from Hinduism, Jainism, Buddhism, Confucianism, Taoism, Shintoism, Zoroastrianism, Islam, Judaism, and Christianity. ",
+        "Extra Information: 2 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2249",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-V214",
+          "Instructor": "W. Acres",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2134A - MODERN MORAL DILEMMAS",
+      "Description": [
+        "An examination of the religious, philosophical, social, and cultural contexts that lead people to adopt diverse positions on moral issues such as abortion, euthanasia, stem cell research, and so forth. This course includes a presentation of Christian positions on the moral problems to be discussed.",
+        "Antirequisite(s): The former Religious Studies 2132.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1715",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH109",
+          "Instructor": "C. Chau",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2139A - LOVE, SEX AND RELATIONSHIPS",
+      "Description": [
+        "A brief, multidisciplinary study of marriage incorporating theological, sociological, moral and/or psychological points of view. Topics may include sacrament and spirituality, love, sexuality, children, communication, conflict and forgiveness.",
+        "Antirequisite(s): The former Religious Studies 2140, Religious Studies 2223E.",
+        "Extra Information: 3.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1514",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W170",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2151A - RELIGION AND FAMILIES",
+      "Description": [
+        "This course examines understandings of marriage and family in various faith traditions, and their bases in scripture, theology, and tradition. It includes a focus on issues raised as these traditions encounter the multicultural, pluralistic, and increasingly secular twenty-first century society.",
+        "Antirequisite(s): Religious Studies 2140, Religious Studies 2150, Religious Studies 2223E, Religious Studies 2265E, and Religious Studies 2266F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10190",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. Fernando",
+          "Notes": [
+            "ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2163A - \"AN EYE FOR AN EYE\"",
+      "Description": [
+        "How similar are biblical ideas of crime and punishment to our own? We cover topics like vengeance, blood feud, ordeal, and collective punishment alongside more familiar issues such as courtroom procedure, rules of evidence, and remedies for wrongful judgments. Do ancient, biblical approaches to crime and punishment remain relevant today?",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "1716",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "C. Halberstam",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2181B - SCIENCE AND RELIGION",
+      "Description": [
+        "This course will explore a wide variety of questions concerning the relationship between science and religion: What is science and what is religion? Has science made religion obsolete, or has science become a new religion? Is there anything science can add to religion, or religion to science?",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3098",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH109",
+          "Instructor": "J. Geen",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2200F - APPROACHES TO STDY OF RELIGION",
+      "Description": [
+        "Religions, like well-cut jewels, are multifaceted and can be viewed from a number of unique angles. This course examines religion through a variety of scholarly lenses and academic disciplines, including anthropology, sociology, psychology, philosophy, phenomenology, theology and feminism.",
+        "Antirequisite(s): The former Religious Studies 2200E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1479",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": "M. Tourage",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2201F - THE OLD TESTAMENT",
+      "Description": [
+        "An introduction to the history of Israel, to the literature of the First Testament of the Christian Bible and to the interpretation strategies employed by its ancient and contemporary readers. ",
+        "Antirequisite(s): Religious Studies 2164F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1211",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W175",
+          "Instructor": "J. Kato",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2202G - THE NEW TESTAMENT",
+      "Description": [
+        "An introduction to the distinctive Scriptures of Christianity--the New or Second Testament of the Christian Bible--and to the interpretative methods employed by ancient and contemporary readers of these books. ",
+        "Antirequisite(s): Religious Studies 2124F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1106",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH102",
+          "Instructor": "J. Kato",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2203G - INTRO TO EASTERN RELIGIONS",
+      "Description": [
+        "What did the Buddha teach? How does Confucius say we should live our lives? Is there such a thing as 'oriental' wisdom? These and many other questions are explored in this introduction to the great religions of India, China and Japan.",
+        "Antirequisite(s): Religious Studies 1023E, Religious Studies 2130. ",
+        "Extra Information: 3 hours, 0.5 course. ",
+        "Note: This course may not be used to fulfill requirements for World Religions modules."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3099",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": "J. Geen",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2204F - WORLD RELIGNS:JUDAISM & ISLAM",
+      "Description": [
+        "A study of the history, faith and practices of Judaism and Islam. ",
+        "Antirequisite(s): Religious Studies 2130. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3100",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH102",
+          "Instructor": "G. Hegedus",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2205F - EMERGENCE OF CHRISTIAN TRADTN",
+      "Description": [
+        "An exploration of how Christian identity, belief and practice took shape from the beginnings of Christianity to the late Middle Ages. Topics include struggles over Christian doctrine; worship; monasticism; attitudes to the body, sexuality and gender; Christian expression in art and architecture.",
+        "Antirequisite(s): Religious Studies 2218F/G, Religious Studies 2610F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1719",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": "M. Yenson",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2207E - CHRISTIAN ETHICS",
+      "Description": [
+        "An introduction to Christian ethics with a focus on key concepts within the Catholic moral tradition such as the human person, freedom, love, virtue, dignity, and social justice. Issues and critical contemporary challenges to the tradition will be examined and engaged.",
+        "Antirequisite(s): Religious Studies 2238F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1195",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": "C. Chau",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in Religious Studies, or the permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2208U - CATHOLIC EDUC IN PRAC 1 - SLP",
+      "Description": [
+        "An introduction, through volunteer service and seminar discussions, to the Roman Catholic Education system. Intended primarily for students enrolled in the Honours Specialization and Major modules in Catholic Studies for Teachers.",
+        "Extra Information: 12 seminar hours and 75 hours of volunteer service in a Catholic High School over two terms."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1217",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:00 AM",
+          "End Time": "1:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN CATHOLIC STUDIES FOR TEACHERS PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Admission to the Honours Specialization or Major modules in Catholic Studies for Teachers or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2212F - ONE JESUS, MANY GOSPELS",
+      "Description": [
+        "Why did early Christians produce multiple gospels to describe one Jesus? This course examines the portrayals of Jesus in the four Gospels, relating them to the historical figure of Jesus.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3101",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": "J. Kato",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2222F - FEMINIST SPIRTUALITY TODA",
+      "Description": [
+        "An exploration of current expressions of feminist consciousness which are shaping spirituality. Sources will be the experience of women - in particular, that expressed in writings and film. Connections will be made to the religious traditions which are sources of many of the current trends. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10115",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-UH30",
+          "Instructor": "S. Lindenburger",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2238F - FUNDAMENTAL MORAL THEOLOGY",
+      "Description": [
+        "An exploration of the fundamental concepts of the Catholic moral tradition in light of the Second Vatican Council: scriptural foundations, conversion and discipleship, the role of the Magisterium, natural law and the law of Christ, conscience, the moral act, sin and virtue. ",
+        "Antirequisite(s): Religious Studies 2207E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1779",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-SP231",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2239G - CHRISTIAN BIOETHICS",
+      "Description": [
+        "A specialized course concerning Catholic moral principles with clinical/ pastoral applications for a pluralistic world. Topics: reproduction issues, abortion, organ transplants, genetics, death and dying, resource allocation, and global ethics. Expert guest speakers included. Many applications to health care institutions. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3103",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "J. Kuntz",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2250E - HISTORY ROMAN CATHOLIC",
+      "Description": [
+        "The historical character of the Church. Chronological survey of the main developments of the Apostolic Age to the Vatican Council I. Recreation of the contexts of major developments and their interpretation according to the principle of \"historicity,\" i.e., the Church's potential in its human dimension for change and development. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1778",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "KC-SP231",
+          "Instructor": "J. Comiskey",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2253G - WOMEN IN CHRISTN TRADN & SOCTY",
+      "Description": [
+        "An examination of Christian traditions from the perspective of women's experience, including how they have reinforced society's oppression of women and how women have created alternative structures within ecclesial communities. Contemporary women's writings, with scripture and other sources of the tradition, are the major sources. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10116",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": "A. Knight-Messenger",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2254G - BIBLICAL WMN IN CONTEM ART/LIT",
+      "Description": [
+        "This course considers biblical women as they are reinterpreted in poetry, novels, short stories and art. When biblical stories are compared with creative interpretations of them, ancient stories are illuminated and contemporary concerns addressed, challenging us to ask new questions of biblical texts and of ourselves as well.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10187",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-MRW153",
+          "Instructor": "S. Lindenburger",
+          "Notes": [
+            "CROSS-LISTED WITH ENGLISH 3701G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2266F - RELIGION AND FAMILIES",
+      "Description": [
+        "This course examines understandings of marriage and family in various faith traditions, and their bases in scripture, theology, and tradition. It includes a focus on issues raised as these traditions encounter the multicultural, pluralistic, and increasingly secular twenty-first century society.",
+        "Antirequisite(s): Religious Studies 2150, Religious Studies 2151A/B, Religious Studies 2223E, Religious Studies 2265E, and the former Religious Studies 2140.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10189",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. Fernando",
+          "Notes": [
+            "ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2277G - SPECIAL TOPICS",
+      "Description": [
+        "This is a special topics course in Religious Studies.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11867",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: ECOLOGY, SPIRITUALITY AND JUSTICE. CROSS-LISTED WITH SOCLJUST 2278B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2281F - INTRODUCTION TO BUDDHISM",
+      "Description": [
+        "This course provides an introductory exploration of the Buddhist tradition, from the original teachings of the Buddha through later doctrines, philosophies, practices and art  Buddhism from Sri Lanka, China, Japan and/or Tibet.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3102",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W175",
+          "Instructor": "J. Geen",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2285G - INTRODUCTION TO ISLAM",
+      "Description": [
+        "A study of Islam, its origin, main beliefs and practices; Islamic law, theology and mystical traditions; the diversity of modern Islam and its responses to the modern world.",
+        "Antirequisite(s): Religious Studies 2620F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1345",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": "M. Tourage",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2286F - INTRODUCTION TO JUDAISM",
+      "Description": [
+        "An exploration of the experiential dimension of the Jewish tradition through the lens of ritual studies. By exploring the festivals and observances that comprise a single Jewish year, we will delve into Judaism's conceptions of time, the body, food, suffering and love.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "11297",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": "C. Halberstam",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2291F - SPECIAL TOPICS",
+      "Description": [
+        "Please consult Department for current offerings. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11296",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH THANAT 2296F. TOPIC: RELIGIOUS PERSPECTIVES ON DEATH AND DYING. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2297B - FAITH IN SOUND, STONE, & PAINT",
+      "Description": [
+        "An exploration of how music, architecture, and the visual arts can both reflect and help shape faith. Representative works from a wide variety of historical periods will be studied in their theological and cultural contexts.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2346",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W102",
+          "Instructor": "S. McClatchie",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2346",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W102",
+          "Instructor": "S. McClatchie",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2300A - SPECIAL TOPICS",
+      "Description": [
+        "See Faculty of Theology for current offering.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12584",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-V208",
+          "Instructor": "J. QuigleyJennifer",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2310G - INTERPRETING THE QUR'AN",
+      "Description": [
+        "This course explores passages in the Qur'an that have shaped classical and contemporary Islam, particularly regarding the tensions between text, context, and community. In addition to textual analysis, the course covers the history of reception and the influence these texts and their interpretations have on social relations and contemporary issues.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2881",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-A1",
+          "Instructor": "L. Taleb",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2330F - INTERPRET THE CHRISTIAN BIBLE",
+      "Description": [
+        "This course explores the rich and sometimes problematic relationship between text, context, and community in relation to selected passages from the Christian Bible. In addition to textual analysis, the course covers the history of reception and the influence these texts and their interpretations have on social relations and contemporary issues.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1965",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "D. Smith",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2347F - LIVING THE BIBLE",
+      "Description": [
+        "Is it really possible to live according to biblical commandments? An exploration of biblical legal texts and early Jewish methods for transforming them into workable systems of law and ethics in the Mishnah and Talmuds. Focuses on questions of what makes legal interpretation valid and differentiating law from morality.",
+        "Antirequisite(s): Jewish Studies 2347F/G.",
+        "Extra Information: 3 lecture hours; this course is cross-listed with Jewish Studies 2347F/G."
+      ],
+      "Components": [
+        {
+          "Section": "270",
+          "Component": "LEC",
+          "Class Nbr": "11260",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "C. Halberstam",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2351G - INCULTURATION & SPIRITUALITY",
+      "Description": [
+        "Combining classroom time, and a trip to Canada's North, students will come to a deeper understanding of the Church's praxis regarding inculturation and spirituality within a First Nations context.  Consideration will be given to the legacy of colonization and movements fostering greater autonomy in the Canadian aboriginal context. Additional travel expenses to be borne by students.",
+        "Antirequisite(s): Religious Studies 2291G taken in Fall/Winter 2011-12, 2012-13.",
+        "Extra Information: six 4-hour preparatory lectures."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1308",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2352G - ROME & THE CHRISTIAN TRADITION",
+      "Description": [
+        "From ancient city of emperors to centre of the Roman Catholic Church today, Rome presents a living history like no other city. The course explores the intersection of religious practice, belief, art and architecture, politics and culture through a 10-day tour of Rome and environs. Additional travel expenses to be borne by students.",
+        "Antirequisite(s): Religious Studies 2291F Rome and the Christian Tradition taken in Summer Session 2012, or Summer Session 2013. ",
+        "Extra Information: Six 2-hour preparatory lectures."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1722",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W045",
+          "Instructor": "",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2420B - THE HEBREW BIBLE IN CONTEXT",
+      "Description": [
+        "This course will introduce students to the texts of the Hebrew Bible/Old Testament, paying particular attention to the historical and cultural environment of the ancient Israelites. The course will cover major texts from the Torah, historical books, prophetic books, and wisdom literature. ",
+        "Antirequisite(s): Biblical Studies 5120A/B, the former Religious Studies 2410F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2009",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "N. Meyer",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 2500F - INTRODUCTION TO THE QUR'AN",
+      "Description": [
+        "This course examines the Qur'an's form, content, and major themes to determine what they reveal about its nature, appeal, and significance. The ways in which the Qur'an has functioned as the primary authority and guide in Muslim history and contemporary life will be examined.",
+        "Antirequisite(s): Religious Studies 2310F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3104",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": "M. Tourage",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3121F - INTRODUCTION TO ISLAMIC ETHICS",
+      "Description": [
+        "An examination of principled reasoning in classical Islamic jurisprudence, the theological status of reason in Islam, the principles and priorities of traditional ethical reasoning, the arguments for a goal-oriented approach to ethics, the contemporary emphasis on the context of the ethicist and the construction of religious authority, and the importance of individual moral formation.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2347",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "CROSS-LISTED WITH THEOETH 5213A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3130F - ISLAM AND POLITICS",
+      "Description": [
+        "This course examines Islamic political thought and practice from the Medina Charter and the early Caliphate through to contemporary movements and developments. Central topics include: religion and the state, the main branches of Islam, religious tolerance, good governance, human rights, rule of law, and colonialism.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2348",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "CROSS-LISTED WITH RELSTUD 5220A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3257G - CONTMP ISS IN CHRISTIAN ETHICS",
+      "Description": [
+        "How do I go about making an ethical decision? This course examines the roots and contemporary understandings of Christian ethics, both Catholic and Protestant. Issues such as human sexuality, the ecological crisis, euthanasia, war and genetic manipulation are considered.",
+        "Antirequisite(s): The former Religious Studies 2132, the former Religious Studies 2257F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "11053",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-MRW152",
+          "Instructor": "S. Lindenburger",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3301G - MODERN CATHOLIC THOUGHT",
+      "Description": [
+        "A critical exploration of the development of Catholic thought from the 16th-century Protestant and Catholic Reformations to the present day, with emphasis on theological renewal in the 19th and 20th centuries and the emergence of contemporary global perspectives. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1724",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": "",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Religious Studies 2205F/G, and third- or fourth-year standing in an Honours Specialization, Specialization or Major module in a Religious Studies program or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3308U - CATHOLIC EDUC IN PRAC 2 - SLP",
+      "Description": [
+        "An exploration, through volunteer service and seminar discussion, of the mission and methodologies of Roman Catholic education systems in Southwestern Ontario. Intended primarily for students enroled in the Honours Specialization or Major modules in Catholic Studies for Teachers.",
+        "Extra Information: 12 seminar hours and 75 hours of volunteer service in a Catholic High School over two terms."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1216",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN CATHOLIC STUDIES FOR TEACHERS PROGRAM. HELD IN KC C106. ",
+            "REQUISITES: Prerequisite(s): Religious Studies 2208U and Honours Specialization or Major module in Catholic Studies for Teachers or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3360F - ISLAM, JUSTICE AND PEACE",
+      "Description": [
+        "By exploring the religious foundations of justice and peace in Islam\u2019s theology, Sufism, and law, this course examines Muslims' conceptualizations and (successful or failed) expressions of justice and peace in historical and modern contexts. Of particular interest will be contemporary issues of social, gender, racial, and environmental justice.",
+        "Antirequisite(s): Social Justice and Peace Studies 3360F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1558",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W175",
+          "Instructor": "M. Tourage",
+          "Notes": [
+            "CROSS-LISTED WITH SJPS 3360F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 essay course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3400G - THEOLOGY & RELIGIOUS PLURALISM",
+      "Description": [
+        "A survey of religious pluralism from a theological perspective, with particular attention to major contemporary authors in theology of religions and comparative theology. Although special attention will be paid to Christian writers, sources from diverse religious traditions will be encountered.",
+        "Antirequisite(s): Systematic Theology 5228A/B. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12544",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W104",
+          "Instructor": "B. Potter",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Any 2000-level course in Religious Studies or Theological Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3450F - JUDAISM AND THE HOLOCAUST",
+      "Description": [
+        "The impact of the Holocaust (1938-45) on Judaism in terms of its philosophy-theology, subsequent placement in Western society, and on Western and Global society. Students will examine the historical-social context of anti-Semitism/National Socialism as well as investigating Jewish responses in theology, philosophy and socio-political identity after the Holocaust. ",
+        "Extra Information: 2.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2349",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "D. Marks",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Completion of first-year requirements including 1.0 course from Category A or 1.0 course in History."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3451F - RELIGION & CONFLICT RESOLUTION",
+      "Description": [
+        "This course introduces a variety of theoretical and practical perspectives on the role religion plays in international conflict resolution and peace building. Cases involving representatives of major religious traditions will provide a basis for comparing theories and practices of resolving conflict.",
+        "Antirequisite(s): Social Justice and Peace Studies 3451F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1598",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W175",
+          "Instructor": "M. Shore",
+          "Notes": [
+            "CROSS-LISTED WITH SJPS 3451F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Third or fourth year standing in a Religious Studies program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 3452G - GLOBALIZATION JUSTICE & SPIRIT",
+      "Description": [
+        "An exploration of globalization and justice, and the spiritual resources for responding to injustice, grounded especially in Christian reflection on the theme of liberation.",
+        "Antirequisite(s): Social Justice and Peace Studies 3452F/G.",
+        "Extra Information: 3 lecture hours. Cross-listed with Social Justice and Peace Studies 3452F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3105",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": "J. Kato",
+          "Notes": [
+            "CROSS-LISTED WITH SOCLJUST 3452G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 4040F - PROPHETIC LITERATURE",
+      "Description": [
+        "Studies focused on one or more of the major or minor prophets.",
+        "Antirequisite(s): Religious Studies 2213F/G.    ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2896",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "T. Lemos",
+          "Notes": [
+            "CROSS-LISTED WITH BIBLSTUD 5222A. ",
+            "REQUISITES: Prerequisite(s): The former Religious Studies 2410F/G or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 4408Y - CATHOLIC EDUCATION IN PRACTICE",
+      "Description": [
+        "An investigation, through volunteer service and seminar discussions, of various philosophies of education with particular reference to those employed in Catholic secondary schools. Intended primarily for students enroled in the Honours Specialization or Major modules in Catholic Studies for Teachers.",
+        "Extra Information: Twelve 3-hour seminars, and 75 hours of volunteer service in a Catholic High School over two terms."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1228",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:00 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 4 STUDENTS IN THE CATHOLIC STUDIES FOR TEACHERS PROGRAM. HELD IN KC C106. ",
+            "REQUISITES: Prerequisite(s): Religious Studies 2208U, Religious Studies 3308U, and good standing in an Honours Specialization or Major module in Catholic Studies for Teachers or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 4420G - SEMINAR IN RELIGION & CUL",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3106",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": "M. Yenson",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Third- or fourth-year standing in an Honours Specialization, Specialization, or Major module in a Religious Studies program, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 5220A - ISLAM AND POLITICS",
+      "Description": [
+        "Islamic political thought and practice from the Medinan Charter and the caliphates through contemporary movements. Key concerns:  the relationship between religious authority and political power; pluralism; the rule of law.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2351",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "HC-W4",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "CROSS-LISTED WITH RELSTUD 3130F."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "RELSTUD 5223A - SPECIAL TOPICS COURSE",
+      "Description": [
+        "Topic is available from the office of the Dean of the Faculty of Theology.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2350",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

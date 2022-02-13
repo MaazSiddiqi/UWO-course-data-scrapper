@@ -1,0 +1,1228 @@
+{
+  "Name": "Social Work",
+  "Code": "SOCWORK",
+  "Courses": [
+    {
+      "Name": "SOCWORK 1025A - INTRO SOC WORK, SOC WELFARE",
+      "Description": [
+        "This course addresses key concepts and contemporary issues in social work practice and social welfare in Canada. The ethical underpinnings of the profession along with micro, mezzo and macro levels of intervention is discussed and an emphasis placed on their application to diverse populations in the Canadian setting.",
+        "Antirequisite(s): Social Work 1021AB, Social Work 1022A/B, or the former Social Work 1020.",
+        "Extra information: 3 lecture hours. This course is open to all students, but is required for admission to the professional Bachelor of Social Work (Honours) program."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1739",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1740",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W166",
+          "Instructor": "A. Taiwo",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1741",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 1025B - INTRO SOC WORK, SOC WELFARE",
+      "Description": [
+        "This course addresses key concepts and contemporary issues in social work practice and social welfare in Canada. The ethical underpinnings of the profession along with micro, mezzo and macro levels of intervention is discussed and an emphasis placed on their application to diverse populations in the Canadian setting.",
+        "Antirequisite(s): Social Work 1021AB, Social Work 1022A/B, or the former Social Work 1020.",
+        "Extra information: 3 lecture hours. This course is open to all students, but is required for admission to the professional Bachelor of Social Work (Honours) program."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1742",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W166",
+          "Instructor": "A. Taiwo",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 1026A - SOCWORK PRACTICE,COMMUNICATION",
+      "Description": [
+        "Students are introduced to a number of contemporary theories that underlie the practice of social work. A communications laboratory offers a small group experiential means of learning foundational communication and interviewing skills.",
+        "Antirequisite: Social Work 2214A/B and Social Work 2215A/B.",
+        "Extra Information: 3 lecture hours. This course is open to all students, but is required for admission to the professional Bachelor of Social Work (Honours) program."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1743",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 1026B - SOCWORK PRACTICE,COMMUNICATION",
+      "Description": [
+        "Students are introduced to a number of contemporary theories that underlie the practice of social work. A communications laboratory offers a small group experiential means of learning foundational communication and interviewing skills.",
+        "Antirequisite: Social Work 2214A/B and Social Work 2215A/B.",
+        "Extra Information: 3 lecture hours. This course is open to all students, but is required for admission to the professional Bachelor of Social Work (Honours) program."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1744",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1745",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1746",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 2206A - RESEARCH MTHDS FOR SOC WORKER",
+      "Description": [
+        "A study of the empirical method to provide students with the basic knowledge and skills required to design and implement elementary research projects. Students will also learn how to evaluate research reports to be able to utilize the results in their professional practice. Required for admission to the Social Work program. ",
+        "Antirequisite(s): Psychology 2800E, Psychology 2820E, Psychology 2830A/B, Psychology 2840F/G, Psychology 2855F/G, Psychology 2856F/G, Sociology 2206A/B, Health Sciences 2801A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1280",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-KC004",
+          "Instructor": "R. Csiernik",
+          "Notes": [
+            "REQUISITES: PRE1: SocWrk1021,1022 or 1025+Prerequisite(s): Social Work 1025A/B and Social Work 1026A/B, or the former Social Work 1021A/B and the former Social Work 1022A/B, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 2216A - GEN SOC WORK PRACTICE,THEORIES",
+      "Description": [
+        "This course provides a conceptual, theoretical and applied examination of the generalist model of social work practice informed by ethics and framed within an anti-oppressive context. Students are introduced to a number of contemporary theories that underlie the practice of social work. Required for admission to the Social Work program.",
+        "Antirequisite: Social Work 2214A/B and Social Work 2215A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1747",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105B",
+          "Instructor": "C. Olivier",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Social Work 1025A/B and Social Work 1026A/B; or Social Work 1021A/B and",
+            "Social Work 1022A/B; or the former Social Work 1020."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1748",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-KC004",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Social Work 1025A/B and Social Work 1026A/B; or Social Work 1021A/B and",
+            "Social Work 1022A/B; or the former Social Work 1020."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3301A - DIRECT PRACTICE SKILLS",
+      "Description": [
+        "This course will provide the opportunity to develop direct practice skills within a strengths-based and critically reflective framework, building upon foundational interviewing skills developed in pre-program courses and learning and practising the skills of engagement, use of self, goal setting, as well as the production of written assessments and recordings.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1309",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1310",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "J. Sanders",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3302A - RESILIENCY & SOCIAL WORK",
+      "Description": [
+        "A critical inquiry lens examines dominant cultural discourse(s) in fields of practice to acquire critical thinking and reflective skills for practice. Institutional discourse delivery systems are investigated from the perspective of the practicing social worker engaged in critical appraisal of practice at intersection of client, social worker and institutional setting.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1311",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": "D. Hurley",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1312",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "A. Taiwo",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3303A - INDIVIDUAL & FAMILY DEVELOP",
+      "Description": [
+        "Introduces and examines human growth and development within socio/ecological and family contexts. Multiple theoretical frameworks will engage students in assessment of how individuals function during everyday social life within families, communities and cultures. Emphasis placed on the combination of personal and social conditions that enhance or inhibit adaptive developmental functioning.",
+        "Antirequisite(s): Social Work 3314A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1313",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W147",
+          "Instructor": "L. Lewis",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1314",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3308F - POL, ECON & SOC CONTXT CDN SW",
+      "Description": [
+        "An analysis of major political, social and economic aspects of Canadian society relevant to the development and implementation of social welfare policies and the practice of Social Work. This course will include an emphasis on globalization, the role of the media as an interpreter, and practice elements such as advocacy, coalition building, lobbying, and political involvement. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1091",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1092",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3316B - SOC WORK PRACT WITH IND & FAM",
+      "Description": [
+        "This course explores various practice approaches in working with individuals and families. Assessment and intervention skills, techniques and methods are emphasized within a broader structural, social, economic, and political context. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1051",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W147",
+          "Instructor": "S. Baird",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1052",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3318B - SW PRACTICE WITH COMMUNITIES",
+      "Description": [
+        "The scope of this course includes values, knowledge and skills related to developmental and change processes at the community level in Canadian society. Students will focus particularly on theory and practice relevant to fostering knowledge about \"community\" and competency in dealing with issues at the \"community\" level. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1053",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W147",
+          "Instructor": "B. Sethi",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1054",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3319F - SOCIAL WORK,ETHICS AND THE LAW",
+      "Description": [
+        "This course engages students in a process of ethical reasoning relevant to professional social work practice. Theories of ethical reasoning are explored in day-to-day practice and in confronting controversial social issues affecting vulnerable populations. Legislation, court systems and procedures are examined in the light of their ethical and legal aspects.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1315",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": "R. Birnbaum",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1444",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "R. Birnbaum",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3320Y - PRACTICUM & INTEGRATION SEMNR",
+      "Description": [
+        "A beginning, structured, practice experience in selected human service agencies which reflects demonstrable competency in professional practice. Bi-weekly seminars focusing on integration of practice issues and theory. ",
+        "Antirequisite(s): Social Work 3350B.",
+        "Corequisite(s): Second-term Social Work courses.     ",
+        "Extra Information: 2 hour Integration Seminar every other week all year. Practicum in second term Monday, Wednesday and every other Friday."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1093",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "C. Smith",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ALSO HELD IN KC W174.. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School.",
+            "Corequisite(s): Second-term Social Work courses."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1094",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "C. Olivier",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ALSO HELD IN KC W174. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School.",
+            "Corequisite(s): Second-term Social Work courses."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1095",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "L. Lewis",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ALSO HELD IN KC W174. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School.",
+            "Corequisite(s): Second-term Social Work courses."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "1096",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ALSO HELD IN KC W174. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School.",
+            "Corequisite(s): Second-term Social Work courses."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3333B - SMALL GROUP THEORY & PRACTICE",
+      "Description": [
+        "An examination of group structure, process, skills and development as they relate to theory and practice. Emphasis on understanding relationships between structural elements, interactional sequences, group purpose and functions; relationship between group process and group task activities will be examined in depth, including conflict resolution in group settings. ",
+        "Antirequisite(s): Social Work 3317A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1316",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1317",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": "B. Sethi",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3344B - SOCIAL JUSTICE AND SOCIAL WORK",
+      "Description": [
+        "This course explores diversity in the context of anti-oppressive practice at micro, mezzo and macro levels. A critical theoretical perspective is used to examine conceptual frameworks related to diversity, such as social inclusion and multiculturalism. Students will learn culturally competent approaches to working with individuals and diverse communities.",
+        "Antirequisite(s): Social Work 4421A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1318",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC006",
+          "Instructor": "C. Olivier",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1319",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL012",
+          "Instructor": "C. Olivier",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 3350B - PRACTICUM & INTEGRATION SEMNR",
+      "Description": [
+        "A beginning, structured, practice experience in selected human service agencies which reflects demonstrable competency in professional practice. The opportunity for integration of practice issues and theory will be incorporated to coordinate with the student's practicum schedule.",
+        "Antirequisite(s): Social Work 3320Y. ",
+        "Extra Information: Integration Seminars will be scheduled in addition to placement hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1454",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "12:00 PM",
+          "Location": "KC-LH220",
+          "Instructor": "R. Csiernik",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the third year professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4400 - PRACTICUM & INTEGRATION SEMINR",
+      "Description": [
+        "An advanced, structured, practice experience in selected human service agencies which reflects demonstrable competency in professional practice. Bi-weekly seminars focusing on integration of practice issues and theory. ",
+        "Extra Information: 2 hour Integration Seminar every other week, all year. 3 days per week Practicum."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1107",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W176",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite: Registration in fourth year Bachelor of Social Work (Honours) program."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1108",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite: Registration in fourth year Bachelor of Social Work (Honours) program."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1109",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W178",
+          "Instructor": "M. Arundel",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite: Registration in fourth year Bachelor of Social Work (Honours) program."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "1110",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W173",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite: Registration in fourth year Bachelor of Social Work (Honours) program."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "LEC",
+          "Class Nbr": "1111",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": "M. Arundel",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite: Registration in fourth year Bachelor of Social Work (Honours) program."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4414G - ANALYSIS OF CAN SOCIAL POLICIE",
+      "Description": [
+        "An introduction to the policy development process at government,  agency and individual levels and the manner in which these policies are translated into programs and actions.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1229",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W176",
+          "Instructor": "T. Smith Carrier",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1230",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4415F - ORGANIZ. CONTEXT OF PRACT",
+      "Description": [
+        "An examination of the agency as the context for professional practice. Provides an overview of various organizational structures and processes, and considers such work-related topics as supervision, personnel policies, employee motivation, performance appraisal, life-long learning, and worker stress and professional burn out. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1112",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH102",
+          "Instructor": "A. Taiwo",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1113",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL012",
+          "Instructor": "A. Taiwo",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4425A - IMMIGRANTS AND REFUGEES",
+      "Description": [
+        "This course explores current theories and practices within the area of social work practice with immigrants and refugees. Within an equity and social justice framework, this course will provide insight on the pre-migration, transit, and post-migration journeys of newcomers to support clients in the resettlement and adaptation process. ",
+        "Antirequisite(s): Social Work 4423A/B, Social Work 4424A/B."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3115",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4429B - PRACTICE-BASED RESEARCH",
+      "Description": [
+        "Qualitative and quantitative research approaches required to evaluate practice at case and program levels for best practices and competence in conducting practice-based research.  Topics include: evidence-based practice and research, models of evaluation, measurement principles and tools, formative and summative evaluation, data collection strategies, analysis of planned change, dissemination of findings.",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1350",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-DL012",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1351",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4430A - OVERVIEW OF ADDICTIONS",
+      "Description": [
+        "An examination of the addiction field with a focus on addiction as oppression. The use, misuse, and abuse of psychoactive substances will be examined from a biopsychosocial perspective. The course will review addiction-specific and general community resources as well as the range of addiction-specific models of intervention and counselling. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1320",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-LH220",
+          "Instructor": "R. Csiernik",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4463A - CHILDREN AND ADOLESCENTS",
+      "Description": [
+        "An analysis of Social Work methodologies related to children and adolescents as vulnerable groups in society. Emphasis is on the use of specialized techniques with traumatized and bereaved children. Concepts of attachment, resilience, adaptation and coping are explored. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3116",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4465B - SPEC TOP IN SOCIAL WORK THEORY",
+      "Description": [
+        "Individual and small group tutorials on special topics and approved research projects.  ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3118",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4474B - SP TP IN SOCIAL WORK THEORY",
+      "Description": [
+        "Individual and small group tutorials on special topics and approved research projects. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3117",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W178",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCWORK 4484B - SOC WORK PRCTC & MENTAL HEALTH",
+      "Description": [
+        "Mental illness is prevalent in many fields of professional practice; for example, mental health centers, hospitals, child welfare agencies, correctional facilities, the education system, concurrent programs, geriatrics, developmental disabilities. This course provides students with an understanding of the basic concepts of mental illness to assist in assessment and treatment planning.  ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1400",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-KC005",
+          "Instructor": "R. Vito",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1648",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W173",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO HONS BACHELOR OF SOCIAL WORK. ",
+            "REQUISITES: Prerequisite(s): Registration in the professional BSW (Honours) program, or permission of the School."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

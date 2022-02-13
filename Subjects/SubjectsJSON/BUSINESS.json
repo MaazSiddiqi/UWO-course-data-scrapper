@@ -1,0 +1,1450 @@
+{
+  "Name": "Business Administration",
+  "Code": "BUSINESS",
+  "Courses": [
+    {
+      "Name": "BUSINESS 1220E - INTRODUCTION TO BUSINESS",
+      "Description": [
+        "Business Administration 1220E, offered by the Ivey Business School, gives students from all faculties the opportunity to learn business fundamentals in finance, marketing, operations, organizational behavior and general management.  The course is delivered using Ivey's renowned case method, which challenges students to learn by doing, within an active class environment of no more than 85 students.  Students explore real business issues, make management decisions, defend their position, and take action. This course will be particularly appealing to those students who want a glimpse of Ivey's unique learning experience.",
+        "Antirequisite(s): Business Administration 1299E, Business Administration 2295F/G, Business Administration 2299E, the former Business Administration 1220, the former Business Administration 2299.      ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2453",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-303",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT BRESCIA. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2453",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-18",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT BRESCIA. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2476",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. PRIORITY TO STUDENTS REGISTERED AT BRESCIA. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1885",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "HC-V214",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1885",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "1886",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W12",
+          "Instructor": "R. Bloomfield",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "1886",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W12",
+          "Instructor": "R. Bloomfield",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "552",
+          "Component": "LEC",
+          "Class Nbr": "1937",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W116",
+          "Instructor": "R. Bloomfield",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "553",
+          "Component": "LEC",
+          "Class Nbr": "2067",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:00 PM",
+          "Location": "HC-W116",
+          "Instructor": "R. Bloomfield",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "554",
+          "Component": "LEC",
+          "Class Nbr": "2121",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W116",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "554",
+          "Component": "LEC",
+          "Class Nbr": "2121",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W116",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1333",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1015",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1016",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "1055",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "LEC",
+          "Class Nbr": "1198",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "575",
+          "Component": "LEC",
+          "Class Nbr": "1764",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "576",
+          "Component": "LEC",
+          "Class Nbr": "3142",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3357",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5207",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-3317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "3358",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "3359",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LEC",
+          "Class Nbr": "3360",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LEC",
+          "Class Nbr": "3361",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LEC",
+          "Class Nbr": "4038",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LEC",
+          "Class Nbr": "3362",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LEC",
+          "Class Nbr": "3726",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LEC",
+          "Class Nbr": "3363",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LEC",
+          "Class Nbr": "3364",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LEC",
+          "Class Nbr": "11829",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "AN INTRODUCTORY TO BUSINESS FUNDAMENTALS, OVERVIEW OF IVEY\u2019S CASE TEACHING METHOD AND THE IVEY HBA BUSINESS PROGRAM. NOT OPEN TO ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BUSINESS 1299E - BUSINESS FOR ENGINEERS",
+      "Description": [
+        "Students learn business fundamentals in finance, marketing, engineering economics, organizational behaviour and general management. Students are taught business decisionmaking using the case method, wherein students explore real business issues, make management decisions, defend their position, and take action, within an active class environment of no more than 85 students.",
+        "Antirequisite(s): Business Administration 1220E or the former Business Administration 1220, Business Administration 2295F/G, Business Administration 2299E or the former Business Administration 2299.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7118",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "7119",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "7120",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "7121",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LEC",
+          "Class Nbr": "7122",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LEC",
+          "Class Nbr": "7123",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LEC",
+          "Class Nbr": "7124",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LEC",
+          "Class Nbr": "7125",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LEC",
+          "Class Nbr": "10258",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LEC",
+          "Class Nbr": "12622",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO YR 1 ENGINEERING STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BUSINESS 2257 - ACCOUNTING & BUSINESS ANA",
+      "Description": [
+        "Prerequisite for entry to Honours Business Administration. Course Divisions: (1) Financial Accounting - development of financial statements, and the assessment of their uses and limitations. (2) Business Analysis and Management Accounting - using case studies with an emphasis on smaller businesses, students learn various quantitative decision-making tools highlighted by an entrepreneurial feasibility study. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2477",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "BR-203",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2477",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "BR-203",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1887",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-V210",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "1998",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:00 PM",
+          "Location": "HC-V210",
+          "Instructor": "R. Bloomfield",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "552",
+          "Component": "LEC",
+          "Class Nbr": "2101",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-V210",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "553",
+          "Component": "LEC",
+          "Class Nbr": "2444",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "HC-W12",
+          "Instructor": "V. Sweeney",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "554",
+          "Component": "LEC",
+          "Class Nbr": "2445",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "HC-V210",
+          "Instructor": "A. Miller",
+          "Notes": [
+            "RESTRICTED TO HURON UNIVERSITY COLLEGE STUDENTS. MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1017",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105A",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS IN MOS MODULES, FINANCE MAJORS AND SPECIALIZATION IN FINANCIAL ECONOMICS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1336",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH105A",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS IN MOS MODULES, FINANCE MAJORS AND SPECIALIZATION IN FINANCIAL ECONOMICS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1056",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS IN MOS MODULES, FINANCE MAJORS AND SPECIALIZATION IN FINANCIAL ECONOMICS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3365",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "3367",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "3368",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "3369",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:00 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LEC",
+          "Class Nbr": "3370",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LEC",
+          "Class Nbr": "3371",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:00 PM",
+          "Location": "SH-2317",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LEC",
+          "Class Nbr": "3372",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:00 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LEC",
+          "Class Nbr": "4323",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LEC",
+          "Class Nbr": "3373",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:00 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LEC",
+          "Class Nbr": "6269",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "SH-3317",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LEC",
+          "Class Nbr": "4039",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LEC",
+          "Class Nbr": "4404",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "LEC",
+          "Class Nbr": "4405",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:00 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "LEC",
+          "Class Nbr": "4483",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:00 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "LEC",
+          "Class Nbr": "4484",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "SH-3317",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "LEC",
+          "Class Nbr": "5417",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "017",
+          "Component": "LEC",
+          "Class Nbr": "5754",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2316",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "018",
+          "Component": "LEC",
+          "Class Nbr": "3366",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-2355",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "020",
+          "Component": "LEC",
+          "Class Nbr": "8050",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:00 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "MUST HAVE 5 CREDITS TO REGISTER IN THIS COURSE. LIMITED TO MAIN CAMPUS STUDENTS ONLY. THIS SECTION MAY OPEN IF ALL OTHER SECTIONS FILL. ",
+            "REQUISITES: Prerequisite(s): Five courses at University level."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BUSINESS 2295F - BUSINESS BASICS FOR SCIENCES",
+      "Description": [
+        "This course is designed to provide students pursuing modules offered by the  Faculties of Science, Health Sciences or the Schulich School of Medicine and Dentistry with an understanding of how business operates and how the individual employee fits into the larger business organization. Students are introduced to the basics of finance, marketing and organizational behaviour through Ivey Business School\u2019s case method.",
+        "Antirequisite(s): Business Administration 1220E, Business for Engineers 1299E, Business Administration 2299E.  ",
+        "Extra Information: 3 hours. Restricted to students in Years 2 and above."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4187",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "SH-3315",
+          "Instructor": "J. Gosse",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED IN YR 2 OR ABOVE OF A MAJOR, SPECIALIZATION OR HONS SPZ IN THE FACULTIES OF SCIENCE, HEALTH SCIENCE OR MEDICINE AND DENTISTRY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Major, Specialization or Honours Specialization in the Faculties of Science, Health Sciences or the Schulich School of Medicine and Dentistry."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BUSINESS 2295G - BUSINESS BASICS FOR SCIENCES",
+      "Description": [
+        "This course is designed to provide students pursuing modules offered by the  Faculties of Science, Health Sciences or the Schulich School of Medicine and Dentistry with an understanding of how business operates and how the individual employee fits into the larger business organization. Students are introduced to the basics of finance, marketing and organizational behaviour through Ivey Business School\u2019s case method.",
+        "Antirequisite(s): Business Administration 1220E, Business for Engineers 1299E, Business Administration 2299E.  ",
+        "Extra Information: 3 hours. Restricted to students in Years 2 and above."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8051",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "SH-3315",
+          "Instructor": "J. Gosse",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Major, Specialization or Honours Specialization in the Faculties of Science, Health Sciences or the Schulich School of Medicine and Dentistry."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BUSINESS 4567B - WEALTH MANAGEMENT",
+      "Description": [
+        "The principal objective of the course is to provide a framework and sufficient knowledge for the individual investor to undertake financial and investment decisions within their overall personal financial plan.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "10759",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Grace",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

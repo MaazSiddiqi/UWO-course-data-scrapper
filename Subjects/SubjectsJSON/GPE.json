@@ -1,0 +1,178 @@
+{
+  "Name": "Green Process Engineering",
+  "Code": "GPE",
+  "Courses": [
+    {
+      "Name": "GPE 3384A - SUSTAINABLE ENERGY",
+      "Description": [
+        "Analysis of the environmental effect of different energy vectors, with a particular emphasis in electricity, using life-cycle assessment methodology.",
+        "Antirequisite(s): GPE 3383A/B, GPE 3385A/B.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12024",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1410",
+          "Instructor": "",
+          "Notes": [
+            "CROSS-LISTED WITH CBE 3307A. ",
+            "REQUISITES: Prerequisite(s): CBE 2214A/B, CBE 2220A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12024",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AHB-1B08",
+          "Instructor": "",
+          "Notes": [
+            "CROSS-LISTED WITH CBE 3307A. ",
+            "REQUISITES: Prerequisite(s): CBE 2214A/B, CBE 2220A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "12025",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "ACEB-1415",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GPE 4484A - GREEN FUELS & CHEMICALS",
+      "Description": [
+        "This course describes what are green fuels and chemicals and the main current or potential processes used to produce green fuels and chemicals. The student should be aware of the issues associated with the production of fuels and chemicals from fossil resources, be aware of the current processes that are used on a commercial scale to produce green fuels and chemicals, their advantages and drawbacks.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4838",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-2200",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO YR 4 GREEN PROCESS ENGINEERING OR YR 4 CHEMICAL ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): CBE 2207A/B or GPE 2214A/B, CBE 2224A/B, CBE 3315A/B or GPE 3315A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4838",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "ACEB-1415",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO YR 4 GREEN PROCESS ENGINEERING OR YR 4 CHEMICAL ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s): CBE 2207A/B or GPE 2214A/B, CBE 2224A/B, CBE 3315A/B or GPE 3315A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4839",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-2099",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "GPE 4497 - GREEN PROCESS DESIGN",
+      "Description": [
+        "A design is prepared for a device or a full-scale industrial process. This involves the detailed design of all major components, an estimate of the environmental footprint, and an economic analysis. Problem formulation, innovative solutions and professional decision making are emphasized.",
+        "Antirequisite(s): CBE 4497, CEE 4441, ECE 4416, MME 4499, SE 4450, Engineering Science 4499, MSE 4499, ECE 4415.",
+        "Extra Information: 2 lecture hours, 3 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5251",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-2317",
+          "Instructor": "S. Barghi",
+          "Notes": [
+            "RESTRICTED TO YR 4 GREEN PROCESS ENGINEERING STUDENTS. CROSS-LISTED WITH CBE 4497/4498. ",
+            "REQUISITES: Prerequisite(s): CBE 2220A/B, CBE 2224A/B, GPE 3315A/B, CBE 3322A/B, CBE 3323A/B, CBE 3324A/B, and CBE 3318A/B and GPE 3382A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7573",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "TC-203",
+          "Instructor": "S. Barghi",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

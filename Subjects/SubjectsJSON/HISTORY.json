@@ -1,0 +1,5014 @@
+{
+  "Name": "History",
+  "Code": "HISTORY",
+  "Courses": [
+    {
+      "Name": "HISTORY 1202F - CDN CONFLICTS & CONTROVERSIES",
+      "Description": [
+        "This course examines controversial issues in Canadian History from European colonization to the present. The focus is on debates over the meaning of events, people, and policies. Topics include Indigenous-settler conflicts, expulsion of the Acadians, John A. Macdonald, residential schools, religious and language rights, and wartime treatment of minorities.",
+        "Antirequisite(s): History 1201E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10100",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-204",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28  PRIORITY CHANGE: RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10100",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-204",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28  PRIORITY CHANGE: RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1401E - MODERN EUROPE, 1715 TO PRESENT",
+      "Description": [
+        "Examines central events and themes of modern European history, including: origins and impact of the French and industrial revolutions; Napoleonic wars; liberalism and reaction; socialism; nationalism; women's emancipation movements; imperialism, national rivalries and world wars; the Russian Revolution, Communist rule, and the collapse of the Soviet Union; Nazism; European integration. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main); 3 hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3547",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3719",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3006",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "3720",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "3721",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "3548",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10874",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "3722",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "3846",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UCC-67",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "7332",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "E. Nathans",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1404E - HITLER, STALIN & MUSSOLINI",
+      "Description": [
+        "An introduction to the theory and practice of totalitarianism through a comparative study of regimes established by Hitler, Stalin and Mussolini. Topics include the seizure of power, personality cults, culture, education and propaganda, bio-politics, terror, war, the Holocaust, resistance movements.",
+        "Antirequisite(s): History 2147A/B, or the former History 1403E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1422",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W174",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1636",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1637",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1638",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "1423",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1601E - SURVEY OF EAST ASIAN HISTORY",
+      "Description": [
+        "The history of China, Korea and Japan from earliest development until modern times.  The course emphasizes that although they are independent nations their histories are intertwined.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1539",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-LH105A",
+          "Instructor": "A. Bohnet",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1589",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-W045",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1628",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-DL012",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1629",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1800F - THE PEOPLE'S HISTORIES",
+      "Description": [
+        "This course will focus on the innovative use of primary sources to examine alternative histories to traditional nationalist narratives. Themes will include historiography and historical method, social and cultural history, history from below, local histories, indigenous histories, histories of the emotions and",
+        "micro-histories.",
+        "Antirequisite(s): History 1802E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2187",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "N. Reid-Maroney",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1807 - THE HISTORY OF BUSINESS",
+      "Description": [
+        "This course examines the history of business and capitalism from the late Middle Ages to the present day. Particular attention will be paid to the history of credit, banking, the stock market, the corporation, and globalization. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6111",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3022",
+          "Instructor": "P. Krats",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "6336",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "6112",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "6113",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "6114",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "6115",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "6217",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1808G - A FEW WORDS CHANGED THE WORLD",
+      "Description": [
+        "This course uses influential and short historical documents to introduce students to the study of history. Designed for students intending to major in history, each week students will study a new primary document that had global reach and implication in the daily lives of millions of people, living in both the past and present. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11546",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "T. Peace",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11546",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "T. Peace",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1810E - WARS THAT CHANGED THE WORLD",
+      "Description": [
+        "This course examines four transformational wars in the history of the world in detail, both in lectures and in small discussion groups that will also focus on the development of foundational analytical and writing skills. Topics include the implications and effects of war for civilians, trade, popular culture and technology.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5443",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-2050",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5642",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-63",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "5643",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "5644",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "5645",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-3028",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "5646",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "5647",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-1105",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "6337",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "5649",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "10876",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "8830",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "TUT",
+          "Class Nbr": "5648",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-65",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "10877",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1812F - REVOLUTIONS IN WORLD HISTORY",
+      "Description": [
+        "This course examines major revolutions and `turning points' that changed history. Topics include the Renaissance and Reformation, the Scientific Revolution, the Industrial Revolution, and the 'Sexual Revolution' of the 1960's. Political revolutions to be studied include the American and French Revolutions, and 20th century revolutions in China, Russia and Iran. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3056",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105B",
+          "Instructor": "R. Ventresca",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "10141",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "10142",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "10143",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1815F - HISTORIES OF LOVE",
+      "Description": [
+        "What is love? How have concepts of love changed over time? This course will examine sources associated with the history of love: letters, films, sentimental jewelry, travel literature, opinion surveys, folklore, literature, newspapers, political speeches, sermons and medical treatises, to discover what they reveal about the histories of love.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2393",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2393",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1816G - HISTORIES OF VIOLENCE",
+      "Description": [
+        "What defines an action as violent? How have these definitions of violence in past societies changed over time? This course will explore these questions with examples of violence from the classical, medieval and modern periods, looking at warfare, everyday violence, assassination, suicide, duels, infanticide, paramilitary violence and terrorism.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2394",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "J. Fang",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2394",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "J. Fang",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1817G - HISTORY IN THE HEADLINES",
+      "Description": [
+        "Knowledge of the past is necessary to understand the political crises of our present. This class will teach students how to curate knowledgeably the flood of news in the modern global media, by asking them to research and assess six historical claims in contemporary headlines.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2269",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "D. Blocker",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2269",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W8",
+          "Instructor": "D. Blocker",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1818F - TREASURE",
+      "Description": [
+        "This course explores how precious objects such as religious relics, ancient artifacts, luxury goods, and commodities have shaped global history. Using the lens of comparative material culture, students will investigate how diverse cultures have interpreted, competed over, and used objects of desire in religion, diplomacy, trade, war, imperialism, and migration.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2270",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "T. Compeau",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2270",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W6",
+          "Instructor": "T. Compeau",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT HURON. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1820F - INTROTHEMES IN HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1540",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-LH105B",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. TOPIC: THE HISTORY OF NOW."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1645",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1646",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "1647",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1820G - INTROTHEMES IN HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3057",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-BH103",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. TOPIC: CRIME FIGHTING IN PRE-MODERN EUROPE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "10144",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "10145",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "TUT",
+          "Class Nbr": "10146",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1830G - FIRST-YEAR HISTORY SEMINAR",
+      "Description": [
+        "This course will explore a different theme year, reflecting faculty research interests. Weekly seminar meetings will feature intensive discussion of assigned readings. Students will gain experience critically examining both primary and secondary sources. Written assignments will develop Brescia competencies. The curriculum may include guest lecturers and/or field trips.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2816",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-135",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. TOPIC: FEMALE RULE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 1901E - FOUNDATIONS IN WTC",
+      "Description": [
+        "The History unit of the King's Foundations in Western Thought and Civilization introduces students to major processes, personalities, and events in the historical development of the modern world and what is described as \"the West\", while developing and refining students' fundamental skills in historical methodology.",
+        "Antirequisite(s): History 1801E.",
+        "Extra Information: 3 hours. There may be additional costs associated with field trips."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1381",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-W176",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO KING'S FOUNDATIONS IN WESTERN THOUGHT AND CIVILIZATION. ",
+            "REQUISITES: Prerequisite(s): Must be registered in the King's Foundations in Western Thought and Civilization, or the former Foundations in the Humanities",
+            "Corequisite(s): English 1901E and Philosophy 1901E"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2103 - LIFE & DEATH IN REN&REF EUROPE",
+      "Description": [
+        "Cultural, social, economic, and political themes including the Protestant and Catholic Reformations; the rise of absolutism; the commercial revolution; heresy; witchcraft, and skepticism; plague and health problems; the origins of modern science; demographic trends; the Puritans; baroque art and music; Cromwell, Gustavus Adolphus, and the creation of the modern army.",
+        "Antirequisite(s): History 2403E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2658",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-135",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "CROSS-LISTED WITH HISTORY 2403E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2658",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-203",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "CROSS-LISTED WITH HISTORY 2403E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2120A - NORTHERN ENTERPRISE",
+      "Description": [
+        "The development and effect of business in Canada from the late nineteenth century, with special emphasis on its social impact and the emergence of a Canadian labour movement. ",
+        "Antirequisite(s): History 2125F/G, the former History 2213F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8173",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2124A - CANADIAN POPULAR CULTURE",
+      "Description": [
+        "Canadian popular culture: poor-quality imitation of American, or crucial element of Canadian identity, worthy of \"Canadian Content\" regulations and financial support? This course traces the 20th century evolution of \"Canadian popular culture,\" offering glimpses into music, film, television, sport and more. What was enjoyed, why, and was it \"Canadian ?\"",
+        "Antirequisite(s): The former History 2124F/G.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8831",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-3220",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2125F - NORTHERN ENTERPRISE",
+      "Description": [
+        "The development and effect of business in Canada from the late nineteenth century, with special emphasis on its social impact and the emergence of a Canadian labor movement. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1982",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-V208",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2126B - EDITORIAL CARTOONS IN CDN HIST",
+      "Description": [
+        "This course will provide critical perspectives on the creation and impact of editorial cartoons from colonial times to the present. Analysis of the political, social, and economic context for powerful visual critiques in the popular press. Themes include power and authority, social and moral regulation, and humour as a weapon.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10105",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-201",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2226G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2127G - IN SEARCH OF CANADA",
+      "Description": [
+        "An examination of selected social themes shaping postwar Canada. Topics covered include modernization, immigration and multiculturalism, rights issues, regionalism, and the multifaceted search for a \"Canadian\" society and culture. ",
+        "Antirequisite(s): History 2202, History 2205E.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1983",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H112",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2131A - PRESIDENCY IN AMERICAN HISTORY",
+      "Description": [
+        "Examines the development of the modern presidency in terms of the challenges facing presidents and their success or failure in responding to the needs of the time. Special attention will be given to the evolution of presidential power and its historical consequences.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10904",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2024",
+          "Instructor": "J. Vacante",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2134B - YTH, REBELLION, & ROCK N ROLL",
+      "Description": [
+        "This course uses the cultural phenomenon of rock 'n' roll as a lens to explore the connections between youth and rebellion and societal change in the latter half of the twentieth century. The spectacle of the performers and their lyrics will be used as historical texts to understand this change.",
+        "Antirequisite(s): History 2706E. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8835",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-56",
+          "Instructor": "A. Sendzikas",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2135A - AFRICAN-AMERICAN HISTORY",
+      "Description": [
+        "This course explores African-American history from the end of slavery to today. We trace the diverse experiences of people of African descent in the United States, including slavery and the struggle to end it, the segregated Jim Crow period, the Black Freedom/civil rights movement, hip-hop culture, and more recent developments. ",
+        "Antirequisite(s): History 3311F/G, History 3313F/G. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10905",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SEB-2200",
+          "Instructor": "L. Shire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2147A - NAZI GERMANY",
+      "Description": [
+        "We analyze how the Nazi Party came to power; the regime's use of propaganda, intimidation and terror within Germany after 1933; Hitler's foreign policy; Nazi methods in occupied Europe; anti-Semitism, the Holocaust, and other programs of mass murder; resistance within Germany, and the reasons for the regime's defeat. ",
+        "Antirequisite(s): History 1404E; The former History 1403E.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5444",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "SH-3345",
+          "Instructor": "A. Iarocci",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2148B - POLICE WORK & FORENSICS",
+      "Description": [
+        "Late Victorian Britain was the setting for Arthur Conan Doyle's fictional 'consulting detective,' Sherlock Holmes, whose afterlife in television and film would have astonished his creator. We examine Holmes' world. Our ",
+        "subjects include the nineteenth century obsession with murder and the history of policing and detection. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8836",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "A. May",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2158A - FOOD IN WORLD HISTORY",
+      "Description": [
+        "This course explores the role of food in world history with an emphasis on international exchange and cultural interaction following the discovery of the Americas. Students will consider the impact and influence of food upon politics, trade, conflict, and other aspects of society and culture. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2558",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "W. Gustavson",
+          "Notes": [
+            "ONLINE-ASYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2158B - FOOD IN WORLD HISTORY",
+      "Description": [
+        "This course explores the role of food in world history with an emphasis on international exchange and cultural interaction following the discovery of the Americas. Students will consider the impact and influence of food upon politics, trade, conflict, and other aspects of society and culture. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2575",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "W. Gustavson",
+          "Notes": [
+            "ONLINE-ASYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2159A - MIDWIVES, MADONNAS, WITCHES",
+      "Description": [
+        "This course will provide critical perspectives on the lives of European women 1500 to 1700. Students will analyze early modern perceptions of women, female life cycles, and the various roles of women: wife, mother, nun, martyr, midwife, citizen, soldier, worker, property owner, and artist, plus female rulers and regents. ",
+        "Antirequisite(s): History 2459F/G. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10107",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-135",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2459A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2166B - KOREAN WAVE AND BEYOND",
+      "Description": [
+        "This course will introduce social, cultural and political developments in South Korea via films, music and popular culture. Referring to earlier periods and to North Korea when necessary and continuing to the present-day Korean Wave, we will explore Korean popular culture to understand the modern history of Korea.",
+        "Extra Information: 3.0 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11339",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH105C",
+          "Instructor": "A. Bohnet",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2170A - PARKS, PEOPLE, AND POWER",
+      "Description": [
+        "This course examines conflicts over parks and other protected areas in Canada and the United States. It emphasizes changing ideas, shifting land use pressures, and power relations among diverse interests. Controversies over park establishment, management policies, and their environmental impacts will be discussed. Course requirements may include a field trip. ",
+        "Antirequisite(s): History 2296G at Brescia (Winter 2009 and Winter 2011).",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2627",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2270F."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2171B - GREED IS GOOD",
+      "Description": [
+        "This course explores American capitalism in the 1980s -  a decade defined by materialism, greed, and scandal on Wall Street. It examines, in particular, the rise of finance capitalism and considers this rise within the political and cultural context of the era.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6518",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2032",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2172B - THE HISTORY OF SPORT",
+      "Description": [
+        "This course offers an overview of a growing field of study. Drawing on a series of historical examples from antiquity to the present, the course examines the relationship of sport to nationalism, race, class, gender, politics and war, consumer culture, and economics.",
+        "Antirequisite(s): History 1820F if taken 2018-19, 2019-20.",
+        "Extra Information: 2 lecture hours. Cannot be used towards completion of a Kinesiology module."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3059",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2177B - THE TWO WORLD WARS",
+      "Description": [
+        "This survey course is aimed at expanding students\u2019 knowledge of the World Wars as part of a larger, collective cataclysm. It considers these conflicts as part of a thirty-year crisis out of which the contemporary world emerged, fundamentally different from what might have been projected had they not occurred.",
+        "Antirequisite(s): History 2179.",
+        "Extra Information: 2 lecture hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9628",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UCC-56",
+          "Instructor": "A. Iarocci",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2179 - THE TWO WORLD WARS",
+      "Description": [
+        "An examination of the causes, course and consequences of the First and Second World Wars, stressing comparison of the two conflicts. Students will be asked to consider a variety of historical analyses of both wars and to study the process of interpretation as well as events. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1087",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2181B - SEXUAL HISTORY",
+      "Description": [
+        "This course examines the history of sexuality from the nineteenth century to the present, investigating sexual desire, behaviour, and ideologies. Topics include the body, marriage, reproduction, prostitution, same-sex relations, and religious, medical and psychiatric intervention, and help demonstrate that sexuality has been the object of social scrutiny and political regulation.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10883",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "M. Halpern",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2186B - ZOMBIE APOCALYPSE",
+      "Description": [
+        "This course examines the impact of fear, panic, and paranoia in human history. It considers how and why concern changes into panic in some situations and not in others, and the factors that make a descent into panic possible and even likely in some circumstances. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6005",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": "J. Vance",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2188B - PIRATES & PIRACY",
+      "Description": [
+        "This course examines the history of pirates and piracy from antiquity through the present day. Among its major themes are changing definitions of piracy, the reasons individuals, groups, and nations have practiced or supported piracy, and how pirates have been depicted in popular culture. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6104",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UCC-56",
+          "Instructor": "M. Dove",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2190A - CRIME IN N AMERICAN SOCIETY",
+      "Description": [
+        "An analysis of crime and law enforcement in the United States and Canada within the context of urban growth and industrial capitalism in the 19th and 20th centuries. Specific types of criminal activity will be examined, as will the development of police, prisons and vice laws. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1382",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2192A - BEER",
+      "Description": [
+        "Examines the business, social and cultural history of the brewing and consumption of beer, from its origins in antiquity, through its production and use in the Roman and Medieval periods, to its impact on Renaissance commerce, and the revolutions in technology, advertising, corporatization, globalization and localization during the modern age.",
+        "Extra Information: 2 lecture hours. (online)"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10906",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-2050",
+          "Instructor": "M. Dove",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2195A - EPIDEMICS IN NORTH AMERICA",
+      "Description": [
+        "The course will examine the social and economic impact of epidemic disease in North America by discussing outbreaks of yellow fever, cholera, diphtheria, smallpox, Spanish influenza, polio and encephalitis. Also analyzed will be the evolution of public health services, medical theories and governmental regulations in response to such epidemics. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3060",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2195B - EPIDEMICS IN NORTH AMERICA",
+      "Description": [
+        "The course will examine the social and economic impact of epidemic disease in North America by discussing outbreaks of yellow fever, cholera, diphtheria, smallpox, Spanish influenza, polio and encephalitis. Also analyzed will be the evolution of public health services, medical theories and governmental regulations in response to such epidemics. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1424",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2201E - CANADA'S PAST",
+      "Description": [
+        "This course surveys the history of Canada with an emphasis on Indigenous peoples, colonialism and imperialism; the history of warfare and international relations; immigration, industrialization and state formation; and the diverse ways that gender, class and race shaped the lives of everyday Canadians.",
+        "Antirequisite(s): History 1201E, History 1202F/G, History 2203E, History 2204F/G, History 2205E, History 2710F/G.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main); 3 lecture hours (Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1029",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH112",
+          "Instructor": "S. Bangarth",
+          "Notes": [
+            "PRIORITY TO HISTORY STUDENTS REGISTERED AT KING'S. JULY 28  PRIORITY CHANGE: ACCESS TO ALL STUDENTS AT THE AFFILIATES."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3550",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": "R. Wardhaugh",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3551",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-2110",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4199",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-61",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10891",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3010",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10892",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "7698",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "5968",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2204G - CRISES AND CONFEDERATION",
+      "Description": [
+        "This course surveys Canadian history since Confederation, focusing on political, economic, and social developments. It addresses key moments of tension within Canada's past, and introduces a variety of historical theories and methodologies, and considers both the development of the Canadian nation-state, and how historians have interpreted its past.",
+        "Antirequisite(s): History 2201E and History 2205E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2031",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W112",
+          "Instructor": "T. Peace",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2031",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W112",
+          "Instructor": "T. Peace",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2226G - EDITORIAL CARTOONS IN CDN HIST",
+      "Description": [
+        "This course will provide critical perspectives on the creation and impact of editorial cartoons from colonial times to the present. Analysis of the political, social, and economic context for powerful visual critiques in the popular press. Themes include power and authority, social and moral regulation, and humour as a weapon.",
+        "Antirequisite(s): History 2126A/B.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "11434",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-201",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2126B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2270F - PARKS, PEOPLE & POWER",
+      "Description": [
+        "This course examines conflicts over parks and other protected areas in Canada and the United States. It emphasizes changing ideas, shifting land use pressures, and power relations among diverse interests. Controversies over park establishment, management policies, and their environmental impacts will be discussed. Course requirements may include a field trip.",
+        "Antirequisite(s): History 2170A/B.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10108",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2170A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2301E - THE UNITED STATES, COLONIAL",
+      "Description": [
+        "Emphasis first term upon the emergence of the American nation, the egalitarian impulse, national expansion and sectional conflict; second term, upon the great transformations of the modern era: the growth of industrialism, big government, a pluralistic society, and international predominance.",
+        "Antirequisite(s): History 2302F/G, History 2710F/G.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main); 3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1030",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO HISTORY STUDENTS REGISTERED AT KING'S. JULY 28  PRIORITY CHANGE: ACCESS TO ALL STUDENTS AT THE AFFILIATES."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1030",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO HISTORY STUDENTS REGISTERED AT KING'S. JULY 28  PRIORITY CHANGE: ACCESS TO ALL STUDENTS AT THE AFFILIATES."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2302F - AMERICAN MODERN",
+      "Description": [
+        "This course is a survey of the social, political, intellectual, and cultural history of the United States, paying particular attention to the interplay among the shifting constructs of race and gender, and to the sources, interpretations, and recurring themes that give shape to narratives of the recent American past.",
+        "Antirequisite(s): History 2301E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2395",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "N. Reid-Maroney",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2310G - AMERICAN NIGHTMARE",
+      "Description": [
+        "In the increasingly polarized culture of the US, one American\u2019s dream often seems to be another American\u2019s nightmare. This course introduces key ideas in American culture (the American Dream, American Exceptionalism, and American Identity), and examines recent socio-political movements such as #Black Lives Matter, #Me Too, and White Nationalism.",
+        "Antirequisite(s): American Studies 2310F/G.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10857",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "WSC-55",
+          "Instructor": "",
+          "Notes": [
+            "CROSS-LISTED WITH AMERICAN STUDIES 2310G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "10863",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "10864",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10865",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10866",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10867",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10868",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "10869",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2401E - MEDIEVAL EUROPE",
+      "Description": [
+        "This course examines the transformation of European economies, political structures, religious and social institutions, and cultures in the thousand years between the fall of Rome and the European voyages of discovery, and the degree to which ordinary people shaped their societies and affected the course of historical change.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8839",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "M. Fulton",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "9197",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "9198",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "9199",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-61",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "9200",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2403E - EUROPE & ENGLAND 16TH-17TH C",
+      "Description": [
+        "Cultural, social, economic, and political themes including the Protestant and Catholic Reformations; the rise of absolutism; the commercial revolution; heresy, witchcraft, and scepticism; plague and health problems; the origins of modern science; demographic trends; the Puritans; baroque art and music; Cromwell, Gustavus Adolphus, and the creation of the modern army. ",
+        "Antirequisite(s) at Brescia, Huron, King's: History 2103.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main);  3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2628",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-135",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2103 530."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2628",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-203",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2103 530."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1031",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO HISTORY STUDENTS REGISTERED AT KING'S. JULY 28  PRIORITY CHANGE: ACCESS TO ALL STUDENTS AT THE AFFILIATES."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1402",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "1403",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2413E - EUROPE & PARADOXES OF MODERNTY",
+      "Description": [
+        "This course examines the concept, history, and experience of modernity in Europe from the nineteenth century to the present, paying particular attention to the key economic, political, social and cultural roles of the city. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2396",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "T. Compeau",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2396",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "T. Compeau",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2459F - MIDWIVES, MADONNAS, WITCHES",
+      "Description": [
+        "This course will provide critical perspectives on the lives of European women 1500 to 1700. Students will analyze early modern perceptions of women, female life cycles, and the various roles of women: wife, mother, nun, martyr, midwife, citizen, soldier, worker, property owner, and artist, plus female rulers and regents. ",
+        "Antirequisite(s): History 2159A/B. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10109",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-135",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 2159A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2501E - HISTORY OF LATIN AMERICA",
+      "Description": [
+        "An introduction to Latin America. The first term emphasizes the colonial foundations of Spanish and Portuguese civilization in the New World; the second term emphasizes the growth of the individual republics, personalist rule, federalism vs. centralism, revolution, and the \"static society\". ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3061",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W174",
+          "Instructor": "R. Soulodre-LaFrance",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2601E - HISTORY OF MODERN CHINA",
+      "Description": [
+        "A study of China beginning with the decline of the Ming dynasty (ca 1600), continuing through the rise and fall of the Qing dynasty, and concluding with the rise of modern China in the late-20th century. ",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8068",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": "J. Flath",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "8069",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "8070",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "8071",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "8072",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2604G - EUROPEAN IMPERIALISM IN AFRICA",
+      "Description": [
+        "Beginning with the French invasion of Algeria in 1830 and ending with the end of apartheid in South Africa, this course examines theories of imperialism, the period of the European colonization of most of Africa, colonial rule on the continent, African resistance to colonialism, and the process of decolonization.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2397",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "D. van Tol",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2607G - HIST & CIV OF MEDIEVAL ISLAM",
+      "Description": [
+        "The course introduces the main events and themes of Islamic history and civilization and their place in world history. Topics include: Muhammad and the Qur'an, the Islamic legal system, social structure and political institutions, literature, philosophy, theology, art and architecture, medicine and science, interaction with Europe, the Crusades, and trade.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10907",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "M. Shatzmiller",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2611E - SURVEY OF KOREAN HISTORY",
+      "Description": [
+        "A survey of Korean history from the formation of the first Korean states to the present, focusing on domestic developments and the role of the Korean peninsula in the international system in East Asia. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10908",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B08",
+          "Instructor": "C. Young",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2615G - CHINESE WOMEN'S BIOGRAPHY",
+      "Description": [
+        "This course studies the long Chinese tradition of women\u2019s biography by critically analyzing a variety of biographical sources, including records on \u201cchaste women\u201d in dynastic histories. It also examines how women\u2019s biography served particular political, social, and cultural enterprises of the imperial Chinese state and society.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2398",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W8",
+          "Instructor": "J. Fang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2398",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W8",
+          "Instructor": "J. Fang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2702E - TEN DAYS THAT SHOOK THE WORLD",
+      "Description": [
+        "The course examines ten separate days/events in world history since 1609 with an emphasis on the key role of interactions across cultures. Moving among the case studies, the goal of the course is not to gain total knowledge of the world, but to understand the processes by which we claim to know the world. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2399",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "J. Fang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2399",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "J. Fang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2705E - THE WESTERN TRAD IN INTL REL",
+      "Description": [
+        "History 2705E is a `great books' course. The purpose is to examine critical works of international relations theory in context. The focus is \"the Western tradition\". Thinkers to be considered include: Cicero, Augustine, Aquinas, Machiavelli, Erasmus, Grotius, Hobbes, Frederick of Prussia, von Clausewitz, Angell, and Morgenthau.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3828",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "O. Drachewych",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2710F - RED, WHITE, BLACK, ET BLANCS",
+      "Description": [
+        "This course examines the history of North America from 1450 to 1867. The course addresses the histories of North American, European and African peoples and their interactions with each other. Key themes covered in this course are imperial and colonial expansion, slavery and indigeneity, religion, and political revolution.",
+        "Antirequisite(s): History 2201E, History 2301E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2030",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-H111",
+          "Instructor": "D. McCorkindale",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2030",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. McCorkindale",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2712G - OPPRESSION AND RESISTANCE",
+      "Description": [
+        "This course explores tyranny in human history, from ancient to modern times, with a focus on the early modern West and its global expansion. It will explore the evolution of the concept of the tyrant, the idea of legitimate vs illegitimate rule, and the resistance and agency of oppressed peoples.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2400",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "T. Compeau",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2400",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "T. Compeau",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2807F - ENTRPRNSHP US & CAN SINCE 1800",
+      "Description": [
+        "A lecture and seminar course examining theories of entrepreneurship and their historical relationship to such essential business activities as finance, marketing, manufacturing, transportation, labour relations, and mangement. The focus is on the careers and business innovations of leading American and Canadian entrepreneurs in the 19th and 20th centuries. ",
+        "Extra Information: 3.0 hours lecture and seminar."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11554",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "",
+          "Instructor": "K. Fleming",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11555",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "11556",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2813F - WOMEN MAKING WAVES",
+      "Description": [
+        "This course examines selected themes in the history of women\u00bfs social and political movements in the Atlantic world, 1750-present.  Topics include: women and revolution; abolition, temperance and women's rights; suffrage/anti-suffrage movements, and the rise and intersection of modern feminisms.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2401",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-H220",
+          "Instructor": "N. Reid-Maroney",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2814F - THE HISTORY OF AVIATION",
+      "Description": [
+        "This course explores the history of aviation from the mid-nineteenth century to the present day. It focuses on the key events and personalities associated with the history of aviation from the romantic era of flight to the development of the modern aviation industry.",
+        "Antirequisite(s): The former History 2215F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10895",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1240",
+          "Instructor": "J. Vacante",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2819G - CHOLERA TO COVID",
+      "Description": [
+        "Focusing on the 19th and 20th centuries, this course investigates the disruption and changes arising from disease outbreaks. Disease can permanently alter society, with lives lost, community practices modified, and individual habits scrutinized. The role of government, society\u2019s expectations, science and medicine, power, class, race, and gender will be explored. ",
+        "Antirequisite(s): The former History 2812E. ",
+        "Extra Information: Two lecture hours per week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11603",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3022",
+          "Instructor": "S. McKellar",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2822F - JEWISH HISTORY FROM 1492",
+      "Description": [
+        "This course introduces students to the major events, figures, and themes of Jewish history from the Spanish Expulsion to the post-WWII era, including the Enlightenment and Emancipation, Zionism, the Holocaust, and the foundation of Israel.",
+        "Extra Information: 2.0 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2402",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H111",
+          "Instructor": "J. Shaw",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2886F - THE HISTORY OF MUSEUMS",
+      "Description": [
+        "This course examines the history of museums and exhibitions and their changing role in society across the globe from the ancient world to the 21st century. Themes include the rise of anthropology and natural sciences; looting; professionalization; colonialism; representation of the \u2018other\u2019; museums as political and cultural tools; and repatriation.",
+        "Antirequisite(s): Museum and Curatorial Studies 2610F/G.",
+        "Extra Information: two lecture hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10896",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "M. Hamilton",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 2888G - A HISTORY OF ANIMALS",
+      "Description": [
+        "This course examines the animal/human relationship through history, including animals as resource and entertainment, ethical frameworks concerning animal treatment, animals in culture, and the rise of pets. Our relationship with animals is complex \u2013 sometimes symbiotic, often exploitative \u2013 and history helps us to understand why we treat animals as",
+        "we do.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10909",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "3M-3250",
+          "Instructor": "A. Sendzikas",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in any program at the second year or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "10910",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "10911",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10912",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10913",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-3355",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10914",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54A",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10915",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-61",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "10916",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "10917",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3205E - IDENTITIES IN CONFLICT",
+      "Description": [
+        "This course examines the social history of Canada since 1800, including such topics as industrialization, urbanization, class struggle, labour strife, rural depopulation, immigration and migration, ethnic tension, racism, gender struggle, sexuality, social reform, religion, culture, and regionalism. Considerable attention will be paid to the historiography and/or methodologies of the field.",
+        "Extra Information: 2 seminar hours. Restricted to Honours Students."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10111",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-UH252",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3206F - CANADIAN SOCIAL HISTORY >1800",
+      "Description": [
+        "This course examines the social history of Canada since 1800. Focusing on the lives of everyday people and utilizing issues of gender, race, class, and sexuality, this course explores topics related to industrialization, urbanization, immigration, family, crime, and social reform. Considerable attention is paid to the historiography/methodologies of the",
+        "field.",
+        "Antirequisite(s): History 3205E.",
+        "Extra Information: 2 Seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10918",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3355",
+          "Instructor": "M. Halpern",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3208G - LIFE, LOVE & DEATH",
+      "Description": [
+        "This course explores everyday life in Canada between 1760 and 1914. Topics include birth, family and home, dress and etiquette, love and marriage, food, health, morality, death and mourning. Analytical themes include race, class, gender, social memory and identity. ",
+        "Antirequisite(s): History 4213F/G, History 4496F if taken in 2011.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10919",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3355",
+          "Instructor": "M. Hamilton",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3296F - SEL TOPICS IN CANADIAN HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3062",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH107",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: WELCOME TO CANADA! CANADIAN IMMIGRATION: THE POLITICS, THE POLICIES AND THE PEOPLE. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3310F - ADVANCED AMERICAN STUDIES",
+      "Description": [
+        "What defines being \u201cAmerican\u201d? How is the American identity constructed, and how and why is it frequently contested? This course employs an interdisciplinary approach to explore the meaning(s) and definition(s) of American identity from multiple viewpoints, and within the context of US history, politics, regions, values, and culture.",
+        "Antirequisite(s): American Studies 3310F/G.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10882",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3355",
+          "Instructor": "A. Sendzikas",
+          "Notes": [
+            "CROSS-LISTED WITH AMERICAN STUDIES 3310F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above OR enrolment in an American",
+            "Studies module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3311G - SLAVERY AND FREEDOM",
+      "Description": [
+        "The course explores themes in African American history from 1600 through the Civil War and the collapse of Reconstruction. Topics include histories of slavery and resistance; abolition, antislavery and the underground railroad; links to African Canadian history; freedom and emancipation; reconstruction, racial politics, and segregation at the end of the 19th century.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2403",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "D. McCorkindale",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2403",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "D. McCorkindale",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3396F - SELECTED TOPICS IN US HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3063",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: ADDICTIONS, AFFLICTIONS, AND THE HEALING ARTS IN AMERICA, 1800 TO PRESENT. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3400F - QUEENSHIP, POWER EARLY MOD EUR",
+      "Description": [
+        "This course examines conflicts over gender and power, concerning the legitimacy of female rule in Europe 1450-1800. It emphasizes the political role and challenges of female rulers as queens regnant, queen-consorts, queen-mothers, and regents, who collaborated in the transmission of dynastic power through official and unofficial channels.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12559",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-14",
+          "Instructor": "S. Morrison",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3404F - MONTESQUIEU TO MILL",
+      "Description": [
+        "The class examines and compares the work of key Enlightenment thinkers, including Montesquieu, Voltaire, and Rousseau, as well as authors who responded to the Enlightenment and the French Revolution and interpreted contemporary changes taking place in Europe, including Edmund Burke, Friedrich Hegel, Alexis de Tocqueville, and John Stuart Mill.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10897",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3355",
+          "Instructor": "E. Nathans",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3410F - SEX, BOOKS AND VIOLENCE",
+      "Description": [
+        "This course explores social and cultural connections within the British Empire through the themes of sexuality, crime, and publishing. These examples are used to examine the passionate historical debate surrounding Empire.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2196",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 Essay course at the 2000-level or above"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2196",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W18",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 Essay course at the 2000-level or above"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3412F - BRIT SAILORS,SLDIERS & EMPIRE",
+      "Description": [
+        "This course examines the emergence of Britain as an imperial power in the eighteenth and nineteenth centuries, and the military means by which that empire was acquired (and lost). It explores both soldiers 'and sailors' lives ",
+        "and the effects of war on state formation and national identity within Britain. ",
+        "Extra Information: 2 lecture hours, 1 seminar hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9366",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "A. May",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3414G - VICTORIAN WORLDVIEW",
+      "Description": [
+        "This seminar examines the worldviews of men and women in nineteenth-century Britain: economic, political, social, and scientific, taking into account both conservative and radical perspectives. It also explores the domestic ideology commonly associated with the period, and the challenges posed to the Victorian domestic ideal.",
+        "Antirequisite(s): History 3432F/G, History 4423E, History 4420F/G.",
+        "Extra Information: Two seminar hours weekly"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11706",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": "A. May",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3428F - GERMANY SINCE 1871",
+      "Description": [
+        "Germany was arguably the dominant state in continental Europe from its founding until 1945. Since reunification it has again begun to play this role. Its achievements and its crimes cast long shadows on all its neighbors. We examine all aspects of this history, including domestic politics, social divisions, and culture.",
+        "Antirequisite(s): The former History 3415E. ",
+        "Extra Information: Three seminar hours per week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11557",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-67",
+          "Instructor": "E. Nathans",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3605E - CRUSADERS AND MOSLEMS",
+      "Description": [
+        "Aspects of Frankish and Moslem Societies and Cultures in the Middle East. ",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10922",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-3317",
+          "Instructor": "M. Shatzmiller",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3615F - CRIME & PNSHMNT IN IMPER CHINA",
+      "Description": [
+        "This half-year course examines competing legal concepts and their proponents, the principles of the Chinese legal system, and various types of crime and forms of punishment in imperial China. It also explores the impact of imperial legal practice on traditional Chinese society and contemporary Chinese policies, laws, and legal praxes.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2404",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W103",
+          "Instructor": "J. Fang",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3616G - GRAND IMPERIALISM",
+      "Description": [
+        "An investigation of historical developments within the international system in the Asia-Pacific and the region\u2019s interactions with the wider world and how the interplay of political, economic, and cultural factors affected the developments in empire, conflict and diplomacy from the late 18th century to 1910.",
+        "Antirequisite(s): The former History 3611E.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10923",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3014",
+          "Instructor": "C. Young",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3621F - LATE MEDIEVAL KOREA",
+      "Description": [
+        "This course explores the history of Korea from the tenth to sixteenth centuries, during a period of transformative change in northeast Asia.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3064",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W176",
+          "Instructor": "A. Bohnet",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3636G - STATE AND MARKET",
+      "Description": [
+        "This course will involve a detailed exploration of key debates (past and present) concerning the statecraft and economics of East Asian during the early modern period, from the Tang-Song transition of the tenth century to the beginning of European dominance in the nineteenth.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3065",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-W164",
+          "Instructor": "A. Bohnet",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above, or Economics 2150A/B and",
+            "Economics 2152A/B, or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3710G - WORLD WARS REMEMBERED",
+      "Description": [
+        "This course, which concludes with a 10-day program in Belgium and France, explores commemorative practices that emerged after the World Wars. Topics include the presentation of history through monumental architecture, the preservation of battlefields, and museums, and how these sites have informed identity and efforts to reconcile former enemies.",
+        "Antirequisite(s): History 4710F/G.",
+        "Extra Information: Additional cost to be borne by students. Limited enrollment. Application and interview are required, see the Department of History website for more information. Cross-listed with History 4710F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1733",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W147",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "PERMISSION OF INSTRUCTOR REQUIRED. PLEASE CONTACT GRAHAM BROAD gbroad@uwo.ca. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. EXPERIENTIAL LEARNING COURSE WITH OVERSEAS TRAVEL. CROSS-LISTED WITH HISTORY 4710G 570. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200-level or above, and permission of the Department."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3714F - SOCIAL BASES OF FASCISM",
+      "Description": [
+        "This course is a comparative history of fascist movements and fascist states in the 20th century. Topics include theories of fascism, social origins of fascist movements, the seizure of power in Italy and Germany, unsuccessful European fascist movements, fascism outside Europe, and neo-fascism.",
+        "Extra Information: 1 lecture hour, 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "12496",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-LH220",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in History at the 2200 level or above, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3797F - SEL TOP IN INTL OR CMPRTV HIST",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11340",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH105C",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "PERMISSION OF INSTRUCTOR REQUIRED. PLEASE CONTACT GRAHAM BROAD gbroad@uwo.ca. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION.CROSS-LISTED WITH HISTORY 4797F. TOPIC: THE WORLD WARS IN HISTORY, MEMORY, AND RECONCILIATION: SEMINAR. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3801E - THE HISTORIAN'S CRAFT",
+      "Description": [
+        "This course examines the history of the historical profession, varieties of history, where research should start, the nature and limitations of evidence, methods of interpretation, research techniques in specialized areas, and problems of causal explanation. ",
+        "Extra Information: 3 hours. Restricted to Honours Students."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1917",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-H220",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "PRIORITY TO YRS 3 & 4 HISTORY PROGRAMS AT HURON AND TO YRS 3 & 4 HURON/KING'S/WESTERN JOINT MINOR MODULE IN PUBLIC HISTORY. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1917",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "HC-H220",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "PRIORITY TO YRS 3 & 4 HISTORY PROGRAMS AT HURON AND TO YRS 3 & 4 HURON/KING'S/WESTERN JOINT MINOR MODULE IN PUBLIC HISTORY. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3808G - JEWISH LIFE IN NORTH AMERICA",
+      "Description": [
+        "This course examines the history of Jews in the United States and Canada, highlighting their changing family, spiritual, social, and work lives, exploring themes of identity, assimilation, activism, and upward mobility, and considering how Jews have helped shape North American life through their struggles and achievements.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10924",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "M. Halpern",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3809F - HIST, ETHICS & PUBLIC POLICY",
+      "Description": [
+        "This course applies historical methods and ethical reasoning to analysing current events. The class identifies a current public policy issue about which to pursue historical research. Working individually and in groups, students prepare a policy briefing that shows the relevance of history and ethics to issues we face today.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1541",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-KC005",
+          "Instructor": "R. Ventresca",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3812G - HISTORICAL FANTASIES",
+      "Description": [
+        "This course explores misconceptions, distortions, and manipulations of history. The course examines case studies in the abuse of history, the creation of usable pasts, and the role of false narratives in shaping historical events. Students will apply the historical method to confront the challenge of pseudohistory in popular media.",
+        "Antirequisite(s): History 3308E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2405",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "T. Compeau",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course in History at the 2200-level or above"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2405",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "T. Compeau",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course in History at the 2200-level or above"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3813E - PUBLIC HISTORY",
+      "Description": [
+        "An exploration of history as it is understood by and interpreted for the public in varied venues and media, including museums, historic sites, historical fiction, the internet, and film. Topics include the history of public history, ethical practice, the relationships between form and content and between public and academic history.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5272",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "M. Dove",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in History at the 2200 level or above; or History 2811F/G and",
+            "enrolment in the Minor in Public History."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3814F - WOMEN'S PROTEST MOVEMENTS",
+      "Description": [
+        "This course will focus on female protest movements whose primary goal was to better the lives of women. With attention to issues of gender, sexuality, race, and class, it will explore various conditions that gave rise to rebellion, and will assess the movements' strategies and achievements.",
+        "Antirequisite(s): History 2813F/G. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10898",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3355",
+          "Instructor": "M. Halpern",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3823G - GLOBAL 21ST CENTURY HISTORY",
+      "Description": [
+        "A thematic introduction to 21st-century history focused on phenomena that characterize our age: the global connectivity of supply chains, planetary-scale computation, the War on Terror, and unprecedented ecological change. Contemporary events are contextualized in an interdisciplinary fashion at time scales ranging from days to millions of years.",
+        "Extra Information: 2 lecture hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8505",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "W. Turkel",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Any 0.5 or 1.0 Essay course."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 3896F - SEL TOP-HSTRGRHY/THEMATC/METH",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3067",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W174",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "TOPIC: DOING HISTORY - BEING A HISTORIAN. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4202F - LAND, LITERACIES & LEARNING",
+      "Description": [
+        "This course explores the changing meaning of literacy and learning between 1600 and 1850 as Indigenous peoples confronted the arrival and imposition of European epistemologies and institutions. Key concepts developed during this course relate to settler colonialism, indigeneity, schooling and literacy.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2406",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W102",
+          "Instructor": "T. Peace",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4204G - RIGHTING WRONGS",
+      "Description": [
+        "How have Canadians thought about rights throughout our history? This course explores this question by examining rights campaigns in 19th and 20th century Canada. Themes include indigenous rights, gender and sexuality, race, and conflict and rights.",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3068",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-W173",
+          "Instructor": "S. Bangarth",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4208G - CANADA & THE AGE OF CONFLICT",
+      "Description": [
+        "\"Modern\" Canada was largely shaped between 1896 and 1945, decades that witnessed a massive immigration boom, two world wars, and an economic depression. This upper-year seminar course will examine such issues as politics, war, regionalism, culture, gender, sexuality, modernity, class, race, ethnicity, religion, industrialization, urbanization, nationalism, foreign affairs, and age/generation.",
+        "Antirequisite(s): The former History 4207E.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8842",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": "R. Wardhaugh",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4291E - SEL TOPICS IN CANADIAN HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10112",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-UH252",
+          "Instructor": "G. Warecki",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4296G - SEL TOPICS IN CANADIAN HISTORY",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12389",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-2166",
+          "Instructor": "C. Groat",
+          "Notes": [
+            "CROSS-LISTED WITH INDIGENOUS STUDIES 4001G. TOPIC: INDIGENOUS PEOPLES AND PUBLIC HISTORY ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4410F - CRIME & SOCIETY IN ENGLAND",
+      "Description": [
+        "This seminar explores nineteenth-century reform of the criminal law: the rise of modern policing and the transformation of both the criminal trial and punishment. It considers the impact of gender and class on definitions of crime and the treatment of offenders as well as the historiography of criminal justice.",
+        "Antirequisite(s): History 4411E.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11707",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-2166",
+          "Instructor": "A. May",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4502F - SLAVERY IN AMERICAS & AFRICA",
+      "Description": [
+        "This course will examine the issues of slavery and slave societies ",
+        "within a comparative framework although the main focus of study will be slave systems within Latin America. Themes such as the slave trade, ethnicity, demography, and culture will be explored in order to re-create the context of slave experience. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11252",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W178",
+          "Instructor": "R. Soulodre-LaFrance",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4603F - SILK ROADS & SPICE ROUTES",
+      "Description": [
+        "This course will investigate the economic, political, religious, cultural, and technological impact of long distance land and sea trade between Asia and other world religions in ancient and medieval times up to around 1500.",
+        "Extra Information: 1 lecture hour, 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10899",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "C. Young",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4607G - HIST OF WMN & GNDR REL AFRICA",
+      "Description": [
+        "In the past African women were powerful leaders, strong economic contributors and respected members of their extended families. This course will examine these historical roles as well as factors that undermined African women's status and changed gender relations, such as slavery, economic forces and colonialism.",
+        "Antirequisite(s): GSWS 4607F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10900",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3355",
+          "Instructor": "K. McKenna",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History or Gender, Sexuality, and Women's Studies, taken at the 2200 level or above if they are History courses or at the 2000 level or above if they are Gender, Sexuality, and Women's Studies courses."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4611F - FOREIGN RELATIONS, CHINA",
+      "Description": [
+        "This course will examine the foreign relations of the People\u2019s Republic of China from its inception in 1949 through to the present day. The focus of the course will be on China\u2019s political and security relations with global powers, including the Soviet Union/Russian Federation, Japan, India, Iran, and the USA.",
+        "Extra Information: 3 seminar hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10901",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "FNB-2210",
+          "Instructor": "J. Flath",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4702G - EUROPEAN IMPERIALISM",
+      "Description": [
+        "This seminar will examine major themes of European Imperialism.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2408",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-H227",
+          "Instructor": "G. Read",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4703G - CANADA AND THE UNITED STATES",
+      "Description": [
+        "This course analyses and compares a variety of themes which have been important in the development of both Canadian and American society. It also examines the involved and often difficult relationship of Canada and the United States, with an emphasis on the patterns of political, social, economic and military interaction.",
+        "Antirequisite(s): History 4701E.",
+        "Extra Information: three-hour seminar."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10925",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": "K. Fleming",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4708G - HIST OF THE CIRCUMPOLAR NORTHS",
+      "Description": [
+        "This course examines the circumpolar Norths -  Alaska, Kalaallit Nunaat, Nunavut, Siberia, Saami homelands and more. These regions have long been coveted by resource-hungry southerners and home to \"Northerners\", Indigenous and otherwise. Coverage includes indigenous lives, southern imperialism, and how various Norths were conceived and re-conceived in the South.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9201",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "P. Krats",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4710G - WORLD WARS REMEMBERED",
+      "Description": [
+        "This course, which concludes with a 10-day program in Belgium and France, explores commemorative practices that emerged after the World Wars. Topics include the presentation of history through monumental architecture, the preservation of battlefields, and museums, and how these sites have informed identity and efforts to reconcile former enemies.",
+        "Antirequisite(s): History 3710F/G.",
+        "Extra Information: 3 hours. Additional cost to be borne by students. Limited enrollment. Application and interview are required. Cross-listed with History 3710F/G."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1737",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W147",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "PERMISSION OF INSTRUCTOR REQUIRED. PLEASE CONTACT GRAHAM BROAD gbroad@uwo.ca. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. EXPERIENTIAL LEARNING COURSE WITH OVERSEAS TRAVEL. CROSS-LISTED WITH HISTORY 3710G 570. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200-level or above, and permission of the Department. (Please note, because of the limited enrolment and special circumstances of international travel associated with this course, students will also be interviewed before their registration is finalized.)."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4711F - THE FIRST WORLD WAR",
+      "Description": [
+        "This course provides an examination of selected aspects of the First World War in various combatant nations. Among the themes to be discussed are the alliance system, the experience of battle, home-front conflicts, war culture, gender, strategic and tactical decision-making, and the memory of the war.",
+        "Antirequisite(s): History 4709E.",
+        "Extra Information: 2 seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9363",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "STVH-1155",
+          "Instructor": "J. Vance",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4713G - SPIRITUALISM, SEANCES,OCCULT",
+      "Description": [
+        "This course explores the popular Spiritualist movement of the nineteenth and twentieth centuries, which held that life continued after bodily death and that the spirits of departed souls could be contacted by trained mediums during seances. What certainties did spiritualists hope to discover, and what frauds did their detractors unmask?",
+        "Extra Information: 2 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2407",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W102",
+          "Instructor": "A. Bell",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4797F - SEL TOP IN INTL OR CMPRTV HIST",
+      "Description": [
+        "See History Department for current offerings.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "11341",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-LH105C",
+          "Instructor": "G. Broad",
+          "Notes": [
+            "PERMISSION OF INSTRUCTOR REQUIRED. PLEASE CONTACT GRAHAM BROAD gbroad@uwo.ca. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH HISTORY 3797F. TOPIC: THE WORLD WARS IN HISTORY, MEMORY, AND RECONCILIATION: SEMINAR. ",
+            "REQUISITES: Prerequisite(s): 2.0 courses in History at the 2200 level or above."
+          ],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4810F - ENGAGING WITH THE PAST",
+      "Description": [
+        "This course explores the ideas, historiography and practice of active history, an historiographical practice that is responsive to communities of study, the discussion of the work of historians among public audiences. The course examines key themes and the work of prominent historians who have modeled a practice of Active History.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2409",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-H227",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): History 2811F/G, History 3801E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4816B - DIGITAL RESEARCH METHODS",
+      "Description": [
+        "In this course students will learn how historical content is produced, presented and published online; how to find and evaluate digital primary and secondary sources; and how to use computational techniques to work with digital resources. No previous background in the subject area is required.",
+        "Antirequisite(s): Digital Humanities 2130A/B, Digital Humanities 3902F/G, the former History 2816F/G.",
+        "Extra Information: 4 seminar hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10902",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "W. Turkel",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in any academic program at the second-year level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4821F - SPY VS. SPY",
+      "Description": [
+        "An introduction to close reading and how historians can use the techniques of structured intelligence analysis. Working individually and in groups, students will analyze a series of historical case studies from the 20th and 21st centuries. Topics include espionage, cyber war, terrorism, organized crime, homeland security, counterintelligence, and decision support.",
+        "Extra Information: 2 seminar hours weekly."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9169",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "W. Turkel",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 History course at the 2200 level or above."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4861G - THE HOLOCAUST AND HUMAN RIGHTS",
+      "Description": [
+        "This course explores the roots of the contemporary human rights movement in the era of Nazism-Fascism and the Holocaust, from the interwar period to the decades after 1945 and the development of the Universal Declaration of Human Rights. Topics include the role of faithbased organizations as advocates for human rights.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3070",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W176",
+          "Instructor": "R. Ventresca",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): 1.0 course in History at the 2200 level or above, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTORY 4903E - SENIOR THESIS",
+      "Description": [
+        "This course will normally be open only to fourth-year honours students who have achieved an average of at least 80% in their third-year history courses.",
+        "Note at Brescia, Huron, King's campus: Restricted to Honours Students."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8594",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "PERMISSION OF THE DEPARTMENT REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Restricted to Fourth Year Honours History Students.  Permission of the Chair is also required."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

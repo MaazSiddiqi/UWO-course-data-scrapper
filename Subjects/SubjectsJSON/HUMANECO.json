@@ -1,0 +1,320 @@
+{
+  "Name": "Human Ecology",
+  "Code": "HUMANECO",
+  "Courses": [
+    {
+      "Name": "HUMANECO 2222A - PROFESSIONAL PERSPECTIVES",
+      "Description": [
+        "Introduction to the history, mission, and philosophy of the Human Ecology/Home Economics professions in North America and the evolving concepts of Human Ecology/Home Economics as a field of study in higher education. Socialization toward professionalism will include the development of knowledge, skills and values appropriate to the profession.",
+        "Antirequisite(s): The former Human Ecology 2222F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2501",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "J. Matthews",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS REGISTERED IN FOOD & NUTRITION AND FAMILY STUDIES PROGRAMS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2521",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "",
+          "Instructor": "J. Matthews",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS REGISTERED IN FOOD & NUTRITION AND FAMILY STUDIES PROGRAMS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 3033A - DESIGN FOR HUMAN NEEDS",
+      "Description": [
+        "A survey of both visual and functional aspects of the design of shelter, furnishings, clothing and consumer products. Physical needs, social/psychological factors, as well as technology, environmental, ethical and economic concerns will be addressed.",
+        "Extra Information: 3 lecture/studio hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2691",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-302",
+          "Instructor": "P. O'Neil",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Human Ecology 2222A/B or the former Human Ecology 2222F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 3338B - ISSUES IN HOUSING",
+      "Description": [
+        "A study of the economic and ethical principles in housing needs of individuals and families and how those have been met at different times in history, in different societies and particularly today in Canada, including discussions of housing design, urban planning, environmental issues and alternative housing. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2519",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-204",
+          "Instructor": "P. O'Neil",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN FOODS & NUTRITION AND FAMILY STUDIES MODULES. ",
+            "REQUISITES: Prerequisite(s): Human Ecology 2222A/B or the former Human Ecology 2222F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 3343A - CONSUMER ECO & RES MGMNT",
+      "Description": [
+        "An interdisciplinary approach to the study of the roles and responsibilities of consumer, marketer, and government in the market-place. Emphasis on consumer behavior and management of human, economic, and environmental resources. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2506",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "E. Sloat",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. PRIORITY TO STUDENTS IN FOODS & NUTRITION AND FAMILY STUDIES PROGRAMS. ",
+            "REQUISITES: Pre-or Corequisite(s): Human Ecology 2222A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 3349A - PRINCIPLES OF MANAGEMENT",
+      "Description": [
+        "An introductory study of management principles, evolution of theories and influence of the behavioral sciences on current management practice. Functions of management, assessment and development of managerial skills. Case studies to help develop analytical and decision-making skills. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2509",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-203",
+          "Instructor": "P. O'Neil",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED IN FOOD & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Business Administration 1220E.  Registration in the Foods and Nutrition modules (Honours Specialization, Specialization, Major)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 4402B - SUPERVISED RESEARCH",
+      "Description": [
+        "Extra Information: Minimum of 10 tutorial/laboratory/field work hours.",
+        "Limited enrolment course."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12419",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Hekmat",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Human Ecology 4411F/G. Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 4411F - RESEARCH METHODOLOGY",
+      "Description": [
+        "Students will study the components of research and develop a research proposal.",
+        "Extra Information: 3 lecture/seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2498",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-136",
+          "Instructor": "J. Seabrook",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2499",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "J. Seabrook",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANECO 4411G - RESEARCH METHODOLOGY",
+      "Description": [
+        "Students will study the components of research and develop a research proposal.",
+        "Extra Information: 3 lecture/seminar hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2629",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-303",
+          "Instructor": "P. Dworatzek",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2629",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-303",
+          "Instructor": "P. Dworatzek",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2630",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-136",
+          "Instructor": "P. Dworatzek",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2630",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-19",
+          "Instructor": "P. Dworatzek",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Registration in the Foods and Nutrition modules (Honours Specialization)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2060 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option selected="" value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+29   Results <br/><br/><br/>
+<h4>PHYSIOL 1020 - HUMAN PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> A survey course outlining the principles of human/mammalian physiology; general properties of the living cell and the internal environment; neural, muscle, cardiovascular, respiratory, gastrointestinal, renal and endocrine systems; metabolism, reproduction and homeostasis.
+
+Antirequisite(s): Physiology 1021, Physiology 2130, Physiology 3120.
+
+Extra Information: Limited to students enrolled in the Nursing program. 2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>3796</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        C. Bell 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. RESTRICTED TO NURSING STUDENTS AT WESTERN. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Grade 12U (SBI4U) Biology and Grade 12U (SCH4U) Chemistry, or their equivalent. First year courses in Biology and Chemistry are recommended. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+<tr>
+<td>051</td>
+<td>TUT</td>
+<td>3797</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        C. Bell 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO NURSING STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+<tr>
+<td>052</td>
+<td>TUT</td>
+<td>3798</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												B&amp;GS-1056 
+											</td>
+<td>
+		                                        C. Bell 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO NURSING STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 1021 - INTRO TO HUMAN PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> An introductory course, outlining the principles of human/mammalian physiology along with a general survey of various physiological systems (e.g. cardiovascular, renal, neural, motor, gastrointestinal, endocrine, respiratory, etc.).
+
+Antirequisite(s): Physiology 1020, Physiology 2130, Physiology 3120.
+
+Extra Information: Limited to students enrolled in first year Kinesiology and first year
+Bachelor of Science (Foods and Nutrition).
+2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3976</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												NS-145 
+											</td>
+<td>
+		                                        A. Beye 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO KIN STUDENTS, YR 1 FOOD SCIENCE TECHNOLOGY, AND YR 1 NUTRITION &amp; DIETETICS STUDENTS. PREREQ: GR 12U BIOLOGY. GR 12U CHEMISTRY HIGHLY RECOMMENDED. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Grade 12U Biology or its equivalent. Grade 12U Chemistry is recommended. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>3977</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												HSB-9 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>3978</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												UC-2110 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>3979</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NS-7 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>3981</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												VAC-100 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>3980</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												VAC-100 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>3982</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												AHB-1B06 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>3983</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												NCB-293 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>3984</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												NCB-293 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>TUT</td>
+<td>9795</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												B&amp;GS-0165 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR FOODS AND NUTRITION STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>011</td>
+<td>TUT</td>
+<td>9796</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												VAC-100 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>012</td>
+<td>TUT</td>
+<td>9797</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												UCC-60 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>013</td>
+<td>TUT</td>
+<td>9798</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												UCC-60 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       THIS TUTORIAL IS FOR KINESIOLOGY STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 2130 - HUMAN PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> A survey course outlining the principles of human/mammalian physiology: general properties of the living cell and internal environment; neural, muscle, cardiovascular, respiratory, gastro-intestinal, renal and endocrine system; metabolism, reproduction, and homeostasis.
+
+Antirequisite(s): Physiology 1020, Physiology 1021, Physiology 3120. 
+
+Extra Information: 2 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>4278</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        C. Bell 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. OPEN TO ALL STUDENTS, FIRST-YEAR COURSES IN BIOLOGY AND CHEMISTRY ARE RECOMMENDED.  WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): First-year courses in Biology and Chemistry are recommended. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 3120 - HUMAN PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> A survey of the physiology of various systems (e.g. neural, endocrine, renal, cardiovascular, digestive, respiratory, etc.) of the human.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4136</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HSB-40 
+											</td>
+<td>
+		                                        A. Woods 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): one of Physics 1201A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B; 1.0 course from: Calculus 1000A/B, Calculus 1500A/B, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Statistical Sciences 1024A/B, Applied Mathematics 1201A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413, the former Applied Mathematics 1414A/B; one of Biology 1001A or Biology 1201A and one of Biology 1002B or Biology 1202B; or permission of the department. Integrated Science 1001X can be used as a prerequisite in place of Biology 1002B, Calculus 1301A/B and Physics 1202A/B. It is strongly recommended that Biochemistry 2280A and Biology 2382A/B be taken prior to Physiology 3120. Open only to students who are registered in Years 3 or 4. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 3140A - CELLULAR PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> A survey of principles of cellular physiology including membrane, ion channel, receptor, and transport protein function, and signal transduction mechanisms.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3163</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												HSB-40 
+											</td>
+<td>
+		                                        J. Di Guglielmo 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): one of Physics 1201A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B; 1.0 course from: Calculus 1000A/B or Calculus 1500A/B, Calculus 1301A/B or Calculus 1501A/B, Mathematics 1600A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Statistical Sciences 1024A/B, Applied Mathematics 1201A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413, the former Applied Mathematics 1414A/B; one of Biology 1001A or Biology 1201A and one of Biology 1002B or Biology 1202B; or permission of the department. Integrated Science 1001X can be used as a prerequisite in place of Biology 1002B, Calculus 1301A/B and Physics 1202A/B. It is strongly recommended that Biochemistry 2280A and Biology 2382A/B be taken prior to Physiology 3140A. Open only to students who are registered in Years 3 or 4. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4200B - RESPIRATORY HEALTH &amp; DISEASE</h4>
+<p class="font-md"><b>Course Description:</b> This course examines the normal pulmonary environment, including lung development and adaptations  to high altitude and exercise, and a variety of pathophysiological conditions and processes. For each condition or disease, physiological abnormalities and current therapies will be discussed, as will pathophysiological mechanisms with some emphasis on chronic and acute inflammation.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5833</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												MSB-M384 
+											</td>
+<td>
+		                                        S. Gill 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4510A - PHYSIOL OF STEM CELL FUNCTION</h4>
+<p class="font-md"><b>Course Description:</b> This course examines the basic molecular, biochemical and morphological events that regulate pluripotent stem cell biology. Students will learn about the physiology, research principles and ethical issues that surround the generation and clinical use of pluripotent stem cells.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7226</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UCC-66 
+											</td>
+<td>
+		                                        D. Betts 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120 and Physiology 3140A. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4520B - STEM CELLS &amp; REGENERATIVE MED</h4>
+<p class="font-md"><b>Course Description:</b> Central concepts in regenerative medicine are explored, with a focus on the preclinical development of stem cell therapies. Emphasized are: fundamentals of tissue-specific (post-natal) stem cell isolation, expansion and functional characterization using xenotransplantation into immunodeficient mouse models for the treatment of human hematopoietic disorders, ischemic vascular diseases, diabetes and cancer.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4472</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												DSB-2016 
+											</td>
+<td>
+		                                        D. Hess 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120 and 3140A. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4600A - DISEASES OF ION CHANNELS</h4>
+<p class="font-md"><b>Course Description:</b> Diseases related to ion channels, such as sensorineural hearing loss, immunodeficiency, Charcot-Marie-Tooth disease and cardiac arrhythmias. The physiology and pathophysiology of relevant ion channels will be covered.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5472</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												DSB-2016 
+											</td>
+<td>
+		                                        D. Bai 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120 and Physiology 3140A. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4610B - CARDIOVASC. PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> A study of the regulation of the circulation including factors involved in the regulation of cardiac output, reflex control of the circulation and long-term control of arterial pressure.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5331</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												MSB-M282 
+											</td>
+<td>
+		                                        R. Gros 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4620A - REPRODUCTIVE ENDOCRINOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> Selected topics in reproduction and its endocrine regulation.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3158</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												VAC-100 
+											</td>
+<td>
+		                                        A. Watson 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120, Physiology 3140A and either Physiology and Pharmacology 3000E or the former Physiology 3130Z; or Physiology 3120 (with a mark of at least 75%) and Physiology 3140A. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4650A - NEUROPHYS HOMEOSTASIS &amp; STRESS</h4>
+<p class="font-md"><b>Course Description:</b> The hypothalamus and limbic system contribute to the neural integration of autonomic, endocrine and skeletomotor responses which contribute to homeostasis and adaptive behaviors. Topics include the regulation of neuroendocrine function, blood pressure, energy and water balance, circadian rhythms and the integration of reproductive function.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6521</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												MSB-M282 
+											</td>
+<td>
+		                                        W. Inoue 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120 and 3140A; or Neuroscience 2000, Physiology 3140A and registration in Year 4 of an Honours Specialization in Neuroscience. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4680B - CELLULAR/MOLECULAR NEUROBIO</h4>
+<p class="font-md"><b>Course Description:</b> Cellular function and communication in the central nervous system. Topics will cover physiological mechanisms of intrinsic neuronal activity, excitatory and inhibitory synaptic transmission, integrative neuronal activities and protein processing pathways related to neuronal signalling and degeneration in Alzheimer's disease. Specific examples relevant to neuronal functions and dysregulations will be used.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3753</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												DSB-3008 
+											</td>
+<td>
+		                                        W. Lu 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120 and Physiology 3140A; or Neuroscience 2000, Physiology 3140A and registration in Year 4 of an Honours Specialization in Neuroscience. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4700B - FETAL PHYSIOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> This course covers placental function (endocrine, nutrient transport and parturition), fetal growth and development (heart, brain, kidneys, vessels, adipose, liver, lung, muscle and pancreas) and deals with the concept of the fetus as a patient to be followed during poor in utero conditions, such as hypoxia or poor diet.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3574</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												DSB-2016 
+											</td>
+<td>
+		                                        T. Regnault 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSIOL 4730B - CELL SGN IN TISSUE, INJ &amp; REPR</h4>
+<p class="font-md"><b>Course Description:</b> Examines the basic principles and surveys molecular mechanisms of regulation of cell growth, adhesion, migration, and differentiation and their functional integration to support survival and development. Dysregulation of these processes in disease will also be examined. The course is composed of both lectures and student presentations of scientific literature.
+
+Extra Information: 2 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3987</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												MSB-M384 
+											</td>
+<td>
+		                                        S. Cregan 
+		                                    </td>
+<td>
+		                                       PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physiology 3120. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

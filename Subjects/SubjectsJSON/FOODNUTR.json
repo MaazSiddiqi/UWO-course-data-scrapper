@@ -1,0 +1,2072 @@
+{
+  "Name": "Foods and Nutrition",
+  "Code": "FOODNUTR",
+  "Courses": [
+    {
+      "Name": "FOODNUTR 0011A - INTRO TO F&N: HEALTHY EATING",
+      "Description": [
+        "An introductory course about the basic aspects of Healthy Eating. Emphasis will be placed on how students can use credible resources to find information about the nutrient content of foods, read food labels, nutrition recommendations (including Canada's Food Guide) and the eating habits for their life stage and make healthy food choices for themselves.",
+        "Antirequisite(s): Grade 12U Nutrition in Perspective (HFA 4U) or any university level Nutrition course.",
+        "Extra Information: 3 lecture hours (includes in-class activities)/ week."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2608",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-201",
+          "Instructor": "J. Conquer",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN PRELIMINARY YEAR. ",
+            "REQUISITES: Prerequisite(s): High School Biology (Grade 11 Advanced Level or equivalent) and registration in the Preliminary Year Program at Brescia University College."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 0012B - INTRO TO F&N: LIFE CYCLE NUTR",
+      "Description": [
+        "An introductory course about the basic aspects of Life Cycle Nutrition. Emphasis will be placed on how students can use credible resources to find information about nutrition recommendations and eating habits of Canadians of all ages and life stages, nutrition and disease prevention, nutrition and physical activity, safe food handling procedures, food biotechnology and global hunger. ",
+        "Antirequisite(s): Grade 12U Nutrition in Perspective (HFA 4U) or any university level Nutrition course.",
+        "Extra Information: 3 lecture hours (includes in-class activities)/ week."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2609",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-201",
+          "Instructor": "J. Conquer",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN PRELIMINARY YEAR. ",
+            "REQUISITES: Prerequisite(s): High School Biology (Grade 11 Advanced Level or equivalent), FN 0011 A/B and registration in the Preliminary Year Program at Brescia University College."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 1070A - INTRODUCTORY HUMAN NUTRITION",
+      "Description": [
+        "An introductory study of food and nutrition, with a particular emphasis on nutrient sources, physiological roles, including dietary requirements, and impact on health.",
+        "Antirequisite(s): Foods and Nutrition 2070A/B or the former Foods and Nutrition 1021 or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121.",
+        "Extra Information: 3 lecture hours. Grade 11 (or higher) Biology and Chemistry are highly recommended as preparation for this course.",
+        "NOTE: This course will count as a Category C course for Brescia students and also main campus",
+        "students who are enrolled in the Foods and Nutrition modules."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2797",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-UH250",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN THE FOODS AND NUTRITION MODULES."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LEC",
+          "Class Nbr": "2800",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS IN THE FOODS AND NUTRITION MODULES."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2798",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-303",
+          "Instructor": "J. Conquer",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 1070B - INTRODUCTORY HUMAN NUTRITION",
+      "Description": [
+        "An introductory study of food and nutrition, with a particular emphasis on nutrient sources, physiological roles, including dietary requirements, and impact on health.",
+        "Antirequisite(s): Foods and Nutrition 2070A/B or the former Foods and Nutrition 1021 or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121.",
+        "Extra Information: 3 lecture hours. Grade 11 (or higher) Biology and Chemistry are highly recommended as preparation for this course.",
+        "NOTE: This course will count as a Category C course for Brescia students and also main campus",
+        "students who are enrolled in the Foods and Nutrition modules."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2801",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 1241B - LIFECYCLE NUTRITION",
+      "Description": [
+        "A study of nutritional requirements from conception to senescence. Discussion of food habits and nutrition intervention programs in relation to the stages of the lifecycle.",
+        "Antirequisite(s): Foods and Nutrition 2241A/B, Foods and Nutrition 2245A/B.",
+        "Extra Information: 3 lecture hours.",
+        "NOTE: This course will count as a Category C course for Brescia students and also main campus",
+        "students who are enrolled in the Foods and Nutrition modules."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2835",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "CROSS-LISTED WITH FOODS AND NUTRITION 2241B 530.  PRIORITY TO BRESCIA STUDENTS AND YEAR 1 FACULTY OF SCIENCE FOODS & NUTRITION STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or Foods and Nutrition 2070A/B or the former Foods and Nutrition 1021 or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "11130",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-2001",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS AND YEAR 1 FACULTY OF SCIENCE FOODS & NUTRITION STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or Foods and Nutrition 2070A/B or the former Foods and Nutrition 1021 or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LEC",
+          "Class Nbr": "10192",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. PRIORITY TO BRESCIA STUDENTS AND YEAR 1 FACULTY OF SCIENCE FOODS & NUTRITION STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or Foods and Nutrition 2070A/B or the former Foods and Nutrition 1021 or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2070A - FUNDAMENTALS OF HUMAN NUTRIT'N",
+      "Description": [
+        "An introductory study of food and nutrition, with a particular emphasis on the role of diet and nutrients in supporting health and preventing the development of nutritional deficiencies and disease. Students have the opportunity to independently explore and conduct an analysis of a nutrient-health relationship.",
+        "Antirequisite(s): Foods and Nutrition 1070A/B, the former Foods and Nutrition 1021, the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121. ",
+        "Extra Information: 3 lecture hours. Grade 11 (or higher) Biology and Chemistry are highly recommended as preparation for this course."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2802",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2070B - FUNDAMENTALS OF HUMAN NUTRIT'N",
+      "Description": [
+        "An introductory study of food and nutrition, with a particular emphasis on the role of diet and nutrients in supporting health and preventing the development of nutritional deficiencies and disease. Students have the opportunity to independently explore and conduct an analysis of a nutrient-health relationship.",
+        "Antirequisite(s): Foods and Nutrition 1070A/B, the former Foods and Nutrition 1021, the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121. ",
+        "Extra Information: 3 lecture hours. Grade 11 (or higher) Biology and Chemistry are highly recommended as preparation for this course."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2803",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 29 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2130 - CULINARY NUTRITION",
+      "Description": [
+        "A study of the principles relating to foods and their preparation with emphasis on nutritional concepts in food preparation. An applied approach will demonstrate the principles and methods of food preparation within the food laboratory.",
+        "Antirequisite(s): Foods and Nutrition 2132A/B.",
+        "Extra Information: 3 lecture hours and 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10164",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "K. Davidson",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS. PRIORITY TO BRESCIA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Registration in a Nutrition and Families or Food Management and Marketing module, or registration in the Minor in Foods and Nutrition."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "10165",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-1009",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2230A - INTEGRATED HUMAN NUTRITION",
+      "Description": [
+        "An integrative study of nutrition at the intermediate level. This course explores the roles and functions of nutrients at the organ and system levels under various physiological conditions.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10171",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "J. Conquer",
+          "Notes": [
+            "ONLINE SYNCHRONOUS.  RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES AND FOOD MARKETING & MGMT. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E, Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B and Physiology 1021 or Physiology 2130.",
+            "Corequisite(s): Biochemistry 2288A or Biochemistry 2280A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2230B - INTEGRATED HUMAN NUTRITION",
+      "Description": [
+        "An integrative study of nutrition at the intermediate level. This course explores the roles and functions of nutrients at the organ and system levels under various physiological conditions.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10172",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "B. Hartman",
+          "Notes": [
+            "ONLINE SYNCHRONOUS.  RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES AND FOOD MARKETING & MGMT. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E, Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B and Physiology 1021 or Physiology 2130.",
+            "Corequisite(s): Biochemistry 2288A or Biochemistry 2280A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2232 - PRINCIPLES OF FOOD SCI",
+      "Description": [
+        "A study of the physical structure, chemical composition and nutritive value of foods with emphasis on the effect on a finished product of the physical and chemical conditions, the proportion of ingredients and manipulative techniques. Discussion of aesthetic qualities and food economics. ",
+        "Extra Information: 3 lecture hours, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2458",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "BR-2001",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. MAY MATCH ANY LAB WITH ANY LECTURE. ",
+            "REQUISITES: Pre-or Corequisite(s): Foods and Nutrition 1030 or Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B, Chemistry 2003A/B or Chemistry 2213A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2502",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "J. Cusovich",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS.MAY MATCH ANY LAB WITH ANY LECTURE. ",
+            "REQUISITES: Pre-or Corequisite(s): Foods and Nutrition 1030 or Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B, Chemistry 2003A/B or Chemistry 2213A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "231",
+          "Component": "LAB",
+          "Class Nbr": "2459",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "232",
+          "Component": "LAB",
+          "Class Nbr": "2460",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1001",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "233",
+          "Component": "LAB",
+          "Class Nbr": "2492",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "235",
+          "Component": "LAB",
+          "Class Nbr": "2503",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1001",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "236",
+          "Component": "LAB",
+          "Class Nbr": "2504",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1009",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2241B - NUTRITION THRO HUMN LIFE CYCLE",
+      "Description": [
+        "A study of nutritional requirements from conception to senescence. Discussion of food habits and nutrition intervention programs in relation to life-cycle. ",
+        "Antirequisite(s): Foods and Nutrition 1241A/B, Foods and Nutrition 2245A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10193",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001",
+          "Instructor": "N. Martin",
+          "Notes": [
+            "PRIORITY TO BRESCIA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. CROSS-LISTED WITH FOODS AND NUTRITION 1241B 530. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1021, or the former Foods and Nutrition 1030E or the former Foods and Nutrition 2121."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2266F - NUTRITION EDUC. & COMM.",
+      "Description": [
+        "An analysis of behaviour change and communication theory in the context of nutrition education.",
+        "Antirequisite(s): Human Ecology 2266F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "10169",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021. ",
+            "Pre-or Corequisite(s): Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B or Foods and Nutrition 2245A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "231",
+          "Component": "LEC",
+          "Class Nbr": "10170",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-201",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021. ",
+            "Pre-or Corequisite(s): Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B or Foods and Nutrition 2245A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2266G - NUTRITION EDUC. & COMM.",
+      "Description": [
+        "An analysis of behaviour change and communication theory in the context of nutrition education.",
+        "Antirequisite(s): Human Ecology 2266F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "10168",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES AND FOOD MARKETING & MGMT. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021. ",
+            "Pre-or Corequisite(s): Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B or Foods and Nutrition 2245A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 2449B - MANAGEMENT, FOOD & NUTRITION",
+      "Description": [
+        "An introductory study of management functions and principles related to food and nutrition administration.",
+        "Antirequisite(s): Business Administration 1220E.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10173",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-204",
+          "Instructor": "S. Greig",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in a Foods and Nutrition module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "10174",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "L. Whittington-Carter",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. ",
+            "REQUISITES: Prerequisite(s): Registration in a Foods and Nutrition module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3310A - FOOD PRODUCT DEVELOPMENT",
+      "Description": [
+        "Examines the food product development process from concept to market. Discusses challenges, importance to the food industry, methods and techniques as well as new advancements and developments. Students will complete a product development project.",
+        "Extra Information: 3 lecture hours, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2804",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-303",
+          "Instructor": "L. Ahmadi",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN THE FOODS & NUTRITION, NUTRITION & FAMILIES AND FOOD MANAGEMENT MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2130, or Foods and Nutrition 2232."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2805",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "L. Ahmadi",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3342A - ADVANCED FOOD SCIENCE",
+      "Description": [
+        "Selected processing methods and their effect on the nutritive value and acceptability of a product; properties and uses of food carbohydrates, fats and enzymes used in the food industry. ",
+        "Extra Information: 3 lecture hours, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2462",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "S. Hekmat",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN THE FOODS & NUTRITION PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Chemistry 2003A/B or Chemistry 2213A/B and Foods and Nutrition 2232."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "231",
+          "Component": "LAB",
+          "Class Nbr": "2463",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2006",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "232",
+          "Component": "LAB",
+          "Class Nbr": "2464",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2006",
+          "Instructor": "S. Hekmat",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "233",
+          "Component": "LAB",
+          "Class Nbr": "2465",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2006",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3342B - ADVANCED FOOD SCIENCE",
+      "Description": [
+        "Selected processing methods and their effect on the nutritive value and acceptability of a product; properties and uses of food carbohydrates, fats and enzymes used in the food industry. ",
+        "Extra Information: 3 lecture hours, 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2586",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "S. Hekmat",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS. RESTRICTED TO STUDENTS IN THE FOODS & NUTRITION PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Chemistry 2003A/B or Chemistry 2213A/B and Foods and Nutrition 2232."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "231",
+          "Component": "LAB",
+          "Class Nbr": "2587",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2006",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "232",
+          "Component": "LAB",
+          "Class Nbr": "10175",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2006",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "233",
+          "Component": "LAB",
+          "Class Nbr": "2598",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2006",
+          "Instructor": "J. White",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON COMPONENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3344A - NUTRITIONAL ASSESSMENT",
+      "Description": [
+        "A critical survey of the methods used in the assessment of food and nutrient intakes and nutritional status of groups and individuals, in both health and disease. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2489",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-136",
+          "Instructor": "J. Madill",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN THE FOODS & NUTRITION PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B, and Foods and Nutrition 2230A/B. Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2508",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-203",
+          "Instructor": "B. Hartman",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN THE FOODS & NUTRITION PROGRAM. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B, and Foods and Nutrition 2230A/B. Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3348A - FOOD PRODUCTION MANAGEMEN",
+      "Description": [
+        "The application of scientific principles to the procurement, storage, processing and service of institutional food. Menu- planning to meet nutritional requirements while working under the constraints of budgets and the available food supplies, equipment and staff. Food trends, sanitation and safety. ",
+        "Extra Information: 3 lecture hours,  3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2548",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-135",
+          "Instructor": "S. Greig",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. MAY MATCH ANY LAB WITH ANY LECTURE. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2449A/B.",
+            "Pre-or Corequisite(s): Foods and Nutrition 3342A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2672",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "J. Smith",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. MAY MATCH ANY LAB WITH ANY LECTURE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LAB",
+          "Class Nbr": "2817",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "J. Smith",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3348B - FOOD PRODUCTION MANAGEMEN",
+      "Description": [
+        "The application of scientific principles to the procurement, storage, processing and service of institutional food. Menu- planning to meet nutritional requirements while working under the constraints of budgets and the available food supplies, equipment and staff. Food trends, sanitation and safety. ",
+        "Extra Information: 3 lecture hours,  3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2482",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-304",
+          "Instructor": "S. Greig",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2449A/B.",
+            "Pre-or Corequisite(s): Foods and Nutrition 3342A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2820",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "J. Smith",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LAB",
+          "Class Nbr": "2821",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "J. Smith",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3351A - CLINICAL NUTRITION I",
+      "Description": [
+        "Introduction to the profession of nutrition and dietetics, medical nutrition therapy and the nutrition care process including modifications of regular diets to meet special nutritional needs, menu planning and documentation of nutritional care. ",
+        "Extra Information: 3 lecture hours, 3 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2466",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-135",
+          "Instructor": "C. O'Connor",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B, and Foods and Nutrition 2230A/B. Registration in the Honours Specialization in Nutrition and Dietetics. ",
+            "Pre-or Corequisite(s): Foods and Nutrition 3344A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "2822",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "BR-201",
+          "Instructor": "C. O'Connor",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "TUT",
+          "Class Nbr": "2823",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:00 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-201",
+          "Instructor": "C. O'Connor",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3351B - CLINICAL NUTRITION I",
+      "Description": [
+        "Introduction to the profession of nutrition and dietetics, medical nutrition therapy and the nutrition care process including modifications of regular diets to meet special nutritional needs, menu planning and documentation of nutritional care. ",
+        "Extra Information: 3 lecture hours, 3 tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2827",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2001B",
+          "Instructor": "C. O'Connor",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B, and Foods and Nutrition 2230A/B. Registration in the Honours Specialization in Nutrition and Dietetics. ",
+            "Pre-or Corequisite(s): Foods and Nutrition 3344A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "2828",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "BR-2001B",
+          "Instructor": "C. O'Connor",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "TUT",
+          "Class Nbr": "2829",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:00 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001B",
+          "Instructor": "C. O'Connor",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3355B - AGRICULTURE AND FOOD SYSTEMS",
+      "Description": [
+        "This course will cover the processes and practices associated with food production in Canada. Appreciation of the whole food system (i.e., production, transformation, distribution, access, consumption, and food waste management), and the multiple aspects of sustainability, will provide a solid foundation for evidence-based conversations in future professional practice.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2700",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "J. Matthews",
+          "Notes": [
+            "ONLINE SYNCHRONOUS.  RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "10176",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": "J. Matthews",
+          "Notes": [
+            "ONLINE SYNCHRONOUS.  RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3361F - FUND COMMUNITY NUTR",
+      "Description": [
+        "The role of nutrition at the local, regional, national and international levels. Emphasis will be placed on processes involved in planning and evaluating nutrition interventions and policy efforts to support population health.",
+        "Antirequisite(s): The former Foods and Nutrition 3361A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "231",
+          "Component": "LEC",
+          "Class Nbr": "12503",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-135",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E, and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B. Foods and Nutrition 2266F/G or Human Ecology 2266F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2599",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-UH27",
+          "Instructor": "K. Neil",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E, and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B. Foods and Nutrition 2266F/G or Human Ecology 2266F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3361G - FUND COMMUNITY NUTR",
+      "Description": [
+        "The role of nutrition at the local, regional, national and international levels. Emphasis will be placed on processes involved in planning and evaluating nutrition interventions and policy efforts to support population health.",
+        "Antirequisite(s): The former Foods and Nutrition 3361A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2505",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": "K. Neil",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E, and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B. Foods and Nutrition 2266F/G or Human Ecology 2266F/G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3364B - NUTRITION, AGING AND HEALTH",
+      "Description": [
+        "A study of the relationships among nutrition, aging and health including the current and projected aged Canadian population, their nutritional needs, limitations (economic, physical, behavioral, etc) to meeting those needs, nutrition/age related health issues and program/services available or needed. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2546",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Bouwmeester",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B and Foods and Nutrition 1241A/B, or the former Foods and Nutrition 1030E and Foods and Nutrition 2241A/B or Foods and Nutrition 2245A/B.",
+            "Pre-or Corequisite(s): Foods and Nutrition 2230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3380B - POLICY DEV & ADVOCACY",
+      "Description": [
+        "This course examines policy development in government and the strategies and actions taken by advocacy groups to influence government in the making and implementation of policy and programs.  The focus will be on policies affecting foods and nutrition in Canada. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2600",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-304",
+          "Instructor": "L. Whittington-Carter",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES AND FOOD MARKETING & MGMT. ",
+            "REQUISITES: Pre-or Corequisite(s): Human Ecology 2266F/G or Foods and Nutrition 2266F/G, and Foods and Nutrition 3361F/G or the former Foods and Nutrition 3361A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3390W - RESEARCH METHODS & STATISTICS",
+      "Description": [
+        "This course will cover quantitative and qualitative research methods and statistics specific to food and nutrition.",
+        "Antirequisite(s): Sociology 2205A/B, Human Ecology 4411F/G, and all other introductory Statistics courses.",
+        "Extra Information: 4 lecture hours and 1 tutorial hour per week."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10183",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-135",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021 and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B. ",
+            "Pre-or Corequisite(s): Food and Nutrition 2230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "11168",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "TUT",
+          "Class Nbr": "11171",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3390X - RESEARCH METHODS & STATISTICS",
+      "Description": [
+        "This course will cover quantitative and qualitative research methods and statistics specific to food and nutrition.",
+        "Antirequisite(s): Sociology 2205A/B, Human Ecology 4411F/G, and all other introductory Statistics courses.",
+        "Extra Information: 4 lecture hours and 1 tutorial hour per week."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10184",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-UH250",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021 and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B. ",
+            "Pre-or Corequisite(s): Food and Nutrition 2230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "TUT",
+          "Class Nbr": "11169",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "TUT",
+          "Class Nbr": "11170",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3400A - CULTURE AND FOOD",
+      "Description": [
+        "Introduction to the study of social, cultural and communication factors which influence food habits of various ethnic groups that may differ from typical North-American diets. Variations in basic food preparation and culinary techniques will be explored (in the food laboratories).",
+        "Extra Information: 3 lecture hours and 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "10177",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "K. Davidson",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS.  RESTRICTED TO STUDENTS IN FOODS & NUTRITION AND FAMILIES AND NUTRITION MODULES AND FOOD MARKETING & MGMT. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2130 or Foods and Nutrition 2232."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "10178",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LAB",
+          "Class Nbr": "10179",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3400B - CULTURE AND FOOD",
+      "Description": [
+        "Introduction to the study of social, cultural and communication factors which influence food habits of various ethnic groups that may differ from typical North-American diets. Variations in basic food preparation and culinary techniques will be explored (in the food laboratories).",
+        "Extra Information: 3 lecture hours and 3 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2540",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "K. Davidson",
+          "Notes": [
+            "ONLINE ASYNCHRONOUS. RESTRICTED TO FOODS & NUTRITION AND NUTRITION & FAMILIES STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2130 or Foods and Nutrition 2232."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2541",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LAB",
+          "Class Nbr": "2542",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-1009",
+          "Instructor": "K. Davidson",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3450F - FOOD FOR THOUGHT",
+      "Description": [
+        "An introductory course in philosophy of food that engages students to think and write critically about topics such as cannibalism, veganism, genetic modification, marketing, and personal responsibility.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2583",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "BR-202",
+          "Instructor": "L. Lamoureux",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION OR NUTRITION AND FAMILIES MODULES. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 1070A/B or the former Foods and Nutrition 1030E or the former Foods and Nutrition 1021 and Foods and Nutrition 1241A/B or Foods and Nutrition 2241A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3480F - INDEPENDENT STUDY",
+      "Description": [
+        "An advanced reading course on a defined topic with a specified bibliography."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12581",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Battram",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in year 3 or 4 of the BScFN Honors Specialization in Nutrition and Dietetics, Honours Specialization in Food Science and Technology, Specialization in Foods and Nutrition or permission of the Division."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 3480G - INDEPENDENT STUDY",
+      "Description": [
+        "An advanced reading course on a defined topic with a specified bibliography."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12420",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Conquer",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in year 3 or 4 of the BScFN Honors Specialization in Nutrition and Dietetics, Honours Specialization in Food Science and Technology, Specialization in Foods and Nutrition or permission of the Division."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4410A - GLOBAL POLICIES IN FOOD SAFETY",
+      "Description": [
+        "Food safety policy is examined at local, national, international, and global levels. Through case studies, in-class discussions and activities; the influence of food laws, trading policies, litigation, advocacy efforts, economics and politics in shaping food policy are explored to encourage critical thinking and promote inquiry and analysis.",
+        "Antirequisite(s): The former Foods and Nutrition 3320A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2808",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-202",
+          "Instructor": "S. Greig",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Pre-or Corequisite(s): Foods and Nutrition 3342A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4420B - SENSORY EVALUATION OF FOODS",
+      "Description": [
+        "Covers principles of sensory and consumer science including test methods (discrimination, affective and descriptive tests), questionnaire design, experimental design, statistical considerations and decision analysis. Examines sensory properties of foods through lab experiments and projects.",
+        "Extra Information: 2 lecture hours, 2 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "11322",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "S. Hekmat",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 3342A/B.",
+            "Pre-or Corequisite(s): Foods and Nutrition 3390W/X."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "11323",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-1001",
+          "Instructor": "S. Hekmat",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4435B - FOOD ANALYSIS",
+      "Description": [
+        "Promotes understanding of the fundamentals, procedures, and laboratory techniques of physical, chemical and biochemical analyses (qualitative and quantitative) of foods. Emphasis on utilization and/or application in food science, public health, sanitation, foods and nutrition.",
+        "Antirequisite(s): The former Foods and Nutrition 2350A/B.",
+        "Extra Information: 4 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2848",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "BR-2006",
+          "Instructor": "L. Ahmadi",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Biology 1290B.",
+            "Pre-or Corequisite(s): Foods and Nutrition 3342A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4440B - CURRENT ISS IN FOOD SCI & TECH",
+      "Description": [
+        "Examines current issues in Food Science and Technology, involving a review of existing literature on functional foods, nutraceuticals, and food additives.  Emphasis on regulatory issues, safety and efficacy of specific functional foods. Examines food waste or by-product management, a critical factor in recycling valuable food components.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2701",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": "L. Ahmadi",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 3342A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4449A - FOOD PROD MANAGEMENT II",
+      "Description": [
+        "Managerial decision making relevant to financial management of a Food Service system. Ethical and professional behavior, internal control, records, work improvement methods and computer applications. Practicum included. ",
+        "Extra Information: 4 lecture/practicum hours. Limited enrollment."
+      ],
+      "Components": [
+        {
+          "Section": "230",
+          "Component": "LEC",
+          "Class Nbr": "2812",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-14",
+          "Instructor": "L. Whittington-Carter",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 2449A/B, Foods and Nutrition 3348A/B",
+            "Pre-or Corequisite(s): Foods and Nutrition 4429A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2813",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-1001",
+          "Instructor": "L. Whittington-Carter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4453A - CLINICAL NUTRITION II",
+      "Description": [
+        "Advanced principles and practices of medical nutrition therapy and nutritional support. Metabolic, anatomical and physiological alternations in selected diseases are the basis for the nutritional care plan.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2467",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-303",
+          "Instructor": "",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2288A or Biochemistry 2280A, Foods and Nutrition 3351A/B.  Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4453B - CLINICAL NUTRITION II",
+      "Description": [
+        "Advanced principles and practices of medical nutrition therapy and nutritional support. Metabolic, anatomical and physiological alternations in selected diseases are the basis for the nutritional care plan.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2647",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "B. Hartman",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2288A or Biochemistry 2280A, Foods and Nutrition 3351A/B.  Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2648",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-2001B",
+          "Instructor": "J. Madill",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2288A or Biochemistry 2280A, Foods and Nutrition 3351A/B.  Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LEC",
+          "Class Nbr": "2690",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "BR-201",
+          "Instructor": "J. Hoard",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2288A or Biochemistry 2280A, Foods and Nutrition 3351A/B.  Registration in the Honours Specialization in Nutrition and Dietetics module."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4458B - EQUIPMENT SELECT/LAYOUT",
+      "Description": [
+        "The interrelationship of cost, performance, efficiency, and maintenance requirements in determining needs for food service equipment. Practice in planning physical facilities and assessing area and space relationships of food service operations as determined by present and future needs. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2468",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "BR-206",
+          "Instructor": "S. Greig",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 3348A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4462B - COMMUNITY NUTRITION II",
+      "Description": [
+        "This seminar-based course will build on the concepts examined in Foods and Nutrition 3361F/G Fundamentals of Community Nutrition. Emphasis will be placed on populationlevel approaches to nutrition interventions from a public health perspective.",
+        "Extra Information: 4 lecture hours. Limited enrollment."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2646",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "BR-135",
+          "Instructor": "E. Lakusiak",
+          "Notes": [
+            "RESTRICTED TO STUDENTS IN FOODS & NUTRITION PROGRAMS. ",
+            "REQUISITES: Prerequisite(s): Foods and Nutrition 3361F/G (or the former Foods and Nutrition 3361A/B)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4471B - NUTRITION & METABOLIC PROCESS",
+      "Description": [
+        "An integrative study of nutrient metabolism at an advanced level. This course provides an in-depth understanding of the regulation of nutrients at organ and cellular levels under various physiological conditions.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2491",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-2001A",
+          "Instructor": "J. Twynstra",
+          "Notes": [
+            "RESTRICTED TO YR 4 HONS FOODS & NUTRITION STUDENTS. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2288A or Biochemistry 2280A, Foods and Nutrition 2230A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4480G - SPECIAL TOPICS",
+      "Description": [
+        "Guided research and writing in foods and nutrition."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12582",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Battram",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in year 3 or 4 of the BScFN Honors Specialization in Nutrition and Dietetics, Honours Specialization in Food Science and Technology, Specialization in Foods and Nutrition or permission of the Division."
+          ],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FOODNUTR 4904Y - PRACTICUM",
+      "Description": [
+        "Students complete 1300 hours of practice in varied practice areas and locations. They work on-site or conduct site-related work on a predetermined schedule, typically 30 - 35 hours per week. Students must successfully complete the practical training in all areas to satisfy the practicum requirements for the diploma."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "12616",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "Name": "Systematic Theology",
+  "Code": "SYSTHEO",
+  "Courses": [
+    {
+      "Name": "SYSTHEO 5103A - INTRO TO SYST THEOLOGY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1899",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W2",
+          "Instructor": "B. Potter",
+          "Notes": [
+            "RESTRICTED TO THEOLOGY STUDENTS AT HURON. BACHELOR'S STUDENTS TAKE THEO STUD 2207F. HELD IN HC V207."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5111A - FUNDAMENTAL THEOLOGY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1189",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Dool",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5112B - CHRISTOLOGY AND SOTERIOLOGY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1178",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Dool",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5113A - THEOLOGICAL ANTHROPOLOGY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1066",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. Dool",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5201B - CONTEXTUAL THEOLOGY",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2271",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W104",
+          "Instructor": "D. Davis",
+          "Notes": [
+            "REQUISITES: Prerequisite: Systematic Theology 5103A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5208B - KEY ISSUES IN ISLAMIC THEOLOGY",
+      "Description": [
+        "A study of the major theological issues addressed by traditional and modern Muslim theologians, such as the attributes of God, revelation, human freedom and responsibility, suffering and religious pluralism.  ",
+        "Antirequisite(s): RS 3110.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2355",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-H227",
+          "Instructor": "I. Mattson",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Any university level course in Islamic Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5219A - SELECTED TOPICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1067",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5219B - SELECTED TOPICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1068",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5228B - THEOLOGY & RELIGIOUS PLURALISM",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12546",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W104",
+          "Instructor": "B. Potter",
+          "Notes": [
+            "REQUISITES: Prerequisite: Systematic Theology 5103A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SYSTHEO 5232B - SPECIAL TOPICS",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "12545",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-H119",
+          "Instructor": "B. Potter",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "Name": "Social Science",
+  "Code": "SOCSCI",
+  "Courses": [
+    {
+      "Name": "SOCSCI 3990A - INTERNSHIP",
+      "Description": [
+        "One-term placement with a government, private sector or non-governmental organization to provide a practical learning experience. Admission is competitive. Students will write a final report on work undertaken.",
+        "Extra Information: Pass/Fail.",
+        "Notes: International students should consult academic counselling about their eligibility. Students may not take any academic courses during the internship."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9986",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Faculty of Social Science. Applicants must have an average of at least 70% and be enroled in a Social Science Honours Specialization, Specialization or Major or Specialization module and be registered in third or fourth year."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCSCI 3999A - EXPERIENTIAL LEARNING",
+      "Description": [
+        "Experiential--or service--learning (learning through practical experience) opportunities, which result in tangible and quantifiable academic value, may be recognized for course credit. Students must seek conditional approval. ",
+        "Detailed criteria for course credit will be determined by the Dean or designate, in consultation with appropriate department(s).",
+        "Extra Information: Pass/Fail.",
+        "Note: Students must receive approval of the Dean (or designate) and reach mutual agreement on a detailed study/research/work plan, prior to the experiential or service learning opportunity. The Dean, in consultation with appropriate departmental advisors (if necessary) will provide the student with detailed criteria, including a timetable of submission deadlines, which must be fulfilled in order to gain credit for the course. No credit will be given without prior approval of the Dean and a failing grade will be assigned if students do not fulfill the pre-approved reporting arrangement."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8633",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in the Faculty of Social Science and permission of the Dean."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCSCI 3999B - EXPERIENTIAL LEARNING",
+      "Description": [
+        "Experiential--or service--learning (learning through practical experience) opportunities, which result in tangible and quantifiable academic value, may be recognized for course credit. Students must seek conditional approval. ",
+        "Detailed criteria for course credit will be determined by the Dean or designate, in consultation with appropriate department(s).",
+        "Extra Information: Pass/Fail.",
+        "Note: Students must receive approval of the Dean (or designate) and reach mutual agreement on a detailed study/research/work plan, prior to the experiential or service learning opportunity. The Dean, in consultation with appropriate departmental advisors (if necessary) will provide the student with detailed criteria, including a timetable of submission deadlines, which must be fulfilled in order to gain credit for the course. No credit will be given without prior approval of the Dean and a failing grade will be assigned if students do not fulfill the pre-approved reporting arrangement."
+      ],
+      "Components": [
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "8637",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in the Faculty of Social Science and permission of the Dean."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "SOCSCI 3999Y - EXPERIENTIAL LEARNING",
+      "Description": [
+        "Experiential--or service--learning (learning through practical experience) opportunities, which result in tangible and quantifiable academic value, may be recognized for course credit. Students must seek conditional approval. ",
+        "Detailed criteria for course credit will be determined by the Dean or designate, in consultation with appropriate department(s).",
+        "Extra Information: Pass/Fail.",
+        "Note: Students must receive approval of the Dean (or designate) and reach mutual agreement on a detailed study/research/work plan, prior to the experiential or service learning opportunity. The Dean, in consultation with appropriate departmental advisors (if necessary) will provide the student with detailed criteria, including a timetable of submission deadlines, which must be fulfilled in order to gain credit for the course. No credit will be given without prior approval of the Dean and a failing grade will be assigned if students do not fulfill the pre-approved reporting arrangement."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10034",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in the Faculty of Social Science and permission of the Dean."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "Name": "Digital Communication",
+  "Code": "DIGICOMM",
+  "Courses": [
+    {
+      "Name": "DIGICOMM 2001A - SOCIAL MEDIA",
+      "Description": [
+        "A study of the principles and production of social media through which students will gain an understanding of online information architecture and organization. Students will learn the techniques and critical skills required for creating and managing content on a variety of platforms including, but not limited to, web sites, blogs, twitter, and Facebook. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5502",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "FNB-1200",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2001B - SOCIAL MEDIA",
+      "Description": [
+        "A study of the principles and production of social media through which students will gain an understanding of online information architecture and organization. Students will learn the techniques and critical skills required for creating and managing content on a variety of platforms including, but not limited to, web sites, blogs, twitter, and Facebook. ",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7925",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2002B - VIRTUAL WORLDS",
+      "Description": [
+        "A study of principles and production through which students will gain an understanding of theoretical and practical applications of virtual worlds and simulation spaces. Students will learn the techniques and critical skills required for creating and managing communities, identities and interactivity in virtual and online worlds.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5501",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "HSB-11",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2200G - SOCIAL NETWORKING",
+      "Description": [
+        "In today's online environment, social networking sites (SNSs) have altered the social landscape. Students will become fluent in the theoretical and practical aspects of social networking, in addition to understanding its contexts and social issues such as bullying, anonymity, addiction, anxiety, and narcissism. This course will introduce the conceptual tools required to carry out a group work component.",
+        "Antirequisite(s): The former MIT 2374F/G, MIT 3375F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6515",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-1220",
+          "Instructor": "K. Faucher",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2203A - INTRO TO WEB DESIGN & DIGITAL",
+      "Description": [
+        "This course focuses on the design and production of information for websites. While learning the basics of information architecture and usability, students will also discover how to use XHTML and CSS for the creation of static websites. Key concepts in digital imaging, such as image compression will also be introduced.",
+        "Antirequisite(s): MIT 2570A/B, Registration in the MTP Program. ",
+        "Extra Information: 1 lecture hour, 3 laboratory hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5839",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "FNB-2070",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5840",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "FNB-2070",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2203B - INTRO TO WEB DESIGN & DIGITAL",
+      "Description": [
+        "This course focuses on the design and production of information for websites. While learning the basics of information architecture and usability, students will also discover how to use XHTML and CSS for the creation of static websites. Key concepts in digital imaging, such as image compression will also be introduced.",
+        "Antirequisite(s): MIT 2570A/B, Registration in the MTP Program. ",
+        "Extra Information: 1 lecture hour, 3 laboratory hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6162",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "FNB-2070",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "6163",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "FNB-2070",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2204A - INTRO TO GRAPHIC DESIGN",
+      "Description": [
+        "This course introduces the student to the concepts of visual literacy. Study concentrates on the elements and principles of basic two dimensional designs, visual communication and its objective theoretical application. Current industry standard vector-based, bitmap-based and presentation software applications are introduced to allow the student to practice and exercise visual literacy. Emphasis will be fall on the professional and applied applications of this topic.",
+        "Antirequisite(s): MIT 2600A/B, Registration in the MTP Program. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8602",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-2070",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2309A - DIGITAL MARKETING FUNDAMENTALS",
+      "Description": [
+        "This course will explore the best practices of strategic digital marketing communications campaigns. Course components include campaign planning, audience research, social media marketing, mobile marketing, digital advertising, content management and data analytics across multiple platforms.",
+        "Antirequisite(s): Digital Communication 2305F/G, MOS 3323A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11731",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": "E. Isings",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "11732",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "E. Isings",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2309B - DIGITAL MARKETING FUNDAMENTALS",
+      "Description": [
+        "This course will explore the best practices of strategic digital marketing communications campaigns. Course components include campaign planning, audience research, social media marketing, mobile marketing, digital advertising, content management and data analytics across multiple platforms.",
+        "Antirequisite(s): Digital Communication 2305F/G, MOS 3323A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11733",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "E. Isings",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 2311G - WRITING, DIGI MEDIA PLATFORMS",
+      "Description": [
+        "This course considers the relationship between written language and new media technologies.",
+        "Students will engage critically and creatively with various digital tools and environments as a way",
+        "to evolve their own skill set for writing, interfacing and collaborating with others, and producing",
+        "content across a range of platforms and contexts.",
+        "Antirequisite(s): Digital Communications 2305F/G if taken in 2020-21.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12124",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-1270",
+          "Instructor": "B. Chiasson",
+          "Notes": [
+            "RESTRICTED TO YRS 3 & 4 FIMS MODULES. NOT OPEN TO MIT MINOR MODULE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3204F - SEARCH ENGINES & WEB DATA",
+      "Description": [
+        "The course will examine how search engines are built, how they work, and how to evaluate them. The course will introduce basic concepts and techniques of Web data mining including Web hyperlink analysis, Web traffic analysis and Web server log analysis. Emphasis will be fall on the professional and applied applications of this topic.",
+        "Extra Information: 2 lecture hours, 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12512",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3205F - NET-WORK: LABOUR & PROFIT",
+      "Description": [
+        "This course will explore the impact that User-Generated Content, Social Networks have had on contemporary conceptions of labour and work.  Through the lens of Autonomist Marxism and related theory, the course will consider the changes taking place in labour processes and the products being produced by this shift to immaterial work. Emphasis will be on the professional and applied applications of this topic, with special attention payed to ethics of and exploitation within knowledge work and digital labour.",
+        "Antirequisite(s): MIT 3133F/G.",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9799",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": "K. Faucher",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3206F - VIDEO GAME CULTURE",
+      "Description": [
+        "Video games have a profound influence on popular culture, digital technology, and the entertainment industry.  This course examines the fundamentals of video games, their role in culture and society, how they are used for different ends, and the benefits and concerns associated with their use.",
+        "Antirequisite(s): MIT 3371F/G. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11734",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SEB-1056",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. CROSS-LISTED WITH MIT 3371F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11734",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SEB-1056",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. CROSS-LISTED WITH MIT 3371F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3209F - SOCIAL MEDIA & ORGANIZATIONS",
+      "Description": [
+        "This course provides hands-on experience with building, evaluating, and using social media tools such as blogs, wikis, and social networking websites within an organizational context. Relevant issues such as user privacy, social media policies, effective planning and implementation, and organizational impact will be addressed. Emphasis will be fall on the professional and applied applications of this topic.",
+        "Antirequisite(s): MIT 3373F/G. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8590",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3209G - SOCIAL MEDIA & ORGANIZATIONS",
+      "Description": [
+        "This course provides hands-on experience with building, evaluating, and using social media tools such as blogs, wikis, and social networking websites within an organizational context. Relevant issues such as user privacy, social media policies, effective planning and implementation, and organizational impact will be addressed. Emphasis will be fall on the professional and applied applications of this topic.",
+        "Antirequisite(s): MIT 3373F/G. ",
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "5846",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3304G - SPECIAL TOPICS",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12518",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-3315",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. TOPIC: LOCATIVE MEDIA. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3305F - SPECIAL TOPICS",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11736",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. WAIT LIST OPTION AVAILABLE. TOPIC: GENDERING PLATFORM CAPITALISM."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3306B - SPECIAL TOPICS",
+      "Description": [
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9851",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-2070",
+          "Instructor": "M. Rayner",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. MIT 2570A/B OR DIGICOMM 2203A/B REQUIRED. CONTACT FIMS@UWO.CA FOR PERMISSION TO ENROL. CROSS0LISTED WITH MIT 3663B. TOPIC: ADVANCED WEB DESIGN AND CONTENT STRATEGY."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DIGICOMM 3307B - SPECIAL TOPICS",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12513",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "10:00 PM",
+          "Location": "SH-3317",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO DIGITAL COMMUNICATION CERTIFICATE/DIPLOMA STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL SENIOR STUDENTS. WAIT LIST OPTION AVAILABLE. TOPIC: LIVE STREAMING: THEORY AND PRACTICE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

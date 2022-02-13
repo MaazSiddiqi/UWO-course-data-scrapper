@@ -1,0 +1,384 @@
+{
+  "Name": "Art History",
+  "Code": "AH",
+  "Courses": [
+    {
+      "Name": "AH 1642B - HISTORY OF ART & VISUAL CULTUR",
+      "Description": [
+        "An introductory visual and historical survey with a focus on Western art from the Baroque period to Contemporary times. The course provides a study of painting, sculpture, architecture, and other forms of media through considerations of the cultural environments within which they were produced. Students will gain a working knowledge of terms, methodologies, and themes in art history.",
+        "Antirequisite(s): Art History 1640, the former VAH 1040.",
+        "Extra Information: 2 lecture hours and 1 tutorial hour, or blended/online format."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10813",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Sprengler",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "AH 1644A - ART, SCIENCE AND TECHNOLOGY",
+      "Description": [
+        "This introductory course serves as a starting point to study the foundations of art history. It is an exploration of the various relationships between art, science and technology. Topics may include the history of medical illustration and imaging, art\u2019s engagement with scientific principles and issues, and the changing role of technology in art.",
+        "Antirequisite(s): the former VAH 1042A/B.",
+        "Extra Information: 2 lecture hours and 1 tutorial hour, or blended/online format."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10823",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "J. James",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "AH 2600G - THEORIES & PRAC OF ART HIST",
+      "Description": [
+        "A brief introduction to historical and contemporary theories, methods, and practices for the study of art history and visual culture. ",
+        "Antirequisite(s): Studio Art 2600F/G, the former VAH2241F/G.",
+        "Extra Information: 3 hours: lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10821",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-117",
+          "Instructor": "J. James",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO YRS 2,3 & 4 IN A DEPARTMENT OF VISUAL ARTS MODULE, OR PERMISSION OF THE DEPARTMENT. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in years 2 - 4 of a Department of Visual Arts Module, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "AH 2620F - NORTHERN RENAISSANCE ART",
+      "Description": [
+        "Architecture, painting, sculpture, and graphic arts outside Italy with emphasis on the arts of the Netherlands and Germany of the 15th and 16th centuries.",
+        "Antirequisite(s): the former VAH 2256E, the former VAH 2257F/G.",
+        "Extra Information: 3 hours: lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11863",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "C. Barteet",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Art History 1640 or the former VAH 1040 or two of Art History 1641A/B \u2013 1648A/B or the former VAH 1041A/B \u2013 1045A/B or 1.0 essay course from Arts and Humanities, FIMS, or Social Science, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "AH 2632G - CANADIAN ART",
+      "Description": [
+        "An introduction to the visual arts of Canada in the 20th century, including First Nations and Inuit art, cultural policy, and collecting and curatorial practices in Canada. Key movements in Canadian art are discussed in relation to the social and political context.",
+        "Antirequisite(s): the former VAH 2272F/G, the former VAH 2276E.",
+        "Extra Information: 3 hours: lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "9012",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "S. Bassnett",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Art History 1640 or the former VAH 1040 or two of Art History 1641A/B \u2013 1648A/B or the former VAH 1041A/B \u2013 1045A/B or 1.0 essay course from Arts and Humanities, FIMS, or Social Science, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "AH 2670G - HISTORY ARCHITECTURE & URBANSM",
+      "Description": [
+        "This course considers the forms, functions, structure, and historical and cultural contexts of architecture and urbanism through either a chronological survey from the ancient world to the contemporary era or through thematic topics. Please consult Department for more information regarding current offerings.",
+        "Extra Information: 3 hours: lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "11864",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "VAC-100",
+          "Instructor": "C. Barteet",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Art History 1640 or the former VAH 1040 or two of Art History 1641A/B \u2013 1648A/B or the former VAH 1041A/B \u2013 1045A/B or 1.0 essay course from Arts and Humanities, FIMS, or Social Science, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "AH 2692F - SPECIAL TOPICS IN ART HISTORY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10831",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 2102A AND CLC 2129A. TOPIC: MEXICO CITY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Art Module or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10831",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 2102A AND CLC 2129A. TOPIC: MEXICO CITY. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Art Module or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "AH 3642F - COLD WAR ART AND POLITICS",
+      "Description": [
+        "By the time the United States and the Soviet Union emerged as superpowers after the Second World War, the utopian dreams of pre-war modernism had shattered. This course examines the art of the Cold War (1947-1991) in Europe and North American in relation to the heightened political tensions of the period.",
+        "Extra Information: 3 hours: lecture, blended, or online format."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10832",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Bassnett",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from Art History 1640 or the former VAH 1040 or two of Art History 1641A/B-1648A/b or the former VAH 1041A/B -1045A/B, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "AH 3690G - SPECIAL TOPICS IN ART HISTORY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11758",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "VAC-249",
+          "Instructor": "A. Hoekstra",
+          "Notes": [
+            "CROSS-LISTED WITH MCS 3690G AND SA 3690B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Art Module or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "AH 3692G - SPECIAL TOPICS IN ART HISTORY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10843",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "VAC-247",
+          "Instructor": "S. Kopp",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in a Visual Art Module or Permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "AH 4640G - SEMINAR IN MODERN/CONTEMPORARY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours: seminar, workshop, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "9014",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "VAC-247",
+          "Instructor": "S. Bassnett",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. PRIORITY TO STUDENTS IN YRS 3&4 OF A MODULE IN ART HISTORY, OR PERMISSION OF THE DEPARTMENT. WAIT LIST OPTION AVAILABLE. TOPIC: ARTISTS AS HISTORIANS. ",
+            "REQUISITES: Prerequisite(s): Registration in years 3 or 4 of a Department of Visual Arts Module, or permission of the Department."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "AH 4650F - SEMINAR IN PHOTOGRAPHY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours: seminar, workshop, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10947",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "VAC-247",
+          "Instructor": "B. Sinder",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN YRS 3&4 OF A MODULE IN ART HISTORY, OR PERMISSION OF THE DEPARTMENT. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in years 3 or 4 of a Department of Visual Arts Module, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "AH 4690F - SPECIAL TOPICS IN ART HISTORY",
+      "Description": [
+        "Please consult Department for current offerings.",
+        "Extra Information: 3 hours, lecture, blended or online format."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10844",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "K. Wood",
+          "Notes": [
+            "ONLINE COURSE. CROSS-LISTED WITH SA 4690A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in years 3 or 4 of a Department of Visual Arts Module, or permission of the Department."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    }
+  ]
+}

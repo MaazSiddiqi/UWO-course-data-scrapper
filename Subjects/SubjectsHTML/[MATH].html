@@ -1,0 +1,7459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option selected="" value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+141   Results <br/><br/><br/>
+<h4>MATH 0105A - PRECALCULUS MATHEMATICS</h4>
+<p class="font-md"><b>Course Description:</b> Set theory, algebra, functions and relations, trigonometry, logarithms and exponents. 
+
+Antirequisite(s): Ontario Secondary School MCV4U, any university level calculus course.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2532</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												BR-MRW152 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       PRIORITY TO STUDENTS IN PRELIMINIARY YEAR. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 0109A - PREPARATORY MATHEMATICS</h4>
+<p class="font-md"><b>Course Description:</b> Review of mathematical operations and linear equations; introduction to functions; introductory finite mathematics, including combinatorics and probability; introductory financial mathematics, including compound interest and annuities.
+
+Antirequisites: Ontario Secondary School MCV4U, Mathematics 0105A/B, or any university-level calculus course.
+
+Extra Information: 4 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1771</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:00 PM</td>
+<td>
+												KC-LH105B 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       PRIORITY TO STUDENTS REGISTERED AT KING’S. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT THE AFFILIATED UNIVERSITY COLLEGES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCF3M, MCR3U, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 0110A - INTRODUCTORY CALCULUS</h4>
+<p class="font-md"><b>Course Description:</b> Introduction to differential calculus including limits, continuity, definition of derivative, rules for differentiation, implicit differentiation, velocity, acceleration, related rates, maxima and minima, exponential functions, logarithmic functions, differentiation of exponential and logarithmic functions, curve sketching.
+
+Antirequisite(s) at Main campus: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.
+
+Antirequisite(s) at Brescia, Huron and Kings: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.
+
+Extra Information: 4 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1929</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>10:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. NOT AVAILABLE TO STUDENTS WITH CREDIT IN OAC CALCULUS OR GR 12U ADVANCED FUNCTIONS AND INTRODUCTORY CALCULUS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1032</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												KC-LH101 
+											</td>
+<td>
+		                                        J. Turnbull 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>3136</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												KC-LH105B 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3555</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>9:00 PM</td>
+<td>
+												B&amp;GS-0165 
+											</td>
+<td>
+		                                        A. Ghorbanpour 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 0110B - INTRODUCTORY CALCULUS</h4>
+<p class="font-md"><b>Course Description:</b> Introduction to differential calculus including limits, continuity, definition of derivative, rules for differentiation, implicit differentiation, velocity, acceleration, related rates, maxima and minima, exponential functions, logarithmic functions, differentiation of exponential and logarithmic functions, curve sketching.
+
+Antirequisite(s) at Main campus: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.
+
+Antirequisite(s) at Brescia, Huron and Kings: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.
+
+Extra Information: 4 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2525</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%">W</td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												BR-AUD 
+											</td>
+<td>
+		                                        A. Ghorbanpour 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1409</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												KC-SA060 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS AT AN AFFILIATED COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1120B - FUNDAMENTAL CONCEPTS IN MATH</h4>
+<p class="font-md"><b>Course Description:</b> Primarily for students interested in pursuing a degree in one of the mathematical sciences. Logic, set theory, relations, functions and operations, careful study of the integers, discussion of the real and complex numbers, polynomials, and infinite sets. 
+ 
+Antirequisite(s): Mathematics 2155F/G, or the former Mathematics 2155A/B.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3973</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HSB-9 
+											</td>
+<td>
+		                                        T. Barron 
+		                                    </td>
+<td>
+		                                       INTENDED FOR STUDENTS PLANNING TO REGISTER FOR ADVANCED MATHEMATICS COURSES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1600A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1225B - METHODS OF CALCULUS</h4>
+<p class="font-md"><b>Course Description:</b> Elementary techniques of integration; applications of Calculus such as area, volume, and differential equations; functions of several variables, Lagrange multipliers. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules. It may not be used as a prerequisite for any Calculus course numbered 1300 or above.
+ 
+Antirequisite(s) at Main campus: Applied Mathematics 1201A/B, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1230A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413. If Calculus 1000A/B or Calculus 1500A/B was completed after September 1, 2016 it is an antirequisite, but not if it was completed before that time.
+
+Antirequisite(s) at Brescia, Huron, King's campus: Applied Mathematics 1201A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1414A/B, or the former the former Applied Mathematics 1413, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1230A/B, Calculus 1000A/B or Calculus 1500A/B taken after September 1, 2016.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2497</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												BR-MRW152 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1930</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W12 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>551</td>
+<td>LEC</td>
+<td>2052</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>552</td>
+<td>LEC</td>
+<td>2140</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												HC-W12 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4415</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												MC-110 
+											</td>
+<td>
+		                                        K. Nguyen 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1228A - METHODS OF FINITE MATHEMATICS</h4>
+<p class="font-md"><b>Course Description:</b> Permutations and combinations; probability theory. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.
+
+Antirequisite(s): Mathematics 2124A/B, Mathematics 2155F/G, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2857A/B.
+
+Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2412</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-W12 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>551</td>
+<td>LEC</td>
+<td>2904</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1033</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:00 AM</td>
+<td>11:30 AM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        T. Pattenden 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1063</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>8:30 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        T. Pattenden 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>200</td>
+<td>LEC</td>
+<td>4846</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Blended
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>5340</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>10295</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												FNB-1250 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>10296</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>10297</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>8:00 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>10298</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:00 PM</td>
+<td>9:00 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>10299</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>8:00 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1228B - METHODS OF FINITE MATHEMATICS</h4>
+<p class="font-md"><b>Course Description:</b> Permutations and combinations; probability theory. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.
+
+Antirequisite(s): Mathematics 2124A/B, Mathematics 2155F/G, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2857A/B.
+
+Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2495</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												BR-18 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>531</td>
+<td>LEC</td>
+<td>2856</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												BR-MRW152 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1931</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1034</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>8:30 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1267</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>7:00 PM</td>
+<td>8:30 PM</td>
+<td>
+												KC-W168 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>572</td>
+<td>LEC</td>
+<td>3137</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:00 PM</td>
+<td>2:30 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        T. Pattenden 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>200</td>
+<td>LEC</td>
+<td>3556</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        K. Adamyk<br/>
+		                                            V. Olds<br/>
+</td>
+<td>
+		                                       BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Blended
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>3557</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												FNB-1250 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>4292</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>10300</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>10301</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UCC-56 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>10302</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>10303</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>12130</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												FNB-1250 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>12131</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>TUT</td>
+<td>12132</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1229A - METHODS OF MATRIX ALGEBRA</h4>
+<p class="font-md"><b>Course Description:</b> Matrix algebra including vectors and matrices, linear equations, determinants. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.
+ 
+Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B, Mathematics 1600A/B, Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B.
+
+Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2496</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												BR-MRW152 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>531</td>
+<td>LEC</td>
+<td>2589</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												BR-MRW152 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1932</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>551</td>
+<td>LEC</td>
+<td>2053</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>552</td>
+<td>LEC</td>
+<td>2262</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>553</td>
+<td>LEC</td>
+<td>2413</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												HC-W116 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1184</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:00 AM</td>
+<td>
+												KC-W168 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1185</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:00 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>572</td>
+<td>LEC</td>
+<td>1294</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:00 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>573</td>
+<td>LEC</td>
+<td>1335</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:00 AM</td>
+<td>
+												KC-SA150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>574</td>
+<td>LEC</td>
+<td>1631</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:00 PM</td>
+<td>2:30 PM</td>
+<td>
+												KC-W168 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>200</td>
+<td>LEC</td>
+<td>4412</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        M. Cardenas Montoya 
+		                                    </td>
+<td>
+		                                       BLENDED COURSE. ONLINE LECTURE AND IN-PERSON TUTORIAL. PRIORITY TO YR 1 STUDENTS.  AUGUST 4 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Blended
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4413</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												UCC-37 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>4414</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												NCB-114 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>TUT</td>
+<td>7091</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>TUT</td>
+<td>10304</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>TUT</td>
+<td>10305</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												NCB-117 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>TUT</td>
+<td>10306</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>TUT</td>
+<td>10307</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>TUT</td>
+<td>10308</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>TUT</td>
+<td>10309</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>012</td>
+<td>TUT</td>
+<td>10311</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>013</td>
+<td>TUT</td>
+<td>10312</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>014</td>
+<td>TUT</td>
+<td>10313</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												FNB-1250 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>015</td>
+<td>TUT</td>
+<td>10314</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>016</td>
+<td>TUT</td>
+<td>10315</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>017</td>
+<td>TUT</td>
+<td>11835</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>018</td>
+<td>TUT</td>
+<td>11836</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>019</td>
+<td>TUT</td>
+<td>11837</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												UCC-41 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1229B - METHODS OF MATRIX ALGEBRA</h4>
+<p class="font-md"><b>Course Description:</b> Matrix algebra including vectors and matrices, linear equations, determinants. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.
+ 
+Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B, Mathematics 1600A/B, Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B.
+
+Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2494</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%">Tu</td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												BR-UH27 
+											</td>
+<td>
+		                                        A. O'Hara 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2070</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												HC-V214 
+											</td>
+<td>
+		                                        M. Palaisti 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>551</td>
+<td>LEC</td>
+<td>2131</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W12 
+											</td>
+<td>
+		                                        M. Mollahajiaghaei 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1431</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:00 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1865</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:00 PM</td>
+<td>2:30 PM</td>
+<td>
+												KC-LH101 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>7981</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1230A - CALCULUS FOR SOCIAL SCIENCES</h4>
+<p class="font-md"><b>Course Description:</b> Review of differential calculus with transcendental functions; methods of integration; constrained and unconstrained multivariable optimization, with applications; mathematical modelling with differential equations, including applications in management, finance, economics, and social science.
+
+Antirequisite(s): Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1500A/B, Calculus 1501A/B, Mathematics 1225A/B, the former Applied Mathematics 1413.
+
+Extra Information: 4 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>3138</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												KC-SA150 
+											</td>
+<td>
+		                                        J. Turnbull 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>3139</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												KC-W168 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>572</td>
+<td>LEC</td>
+<td>3140</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												KC-W166 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>573</td>
+<td>LEC</td>
+<td>3141</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												KC-SA150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1230B - CALCULUS FOR SOCIAL SCIENCES</h4>
+<p class="font-md"><b>Course Description:</b> Review of differential calculus with transcendental functions; methods of integration; constrained and unconstrained multivariable optimization, with applications; mathematical modelling with differential equations, including applications in management, finance, economics, and social science.
+
+Antirequisite(s): Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1500A/B, Calculus 1501A/B, Mathematics 1225A/B, the former Applied Mathematics 1413.
+
+Extra Information: 4 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1510</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												KC-DL130 
+											</td>
+<td>
+		                                        J. Turnbull 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>571</td>
+<td>LEC</td>
+<td>1511</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												KC-W168 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>572</td>
+<td>LEC</td>
+<td>1512</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												KC-LH100 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>573</td>
+<td>LEC</td>
+<td>1513</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												KC-SA150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1600A - LINEAR ALGEBRA I</h4>
+<p class="font-md"><b>Course Description:</b> Properties and applications of vectors; matrix algebra; solving systems of linear equations; determinants; vector spaces; orthogonality; eigenvalues and eigenvectors.
+ 
+Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B. 
+
+Extra Information: 3 lecture hours, 1 laboratory hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5062</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												SH-3345 
+											</td>
+<td>
+		                                        D. Jeffrey 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>5063</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NCB-113 
+											</td>
+<td>
+		                                        K. Adamyk 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>5066</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+												UCC-59 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>5067</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												UC-1225 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>5068</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												NCB-293 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>5069</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>LAB</td>
+<td>5070</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>LAB</td>
+<td>5071</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												UCC-59 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>LAB</td>
+<td>5393</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>LAB</td>
+<td>12136</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												UCC-54B 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>011</td>
+<td>LAB</td>
+<td>12137</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>012</td>
+<td>LAB</td>
+<td>12138</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												UCC-59 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 1600B - LINEAR ALGEBRA I</h4>
+<p class="font-md"><b>Course Description:</b> Properties and applications of vectors; matrix algebra; solving systems of linear equations; determinants; vector spaces; orthogonality; eigenvalues and eigenvectors.
+ 
+Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B. 
+
+Extra Information: 3 lecture hours, 1 laboratory hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>570</td>
+<td>LEC</td>
+<td>1232</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												KC-SA151 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													King's
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5064</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												NCB-113 
+											</td>
+<td>
+		                                        A. Steiner 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>5065</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SEB-1200 
+											</td>
+<td>
+		                                        C. Hall 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>5072</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>9:30 AM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>5073</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>5074</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>5075</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>LAB</td>
+<td>5076</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>LAB</td>
+<td>5077</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>LAB</td>
+<td>5394</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>010</td>
+<td>LAB</td>
+<td>12133</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>011</td>
+<td>LAB</td>
+<td>12134</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>012</td>
+<td>LAB</td>
+<td>12135</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>5:30 PM</td>
+<td>6:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2120B - INTERMEDIATE LINEAR ALGEBRA</h4>
+<p class="font-md"><b>Course Description:</b> A rigorous development of lines and planes in Rn; linear transformations and abstract vector spaces. Determinants and an introduction to diagonalization and its applications including the characteristic polynomials, eigenvalues and eigenvectors. 
+ 
+Antirequisite(s): Mathematics 2211A/B. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5336</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        C. Hall 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 1600A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>9690</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        C. Hall 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>TUT</td>
+<td>9691</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NCB-113 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2122B - REAL ANALYSIS I</h4>
+<p class="font-md"><b>Course Description:</b> A rigorous introduction to analysis on the real line. Sets and functions, logic and mathematical proof, the natural and real numbers, completeness and its consequences, limits of sequences, limits of real functions, continuity and uniform continuity.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7092</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        G. Sinnamon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, or Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7092</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        G. Sinnamon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, or Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>7093</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        G. Sinnamon 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2124A - INTRO MATHEMATICAL PROBS</h4>
+<p class="font-md"><b>Course Description:</b> Primarily for Mathematics students, but will interest other students with ability in and curiosity about mathematics in the modern world as well as in the past. Stresses development of students' abilities to solve problems and construct proofs. Topics will be selected from: counting, recurrence, induction; number theory; graph theory; parity, symmetry; geometry. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7094</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												UCC-58 
+											</td>
+<td>
+		                                        A. Dhillon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7094</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												UCC-58 
+											</td>
+<td>
+		                                        A. Dhillon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2151A - DISCRETE STRUCTURES FOR ENG</h4>
+<p class="font-md"><b>Course Description:</b> Logic, sets and functions, algorithms, mathematical reasoning, counting, relations, graphs, trees, Boolean Algebra, computation, modeling.
+ 
+Antirequisite(s): Computer Science 2214A/B, Mathematics 2155F/G.
+
+Extra Information: 3 lecture hours.
+
+Note: this course is offered only to software engineering students enrolled in the Faculty of Engineering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5457</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												SSC-2050 
+											</td>
+<td>
+		                                        A. Steiner 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO SOFTWARE AND COMPUTER ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Computer Science 1026A/B or Engineering Science 1036A/B, in each case with at least 60%, and 1.0 courses with at least 60% in each from: Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413A/B.  
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5457</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												AHB-1R40 
+											</td>
+<td>
+		                                        A. Steiner 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO SOFTWARE AND COMPUTER ENGINEERING STUDENTS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Computer Science 1026A/B or Engineering Science 1036A/B, in each case with at least 60%, and 1.0 courses with at least 60% in each from: Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413A/B.  
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2155F - MATHEMATICAL STRUCTURES</h4>
+<p class="font-md"><b>Course Description:</b> This course provides an introduction to logical reasoning and proofs. Topics include sets, counting (permutations and combinations), mathematical induction, relations and functions, partial order relations, equivalence relations, binary operations, elementary group theory and applications to error-correcting codes. 
+ 
+Antirequisite(s): Mathematics 2151A/B, the former Mathematics 2155A/B.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3558</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NS-7 
+											</td>
+<td>
+		                                        J. Christensen 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 course from: Mathematics 1120A/B, Mathematics 1600A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, Calculus 1000A/B, Calculus 1500A/B, Calculus 1301A/B, Calculus 1501A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, in each case with a minimum mark of 60%; or permission of the department. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 2156B - MATHEMATICAL STRUCTURES II</h4>
+<p class="font-md"><b>Course Description:</b> This course continues the development of logical reasoning and proofs begun in Mathematics 2155F/G. Topics include elementary number theory (gcd, lcm, Euclidean algorithm, congruences, Chinese remainder theorem) and graph theory (connectedness, complete, regular and bipartite graphs; trees and spanning trees, Eulerian and Hamiltonian graphs, planar graphs; vertex, face and edge colouring; chromatic polynomials). 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10316</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NS-7 
+											</td>
+<td>
+		                                        H. Sendov 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2155F/G or the former Mathematics 2155A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3020A - INTRODUCTN TO ABSTRACT ALGEBRA</h4>
+<p class="font-md"><b>Course Description:</b> Properties of integers, rational, real and complex numbers: commutativity, associativity, distributivity. Polynomials, prime and irreducible elements. Rings, ideals, integral and Euclidean domains, fields, and unique factorization. First isomorphism theorem, quotient rings and finite fields. Introduction to groups.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7687</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												NCB-293 
+											</td>
+<td>
+		                                        K. Kapulkin 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2151A/B, Mathematics 2155F/G, Applied Mathematics 2811B, Computer Science 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7687</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												NCB-293 
+											</td>
+<td>
+		                                        K. Kapulkin 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2151A/B, Mathematics 2155F/G, Applied Mathematics 2811B, Computer Science 2214A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3120B - GROUP THEORY</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to the theory of groups: cyclic, dihedral, symmetric, alternating; subgroups, quotient groups, homomorphisms, cosets, Lagrange's theorem, isomorphism theorems; group actions, class equation, p-groups, Sylow theorems; direct and semidirect products, wreath products, finite abelian groups; Jordan-Hölder theorem, commutator subgroup, solvable and nilpotent groups; free groups, generators and relations.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4416</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        D. Riley 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3020A/B (recommended); or Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2155F/G, Applied Mathematics 2811B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3121B - ADVANCED LINEAR ALGEBRA</h4>
+<p class="font-md"><b>Course Description:</b> A continuation of the material of Mathematics 2120A/B including properties of complex numbers and the principal axis theorem; singular value decomposition; linear groups; similarity; Jordan canonical form; Cayley-Hamilton theorem; bilinear forms; Sylvester's theorem.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9325</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        N. Lemire 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2120A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3122A - REAL ANALYSIS II</h4>
+<p class="font-md"><b>Course Description:</b> Differentiation, the Mean Value Theorem, and integration. Metric spaces, including topology, convergence, compactness, completeness, and connectedness. Uniform convergence of functions. Selected additional topics.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7657</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+</td>
+<td>
+		                                        J. Adamus 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2122A/B with a minimum mark of 60%. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>7658</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        J. Adamus 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3124A - COMPLEX  ANALYSIS I</h4>
+<p class="font-md"><b>Course Description:</b> The Cauchy-Riemann equations, elementary functions, branches of the logarithm and argument, Cauchy's integral theorem and formula, winding number, Liouville's theorem and the fundamental theorem of algebra, the identity theorem, the maximum modulus theorem, Taylor and Laurent expansions, isolated singularities, the residue theorem and applications, the argument principle and applications.
+
+Antirequisite(s): Applied Mathematics 3811A/B. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8065</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HSB-9 
+											</td>
+<td>
+		                                        T. Barron 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2122A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3152A - COMBINATORIAL MATH</h4>
+<p class="font-md"><b>Course Description:</b> Enumeration, recursion and generating functions, linear programming, Latin squares, block designs, binary codes, groups of symmetries, orbits, and counting.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9326</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        G. Denham 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 0.5 course from: Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B, Applied Mathematics 2811B, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9326</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												MC-17 
+											</td>
+<td>
+		                                        G. Denham 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 0.5 course from: Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B, Applied Mathematics 2811B, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 3157B - INTRO TO GAME THEORY</h4>
+<p class="font-md"><b>Course Description:</b> A first course in the mathematical theory of games. Topics begin with the modelling of games: extensive and strategic forms; perfect information; chance. Sprague-Grundy theory of impartial combinatorial games. Modelling preferences with utility functions. Nash equilibria, analysis of two-player games.
+ 
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9149</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HSB-11 
+											</td>
+<td>
+		                                        H. Sendov 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 1600A/B, Calculus 1301A/B or Calculus 1501A/B, and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2122A/B, Mathematics 2124A/B or Mathematics 2155F/G, the former Mathematics 2155A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4120B - FIELD THEORY</h4>
+<p class="font-md"><b>Course Description:</b> Automorphisms of fields, separable and normal extensions, splitting fields, fundamental theorem of Galois theory, primitive elements, Lagrange's theorem. Finite fields and their Galois groups, cyclotomic extensions and polynomials, applications of Galois theory to geometric constructions and solution of algebraic equations. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9265</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+</td>
+<td>
+		                                        A. Dhillon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3020A/B and Mathematics 3120A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4121A - TOPOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> Topological spaces, neighbourhoods, bases, subspaces, product and quotient spaces, connectedness, compactness, separation axioms.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9266</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        M. Franz 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3122A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4122B - INTRODUCTION TO MEASURE THEORY</h4>
+<p class="font-md"><b>Course Description:</b> Lebesgue measure, measurable sets and functions, Littlewood principles; the Lebesgue integral, basic convergence theorems, approximation theorems; measure spaces, signed measures, Radon-Nikodym Theorem.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7754</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        G. Sinnamon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3122A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4123A - RINGS AND MODULES</h4>
+<p class="font-md"><b>Course Description:</b> Rings: fractions and localization, Chinese Remainder Theorem, factorization in commutative rings, Euclidean algorithm, PIDs, algebraic integers, polynomials and formal power series, factorization in polynomial rings; Modules: generation, direct products and sums, freeness, presentations, tensor algebras, exact sequences, projectivity, injectivity, Hom and duality, Zorn's Lemma, chain conditions, modules over PIDs.
+ 
+Extra Information: 3 lecture hours.
+Note: It is recommended that Mathematics 3121A/B (or the former Math 2121A/B) be taken before or concurrently with Mathematics 4123A/B.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4490</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+</td>
+<td>
+		                                        C. Hall 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3020A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4152B - ALGEBRAIC TOPOLOGY</h4>
+<p class="font-md"><b>Course Description:</b> Homotopy, fundamental group, Van Kampen's theorem, covering spaces, simplicial and singular homology, homotopy invariance, long exact sequence of a pair, excision, Mayer-Vietoris sequence, degree, Euler characteristic, cell complexes, projective spaces. Applications include the fundamental theorem of algebra, the Brouwer fixed point theorem, division algebras, and invariance of domain.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5905</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+</td>
+<td>
+		                                        J. Christensen 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3120A/B and Mathematics 4121A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5905</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+</td>
+<td>
+		                                        J. Christensen 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 3120A/B and Mathematics 4121A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4153B - ALGEBRAIC GEOMETRY</h4>
+<p class="font-md"><b>Course Description:</b> Affine and projective varieties, coordinate rings and function fields, birational correspondences, sheaves, dimension theory, regularity. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9150</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+</td>
+<td>
+		                                        A. Dhillon 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 4123A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4154A - FUNCTIONAL ANALYSIS</h4>
+<p class="font-md"><b>Course Description:</b> Hilbert spaces: L^2 spaces, orthogonal complements, dual spaces, Riesz representation theorem, the Fredholm alternative, spectral resolution of compact normal operators. Banach spaces: Hahn-Banach theorem, bounded linear operators, adjoints, closed graph and Banach Steinhaus theorems.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10317</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+</td>
+<td>
+		                                        R. Shafikov 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2120A/B, Mathematics 3122A/B.
+Pre-or Corequisite(s): Mathematics 3124A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10317</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+</td>
+<td>
+		                                        R. Shafikov 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 2120A/B, Mathematics 3122A/B.
+Pre-or Corequisite(s): Mathematics 3124A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>MATH 4958B - SPECIAL TOPICS IN MATHEMATICS</h4>
+<p class="font-md"><b>Course Description:</b> Extra Information: 3 lecture hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12613</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												AHB-1B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       TOPIC: EVOLUTIONARY DYNAMICS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

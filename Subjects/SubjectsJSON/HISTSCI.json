@@ -1,0 +1,97 @@
+{
+  "Name": "History of Science",
+  "Code": "HISTSCI",
+  "Courses": [
+    {
+      "Name": "HISTSCI 2200E - SCIENTIFIC THOUGHT",
+      "Description": [
+        "A general historical survey of ideas in the physical and biological sciences from antiquity to the twentieth century. This course will also examine issues in scientific methodology as well as the impact of scientific ideas on society.",
+        "Antirequisite(s) at Huron campus: Philosophy 2203.",
+        "Extra Information: 3 lecture hours (Main); 2 lecture hours (Huron)."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1936",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "E. Doyle",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HISTSCI 2220 - INTRO TO HISTORY OF MEDICINE",
+      "Description": [
+        "An overview of the development of medicine from antiquity to the present, including the growth of medical sciences, concepts of disease, therapies, and the history of medical practice and institutions.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1057",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO KING'S STUDENTS IN THEIR FINAL YEAR. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1183",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1226",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

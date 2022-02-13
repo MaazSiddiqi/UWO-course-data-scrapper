@@ -1,0 +1,571 @@
+{
+  "Name": "Italian",
+  "Code": "ITALIAN",
+  "Courses": [
+    {
+      "Name": "ITALIAN 1030 - ITALIAN FOR BEGINNERS",
+      "Description": [
+        "An introduction to oral and written Italian with emphasis on the development of communicative skills. No previous knowledge of Italian is required. Note that students who have successfully completed Grade 12 U Italian or equivalent cannot take this course for credit.",
+        "Antirequisite(s): Grade 12 U Italian, Italian 1033.",
+        "Extra Information: 3 lecture hours plus 1 hour online."
+      ],
+      "Components": [
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3622",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-341",
+          "Instructor": "Y. Sangalli",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "201",
+          "Component": "LEC",
+          "Class Nbr": "3622",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "TC-341",
+          "Instructor": "Y. Sangalli",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "3623",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "202",
+          "Component": "LEC",
+          "Class Nbr": "3623",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "3799",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "P. Pirani",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "203",
+          "Component": "LEC",
+          "Class Nbr": "3799",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "P. Pirani",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3841",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "L. De Angelis Soriano",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "204",
+          "Component": "LEC",
+          "Class Nbr": "3841",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3305",
+          "Instructor": "L. De Angelis Soriano",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "12557",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "TC-203",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "205",
+          "Component": "LEC",
+          "Class Nbr": "12557",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-203",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 2100A - STORIES OF ITALIAN CANADIANS",
+      "Description": [
+        "Discover the unique contribution that Italians have made to the Canadian society with a special focus on your communities. Collect stories from old and new immigrants with a view of building an archive devoted to the Italian experience in Canada. Explore issues of assimilation, integration, and identity.",
+        "Extra information: 2 hours. Online course. Taught in English. Coursework in English. Some course work in Italian for Italian program students only."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "12464",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 2200 - INTERMEDIATE ITALIAN",
+      "Description": [
+        "This course further develops students' communicative skills using authentic materials including songs, films, websites. Students will familiarize themselves with the richness of Italian contemporary culture and will expand their knowledge of grammar. ",
+        "Antirequisite(s): Italian 2202X",
+        "Extra Information: 3 lecture hours plus 1 hour online."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "7814",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 1030 or Italian 1033 or Grade 12U Italian or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "7814",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 1030 or Italian 1033 or Grade 12U Italian or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 2220B - ITALIAN CONVERSATION",
+      "Description": [
+        "Guided conversations in Italian dealing with the hottest issues in contemporary Italy. Students will develop their communicative skills in Italian through discussion of a number of topics, ranging from social and political issues to TV and pop culture, fashion, food, sports.",
+        "Antirequisite(s): Italian 3320A/B.",
+        "Extra Information: 3 hours. Taken in second or third year."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9334",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "CROSS-LISTED WITH ITALIAN 3320B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Italian 2200, Italian 2202X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9334",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "CROSS-LISTED WITH ITALIAN 3320B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Italian 2200, Italian 2202X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 2242F - ROME: THE ETERNAL CITY",
+      "Description": [
+        "Discover Rome and its unique contribution to Western arts and culture. Understand its prominent role in the global political and religious environments. Identify and map traces of the past in the city's contemporary urban landscape and daily life. The course is an ideal complement to Italian 2240F/G - Italian Journeys. ",
+        "Antirequisite(s): CLC 2131A/B.",
+        "Extra Information: 2 hours. Note: Taught in English. Coursework in part in Italian for Italian program students only."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11337",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WIRB-1130",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH CLC 2131A. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 2500G - BRIDGING CLASSROOM & COMMUNITY",
+      "Description": [
+        "Develop intercultural competence by examining individual experiences of learning and maintaining language and of integrating cultural heritage. Connect in-class learning about language acquisition, identity, memory and related issues with service-learning projects in London or the surrounding region. Taught in English and Italian.",
+        "Antirequisite(s): CLC 2500F/G, German 2500F/G, Spanish 2500F/G, Intercultural Communication 2500F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11313",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/COMPLIT 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Italian 2200, Italian 2202X, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11313",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/COMPLIT 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Italian 2200, Italian 2202X, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 3300 - ADVANCED ITALIAN",
+      "Description": [
+        "This course expands students' communicative skills, introduces idiomatic expressions and increases control of grammatical structures. Material will be drawn from authentic articles, websites and films. Discussion will be focused on cultural aspects of Italy's past and contemporary society.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7594",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 2200, Italian 2202X, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7594",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 2200, Italian 2202X, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 3320B - ADV ITALIAN CONVERSATIONS",
+      "Description": [
+        "Guided conversations in advanced Italian dealing with the hottest issues in contemporary Italy. Students will develop their communicative skills in Italian through discussion of a number of topics, ranging from social and political issues to TV and pop culture, fashion, food, sports.",
+        "Antirequisite(s): Italian 2220A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11623",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "CROSS-LISTED WITH ITALIAN 2220B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 2200, Italian 2202X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11623",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "C. Caracchini",
+          "Notes": [
+            "CROSS-LISTED WITH ITALIAN 2220B. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 2200, Italian 2202X or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 3600F - INTERNSHIP IN ITALIAN",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Italian.",
+        "Extra Information: Pass, or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a midterm as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11324",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CONTACT CONTACT AGARCIA@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST.@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department, Italian 2200 or Italian 2202X, and  Intercultural Communications 2200F/G. Registration in the third or fourth year of a module Italian, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or be completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 3600G - INTERNSHIP IN ITALIAN",
+      "Description": [
+        "The Academic Internship is a 0.5 credit internship with minimum of 60 hours. The internship will require students to make connections with academic study while undertaking supervised duties in organizations, businesses or community groups with interests related to Italian.",
+        "Extra Information: Pass, or Fail. Students accepted for an internship will arrange individual programs with supervising faculty. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a midterm as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9793",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "CONTACT CONTACT AGARCIA@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST.@UWO.CA AND UMLL@UWO.CA WITH ENROLMENT REQUEST. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department, Italian 2200 or Italian 2202X, and  Intercultural Communications 2200F/G. Registration in the third or fourth year of a module Italian, with a minimum cumulative modular average of 75%. Approval of, and acceptance into, an internship placement.",
+            "Pre-or Corequisite(s): Students must have completed or be completing the required courses and at least 50% of the module."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ITALIAN 4500G - SENIOR RESEARCH PROJECT",
+      "Description": [
+        "In this capstone course, students develop their own research project with a specific historical or geographical perspective centred on a designated general theme. Students work in conjunction with peers and professors and choose their own medium of presentation ranging from the traditional to the experimental.",
+        "Antirequisite(s): CLC 4500F/G, German 4500F/G, Spanish 4500F/G."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11334",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "M. Adamson",
+          "Notes": [
+            "CROSS-LISTED WITH CLC/GERMAN/SPANISH 4500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Italian 2215F/G.",
+            "Pre-or Corequisite(s): Italian 3300."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

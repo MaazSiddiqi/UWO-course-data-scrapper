@@ -1,0 +1,594 @@
+[
+  {
+    "Name": "Actuarial Science",
+    "Code": "ACTURSCI"
+  },
+  {
+    "Name": "American Studies",
+    "Code": "AMERICAN"
+  },
+  {
+    "Name": "Analytics and Decision Science",
+    "Code": "ADS"
+  },
+  {
+    "Name": "Anatomy and Cell Biology",
+    "Code": "ANATCELL"
+  },
+  {
+    "Name": "Anthropology",
+    "Code": "ANTHRO"
+  },
+  {
+    "Name": "Applied Mathematics",
+    "Code": "APPLMATH"
+  },
+  {
+    "Name": "Arabic",
+    "Code": "ARABIC"
+  },
+  {
+    "Name": "Art History",
+    "Code": "AH"
+  },
+  {
+    "Name": "Arts and Humanities",
+    "Code": "ARTHUM"
+  },
+  {
+    "Name": "Astronomy",
+    "Code": "ASTRONOM"
+  },
+  {
+    "Name": "Biblical Studies",
+    "Code": "BIBLSTUD"
+  },
+  {
+    "Name": "Biochemistry",
+    "Code": "BIOCHEM"
+  },
+  {
+    "Name": "Biology",
+    "Code": "BIOLOGY"
+  },
+  {
+    "Name": "Biomedical Engineering",
+    "Code": "BME"
+  },
+  {
+    "Name": "Biostatistics",
+    "Code": "BIOSTATS"
+  },
+  {
+    "Name": "Broadcasting-TV Fanshawe",
+    "Code": "MTP-TVSN"
+  },
+  {
+    "Name": "Business Administration",
+    "Code": "BUSINESS"
+  },
+  {
+    "Name": "Calculus",
+    "Code": "CALCULUS"
+  },
+  {
+    "Name": "Centre for Global Studies",
+    "Code": "CGS"
+  },
+  {
+    "Name": "Chem & Biochem Engineering",
+    "Code": "CBE"
+  },
+  {
+    "Name": "Chemical Biology",
+    "Code": "CHEMBIO"
+  },
+  {
+    "Name": "Chemistry",
+    "Code": "CHEM"
+  },
+  {
+    "Name": "Childhood & Social Institutns",
+    "Code": "CSI"
+  },
+  {
+    "Name": "Chinese",
+    "Code": "CHINESE"
+  },
+  {
+    "Name": "Church History",
+    "Code": "CHURCH"
+  },
+  {
+    "Name": "Church Law",
+    "Code": "CHURLAW"
+  },
+  {
+    "Name": "Church Music",
+    "Code": "CHURMUSI"
+  },
+  {
+    "Name": "Civil & Envrnmntl Engineering",
+    "Code": "CEE"
+  },
+  {
+    "Name": "Classical Studies",
+    "Code": "CLASSICS"
+  },
+  {
+    "Name": "Combined Program Enrollment",
+    "Code": "CMBPROG"
+  },
+  {
+    "Name": "Communication Sci & Disorders",
+    "Code": "COMMSCI"
+  },
+  {
+    "Name": "Comparative Lit & Culture",
+    "Code": "COMPLIT"
+  },
+  {
+    "Name": "Computer Science",
+    "Code": "COMPSCI"
+  },
+  {
+    "Name": "Creative Arts",
+    "Code": "CA"
+  },
+  {
+    "Name": "Dance",
+    "Code": "DANCE"
+  },
+  {
+    "Name": "Data Science",
+    "Code": "DATASCI"
+  },
+  {
+    "Name": "Development - Fanshawe",
+    "Code": "MTP-DEVL"
+  },
+  {
+    "Name": "Digital Communication",
+    "Code": "DIGICOMM"
+  },
+  {
+    "Name": "Digital Humanities",
+    "Code": "DIGIHUM"
+  },
+  {
+    "Name": "Disability Studies",
+    "Code": "DISABST"
+  },
+  {
+    "Name": "Earth Sciences",
+    "Code": "EARTHSCI"
+  },
+  {
+    "Name": "Economics",
+    "Code": "ECONOMIC"
+  },
+  {
+    "Name": "Education",
+    "Code": "EDUC"
+  },
+  {
+    "Name": "Education English Language Cen",
+    "Code": "EELC"
+  },
+  {
+    "Name": "Elect & Computer Engineering",
+    "Code": "ECE"
+  },
+  {
+    "Name": "Engineering Leadership & Innov",
+    "Code": "ELI"
+  },
+  {
+    "Name": "Engineering Science",
+    "Code": "ENGSCI"
+  },
+  {
+    "Name": "English",
+    "Code": "ENGLISH"
+  },
+  {
+    "Name": "Environmental Science",
+    "Code": "ENVIRSCI"
+  },
+  {
+    "Name": "Epidemiology",
+    "Code": "EPID"
+  },
+  {
+    "Name": "Epidemiology & Biostatistics",
+    "Code": "EPIDEMIO"
+  },
+  {
+    "Name": "FIMS",
+    "Code": "FIMS"
+  },
+  {
+    "Name": "Family Studies & Human Develop",
+    "Code": "FAMLYSTU"
+  },
+  {
+    "Name": "Field Education",
+    "Code": "FLDEDUC"
+  },
+  {
+    "Name": "Film - Fanshawe",
+    "Code": "MTP-FILM"
+  },
+  {
+    "Name": "Film Studies",
+    "Code": "FILM"
+  },
+  {
+    "Name": "Financial Modelling",
+    "Code": "FINMOD"
+  },
+  {
+    "Name": "Foods and Nutrition",
+    "Code": "FOODNUTR"
+  },
+  {
+    "Name": "French",
+    "Code": "FRENCH"
+  },
+  {
+    "Name": "Gender, Sexuality, & Womens St",
+    "Code": "GSWS"
+  },
+  {
+    "Name": "Geography",
+    "Code": "GEOGRAPH"
+  },
+  {
+    "Name": "German",
+    "Code": "GERMAN"
+  },
+  {
+    "Name": "Global Great Books",
+    "Code": "GGB"
+  },
+  {
+    "Name": "Governance,Leadership & Ethics",
+    "Code": "GLE"
+  },
+  {
+    "Name": "Greek",
+    "Code": "GREEK"
+  },
+  {
+    "Name": "Green Process Engineering",
+    "Code": "GPE"
+  },
+  {
+    "Name": "Health Sciences",
+    "Code": "HEALTSCI"
+  },
+  {
+    "Name": "Hebrew",
+    "Code": "HEBREW"
+  },
+  {
+    "Name": "Historical Theology",
+    "Code": "HISTTHEO"
+  },
+  {
+    "Name": "History",
+    "Code": "HISTORY"
+  },
+  {
+    "Name": "History of Science",
+    "Code": "HISTSCI"
+  },
+  {
+    "Name": "Homiletics",
+    "Code": "HOMILET"
+  },
+  {
+    "Name": "Human Ecology",
+    "Code": "HUMANECO"
+  },
+  {
+    "Name": "Human Rights Studies",
+    "Code": "HUMANRS"
+  },
+  {
+    "Name": "Indigenous Studies",
+    "Code": "INDIGSTU"
+  },
+  {
+    "Name": "Integrated Engineering",
+    "Code": "IE"
+  },
+  {
+    "Name": "Integrated Science",
+    "Code": "INTEGSCI"
+  },
+  {
+    "Name": "Intercultural Communications",
+    "Code": "ICC"
+  },
+  {
+    "Name": "Interdisciplinary Studies",
+    "Code": "INTERDIS"
+  },
+  {
+    "Name": "International Relations",
+    "Code": "INTREL"
+  },
+  {
+    "Name": "Italian",
+    "Code": "ITALIAN"
+  },
+  {
+    "Name": "Japanese",
+    "Code": "JAPANESE"
+  },
+  {
+    "Name": "Jewish Studies",
+    "Code": "JEWISH"
+  },
+  {
+    "Name": "Journalism-Broadcasting Fanshw",
+    "Code": "MTP-BRJR"
+  },
+  {
+    "Name": "Kinesiology",
+    "Code": "KINESIOL"
+  },
+  {
+    "Name": "Latin",
+    "Code": "LATIN"
+  },
+  {
+    "Name": "Law",
+    "Code": "LAW"
+  },
+  {
+    "Name": "Leadership Studies",
+    "Code": "LS"
+  },
+  {
+    "Name": "Linguistics",
+    "Code": "LINGUIST"
+  },
+  {
+    "Name": "Liturgical Studies",
+    "Code": "LITURST"
+  },
+  {
+    "Name": "Liturgics",
+    "Code": "LITURGIC"
+  },
+  {
+    "Name": "Management & Organizational St",
+    "Code": "MOS"
+  },
+  {
+    "Name": "Marketing - Fanshawe",
+    "Code": "MTP-MKTG"
+  },
+  {
+    "Name": "Mathematics",
+    "Code": "MATH"
+  },
+  {
+    "Name": "Mech & Materials Engineering",
+    "Code": "MME"
+  },
+  {
+    "Name": "Mechatronic Systems Engineerin",
+    "Code": "MSE"
+  },
+  {
+    "Name": "Media, Information &Technocult",
+    "Code": "MIT"
+  },
+  {
+    "Name": "Medical Bioinformatics",
+    "Code": "MBI"
+  },
+  {
+    "Name": "Medical Biophysics",
+    "Code": "MEDBIO"
+  },
+  {
+    "Name": "Medical Health Informatics",
+    "Code": "MEDHINFO"
+  },
+  {
+    "Name": "Medical Sciences",
+    "Code": "MEDSCIEN"
+  },
+  {
+    "Name": "Medieval Studies",
+    "Code": "MEDIEVAL"
+  },
+  {
+    "Name": "Microbiology & Immunology",
+    "Code": "MICROIMM"
+  },
+  {
+    "Name": "Moral Theology",
+    "Code": "MORALTHE"
+  },
+  {
+    "Name": "Multimed Dsgn & Prod Fanshawe",
+    "Code": "MTP-MMED"
+  },
+  {
+    "Name": "Museum and Curatorial Studies",
+    "Code": "MCS"
+  },
+  {
+    "Name": "Music",
+    "Code": "MUSIC"
+  },
+  {
+    "Name": "Neuroscience",
+    "Code": "NEURO"
+  },
+  {
+    "Name": "Numerical & Mathematical Methd",
+    "Code": "NMM"
+  },
+  {
+    "Name": "Nursing",
+    "Code": "NURSING"
+  },
+  {
+    "Name": "One Health",
+    "Code": "ONEHEALT"
+  },
+  {
+    "Name": "Pastoral Theology",
+    "Code": "PASTTHEO"
+  },
+  {
+    "Name": "Pathology",
+    "Code": "PATHOL"
+  },
+  {
+    "Name": "Pharmacology",
+    "Code": "PHARM"
+  },
+  {
+    "Name": "Philosophical Studies",
+    "Code": "PHILST"
+  },
+  {
+    "Name": "Philosophy",
+    "Code": "PHILOSOP"
+  },
+  {
+    "Name": "Physics",
+    "Code": "PHYSICS"
+  },
+  {
+    "Name": "Physiology",
+    "Code": "PHYSIOL"
+  },
+  {
+    "Name": "Physiology and Pharmacology",
+    "Code": "PHYSPHRM"
+  },
+  {
+    "Name": "Political Science",
+    "Code": "POLISCI"
+  },
+  {
+    "Name": "Politics, Philosophy, Economic",
+    "Code": "PPE"
+  },
+  {
+    "Name": "Psychology",
+    "Code": "PSYCHOL"
+  },
+  {
+    "Name": "Rehabilitation Sciences",
+    "Code": "REHABSCI"
+  },
+  {
+    "Name": "Religious Education",
+    "Code": "RELEDUC"
+  },
+  {
+    "Name": "Religious Studies",
+    "Code": "RELSTUD"
+  },
+  {
+    "Name": "Sacramental Theology",
+    "Code": "SACRTHEO"
+  },
+  {
+    "Name": "Scholars Electives",
+    "Code": "SCHOLARS"
+  },
+  {
+    "Name": "Science",
+    "Code": "SCIENCE"
+  },
+  {
+    "Name": "Social Justice & Peace Studies",
+    "Code": "SOCLJUST"
+  },
+  {
+    "Name": "Social Science",
+    "Code": "SOCSCI"
+  },
+  {
+    "Name": "Social Work",
+    "Code": "SOCWORK"
+  },
+  {
+    "Name": "Sociology",
+    "Code": "SOCIOLOG"
+  },
+  {
+    "Name": "Software Engineering",
+    "Code": "SE"
+  },
+  {
+    "Name": "Spanish",
+    "Code": "SPANISH"
+  },
+  {
+    "Name": "Speech",
+    "Code": "SPEECH"
+  },
+  {
+    "Name": "Spiritual Theology",
+    "Code": "SPIRTHEO"
+  },
+  {
+    "Name": "Statistical Sciences",
+    "Code": "STATS"
+  },
+  {
+    "Name": "Studio Art",
+    "Code": "SA"
+  },
+  {
+    "Name": "Systematic Theology",
+    "Code": "SYSTHEO"
+  },
+  {
+    "Name": "Thanatology",
+    "Code": "THANAT"
+  },
+  {
+    "Name": "Theatre Studies",
+    "Code": "THEATRE"
+  },
+  {
+    "Name": "Theological Ethics",
+    "Code": "THEOETH"
+  },
+  {
+    "Name": "Theological Studies",
+    "Code": "THEOLST"
+  },
+  {
+    "Name": "Thesis",
+    "Code": "THESIS"
+  },
+  {
+    "Name": "Transitional Justice",
+    "Code": "TJ"
+  },
+  {
+    "Name": "Western Thought & Civilization",
+    "Code": "WTC"
+  },
+  {
+    "Name": "World Literatures and Cultures",
+    "Code": "WORLDLIT"
+  },
+  {
+    "Name": "Writing",
+    "Code": "WRITING"
+  }
+]

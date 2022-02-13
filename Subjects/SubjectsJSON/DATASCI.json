@@ -1,0 +1,567 @@
+{
+  "Name": "Data Science",
+  "Code": "DATASCI",
+  "Courses": [
+    {
+      "Name": "DATASCI 1000A - DATA SCIENCE CONCEPTS",
+      "Description": [
+        "Students will learn how to visualize and analyze continuous and categorical data from various domains, using modern data science tools. Concepts of distributions, sampling, estimation, confidence intervals, experimental design, inference, correlation will be introduced in a practical, data-driven way.",
+        "Antirequisite(s): Statistical Sciences 1023A/B, the former Statistical Sciences 1024A/B.",
+        "Extra Information: 3 lecture hours/week, 1 laboratory hour/week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12095",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "WSC-55",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "12468",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "12469",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2036",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "12096",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "12470",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NCB-113",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "12471",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NCB-113",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "12097",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. STUDENTS ARE REFERRED TO WESTERN INTERNATIONAL TO DEMONSTRATE NEED FOR TAKING THIS ONLINE SECTION. COURSE WILL BE OPEN TO ALL INTERESTED ON OR AFTER AUGUST 9. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "12097",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. STUDENTS ARE REFERRED TO WESTERN INTERNATIONAL TO DEMONSTRATE NEED FOR TAKING THIS ONLINE SECTION. COURSE WILL BE OPEN TO ALL INTERESTED ON OR AFTER AUGUST 9. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "12472",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "12473",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "DATASCI 1000B - DATA SCIENCE CONCEPTS",
+      "Description": [
+        "Students will learn how to visualize and analyze continuous and categorical data from various domains, using modern data science tools. Concepts of distributions, sampling, estimation, confidence intervals, experimental design, inference, correlation will be introduced in a practical, data-driven way.",
+        "Antirequisite(s): Statistical Sciences 1023A/B, the former Statistical Sciences 1024A/B.",
+        "Extra Information: 3 lecture hours/week, 1 laboratory hour/week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12098",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "TC-141",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12098",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "TC-141",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "12474",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "12475",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "12099",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SEB-1059",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "12476",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "12477",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "12100",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-113",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1229A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "12478",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "12479",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DATASCI 2000B - INTRODUCTION TO DATA SCIENCE",
+      "Description": [
+        "Covers three basic concepts of data science together with the corresponding techniques: Sampling to estimate properties of a population (Bootstrap), random assignment and experiments to make causal inferences (randomization test), and model selection to enable good predictions (cross-validation). Emphasizes practical data handling and programming skills in Python.",
+        "Antirequisite(s): Integrated Science 2002B.",
+        "Extra Information: 2 lecture hours/week, 2 laboratory hours/week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12101",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": ".",
+          "Notes": [
+            "CROSS-LISTED WITH INTEGSCI 2002B. ",
+            "REQUISITES: Prerequisite(s): 1.0 courses from Mathematics, Calculus, or Applied Mathematics (numbered 1000 and higher) with a minimum mark of 60%. Data Science 1000A/B (with a minimum grade of 60%) can be used to meet 0.5 of the 1.0 mathematics course requirements."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "12102",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-11",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "12103",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DATASCI 2100A - MATHEMATICS FOR DATA SCIENCE",
+      "Description": [
+        "Mathematical background for students wanting to take Data Science 3000A/B, but missing background in linear algebra and calculus. Vector and matrix algebra, norms, linear dependence, inverses, vector spaces, eigenvectors and eigenvalues, Gradients, Hessians, basics of optimization. All concepts are explained in the context of data science examples. ",
+        "Antirequisite(s): Mathematics 1600A/B, Applied Mathematics 1411A/B.",
+        "Extra Information: 3 lecture hours/week, 1 tutorial hour/week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12104",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WIRB-1170",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 courses from Mathematics, Calculus, or Applied Mathematics (1000 and higher) with a minimal grade of 60%. Data Science 2000A/B or Integrated Science 2002B can be used to fulfil 0.5 of the requirements."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "12480",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DATASCI 3000A - INTRO TO MACHINE LEARNING",
+      "Description": [
+        "Basic principles of machine learning (estimation, optimization, prediction, generalization, bias-variance trade-off, regularization) in the context of supervised (linear models, decision trees, deep neuronal networks) and unsupervised (clustering and dimensionality reduction) statistical learning techniques. The course emphasizes the ability to apply techniques to real data sets and critically evaluate their performance.",
+        "Antirequisite(s): the former Computer Science 4414A/B, the former Statistical Sciences 3850F/G, the former Software Engineering 4460A/B.",
+        "Extra Information: 2 lecture hours/week, 2 lab hour/week. For a full list of Introductory Statistics courses please see: https://www.westerncalendar.uwo.ca/Departments.cfm?DepartmentID=55&SelectedCalendar=Live&ArchiveID="
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12457",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "J. Morra",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): (Data Science 1200A/B or Computer Science 1026A/B or Computer Science 1027A/B or Computer Science 2120A/B or Digital Humanities 2220A/B or Engineering Science 1036A/B or Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2864A/B); (Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2857A/B or 0.5 course from the Introductory Statistics Course List); (Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B or Data Science 2100A); (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B or Data Science 2100A). Note that Data Science 2000A/B, Integrated Science 2002B and Data Science 2100A can be used to fulfill multiple prerequisites."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "12458",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "J. Morra",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "DATASCI 3000B - INTRO TO MACHINE LEARNING",
+      "Description": [
+        "Basic principles of machine learning (estimation, optimization, prediction, generalization, bias-variance trade-off, regularization) in the context of supervised (linear models, decision trees, deep neuronal networks) and unsupervised (clustering and dimensionality reduction) statistical learning techniques. The course emphasizes the ability to apply techniques to real data sets and critically evaluate their performance.",
+        "Antirequisite(s): the former Computer Science 4414A/B, the former Statistical Sciences 3850F/G, the former Software Engineering 4460A/B.",
+        "Extra Information: 2 lecture hours/week, 2 lab hour/week. For a full list of Introductory Statistics courses please see: https://www.westerncalendar.uwo.ca/Departments.cfm?DepartmentID=55&SelectedCalendar=Live&ArchiveID="
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12400",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "NS-7",
+          "Instructor": "C. Bravo Roman",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): (Data Science 1200A/B or Computer Science 1026A/B or Computer Science 1027A/B or Computer Science 2120A/B or Digital Humanities 2220A/B or Engineering Science 1036A/B or Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2864A/B); (Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2857A/B or 0.5 course from the Introductory Statistics Course List); (Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B or Data Science 2100A); (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B or Data Science 2100A). Note that Data Science 2000A/B, Integrated Science 2002B and Data Science 2100A can be used to fulfill multiple prerequisites."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "12401",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "NS-7",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2912 @@
+{
+  "Name": "Mathematics",
+  "Code": "MATH",
+  "Courses": [
+    {
+      "Name": "MATH 0105A - PRECALCULUS MATHEMATICS",
+      "Description": [
+        "Set theory, algebra, functions and relations, trigonometry, logarithms and exponents. ",
+        "Antirequisite(s): Ontario Secondary School MCV4U, any university level calculus course.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2532",
+          "Days": [
+            "M",
+            "Tu",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-MRW152",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "PRIORITY TO STUDENTS IN PRELIMINIARY YEAR. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 0109A - PREPARATORY MATHEMATICS",
+      "Description": [
+        "Review of mathematical operations and linear equations; introduction to functions; introductory finite mathematics, including combinatorics and probability; introductory financial mathematics, including compound interest and annuities.",
+        "Antirequisites: Ontario Secondary School MCV4U, Mathematics 0105A/B, or any university-level calculus course.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1771",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "KC-LH105B",
+          "Instructor": ".",
+          "Notes": [
+            "PRIORITY TO STUDENTS REGISTERED AT KING\u2019S. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT THE AFFILIATED UNIVERSITY COLLEGES. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCF3M, MCR3U, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 0110A - INTRODUCTORY CALCULUS",
+      "Description": [
+        "Introduction to differential calculus including limits, continuity, definition of derivative, rules for differentiation, implicit differentiation, velocity, acceleration, related rates, maxima and minima, exponential functions, logarithmic functions, differentiation of exponential and logarithmic functions, curve sketching.",
+        "Antirequisite(s) at Main campus: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Antirequisite(s) at Brescia, Huron and Kings: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1929",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "10:30 PM",
+          "Location": "HC-W108",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. NOT AVAILABLE TO STUDENTS WITH CREDIT IN OAC CALCULUS OR GR 12U ADVANCED FUNCTIONS AND INTRODUCTORY CALCULUS. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1032",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-LH101",
+          "Instructor": "J. Turnbull",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "3136",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-LH105B",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3555",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "B&GS-0165",
+          "Instructor": "A. Ghorbanpour",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 0110B - INTRODUCTORY CALCULUS",
+      "Description": [
+        "Introduction to differential calculus including limits, continuity, definition of derivative, rules for differentiation, implicit differentiation, velocity, acceleration, related rates, maxima and minima, exponential functions, logarithmic functions, differentiation of exponential and logarithmic functions, curve sketching.",
+        "Antirequisite(s) at Main campus: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Antirequisite(s) at Brescia, Huron and Kings: Mathematics 1225A/B, Mathematics 1230A/B, Calculus 1000A/B, Calculus 1500A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2525",
+          "Days": [
+            "M",
+            "Tu",
+            "W",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-AUD",
+          "Instructor": "A. Ghorbanpour",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent"
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1409",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS AT AN AFFILIATED COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MHF4U, MCR3U, Mathematics 0105A/B, Mathematics 0109A/B, or equivalent"
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1120B - FUNDAMENTAL CONCEPTS IN MATH",
+      "Description": [
+        "Primarily for students interested in pursuing a degree in one of the mathematical sciences. Logic, set theory, relations, functions and operations, careful study of the integers, discussion of the real and complex numbers, polynomials, and infinite sets. ",
+        "Antirequisite(s): Mathematics 2155F/G, or the former Mathematics 2155A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3973",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-9",
+          "Instructor": "T. Barron",
+          "Notes": [
+            "INTENDED FOR STUDENTS PLANNING TO REGISTER FOR ADVANCED MATHEMATICS COURSES. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1600A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1225B - METHODS OF CALCULUS",
+      "Description": [
+        "Elementary techniques of integration; applications of Calculus such as area, volume, and differential equations; functions of several variables, Lagrange multipliers. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules. It may not be used as a prerequisite for any Calculus course numbered 1300 or above.",
+        "Antirequisite(s) at Main campus: Applied Mathematics 1201A/B, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1230A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413. If Calculus 1000A/B or Calculus 1500A/B was completed after September 1, 2016 it is an antirequisite, but not if it was completed before that time.",
+        "Antirequisite(s) at Brescia, Huron, King's campus: Applied Mathematics 1201A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1414A/B, or the former the former Applied Mathematics 1413, Calculus 1301A/B, Calculus 1501A/B, Mathematics 1230A/B, Calculus 1000A/B or Calculus 1500A/B taken after September 1, 2016.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2497",
+          "Days": [
+            "M",
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-MRW152",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1930",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "2052",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "552",
+          "Component": "LEC",
+          "Class Nbr": "2140",
+          "Days": [
+            "M",
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4415",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "MC-110",
+          "Instructor": "K. Nguyen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Secondary School MCV4U or Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1228A - METHODS OF FINITE MATHEMATICS",
+      "Description": [
+        "Permutations and combinations; probability theory. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.",
+        "Antirequisite(s): Mathematics 2124A/B, Mathematics 2155F/G, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2857A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2412",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "2904",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1033",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-DL130",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1063",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "4846",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5340",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "10295",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10296",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10297",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10298",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "8:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10299",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:00 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1228B - METHODS OF FINITE MATHEMATICS",
+      "Description": [
+        "Permutations and combinations; probability theory. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.",
+        "Antirequisite(s): Mathematics 2124A/B, Mathematics 2155F/G, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2857A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2495",
+          "Days": [
+            "M",
+            "W",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "BR-18",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2856",
+          "Days": [
+            "M",
+            "W",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-MRW152",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1931",
+          "Days": [
+            "M",
+            "W",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1034",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1267",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "3137",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": "T. Pattenden",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0109A/B, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "3556",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "BLENDED COURSE: ONLINE LECTURES AND IN-PERSON TUTORIALS. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, MHF4U, MDM4U, Mathematics 0110A/B, Mathematics 1225A/B, Mathematics 1229A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3557",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "FNB-1250",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4292",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "10300",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10301",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-56",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10302",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10303",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "12130",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "12131",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "12132",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1229A - METHODS OF MATRIX ALGEBRA",
+      "Description": [
+        "Matrix algebra including vectors and matrices, linear equations, determinants. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.",
+        "Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B, Mathematics 1600A/B, Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2496",
+          "Days": [
+            "M",
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "BR-MRW152",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "2589",
+          "Days": [
+            "M",
+            "Tu",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-MRW152",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1932",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "2053",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "552",
+          "Component": "LEC",
+          "Class Nbr": "2262",
+          "Days": [
+            "Tu",
+            "Th",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "553",
+          "Component": "LEC",
+          "Class Nbr": "2413",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "HC-W116",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1184",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1185",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1294",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "1335",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "574",
+          "Component": "LEC",
+          "Class Nbr": "1631",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "4412",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "M. Cardenas Montoya",
+          "Notes": [
+            "BLENDED COURSE. ONLINE LECTURE AND IN-PERSON TUTORIAL. PRIORITY TO YR 1 STUDENTS.  AUGUST 4 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4413",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UCC-37",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4414",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-114",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "TUT",
+          "Class Nbr": "7091",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "TUT",
+          "Class Nbr": "10304",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "PAB-148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "TUT",
+          "Class Nbr": "10305",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "TUT",
+          "Class Nbr": "10306",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "TUT",
+          "Class Nbr": "10307",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "PAB-148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "TUT",
+          "Class Nbr": "10308",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "PAB-148",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "10309",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "TUT",
+          "Class Nbr": "10311",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "013",
+          "Component": "TUT",
+          "Class Nbr": "10312",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "014",
+          "Component": "TUT",
+          "Class Nbr": "10313",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "FNB-1250",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "015",
+          "Component": "TUT",
+          "Class Nbr": "10314",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "016",
+          "Component": "TUT",
+          "Class Nbr": "10315",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "017",
+          "Component": "TUT",
+          "Class Nbr": "11835",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "018",
+          "Component": "TUT",
+          "Class Nbr": "11836",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "019",
+          "Component": "TUT",
+          "Class Nbr": "11837",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-41",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1229B - METHODS OF MATRIX ALGEBRA",
+      "Description": [
+        "Matrix algebra including vectors and matrices, linear equations, determinants. This course is intended primarily for students in the Social Sciences, but may meet minimum requirements for some Science modules.",
+        "Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B, Mathematics 1600A/B, Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour (Main campus); 3 lecture hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2494",
+          "Days": [
+            "M",
+            "Tu",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": "A. O'Hara",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2070",
+          "Days": [
+            "M",
+            "W",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HC-V214",
+          "Instructor": "M. Palaisti",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LEC",
+          "Class Nbr": "2131",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "HC-W12",
+          "Instructor": "M. Mollahajiaghaei",
+          "Notes": [
+            "PRIORITY TO HURON STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1431",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:00 PM",
+          "Location": "KC-DL130",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1865",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, Mathematics 0109A/B, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7981",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE COURSE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCF3M, MCR3U, or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1230A - CALCULUS FOR SOCIAL SCIENCES",
+      "Description": [
+        "Review of differential calculus with transcendental functions; methods of integration; constrained and unconstrained multivariable optimization, with applications; mathematical modelling with differential equations, including applications in management, finance, economics, and social science.",
+        "Antirequisite(s): Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1500A/B, Calculus 1501A/B, Mathematics 1225A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3138",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": "J. Turnbull",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "3139",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "3140",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-W166",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "3141",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1230B - CALCULUS FOR SOCIAL SCIENCES",
+      "Description": [
+        "Review of differential calculus with transcendental functions; methods of integration; constrained and unconstrained multivariable optimization, with applications; mathematical modelling with differential equations, including applications in management, finance, economics, and social science.",
+        "Antirequisite(s): Applied Mathematics 1201A/B, Applied Mathematics 1412A/B, Applied Mathematics 1414A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1500A/B, Calculus 1501A/B, Mathematics 1225A/B, the former Applied Mathematics 1413.",
+        "Extra Information: 4 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1510",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-DL130",
+          "Instructor": "J. Turnbull",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LEC",
+          "Class Nbr": "1511",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-W168",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LEC",
+          "Class Nbr": "1512",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "KC-LH100",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LEC",
+          "Class Nbr": "1513",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "KC-SA150",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 0110A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1600A - LINEAR ALGEBRA I",
+      "Description": [
+        "Properties and applications of vectors; matrix algebra; solving systems of linear equations; determinants; vector spaces; orthogonality; eigenvalues and eigenvectors.",
+        "Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B. ",
+        "Extra Information: 3 lecture hours, 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5062",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "SH-3345",
+          "Instructor": "D. Jeffrey",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5063",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-113",
+          "Instructor": "K. Adamyk",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5066",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "UCC-59",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5067",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "5068",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-293",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "5069",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "5070",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "PAB-150",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "5071",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-59",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "5393",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LAB",
+          "Class Nbr": "12136",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LAB",
+          "Class Nbr": "12137",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LAB",
+          "Class Nbr": "12138",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UCC-59",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 1600B - LINEAR ALGEBRA I",
+      "Description": [
+        "Properties and applications of vectors; matrix algebra; solving systems of linear equations; determinants; vector spaces; orthogonality; eigenvalues and eigenvectors.",
+        "Antirequisite(s): Applied Mathematics 1411A/B, Applied Mathematics 2811B. ",
+        "Extra Information: 3 lecture hours, 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1232",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-SA151",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5064",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "A. Steiner",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5065",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SEB-1200",
+          "Instructor": "C. Hall",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): One or more of Ontario Secondary School MCV4U, Mathematics 1229A/B, Calculus 1000A/B or Calculus 1500A/B. Calculus 1000A/B or Calculus 1500A/B may be taken as a pre-or corequisite."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "5072",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LAB",
+          "Class Nbr": "5073",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LAB",
+          "Class Nbr": "5074",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LAB",
+          "Class Nbr": "5075",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LAB",
+          "Class Nbr": "5076",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LAB",
+          "Class Nbr": "5077",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LAB",
+          "Class Nbr": "5394",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "LAB",
+          "Class Nbr": "12133",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "LAB",
+          "Class Nbr": "12134",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "012",
+          "Component": "LAB",
+          "Class Nbr": "12135",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2120B - INTERMEDIATE LINEAR ALGEBRA",
+      "Description": [
+        "A rigorous development of lines and planes in Rn; linear transformations and abstract vector spaces. Determinants and an introduction to diagonalization and its applications including the characteristic polynomials, eigenvalues and eigenvectors. ",
+        "Antirequisite(s): Mathematics 2211A/B. ",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5336",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "PAB-106",
+          "Instructor": "C. Hall",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 1600A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "9690",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "MC-17",
+          "Instructor": "C. Hall",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "9691",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-113",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2122B - REAL ANALYSIS I",
+      "Description": [
+        "A rigorous introduction to analysis on the real line. Sets and functions, logic and mathematical proof, the natural and real numbers, completeness and its consequences, limits of sequences, limits of real functions, continuity and uniform continuity.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7092",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "G. Sinnamon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, or Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7092",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "G. Sinnamon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, or Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7093",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "G. Sinnamon",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2124A - INTRO MATHEMATICAL PROBS",
+      "Description": [
+        "Primarily for Mathematics students, but will interest other students with ability in and curiosity about mathematics in the modern world as well as in the past. Stresses development of students' abilities to solve problems and construct proofs. Topics will be selected from: counting, recurrence, induction; number theory; graph theory; parity, symmetry; geometry. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7094",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-58",
+          "Instructor": "A. Dhillon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7094",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-58",
+          "Instructor": "A. Dhillon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): A minimum mark of 60% in one of Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, or a minimum mark of 85% in Calculus 1301A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2151A - DISCRETE STRUCTURES FOR ENG",
+      "Description": [
+        "Logic, sets and functions, algorithms, mathematical reasoning, counting, relations, graphs, trees, Boolean Algebra, computation, modeling.",
+        "Antirequisite(s): Computer Science 2214A/B, Mathematics 2155F/G.",
+        "Extra Information: 3 lecture hours.",
+        "Note: this course is offered only to software engineering students enrolled in the Faculty of Engineering."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5457",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SSC-2050",
+          "Instructor": "A. Steiner",
+          "Notes": [
+            "RESTRICTED TO SOFTWARE AND COMPUTER ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s):\u00a0Computer Science 1026A/B\u00a0or\u00a0Engineering Science 1036A/B, in each case with at least 60%, and 1.0 courses with at least 60% in each from: Numerical and Mathematical Methods 1411A/B or the former\u00a0Applied Mathematics 1411A/B, Numerical and Mathematical Methods 1412A/B or the former\u00a0Applied Mathematics 1412A/B, Numerical and Mathematical Methods 1414A/B or the former\u00a0Applied Mathematics 1414A/B, or the former Applied Mathematics 1413A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5457",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1R40",
+          "Instructor": "A. Steiner",
+          "Notes": [
+            "RESTRICTED TO SOFTWARE AND COMPUTER ENGINEERING STUDENTS. ",
+            "REQUISITES: Prerequisite(s):\u00a0Computer Science 1026A/B\u00a0or\u00a0Engineering Science 1036A/B, in each case with at least 60%, and 1.0 courses with at least 60% in each from: Numerical and Mathematical Methods 1411A/B or the former\u00a0Applied Mathematics 1411A/B, Numerical and Mathematical Methods 1412A/B or the former\u00a0Applied Mathematics 1412A/B, Numerical and Mathematical Methods 1414A/B or the former\u00a0Applied Mathematics 1414A/B, or the former Applied Mathematics 1413A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2155F - MATHEMATICAL STRUCTURES",
+      "Description": [
+        "This course provides an introduction to logical reasoning and proofs. Topics include sets, counting (permutations and combinations), mathematical induction, relations and functions, partial order relations, equivalence relations, binary operations, elementary group theory and applications to error-correcting codes. ",
+        "Antirequisite(s): Mathematics 2151A/B, the former Mathematics 2155A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3558",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NS-7",
+          "Instructor": "J. Christensen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 1.0 course from: Mathematics 1120A/B, Mathematics 1600A/B, Numerical and Mathematical Methods 1412A/B, Numerical and Mathematical Methods 1414A/B, Calculus 1000A/B, Calculus 1500A/B, Calculus 1301A/B, Calculus 1501A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1414A/B, the former Applied Mathematics 1413, in each case with a minimum mark of 60%; or permission of the department. Integrated Science 1001X with a minimum mark of 60% can be used in place of Calculus 1301A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 2156B - MATHEMATICAL STRUCTURES II",
+      "Description": [
+        "This course continues the development of logical reasoning and proofs begun in Mathematics 2155F/G. Topics include elementary number theory (gcd, lcm, Euclidean algorithm, congruences, Chinese remainder theorem) and graph theory (connectedness, complete, regular and bipartite graphs; trees and spanning trees, Eulerian and Hamiltonian graphs, planar graphs; vertex, face and edge colouring; chromatic polynomials). ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10316",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NS-7",
+          "Instructor": "H. Sendov",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2155F/G or the former Mathematics 2155A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3020A - INTRODUCTN TO ABSTRACT ALGEBRA",
+      "Description": [
+        "Properties of integers, rational, real and complex numbers: commutativity, associativity, distributivity. Polynomials, prime and irreducible elements. Rings, ideals, integral and Euclidean domains, fields, and unique factorization. First isomorphism theorem, quotient rings and finite fields. Introduction to groups.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7687",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "K. Kapulkin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2151A/B, Mathematics 2155F/G, Applied Mathematics 2811B, Computer Science 2214A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7687",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "K. Kapulkin",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2151A/B, Mathematics 2155F/G, Applied Mathematics 2811B, Computer Science 2214A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3120B - GROUP THEORY",
+      "Description": [
+        "An introduction to the theory of groups: cyclic, dihedral, symmetric, alternating; subgroups, quotient groups, homomorphisms, cosets, Lagrange's theorem, isomorphism theorems; group actions, class equation, p-groups, Sylow theorems; direct and semidirect products, wreath products, finite abelian groups; Jordan-H\u00f6lder theorem, commutator subgroup, solvable and nilpotent groups; free groups, generators and relations.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4416",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "D. Riley",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3020A/B (recommended); or Mathematics 1600A/B and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2124A/B, Mathematics 2155F/G, Applied Mathematics 2811B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3121B - ADVANCED LINEAR ALGEBRA",
+      "Description": [
+        "A continuation of the material of Mathematics 2120A/B including properties of complex numbers and the principal axis theorem; singular value decomposition; linear groups; similarity; Jordan canonical form; Cayley-Hamilton theorem; bilinear forms; Sylvester's theorem.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9325",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MC-17",
+          "Instructor": "N. Lemire",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2120A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3122A - REAL ANALYSIS II",
+      "Description": [
+        "Differentiation, the Mean Value Theorem, and integration. Metric spaces, including topology, convergence, compactness, completeness, and connectedness. Uniform convergence of functions. Selected additional topics.",
+        "Extra Information: 3 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7657",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "J. Adamus",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2122A/B with a minimum mark of 60%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7658",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "J. Adamus",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3124A - COMPLEX  ANALYSIS I",
+      "Description": [
+        "The Cauchy-Riemann equations, elementary functions, branches of the logarithm and argument, Cauchy's integral theorem and formula, winding number, Liouville's theorem and the fundamental theorem of algebra, the identity theorem, the maximum modulus theorem, Taylor and Laurent expansions, isolated singularities, the residue theorem and applications, the argument principle and applications.",
+        "Antirequisite(s): Applied Mathematics 3811A/B. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8065",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HSB-9",
+          "Instructor": "T. Barron",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2122A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3152A - COMBINATORIAL MATH",
+      "Description": [
+        "Enumeration, recursion and generating functions, linear programming, Latin squares, block designs, binary codes, groups of symmetries, orbits, and counting.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9326",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "MC-17",
+          "Instructor": "G. Denham",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from: Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B, Applied Mathematics 2811B, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9326",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "MC-17",
+          "Instructor": "G. Denham",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 0.5 course from: Mathematics 2120A/B, Mathematics 2155F/G, Mathematics 2211A/B, Applied Mathematics 2811B, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 3157B - INTRO TO GAME THEORY",
+      "Description": [
+        "A first course in the mathematical theory of games. Topics begin with the modelling of games: extensive and strategic forms; perfect information; chance. Sprague-Grundy theory of impartial combinatorial games. Modelling preferences with utility functions. Nash equilibria, analysis of two-player games.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9149",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HSB-11",
+          "Instructor": "H. Sendov",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 1600A/B, Calculus 1301A/B or Calculus 1501A/B, and one of Mathematics 1120A/B, Mathematics 2120A/B, Mathematics 2122A/B, Mathematics 2124A/B or Mathematics 2155F/G, the former Mathematics 2155A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4120B - FIELD THEORY",
+      "Description": [
+        "Automorphisms of fields, separable and normal extensions, splitting fields, fundamental theorem of Galois theory, primitive elements, Lagrange's theorem. Finite fields and their Galois groups, cyclotomic extensions and polynomials, applications of Galois theory to geometric constructions and solution of algebraic equations. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9265",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "A. Dhillon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3020A/B and Mathematics 3120A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4121A - TOPOLOGY",
+      "Description": [
+        "Topological spaces, neighbourhoods, bases, subspaces, product and quotient spaces, connectedness, compactness, separation axioms.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9266",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "M. Franz",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3122A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4122B - INTRODUCTION TO MEASURE THEORY",
+      "Description": [
+        "Lebesgue measure, measurable sets and functions, Littlewood principles; the Lebesgue integral, basic convergence theorems, approximation theorems; measure spaces, signed measures, Radon-Nikodym Theorem.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7754",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "G. Sinnamon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3122A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4123A - RINGS AND MODULES",
+      "Description": [
+        "Rings: fractions and localization, Chinese Remainder Theorem, factorization in commutative rings, Euclidean algorithm, PIDs, algebraic integers, polynomials and formal power series, factorization in polynomial rings; Modules: generation, direct products and sums, freeness, presentations, tensor algebras, exact sequences, projectivity, injectivity, Hom and duality, Zorn's Lemma, chain conditions, modules over PIDs.",
+        "Extra Information: 3 lecture hours.",
+        "Note: It is recommended that Mathematics 3121A/B (or the former Math 2121A/B) be taken before or concurrently with Mathematics 4123A/B."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4490",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "C. Hall",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3020A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4152B - ALGEBRAIC TOPOLOGY",
+      "Description": [
+        "Homotopy, fundamental group, Van Kampen's theorem, covering spaces, simplicial and singular homology, homotopy invariance, long exact sequence of a pair, excision, Mayer-Vietoris sequence, degree, Euler characteristic, cell complexes, projective spaces. Applications include the fundamental theorem of algebra, the Brouwer fixed point theorem, division algebras, and invariance of domain.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5905",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "J. Christensen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3120A/B and Mathematics 4121A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5905",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "J. Christensen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 3120A/B and Mathematics 4121A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4153B - ALGEBRAIC GEOMETRY",
+      "Description": [
+        "Affine and projective varieties, coordinate rings and function fields, birational correspondences, sheaves, dimension theory, regularity. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9150",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "A. Dhillon",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 4123A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4154A - FUNCTIONAL ANALYSIS",
+      "Description": [
+        "Hilbert spaces: L^2 spaces, orthogonal complements, dual spaces, Riesz representation theorem, the Fredholm alternative, spectral resolution of compact normal operators. Banach spaces: Hahn-Banach theorem, bounded linear operators, adjoints, closed graph and Banach Steinhaus theorems.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10317",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "R. Shafikov",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2120A/B, Mathematics 3122A/B.",
+            "Pre-or Corequisite(s): Mathematics 3124A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10317",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "R. Shafikov",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Mathematics 2120A/B, Mathematics 3122A/B.",
+            "Pre-or Corequisite(s): Mathematics 3124A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MATH 4958B - SPECIAL TOPICS IN MATHEMATICS",
+      "Description": [
+        "Extra Information: 3 lecture hours"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12613",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: EVOLUTIONARY DYNAMICS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "Name": "Epidemiology",
+  "Code": "EPID",
+  "Courses": [
+    {
+      "Name": "EPID 2200B - INTRODUCTION TO EPIDEMIOLOGY",
+      "Description": [
+        "The calculation and interpretation of basic epidemiologic measures, the strengths and weaknesses of various study designs, and the critical appraisal of published medical and epidemiologic studies.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5842",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "N. Klar",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): One of the following: Biology 2244A/B, Psychology 2810, Statistical Sciences 2035, Statistical Sciences 2141A/B, Statistical Sciences 2143A/B, Statistical Sciences 2244A/B, Statistical Sciences 2858A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "5843",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-113",
+          "Instructor": "N. Klar",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 3200A - EPIDEMIOLOGY II",
+      "Description": [
+        "An examination of the major research issues in epidemiology studies focusing on principal sources of bias (sampling, measurement, and confounding) and other technical issues (e.g. effect-measure modification) in estimates of exposure-outcome associations. Understanding general and design-specific issues is accomplished through critical appraisal of published papers in selected topic areas.",
+        "Extra Information: 2 lecture hours and 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3210",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-117",
+          "Instructor": "I. Karp",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Biology 2244A/B or Statistical Sciences 2244A/B with a mark of at least 75%; Epidemiology 2200A/B, or the former Epidemiology and the former Biostatistics 2200A/B, with a mark of at least 75%.",
+            "Pre-or Corequisite(s): Biostatistics 3100A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "3211",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "I. Karp",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 3210B - INTERMEDIATE EPIDEMIOLOGY",
+      "Description": [
+        "This course will teach the fundamentals of observational study designs (case-control and cohort). The course will be problem-based and taught using published studies as examples. Course assignments and projects will include development and critique of protocols.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5953",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MSB-190",
+          "Instructor": "I. Karp",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A, with a minimum mark of 70% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5953",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MSB-190",
+          "Instructor": "I. Karp",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A, with a minimum mark of 70% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 3315B - EPIDEMIOLOGY OF MAJOR DISEASES",
+      "Description": [
+        "A survey course covering the descriptive epidemiology (incidence and prevalence) and analytic epidemiology (risk and protective factors) of the infectious and chronic disease that are leading causes of death and disability. Effects of personal characteristics (age, gender), place (developing versus developed countries) and changes in occurrence over time are emphasized.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5954",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "S. Stranges",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Epidemiology 2200A/B and either Biology 2244A/B or Statistical Sciences 2244A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5954",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "S. Stranges",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Epidemiology 2200A/B and either Biology 2244A/B or Statistical Sciences 2244A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 3330G - SYSTEMIC REV & META-ANALYSIS",
+      "Description": [
+        "Introduction to the process of systematic reviews and meta-analysis, including formulating a research question, defining inclusion and exclusion criteria for the search, literature search method, data extraction, qualitative and quantitative synthesis of evidence.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7136",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Biology 2244A/B or Statistical Sciences 2244A/B, and Epidemiology 2200A/B, with a minimum mark of 75% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7136",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Biology 2244A/B or Statistical Sciences 2244A/B, and Epidemiology 2200A/B, with a minimum mark of 75% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4310A - PUBLIC HEALTH",
+      "Description": [
+        "A course on the fundamental principles and methods of Public Health (e.g. disease surveillance, outbreak investigations) as practiced by agencies such as Public Health Agency of Canada and local Health Units. Assignments will be based on actual public health problems. Both local and international perspectives will be introduced.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7137",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "S. Ali",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7137",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "S. Ali",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4320A - CLINICAL EPIDEMIOLOGY",
+      "Description": [
+        "An introduction to methods for the design, analysis and interpretation of studies that evaluate the sensitivity and specificity of diagnostic tests and the outcomes of new treatments and health technologies. The course will also explore health policy and will follow examples of translation of knowledge generated by clinical epidemiology studies.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6328",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "J. Martin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4320B - CLINICAL EPIDEMIOLOGY",
+      "Description": [
+        "An introduction to methods for the design, analysis and interpretation of studies that evaluate the sensitivity and specificity of diagnostic tests and the outcomes of new treatments and health technologies. The course will also explore health policy and will follow examples of translation of knowledge generated by clinical epidemiology studies.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12650",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4600A - INTRODUCTION TO HLTH ECONOMICS",
+      "Description": [
+        "A course focusing on the economics concepts and methods relevant to understand health policy decisions from an economic perspective. This course will cover following topics: microeconomic tools for health economics, demand for and supply of healthcare, health insurance, market failure in the health sector and methods of economic evaluation.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7959",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "S. Sarma",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A, with a minimum mark of 70% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7959",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-293",
+          "Instructor": "S. Sarma",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3100A and Epidemiology 3200A, with a minimum mark of 70% in each."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4615B - HEALTH ECONOMIC EVALUATION",
+      "Description": [
+        "This course will cover topics related to the theoretical economic foundation of cost-utility and cost-benefit analyses, and decision analytic models and statistical methods for the economic evaluation of health interventions. Application of Decision Tree Model, Markov Model and Microsimulation Model and uncertainty in health & medicine will be considered.",
+        "Extra Information: 2 lecture hours and 1 laboratory hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7960",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "S. Sarma",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Epidemiology 4600A or Economics 2261A/B, with a mark of at least 70%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "7987",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "S. Sarma",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "EPID 4715B - DESIGN & ANALYSIS OF CLIN TR",
+      "Description": [
+        "Introduction to the statistical and clinical issues in the design and analysis of controlled clinical trials involving human subjects.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6594",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "NCB-293",
+          "Instructor": "N. Klar",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Biostatistics 3110B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

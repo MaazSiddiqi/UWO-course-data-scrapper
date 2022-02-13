@@ -1,0 +1,725 @@
+{
+  "Name": "Classical Studies",
+  "Code": "CLASSICS",
+  "Courses": [
+    {
+      "Name": "CLASSICS 1000 - ANCIENT GREECE AND ROME",
+      "Description": [
+        "An introduction to the ancient world, with emphasis on the cultural and social life and achievements of Greece and Rome. Among the topics to be considered are: magic, religion, philosophy, literature, archaeology, architecture, art, the structure of society and the position of women, slavery, everyday life, law, sport, warfare, medicine. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3479",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Brown",
+          "Notes": [
+            "ONLINE COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2200 - CLASSICAL MYTHOLOGY",
+      "Description": [
+        "A study of Greek and Roman mythology, with some reference to its influence in modern European literature. ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3482",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Suksi",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2300 - SPORT&RECREATION ANCIENT WRLD",
+      "Description": [
+        "A study of the nature of sport and recreation, and of the attitudes towards them in the societies of the ancient world, principally Greece and Rome. ",
+        "Antirequisite(s): Classical Studies 3903F/G if taken in Winter 2009.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "3481",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Stocking",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2301A - CRIME AND PUNISHMENT",
+      "Description": [
+        "This course is an introduction to crime and criminal law in ancient Greece and Rome. Modern criminology may provide comparison and perspective.  Readings may include law, rhetoric, philosophy, drama, and/or historiography.  No previous knowledge of Greece and Rome is necessary and all readings are in English.",
+        "Antirequisite(s): The former CS 2905A/B (if taken in 2011-12, 2012-13). ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "5912",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Nousek",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2301B - CRIME AND PUNISHMENT",
+      "Description": [
+        "This course is an introduction to crime and criminal law in ancient Greece and Rome. Modern criminology may provide comparison and perspective.  Readings may include law, rhetoric, philosophy, drama, and/or historiography.  No previous knowledge of Greece and Rome is necessary and all readings are in English.",
+        "Antirequisite(s): The former CS 2905A/B (if taken in 2011-12, 2012-13). ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8760",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "D. Nousek",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2480A - ROMAN EMPERORS",
+      "Description": [
+        "This course examines the characters, policies, and actions of famous and infamous Roman emperors. It examines the virtues of the best emperors, the depravities of the worst emperors, and how these men are judged, using literary, documentary and archaeological evidence to see how their reputations have evolved over time.",
+        "Antirequisite(s): The former Classical Studies 2903A (if taken in 2014-15, 2016-17) and the",
+        "former Classical Studies 2903B (if taken in 2014-15).",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10585",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "A. Meyer",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2500A - ANCIENT CITIES",
+      "Description": [
+        "This course looks at the growth of urbanization in the Near East and Mediterranean from the Neolithic through the Roman Imperial periods. The course uses archaeological remains and historical sources to understand organization, social structure and evolution of early cities.",
+        "Antirequisite(s): The former CS 2902A/B (if taken in 2011-12, 2012-13). ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "10586",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Greene",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2525A - EGYPTIAN ART AND ARCHITECTURE",
+      "Description": [
+        "This course is a broad introduction to the world of Egyptian art and architecture. Starting with the Predynastic period, we will trace the major trends of Egyptian visual culture and conclude with the New Kingdom. Emphasis will be placed on learning these trends within their cultural and historical context.",
+        "Antirequisite(s): The former Classical Studies 2908A (if taken in 2013-14. 2014-15, 2015-16, 2016-17) and the former Classical Studies 2908B (if taken in 2013-14, 2015-16).",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8014",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Pratt",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2525B - EGYPTIAN ART AND ARCHITECTURE",
+      "Description": [
+        "This course is a broad introduction to the world of Egyptian art and architecture. Starting with the Predynastic period, we will trace the major trends of Egyptian visual culture and conclude with the New Kingdom. Emphasis will be placed on learning these trends within their cultural and historical context.",
+        "Antirequisite(s): The former Classical Studies 2908A (if taken in 2013-14. 2014-15, 2015-16, 2016-17) and the former Classical Studies 2908B (if taken in 2013-14, 2015-16).",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7945",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "C. Pratt",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2700A - TECH/ENG IN ANCIENT WORLD",
+      "Description": [
+        "A survey of technological and engineering principles in antiquity; of materials including their development and applications; of machinery in all its variety and of \"missed opportunities\". ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10587",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "PAB-150",
+          "Instructor": "D. Lamari",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2700B - TECH/ENG IN ANCIENT WORLD",
+      "Description": [
+        "A survey of technological and engineering principles in antiquity; of materials including their development and applications; of machinery in all its variety and of \"missed opportunities\". ",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8769",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "PAB-150",
+          "Instructor": "D. Lamari",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2800A - GREEK & LATIN ELEMENTS IN ENG",
+      "Description": [
+        "This course is intended as a practical means of enhancing English vocabulary through a systematic study of the contribution of the Classical languages to modern English, including the vocabulary of the sciences.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8015",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SH-2355",
+          "Instructor": "D. Lamari",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 2800B - GREEK & LATIN ELEMENTS IN ENG",
+      "Description": [
+        "This course is intended as a practical means of enhancing English vocabulary through a systematic study of the contribution of the Classical languages to modern English, including the vocabulary of the sciences.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10588",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:00 PM",
+          "End Time": "9:00 PM",
+          "Location": "SH-2355",
+          "Instructor": "D. Lamari",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3050G - STUDY TOUR TO ITALY",
+      "Description": [
+        "This intensive 3-week long study tour to Italy offers students a unique international learning experience. Roman history, literature and culture will be discussed in direct relation to the physical remains in museums and archaeological sites, such as the Forum Romanum, the Colosseum, the Vatican Museum and Pompeii. ",
+        "Extra Information: Field trip to Italy, minimum of 39 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8772",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "E. Greene",
+          "Notes": [
+            "STUDY TOUR TO ITALY. SPECIAL PERMISSION REQUIRED. ",
+            "REQUISITES: Prerequisite(s): Any Classical Studies course on the 1000-2999 level and permission of the instructor."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3300F - ANCIENT GREEK & ROMAN SEXUALTY",
+      "Description": [
+        "This course is designed to give students insight into ancient Greek and Roman sexuality using the artistic evidence of erotic vase-paintings, sculpture, wall-paintings, and everyday objects in combination with ancient literary sources on sexual themes. Topics examined include phallic symbolism, homosexuality, prostitution, male-to-female lovemaking, hermaphrodites, and transvestism. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10590",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-17",
+          "Instructor": "K. Olson",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3350G - WOMEN IN ANCIENT ROME",
+      "Description": [
+        "An investigation of the construction of gender and the lives of women in ancient Rome. The evidence of texts and images from Roman antiquity will be considered from a variety of theoretical perspectives. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10591",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "MC-17",
+          "Instructor": "K. Olson",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3490F - LATE ANTIQUITY",
+      "Description": [
+        "This course explores the world of the late Roman Empire from the \"crisis\" of the third century AD onward, including figures such as Constantine the Great and Julian the Apostate. It examines the political, religious, intellectual and social history of the late Empire through literature, documentary texts, and material culture.",
+        "Antirequisite(s): The former CS 3905G (if taken in 2012-13). ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10592",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "NCB-117",
+          "Instructor": "A. Meyer",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10592",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "NCB-117",
+          "Instructor": "A. Meyer",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3530E - GREEK ART & ARCHAEOLOGY",
+      "Description": [
+        "A survey of the art and archaeology of ancient Greece from the Dark Ages through the Classical period (1050 - 323 BCE), focusing on the architecture, sculpture, and painting of the 6th and 5th centuries (c. 600 - 400 BCE), and the meaning and function of material culture in ancient Greek society.",
+        "Antirequisite(s): Classical Studies 3900E (if taken in 2011-12) and the former Visual Arts History 2247E. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7632",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "C. Pratt",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3585F - ARCHAEOLOGY OF POMPEII",
+      "Description": [
+        "This course examines the archaeological remains of the Roman city of Pompeii, frozen in time by the volcanic eruption of Mount Vesuvius in 79 CE. We explore temples, monuments, houses, bathhouses, political structures and art of the city in the context of themes of social and political life in antiquity.",
+        "Antirequisite(s): Classical Studies 3904G if taken in 2016-17.",
+        "Extra Information: 3 hours, 0.5 course."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10593",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "E. Greene",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10593",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-66",
+          "Instructor": "E. Greene",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3903G - SP TOPICS IN CLASSICAL STUDIES",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11681",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: RESOURCES AND THE ENVIRONMENT IN THE ANCIENT MEDITERRANEAN."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11681",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "NCB-117",
+          "Instructor": ".",
+          "Notes": [
+            "TOPIC: RESOURCES AND THE ENVIRONMENT IN THE ANCIENT MEDITERRANEAN."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3904F - SP TOPICS IN CLASSICAL STUDIES",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7633",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. TOPIC: ARCHAIC AND CLASSICAL SPARTA."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 3905G - SP TOPICS IN CLASSICAL STUDIES",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10594",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "R. Pogorzelski",
+          "Notes": [
+            "CROSS-LISTED WITH ARTHUM 3391G. TOPIC: CLASSICAL RECEPTION STUDIES."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10594",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-1225",
+          "Instructor": "R. Pogorzelski",
+          "Notes": [
+            "CROSS-LISTED WITH ARTHUM 3391G. TOPIC: CLASSICAL RECEPTION STUDIES."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 4450G - SELECTED TOPICS- ROMAN HISTORY",
+      "Description": [
+        "A specific period of Roman history will be studied, with use of original literary, numismatic and inscriptional sources. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10595",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-36",
+          "Instructor": "D. Nousek",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. TOPIC: THE CRISIS OF THE LATE ROMAN REPUBLIC. ",
+            "REQUISITES: Prerequisite(s): Classical Studies 3450E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CLASSICS 4999E - HON THESIS",
+      "Description": [
+        "Instruction in selection of topic, directed readings, research and writing of thesis. Restricted to fourth year students normally registered in the Honours Specialization in Classical Studies with a modular average of at least 80%. Application to the Undergraduate Chair of Classical Studies will be required by the April preceding the student's final year.",
+        "Extra Information: 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5849",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "B. Steinbock",
+          "Notes": [
+            "PERMISSION OF DEPARTMENT REQUIRED. ",
+            "REQUISITES: Prerequisite(s): At least 1.0 course at the 3000-level in the discipline area of the thesis topic and permission of Department."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

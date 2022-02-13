@@ -1,0 +1,947 @@
+{
+  "Name": "Medical Biophysics",
+  "Code": "MEDBIO",
+  "Courses": [
+    {
+      "Name": "MEDBIO 2500A - BIOPHYSICS FOR ADVANCING MED",
+      "Description": [
+        "An introduction to the discipline of Medical Biophysics is developed through lectures on key introductory concepts and techniques used in Medical Biophysics research, real-world research seminars given by faculty members, and interactive in-class activities. Research areas include magnetic resonance imaging, molecular imaging, microvascular oxygen transport, and cancer radiation therapy.",
+        "Antirequisite(s): Medical Biophysics 4445A/B, Medical Biophysics 4455A/B, Medical",
+        "Biophysics 4467A/B, Medical Biophysics 4475A/B, Medical Biophysics 4518B, Medical",
+        "Biophysics 4535A/B, Medical Biophysics 4700B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "200",
+          "Component": "LEC",
+          "Class Nbr": "10689",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "C. McKenzie",
+          "Notes": [
+            "BLENDED COURSE: BOTH ONLINE AND IN-PERSON INSTRUCTION.  PRIORITY INFORMATION IS ON BMSc WEBSITE: http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Blended"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3330F - HUMAN BIOMECHANICS",
+      "Description": [
+        "The mechanical properties of biological structures and fluids in relation to function: deformability, strength, and visco-elasticity of hard and soft tissues, modes of loading and failure. Special topics include mechanics of synovial joints, mechanics of hearing, and mechanics of orthopedic implants and joint replacement.",
+        "Extra Information: 3 lecture hours, 2 laboratory/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3165",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "PAB-148",
+          "Instructor": "A. Samani",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Mathematics 1225A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Physics 1202A/B. Typically taken in third year, this course is also open to second-year students with an overall average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3165",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "A. Samani",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Mathematics 1225A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Physics 1202A/B. Typically taken in third year, this course is also open to second-year students with an overall average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "3166",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "PAB-150",
+          "Instructor": "A. Samani",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3501A - BIOPHYSICS OF TRANSPORT SYSTMS",
+      "Description": [
+        "The physics of blood flow and vascular mechanics in the microcirculation and large vessels, surface energy and interactions at biological interfaces such as the lung, diffusive and convective transport and exchange.",
+        "Extra Information: 2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3169",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "J. McGuire",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Mathematics 1225A/B, Numerical and Mathematical Methods 1412A/B, the former Applied Mathematics 1412A/B, the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Physics 1202A/B. Typically taken in third year, this course is also open to second-year students with an overall average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "3187",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "J. McGuire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "3188",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "B&GS-1056",
+          "Instructor": "J. McGuire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3503G - FUNDAMENTAL OF DIGITAL IMAGING",
+      "Description": [
+        "Concepts of images relevant to all imaging modalities. Image formation and capture including digital cameras and the eye, pixels, aliasing, resolution, contrast, sensitivity, specificity, ROC, window/level, dynamic range, RGB, spectroscopy. Image compression and quality, quantitative analysis based on imaging software and principles of quantitative stereology.",
+        "Extra Information:  2 lecture hours, 1 tutorial hour."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4119",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "DSB-2016",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. SPECIAL PERMISSION WILL NOT BE GRANTED TO WAIVE THE PREREQUISITE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, plus one of Calculus 1301A/B, Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Calculus 1301A/B and Physics 1202A/B. Typically taken in third year, this course is also open to second-year students with an average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "4726",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "4727",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3505F - MATH TRANSFORM APPS IN MEDBIO",
+      "Description": [
+        "The role of mathematical transforms in biomedical research. Application of Fourier Transforms for imaging and image analysis. Applications of systems analysis and Laplace Transforms to model complex systems, and of linear time-invariant systems and kinetic models to analyze physiological processes.",
+        "Extra Information: 2 lecture hours, 2 laboratory/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3189",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MSB-190",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, plus one of Calculus 1301A/B, Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Calculus 1301A/B and Physics 1202A/B. Although typically taken in third year, this course is available to second-year students with an overall average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "3190",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "N. Gelman",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "3191",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "K. St Lawrence",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3507G - ANALYSIS OF OXYGEN TRANSPORT",
+      "Description": [
+        "The application of physics and mathematics for modeling oxygen transport. Emphasis on problem solving and simple MATLAB computer models for enhancing the students' interpretation of analytical solutions. Topics include the Krogh-Erlang capillary model, microvascular blood flow, oxygen diffusion in thin tissues and tumors, and finite difference models in unsteady-state systems.",
+        "Extra Information: 2 lecture hours, 2 laboratory/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4728",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "MSB-190",
+          "Instructor": "D. Goldman",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html  YEAR 2 STUDENTS MUST HAVE A YEAR 1 AVERAGE OF AT LEAST 70%. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, plus one of Calculus 1301A/B, Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; and one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Calculus 1301A/B and Physics 1202A/B. Although typically taken in third year, this course is available to second-year students with an overall average of at least 70% in first year."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "4729",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "4730",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "D. Goldman",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3518B - INTRO TO MOLECULAR IMAGING",
+      "Description": [
+        "An overview of the concepts and techniques used in molecular imaging research. Research areas include genetic engineering of imaging contrast, molecular probes for positron emission tomography, cell tracking using magnetic resonance imaging, and optical molecular imaging of tissue dynamics.",
+        "Antirequisite(s): The former Medical Biophysics 2582B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10690",
+          "Days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "P. Foster",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Biochemistry 2280A; 1.0 course from Applied Mathematics 1201A/B, Calculus 1000A/B, Calculus 1301A/B, Calculus 1500A/B, Calculus 1501A/B, Mathematics 1225A/B, Mathematics 1228A/B, Mathematics 1229A/B, Mathematics 1600A/B, Statistical Sciences 1024A/B; and 1.0 course from Physics 1201A/B, Physics 1202A/B, Physics 1501A/B, Physics 1502A/B, the former Physics 1028A/B, the former Physics 1029A/B, the former Physics 1301A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place of Calculus 1301A/B and Physics 1202A/B. ",
+            "Pre-or Corequisite(s): Biology 2581A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3645A - INTRO TO BIOMEDICAL OPTICS",
+      "Description": [
+        "An introduction to the physical and biophysical principles underlying the methodology and technology for the medical uses of light including diagnostic and therapeutic applications. Specific areas will include: instrumentation which involves light detection and analysis, light spectroscopy which involves photodynamic therapy and diffuse optical tomography and optical imaging.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3205",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "MSB-190",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Calculus 1000A/B, Calculus 1500A/B, Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B, plus one of Calculus 1301A/B, Calculus 1501A/B, Numerical and Mathematical Methods 1414A/B and or the former Applied Mathematics 1414A/B, or the former Applied Mathematics 1413; one of Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B; plus one of Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B. Integrated Science 1001X can be used as a prerequisite in place Calculus 1301A/B and Physics 1202A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 3970Z - GENERAL BIOPHYSICS LAB",
+      "Description": [
+        "Intended primarily for students in Honours Specialization and Major modules in Medical Biophysics. Laboratories include topics from biomechanics (mechanical properties of arteries and bone), imaging (quantitative stereology, optical CT), biophysical analysis (diffusion and washout models), and transport systems (cardiovascular fluid dynamics). Includes an individual 6-week project in a research laboratory.",
+        "Extra Information: 3 laboratory hours (3 laboratory hours every other week and up to 3 tutorial hours, at the instructor's discretion, in alternate weeks)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4731",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "MSB-190",
+          "Instructor": "J. Ronald",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Medical Biophysics 3330F/G, Medical Biophysics 3501A and Medical Biophysics 3505F; or Medical Biophysics 3501A and Medical Biophysics 3507G and registration in the Honours Specialization in Medical Biophysics and Biochemistry."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "6219",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "MSB-190",
+          "Instructor": "J. Ronald",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Pre-or Corequisite(s): Medical Biophysics 3330F/G, Medical Biophysics 3501A and Medical Biophysics 3505F; or Medical Biophysics 3501A and Medical Biophysics 3507G and registration in the Honours Specialization in Medical Biophysics and Biochemistry."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4445A - DIGITAL IMAGING PROCESSING",
+      "Description": [
+        "An introduction to the fundamentals of digital image processing including image representation, 2D linear systems theory and Fourier analysis, digital filtering and segmentation. Concentrates on practical techniques through an exposure to image processing applications in industry, science and medicine and assignments based on MATLAB numeric computation and visualization environments.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3186",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-2200",
+          "Instructor": "H. Ladak",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4445A.WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; Calculus 2303A/B or Calculus 2503A/B; Physics 2101A/B and Physics 2102A/B; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3186",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SEB-1059",
+          "Instructor": "H. Ladak",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4445A.WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; Calculus 2303A/B or Calculus 2503A/B; Physics 2101A/B and Physics 2102A/B; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3186",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SEB-2200",
+          "Instructor": "H. Ladak",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4445A.WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; Calculus 2303A/B or Calculus 2503A/B; Physics 2101A/B and Physics 2102A/B; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4455A - BIOLOGICAL CONTROL SYSTEMS",
+      "Description": [
+        "An introduction to linear systems and control theory as applied to organ system regulation and adaptation. Emphasis is placed on biophysical models of the respiratory and cardiovascular systems, and interactions with medical devices.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10371",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-1415",
+          "Instructor": "J. Lacefield",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4455A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A and Medical Biophysics 3505F; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10371",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": "J. Lacefield",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4455A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A and Medical Biophysics 3505F; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10371",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "9:30 AM",
+          "Location": "ACEB-1420",
+          "Instructor": "J. Lacefield",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. CROSS-LISTED WITH ECE 4455A. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A and Medical Biophysics 3505F; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4467B - RADIATION BIOLOGY WITH BIOMED",
+      "Description": [
+        "Nature and effects of ionizing radiation on biomolecular structures, living cells and tissues. Genetic effects and methods of radiation protection. Radiobiological implications of diagnostic and therapeutic radiation.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "5274",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "ONLINE COURSE. PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A; one of Medical Biophysics 3507G or Physics 2101A/B or Physics 2102A/B; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4475A - MEDICAL IMAGING",
+      "Description": [
+        "Physical principles underlying medical imaging. Modalities covered: x-rays, computed tomography, nuclear medicine, ultra-sound, and magnetic resonance imaging. Topics include signal generation, detection and the associated mathematics to produce medically useful images, and factors affecting resolution and sensitivity.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3167",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HSB-9",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; Physics 2101A/B and Physics 2102A/B, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3167",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "HSB-9",
+          "Instructor": "",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; Physics 2101A/B and Physics 2102A/B, or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4518B - ADVANCED MOLECULAR IMAGING",
+      "Description": [
+        "The role of diagnostic imaging in detecting molecules, genes, and cells in vivo. The emphasis is on how these techniques assist in studying molecular mechanisms of disease in vivo. Topics include DNA/protein synthesis, transgenic mice, novel contrast agents and small animal imaging.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6570",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "WSC-240",
+          "Instructor": "S. Dhanvantari",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A and Medical Biophysics 3518B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4535A - HEMODYNAMICS",
+      "Description": [
+        "Biophysics related to blood flow: Biomechanical properties of blood, heart, arteries, and veins; pressure, flow, and Poiseulle's law; optimality principles; fluid flow conservation laws and their mathematical description; pulsatile flow in rigid vessels; wave propagation in elastic vessels; structure and blood rheology of the microcirculation; oxygen delivery and flow regulation.",
+        "Extra Information: 2 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3198",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "NCB-114",
+          "Instructor": "D. Goldman",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3501A, Medical Biophysics 3503G, Medical Biophysics 3505F and Medical Biophysics 3507G; or permission of the department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4600B - SPECIAL TOPICS IN MEDBIO",
+      "Description": [
+        "Selected topics of current interest in Medical Biophysics.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5371",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "S. So",
+          "Notes": [
+            "PERMISSION OF THE DEPARTMENT OF MEDICAL BIOPHYSICS IS REQUIRED TO REGISTER FOR THIS COURSE. HANDS-ON EXPERIENCE IN IMAGING MODALITIES COMMONLY USED TO DIAGNOSE DISEASES USING MINIATURE IMAGING DEVICES (INCLUDING CT, MRI AND ULTRASOUND), AND IN PRACTICAL ASPECTS OF SCANNER OPERATION, IMAGE ACQUISITION AND RECONSTRUCTION. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4700B - CASE STUDIES IN MED BIOPHYS",
+      "Description": [
+        "Case studies will highlight specific issues that medical biophysics covers while introducing important concepts and the multidisciplinary nature of research, professionals, and applications in the field. The key themes are cardiovascular and circulatory health, molecular and cellular imaging for research, diagnostic imaging in humans, cancer radiotherapy, and medical images processing.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9984",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "PAB-148",
+          "Instructor": "J. McGuire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in Year 4 of an Honours degree that contains a module offered by the Department of Medical Biophysics or, with special permission, registration in Year 4 of a BESc degree or an Honours BHSc, BMSc or BSc degree."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9984",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-148",
+          "Instructor": "J. McGuire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Registration in Year 4 of an Honours degree that contains a module offered by the Department of Medical Biophysics or, with special permission, registration in Year 4 of a BESc degree or an Honours BHSc, BMSc or BSc degree."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4710B - BIOPHOTONICS IN MEDICINE",
+      "Description": [
+        "Theory, instrumentation, and application of biophotonics in pre-clinical and medical research, and clinical applications for the study of human cancers, musculoskeletal conditions, and cardiovascular diseases. Specific themes include instrumentation for light generation, transmission, and detection; optical spectroscopy and imaging of blood flow and metabolism; functional activation.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11976",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AHB-1B08",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Medical Biophysics 3645A/B or Physics 3380A/B; and registration in Year 4 of an Honours degree that contains a module offered by the Department of Medical Biophysics or, with special permission, registration in Year 4 of a BESc degree or an Honours BHSc, BMSc or BSc degree."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11976",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-1B08",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "PRIORITY INFORMATION IS ON BMSc WEBSITE:  http://www.schulich.uwo.ca/bmsc/academic_resources/courses/access_to_courses.html. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): One of Medical Biophysics 3645A/B or Physics 3380A/B; and registration in Year 4 of an Honours degree that contains a module offered by the Department of Medical Biophysics or, with special permission, registration in Year 4 of a BESc degree or an Honours BHSc, BMSc or BSc degree."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4970E - RESEARCH PROJECT IN BIOPHYSIC",
+      "Description": [
+        "Major laboratory course in experimental biophysics for Honours Specialization modules offered by the Department of Medical Biophysics. Three components are: a major experimental project (topic and advisor chosen in consultation with the student), scientific communication (student presentation and reports), and electronic information processing (data capture, computer analysis of biophysical signals). ",
+        "Antirequisite(s): Medical Biophysics 4971E. ",
+        "Extra Information: 15 hours weekly on average."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3852",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "MSB-M384",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "RESTRICTED TO HONORS SPECIALIZATION MODULES OFFERED BY THE DEPARTMENT OF MEDICAL BIOPHYSICS (EXCEPT CLINICAL PHYSICS CONCENTRATION). ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3970Z and registration in Year 4 of one of the following Honours Specialization modules: Medical Biophysics (Medical Science Concentration), Medical Biophysics (Physical Science Concentration), or Medical Biophysics (Biological Science Concentration); or registration in Year 4 of an Honours Specialization in Medical Biophysics and Biochemistry plus either Medical Biophysics 3970Z or Biochemistry 3380G."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "4320",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "HELD JAN-APRIL IN MSB M282."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDBIO 4971E - RESEARCH PROJECT IN BIOPHYSICS",
+      "Description": [
+        "Major laboratory course in experimental biophysics for fourth-year Honours Specialization Medical Biophysics (Clinical Physics Concentration). The three components are: a major experimental project related to Clinical Physics (topic and advisor chosen in consultation with the student), scientific communication (student presentation and reports), and electronic information processing (data capture, computer analysis of biophysical signals). ",
+        "Antirequisite(s): Medical Biophysics 4970E. ",
+        "Extra Information: 15 hours weekly on average."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5859",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "RESTRICTED TO HONS SPECIALIZATION IN MEDICAL BIOPHYSICS (CLINICAL PHYSICS CONCENTRATION). HELD IN MSB M384. ",
+            "REQUISITES: Prerequisite(s): Medical Biophysics 3970Z and registration in Year 4 of an Honours Specialization in Medical Biophysics (Clinical Physics Concentration)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LAB",
+          "Class Nbr": "5981",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": "M. Diop",
+          "Notes": [
+            "HELD JAN-APRIL IN MSB M282."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

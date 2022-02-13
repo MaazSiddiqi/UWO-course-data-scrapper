@@ -1,0 +1,4083 @@
+{
+  "Name": "French",
+  "Code": "FRENCH",
+  "Courses": [
+    {
+      "Name": "FRENCH 1001B - UNLOCKING PARIS",
+      "Description": [
+        "This course will take a journey through this quasi-mythical global city, asking what makes Paris \"Paris\", and why it has attracted admirers and imitators from across the world. It examines the city from multiple perspectives, from its seventeenth-century reputation as the first modern city to its current role as the city of fashion.",
+        "Extra Information: 3 lecture hours, 0.5 course. Taught in English."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10200",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SSC-3006",
+          "Instructor": "C. Roulston",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10200",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-3006",
+          "Instructor": "C. Roulston",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1002 - INTENSIVE FRENCH",
+      "Description": [
+        "Grammar, composition, oral practice. This course is designed for students beginning French, or having a limited knowledge of French. Note that students who have successfully completed Grade 11 French or equivalent cannot take this course for credit. ",
+        "Antirequisite(s): French 1003A/B, Ontario Grade 11 French (Core, Extended or Immersion) or equivalent. ",
+        "Extra Information: 4 tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2469",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2469",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2470",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1004 - FRENCH FUNDAMENTALS",
+      "Description": [
+        "Intensive grammar and vocabulary acquisition through a variety of communicative activities and exercises. This course aims to help students acquire the fundamentals of the French language using listening, speaking, reading and writing skills, as preparation for the study of university-level French.",
+        "Antirequisite(s): Grade 12 French, French 1002, French 1003A/B, French 1010, and French 1011A/B.",
+        "Extra Information: 3 or 4 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2372",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W106",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3048",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": "M. Pascal",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "10147",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-SA060",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "TUT",
+          "Class Nbr": "10148",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-LH103",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10201",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1225",
+          "Instructor": "P. Venesoen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "10202",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-2105",
+          "Instructor": "P. Venesoen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "10203",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "10204",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LEC",
+          "Class Nbr": "10205",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-2105",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LEC",
+          "Class Nbr": "10692",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1225",
+          "Instructor": "P. Venesoen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "007",
+          "Component": "LEC",
+          "Class Nbr": "10693",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "P. Venesoen",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "008",
+          "Component": "LEC",
+          "Class Nbr": "10694",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "UC-1225",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "009",
+          "Component": "LEC",
+          "Class Nbr": "10695",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-2105",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies based on the French Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1010 - INTERMEDIATE FRENCH",
+      "Description": [
+        "Grammar review, composition, translation, oral practice. (One hour per week in the language laboratory may be required.) Note that students who have successfully completed Grade 12 French or equivalent cannot take this course for credit. ",
+        "Antirequisite(s): French 1011A/B, Ontario Grade 12 French (Core, Extended or Immersion) or equivalent. ",
+        "Extra Information: 3 or 4 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3049",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Grade 11 French (Core, Extended or Immersion) or equivalent, French 1002 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "10150",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-W147",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LAB",
+          "Class Nbr": "10151",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1900E - FRENCH STUDIES: AN INTRO",
+      "Description": [
+        "This is  a first-year essay course in French, providing an introduction to French Studies, with an emphasis on language, culture, and various forms of expression and analysis. ",
+        "Antirequisite(s): French 1910, French 1999. ",
+        "Extra Information: 4 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2373",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1011A/B or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2373",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1011A/B or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1910 - UNIVERSITY FRENCH (LEVEL 1)",
+      "Description": [
+        "A study of the French language based on cultural, written material and basic grammar problems. ",
+        "Antirequisite(s) at Main campus: French 1900E, French 1999.",
+        "Antirequisite(s) at Brescia, Huron, King's campus: French 1900E.",
+        "Extra Information: 4 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2455",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-206",
+          "Instructor": "H. Keupdijo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2520",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-206",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LEC",
+          "Class Nbr": "2622",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "533",
+          "Component": "LAB",
+          "Class Nbr": "2623",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1890",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W106",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. PLEASE TAKE THE FRENCH PLACEMENT TEST BEFORE SEPTEMBER TO ENSURE THAT YOU ARE ENROLLED AT THE APPROPRIATE LEVEL. YOU MIGHT BE ELIGIBLE TO REGISTER DIRECTLY INTO THE SECOND-YEAR LEVEL. GO TO https://owl.uwo.ca/portal/directtool/af95faa0-3d23-4302-8097-38ef21fe7e6c/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1890",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W106",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. PLEASE TAKE THE FRENCH PLACEMENT TEST BEFORE SEPTEMBER TO ENSURE THAT YOU ARE ENROLLED AT THE APPROPRIATE LEVEL. YOU MIGHT BE ELIGIBLE TO REGISTER DIRECTLY INTO THE SECOND-YEAR LEVEL. GO TO https://owl.uwo.ca/portal/directtool/af95faa0-3d23-4302-8097-38ef21fe7e6c/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "551",
+          "Component": "LAB",
+          "Class Nbr": "1952",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "Other"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1026",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-BH112",
+          "Instructor": "C. Sandu",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "580",
+          "Component": "LEC",
+          "Class Nbr": "1100",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1010 or French 1004 or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "1221",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "KC-FB110",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LAB",
+          "Class Nbr": "1222",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "573",
+          "Component": "LAB",
+          "Class Nbr": "1223",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-FB003",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3521",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "B&GS-0153",
+          "Instructor": ".",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "4159",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UC-3220",
+          "Instructor": ".",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "3522",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "3523",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": ".",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "005",
+          "Component": "LEC",
+          "Class Nbr": "3524",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3026",
+          "Instructor": ".",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "006",
+          "Component": "LEC",
+          "Class Nbr": "10696",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "PAB-117",
+          "Instructor": "G. De Viveiros",
+          "Notes": [
+            "PLEASE TAKE THE ONLINE FRENCH PLACEMENT TEST IF YOU THINK YOU MIGHT BE ELIGIBLE TO BEGIN IMMEDIATELY A MODULE IN FRENCH STUDIES. GO TO http://www.uwo.ca/french/ TO TAKE THE TEST. ",
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 1999 - INTRO TO FRENCH STUDIES",
+      "Description": [
+        "This course provides students with a basic introduction to French Studies, with an emphasis on language and culture, and on various forms of expression and analysis.",
+        "Antirequisite(s): French 1900E, French 1910.",
+        "Extra Information: 4 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9068",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-2355",
+          "Instructor": "J. Lamarche",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended or Immersion) or equivalent, or French 1004, or French 1010 or French 1011A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "010",
+          "Component": "TUT",
+          "Class Nbr": "7064",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "011",
+          "Component": "TUT",
+          "Class Nbr": "7065",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2107A - IMPROVING SPOKEN FRENCH",
+      "Description": [
+        "Practice in speaking and understanding French through small group discussions as well as work on pronunciation, comprehension, and vocabulary. Techniques for expressing oneself clearly, accurately and effectively will be stressed. The class will be divided into 2 groups; one for intermediate level speakers, and one for advanced. ",
+        "Extra Information: 3 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2892",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended, Immersion) or equivalent or French 1010, or permission of the Department of French and Asian Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2892",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Ontario Grade 12 French (Core, Extended, Immersion) or equivalent or French 1010, or permission of the Department of French and Asian Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2208B - FRENCH FOR HEALTHCARE",
+      "Description": [
+        "This online course is designed for students with a good basic knowledge of French who wish to improve their French skills in their specific field of interest. Focus on current Canadian and international topics in Healthcare. Format is interactive and website includes self-assessment tools in order to monitor acquisition of new vocabulary and material.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7215",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Clendinning",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2209A - FRENCH FOR THE MEDIA",
+      "Description": [
+        "This online course is designed for students with a good basic knowledge of French who wish to improve their French skills in the field of media studies. Focus is on Canadian media outlets and the role of media in society. Format is interactive and website includes self-assessment tools in order to monitor acquisition of new vocabulary and material.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "7863",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "P. Munyankesha",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2305A - TRANSLATION: COMP STYLISTICS",
+      "Description": [
+        "This course introduces students to the practice of translation through a variety of stylistic exercises. In this hands-on course, students learn about translation methods and strategies, and reinforce their competence in French by comparing the structure of French and English. Students learn to translate different sentence types and short texts.",
+        "Antirequisite(s): French 2300. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5090",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2355",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5090",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-2355",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2306B - TRANSLATION: THEMES & VERSIONS",
+      "Description": [
+        "This course introduces students to theories of translation, and develops an awareness of the differences between French and English. By exposing students to problems encountered in the translation of diverse types of texts, it provides the basic competence needed to analyze and solve issues in translating one language to the other.",
+        "Antirequisite(s): French 2300. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5091",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5091",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2404B - ENLIGHTENMENT TO PSTMDERNITY I",
+      "Description": [
+        "Using a multimedia approach, this civilization course examines the historical, political, cultural and artistic evolution of France, from the eighteenth century to modern times. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3149",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3149",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2407A - LA FRANCOPHONIE",
+      "Description": [
+        "This course introduces students to various aspects of Francophone cultures outside of France and Canada, such as their history, their politics and their various artistic productions (literary, visual, cinema, etc.).",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10699",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3026",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2408A - FR & FRANCO CLTS: SPECIAL TPCS",
+      "Description": [
+        "This course introduces students to a specific topic of Francophone culture, such as itshistory, its politics or its various artistic productions (literary, visual, cinema, etc.). ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11544",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "A. King",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "11544",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W106",
+          "Instructor": "A. King",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2600E - INTRO TO FRENCH LITERATURE",
+      "Description": [
+        "A study in depth of some major French texts, with training in the skills of literary analysis. ",
+        "Antirequisite(s): French 2605F/G, French 2606F/G. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "12576",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "",
+          "Instructor": "H. Kirk",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2456",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "BR-19",
+          "Instructor": "",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2456",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "BR-19",
+          "Instructor": "",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1891",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1891",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W18",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2605F - MIDDLE AGES TO ROMANTICISM",
+      "Description": [
+        "This course enables students to master literary reading, including the understanding of the major aspects of French and Francophone literatures and cultures, their particular histories as well as their relationship to the larger discipline of arts and humanities. The course provides tools for textual analysis, and improves written and oral communication in French.",
+        "Antirequisite(s): French 2600E. ",
+        "Extra Information: 3 lecture/tutorial hours.",
+        "Note at Brescia, Huron, King's campus: French 2605F/G and French 2606F/G or French 2600E are prerequisites for further studies in French literature."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1244",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W045",
+          "Instructor": "C. Sandu",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910 or permission of the Department based on",
+            "Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7067",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3317",
+          "Instructor": "C. Roulston",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7068",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-3220",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "7069",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UC-1105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2606G - MODERNITY TO POSTMODERNITY",
+      "Description": [
+        "This course enables students to master literary reading, including the understanding of the major aspects of French and Francophone literatures and cultures, their particular histories as well as their relationship to the larger discipline of arts and humanities. The course provides tools for textual analysis, and improves written and oral communication in French.",
+        "Antirequisite(s): French 2600E. ",
+        "Extra Information: 3 lecture/tutorial hours.",
+        "Note at Brescia, Huron, King's campus: French 2605F/G and French 2606F/G or French 2600E are prerequisites for further studies in French literature."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1245",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-W045",
+          "Instructor": "C. Sandu",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910 or permission of the Department based on",
+            "Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7070",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SH-3317",
+          "Instructor": "K. Schwerdtner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7071",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3028",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "7072",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2805A - GEN LING IN FRENCH: SOUND PAT",
+      "Description": [
+        "This course introduces students to the foundations of linguistics, its goals and its methodological practices by focusing on the domains of linguistics that relate to the sound patterns of French. Students will gain knowledge of the phonetics, the phonology and the sociolinguistics of French, with an emphasis on Canadian French.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7073",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "AHB-1B06",
+          "Instructor": "F. Poire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7074",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "AHB-2B04",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "7075",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "MC-17",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2806B - GEN LING IN FR: SOUND TO MEAN",
+      "Description": [
+        "This course introduces students to the foundations of linguistics, its goals and its methodological practices by focusing on the domains of linguistics where sound relates to meaning. Students will gain knowledge of the morphology, the syntax, the semantics and the lexicon of French, with an emphasis on Canadian French.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7076",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SSC-2020",
+          "Instructor": "D. Heap",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "7077",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "UC-1105",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "TUT",
+          "Class Nbr": "7078",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "SH-3305",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2900 - LANGUAGE (ADV LVL II)",
+      "Description": [
+        "Grammar, composition, oral practice, phonetics. (One hour per week in the language laboratory may be required). ",
+        "Antirequisite(s): French 2101, French 2905A/B, French 2906A/B. ",
+        "Extra Information: 3 or 4 lecture/tutorial hours.",
+        "Note at Brescia, Huron, King's campus: French 2900 (or its equivalent) is the required language course for all French modules."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2618",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "BR-206",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2618",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LAB",
+          "Class Nbr": "2619",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "BR-206",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "532",
+          "Component": "LEC",
+          "Class Nbr": "2859",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. de Moras",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "533",
+          "Component": "LAB",
+          "Class Nbr": "2860",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. de Moras",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1981",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H220",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1981",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-H220",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1378",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-LH101",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "LAB",
+          "Class Nbr": "1379",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "572",
+          "Component": "LAB",
+          "Class Nbr": "1380",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "KC-DL114",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2905A - LANGUAGE & READING",
+      "Description": [
+        "Intensive grammar review with an emphasis on textual analysis and understanding various forms of writing (2 hours lecture + 1 hour tutorial). ",
+        "Antirequisite(s): French 2101, French 2900. ",
+        "Extra Information: 3 or 4 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5088",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3307",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5955",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "PAB-36",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "5956",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SH-3317",
+          "Instructor": "K. Schwerdtner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "5957",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2906B - LANGUAGE AND EXPRESSION",
+      "Description": [
+        "A review of selected elements of grammar with an emphasis on written and oral expression (2 hours lecture + a hour tutorial). ",
+        "Antirequisite(s): French 2101, French 2900. ",
+        "Extra Information: 3 or 4 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5089",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "TC-343",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "5958",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-3225",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LEC",
+          "Class Nbr": "5959",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": "K. Schwerdtner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "004",
+          "Component": "LEC",
+          "Class Nbr": "5960",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "PAB-117",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2907A - WRITING WORKSHOP IN FRENCH",
+      "Description": [
+        "This course introduces students to effective writing practices. The emphasis will be placed on writing through analysis of texts of various genres, in-class exercises, peer workshops, journaling and short compositions. Students will learn effective strategies of composition, including revising, editing and proofreading written texts.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2673",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2673",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "BR-UH27",
+          "Instructor": ".",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7079",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7079",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 2907B - WRITING WORKSHOP IN FRENCH",
+      "Description": [
+        "This course introduces students to effective writing practices. The emphasis will be placed on writing through analysis of texts of various genres, in-class exercises, peer workshops, journaling and short compositions. Students will learn effective strategies of composition, including revising, editing and proofreading written texts.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3150",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-19",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3150",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-303",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10700",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10700",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3305",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 1900E or French 1910  or French 1999 or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3140B - RWANDA: CULTURE, SOCIETY",
+      "Description": [
+        "An Interdisciplinary Experiential Learning Course on Rwanda, the students are first introduced to Rwanda, its history, its culture and the impact of the 1994 genocide. They then travel to Rwanda for a five-week trip, where they are placed in community organizations to witness, and help with, the reconstruction efforts.",
+        "Extra Information: Experiential learning; part of the course in a classroom setting; the other is a 5 week trip to Rwanda.",
+        "NOTE: This course can only count towards a module of the Department of French Studies by special permission of the Department of French Studies."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8128",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-2317",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "EXPERIENTIAL LEARNING COURSE. CONTACT THE DEPT OF FRENCH STUDIES FOR INFORMATION ON THE APPLICATION PROCEDURE. ",
+            "REQUISITES: Prerequisite(s): Be at least in second year at the time of applying and with permission of Department of French Studies. See Department for information on application procedure."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3201E - BUSINESS FRENCH WRITING",
+      "Description": [
+        "Develop your ability to read and write in French with this interactive online course. Current socio-economic and business topics in Canada and France are studied using authentic business documents, press articles and Internet resources. No previous business knowledge required. Good understanding of written French recommended. ",
+        "Antirequisite(s): French 3200.",
+        "Extra Information: 1.0 course. Distance studies (online)"
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8129",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "S. Clendinning",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3205B - BUSINESS COMMUNICATION IN FREN",
+      "Description": [
+        "After learning the general terminology of business correspondence, students will enhance their written and oral expression through the study of business practices, advertising, economic and business topics and professional terminology with authentic materials such as newspapers, Internet and magazines\u2019 articles and radio shows.",
+        "Antirequisite(s): French 3200, French 3201E.",
+        "Extra Information: 3 lecture/tutorial/laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3151",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "3151",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or equivalent."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3265B - BRIDGING UNIV & FSL CLASSROOMS",
+      "Description": [
+        "This course provides students with an introduction to teaching French as a second language. In addition to learning through assisting in the classroom students will participate in a weekly seminar with a qualified French instructor to reflect critically on their experiences. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2579",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "",
+          "Instructor": "N. de Moras",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): A minimum of 15 hours participation in the Brescia French Volunteer Teacher Program. Registration limited to students in Major in French for Teaching or Specialization or Honours Specialization in French at Brescia with a minimum average of 75% in their French module or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3300 - INTENSIVE TRANSLATION II",
+      "Description": [
+        "Translation from and into English of selected texts on general and specialized topics.",
+        "Extra Information: Distance Studies (online) (Main). 3 lecture/tutorial hours (Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "650",
+          "Component": "LEC",
+          "Class Nbr": "8130",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "K. Fanni",
+          "Notes": [
+            "ONLINE COURSE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), French 2305A/B, French 2306A/B (or French 2300), or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3305A - TRANSLATION PRACTICE",
+      "Description": [
+        "This course focuses on practice in translating modern texts of various styles from English into French and from French into English.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1537",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-BH109",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2900, or both French 2905A/B and French 2906A/B or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3306A - SPECIAL TOPICS IN TRANSLATION",
+      "Description": [
+        "Translation theory and techniques are applied in the translation of a variety of nonfiction texts, mostly from English into French. The course emphasizes the different ways in which the two languages function, in particular the differences in syntactic structures. This course aims at improving written expression in French, by avoiding the most common pitfalls in syntax.",
+        "Extra Information: 3 lecture/tutorial hours.    May NOT be taken concurrently with French 2300, French 2305A/B or French 2306A/B."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8131",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), French 2305A/B, French 2306A/B (or French 2300), or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "8131",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-2B02",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), French 2305A/B, French 2306A/B (or French 2300), or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3309B - SPECIAL TOPICS IN TRANSLATION",
+      "Description": [
+        "This course is designed for students with a strong knowledge of French language and an interest in translation, literature, and/or film studies.",
+        "Critical analysis of the use of translation in film (subtitles and dubbing); ",
+        "comparative analysis of \"good\" and \"bad\" translations of literary texts.",
+        "Extra Information: 3 lecture/tutorial hours. ",
+        "May NOT be taken concurrently with French 2300, French 2305A/B, or French 2306A/B."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10704",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), French 2305A/B, French 2306A/B (or French 2300), or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10704",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B04",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), French 2305A/B, French 2306A/B (or French 2300), or permission of the Department of French Studies, based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3405A - LIVING CULTURE - SPEC TOPICS",
+      "Description": [
+        "Study of a specific topic from the contemporary French-speaking world, through a variety of cultural media and productions (cinematic, literary, musical, visual). Investigation of these productions, and critical approaches to them, enables students to formulate their own perspectives and to communicate them effectively in French, both orally and in writing.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10705",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "UC-3225",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from French 2605F/G, French 2606F/G, French 2805A/B, French 2806A/B, French 2905A/B, French 2906A/B, French 2907A/B or Permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3406B - LIVING CULTURE - SPEC TOPICS",
+      "Description": [
+        "Study of a specific topic from the contemporary French-speaking world, through a variety of cultural media and productions (cinematic, literary, musical, visual). Investigation of these productions, and critical approaches to them, enables students to formulate their own perspectives and to communicate them effectively in French, both orally and in writing.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10706",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "SSC-3018",
+          "Instructor": "M. Longtin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 from French 2605F/G, French 2606F/G, French 2805A/B, French 2806A/B, French 2905A/B, French 2906A/B, French 2907A/B or Permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3540F - THE MIDDLES AGES IN FRANCE",
+      "Description": [
+        "Through the study of the cultural productions from the Middle Ages in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours. Permission of the Department is required for all Z-courses."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3050",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:00 PM",
+          "Location": "KC-W045",
+          "Instructor": "S. Small",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3560F - THE FRENCH RENAISSANCE",
+      "Description": [
+        "Through the study of the cultural productions from the Renaissance in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2724",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-18",
+          "Instructor": "H. Kirk",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2724",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "BR-UH250",
+          "Instructor": "H. Kirk",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3051",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "4:00 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W166",
+          "Instructor": "S. Small",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3571F - FRANCE IN THE 17TH CENTURY",
+      "Description": [
+        "Through the study of the cultural productions from the 17th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10702",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "J. Leclerc",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 4105F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3600F - 20TH-CENTURY FRANCE",
+      "Description": [
+        "Through the study of the cultural productions from the 20th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10707",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "K. Schwerdtner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3601F - 20TH-CENTURY FRANCE",
+      "Description": [
+        "Through the study of the cultural productions from the 20th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2894",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2894",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3601G - 20TH-CENTURY FRANCE",
+      "Description": [
+        "Through the study of the cultural productions from the 20th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3052",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-BH109",
+          "Instructor": "M. Pascal",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3612G - AESTHETIC FORMS & PRACTICES",
+      "Description": [
+        "These specialized courses will deal with literary and cultural topics, themes and issues, which may cross historical, generic and cultural borders. For particular courses offered each year, please consult the French Studies website.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10708",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "J. Nassichuk",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E)."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3690F - FRANCE IN THE 19TH CENTURY",
+      "Description": [
+        "Through the study of the cultural productions from the 19th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3053",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "1:00 PM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH112",
+          "Instructor": "C. Sandu",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3692F - FRANCE IN THE 19TH CENTURY",
+      "Description": [
+        "Through the study of the cultural productions from the 19th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "11124",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "BR-204",
+          "Instructor": "H. Kirk",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3692G - FRANCE IN THE 19TH CENTURY",
+      "Description": [
+        "Through the study of the cultural productions from the 19th Century in France, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10709",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "G. De Viveiros",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3700G - APPROACHES TO LITERARY READING",
+      "Description": [
+        "This course explores the nature of the literary text and how it produces meaning. An exploration of the formal features of style, narrative technique and structure is combined with a theoretical and practical overview of different approaches to literary reading, textual analysis and the role of literature in society.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3054",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:00 PM",
+          "Location": "KC-W166",
+          "Instructor": "S. Small",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3721F - QUEBEC AND FRENCH-CANADA",
+      "Description": [
+        "Through the study of the cultural productions from Quebec and French-Canada, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3055",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-SA151",
+          "Instructor": "M. Pascal",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10710",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "D. Vaillancourt",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 4102F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3731G - FRANCOPHONE WOMEN'S LITERATURE",
+      "Description": [
+        "Through the study of the cultural productions of Francophone Women, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10712",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "STVH-3101",
+          "Instructor": "K. Schwerdtner",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3750G - THE FRANCOPHONE WORLD",
+      "Description": [
+        "Through the study of the cultural productions from Francophone cultures outside of France and Canada, students will deepen their knowledge of specific productions as well as of critical approaches to them in order to be able to formulate their own critical perspectives and to communicate them effectively and accurately orally and in writing.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10703",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "L. Lawson-Hellu",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 4108G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3753G - FRENCH LIT WRITTEN FOR CHLDRN",
+      "Description": [
+        "A detailed study of literary works from a variety of authors, periods and countries.",
+        "Extra Information: 3 hours"
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2895",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): French 2600E, or (both of French 2605F/G and French 2606F/G), or permission of the Department of French and Asian Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2895",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HC-W17",
+          "Instructor": "D. Buglea",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): French 2600E, or (both of French 2605F/G and French 2606F/G), or permission of the Department of French and Asian Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3760G - INDIGENOUS CULTURE IN FRENCH",
+      "Description": [
+        "The question of how French-speaking Indigenous authors express themselves and their cultures through literature and film will be explored. A richly varied, emerging literary corpus will be studied, with an emphasis on Indigenous pedagogy. Students will gain knowledge of First Nations, M\u00e9tis and Inuit peoples and perspectives.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2726",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2726",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE-SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): Both French 2605F/G and French 2606F/G (or French 2600E) or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3810A - SYNTAX IN FRENCH",
+      "Description": [
+        "Study of syntactic theory with a particular focus on the syntax of French. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3525",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "J. Lamarche",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2806A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3525",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WSC-240",
+          "Instructor": "J. Lamarche",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2806A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3830B - PHONETICS & PHONOLOGY IN FRNCH",
+      "Description": [
+        "Study of the phonetics and phonology of French. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3526",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "F. Poire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2805A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3526",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "F. Poire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2805A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3870A - HISTORY OF THE FRENCH LANGUAGE",
+      "Description": [
+        "An overview of the internal and external evolution of French, from Latin to the present. Historical phonetics, morphology and syntax shed light on lexical developments as well as philological issues arising in French texts of different periods. Social and political factors influencing the status of French today are also considered. ",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10713",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "M. Longtin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), or permission of the Department of French Studies. French 2805A/B and French 2806A/B are strongly recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10713",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "M. Longtin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 course from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900), or permission of the Department of French Studies. French 2805A/B and French 2806A/B are strongly recommended."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3890A - FRENCH APPLIED LINGUISTICS",
+      "Description": [
+        "This course provides students with relevant research in second language acquisition by explaining how languages are learned. It introduces some theories and discusses various approaches, outcomes and issues related to teaching.",
+        "Antirequisite(s): the former French 3800A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2649",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "BR-136",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2649",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "BR-136",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3894A - FRENCH PRONUNCIATION 1",
+      "Description": [
+        "Introduces students to the analysis of the sound system of the French language and the differences between the English and the French phonetic systems. Students will learn to identify and adjust non-native patterns of pronunciation through comparative analysis, listening exercises, phonetic transcriptions, pronunciation practice in class and recordings.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2815",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "BR-136",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2815",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "BR-136",
+          "Instructor": ".",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or by permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3900 - LANGUAGE (ADV LEVEL III)",
+      "Description": [
+        "Grammar, composition, translation and oral practice. (One hour per week in the language laboratory may be required.) ",
+        "Antirequisite(s): French 3905A/B, French 3907A/B, French 3908A/B.",
+        "Extra Information: 3 or 4 tutorial hours (Main); 3 or 4 lecture/tutorial hours (Brescia, Huron, King's)."
+      ],
+      "Components": [
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "11730",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "7:30 PM",
+          "Location": "BR-136",
+          "Instructor": "H. Keupdijo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "531",
+          "Component": "LEC",
+          "Class Nbr": "11730",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "BR-136",
+          "Instructor": "H. Keupdijo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2457",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "",
+          "Instructor": "N. de Moras",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1892",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W17",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1892",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-W17",
+          "Instructor": "K. Beaudoin",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1027",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-W168",
+          "Instructor": "M. Pascal",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 2900 or both French 2905A/B and French 2906A/B or permission of the Department, based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "571",
+          "Component": "TUT",
+          "Class Nbr": "1246",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "KC-W148",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3905A - READING TEXTS",
+      "Description": [
+        "This course will improve skills in the close reading and understanding of written and oral texts in French in a variety of different genres. Emphasis will be placed on grammatical, stylistic and rhetorical analysis and acquiring interpretive skills for understanding effects such as irony, presuppositions, connotations, and on vocabulary enhancement.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "7063",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B06",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3905B - READING TEXTS",
+      "Description": [
+        "This course will improve skills in the close reading and understanding of written and oral texts in French in a variety of different genres. Emphasis will be placed on grammatical, stylistic and rhetorical analysis and acquiring interpretive skills for understanding effects such as irony, presuppositions, connotations, and on vocabulary enhancement.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5961",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "S. Woodward",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3906A - SPEAKING TEXTS",
+      "Description": [
+        "This course focuses on improving pronunciation and enunciation of oral French. Through the study of oral and written texts from different genres and historical and geographic origins, students will acquire the ability to understand and interpret written language, and to use appropriate techniques (rhythm, intonation) to convey meaning orally.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5962",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-1105",
+          "Instructor": "M. Longtin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3906B - SPEAKING TEXTS",
+      "Description": [
+        "This course focuses on improving pronunciation and enunciation of oral French. Through the study of oral and written texts from different genres and historical and geographic origins, students will acquire the ability to understand and interpret written language, and to use appropriate techniques (rhythm, intonation) to convey meaning orally.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6092",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-1220",
+          "Instructor": "M. Longtin",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3907A - WRITING TEXTS",
+      "Description": [
+        "This course will enable students to improve their written communication skills in French. The emphasis will be placed on the practical development of writing abilities through in-class exercises, and a review of the principles of composition, of various rhetorical styles (description, narration, argumentation, etc.) and of writing mechanics.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5963",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SH-3307",
+          "Instructor": "L. Lawson-Hellu",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3907B - WRITING TEXTS",
+      "Description": [
+        "This course will enable students to improve their written communication skills in French. The emphasis will be placed on the practical development of writing abilities through in-class exercises, and a review of the principles of composition, of various rhetorical styles (description, narration, argumentation, etc.) and of writing mechanics.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5964",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "PAB-36",
+          "Instructor": "L. Lawson-Hellu",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3908A - INTENSIVE GRAMMAR REVIEW",
+      "Description": [
+        "This course reviews the essential elements of French grammar and aims to consolidate the grammatical knowledge acquired in previous courses.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5965",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-3026",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 3908B - INTENSIVE GRAMMAR REVIEW",
+      "Description": [
+        "This course reviews the essential elements of French grammar and aims to consolidate the grammatical knowledge acquired in previous courses.",
+        "Antirequisite(s): French 3900. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9085",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SH-2316",
+          "Instructor": "H. Boyi",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Two 0.5 credits from French 2905A/B, French 2906A/B, French 2907A/B (or French 2900) or permission of the Department of French Studies based on the Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4100F - RESEARCH PAPER",
+      "Description": [
+        "Strongly recommended for students contemplating graduate study in French.",
+        "Antirequisite(s) at Main: French 4600E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3527",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "READING COURSE. MUST HAVE INSTRUCTOR AND CHAIR APPROVAL - APPLICATION AVAILABLE IN THE DEPARTMENT OF FRENCH STUDIES. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies. See Department for information on application procedure."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4100G - RESEARCH PAPER",
+      "Description": [
+        "Strongly recommended for students contemplating graduate study in French.",
+        "Antirequisite(s) at Main: French 4600E.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3528",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "READING COURSE. MUST HAVE INSTRUCTOR AND CHAIR APPROVAL - APPLICATION AVAILABLE IN THE DEPARTMENT OF FRENCH STUDIES. ",
+            "REQUISITES: Prerequisite(s): Permission of the Department of French Studies. See Department for information on application procedure."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "Other"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4102F - ESTHETIC FORMS & PRACTICES",
+      "Description": [
+        "The objective of 4000-level literature courses is to enhance the appreciation of cultural productions and the questions they raise by developing literary skills and esthetic perception of literary and cultural texts. The aim is to develop a cultural competence so that students can observe and critique esthetic practices, and communicate effectively their appreciation.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10711",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "6:30 PM",
+          "Location": "SSC-2020",
+          "Instructor": "D. Vaillancourt",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 3721F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 French course in literature between French 3500-3799."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4105F - ESTHETIC FORMS & PRACTICES",
+      "Description": [
+        "The objective of 4000-level literature courses is to enhance the appreciation of cultural productions and the questions they raise by developing literary skills and esthetic perception of literary and cultural texts. The aim is to develop a cultural competence so that students can observe and critique esthetic practices, and communicate effectively their appreciation.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9080",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "J. Leclerc",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 3571F. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 French course in literature between French 3500-3799."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4108G - ESTHETIC FORMS & PRACTICES",
+      "Description": [
+        "The objective of 4000-level literature courses is to enhance the appreciation of cultural productions and the questions they raise by developing literary skills and esthetic perception of literary and cultural texts. The aim is to develop a cultural competence so that students can observe and critique esthetic practices, and communicate effectively their appreciation.",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9075",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "PAB-117",
+          "Instructor": "L. Lawson-Hellu",
+          "Notes": [
+            "CROSS-LISTED WITH FRENCH 3750G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 French course in literature between French 3500-3799."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4110G - SENIOR SEMINAR",
+      "Description": [
+        "For specific topics consult the Department of Modern Languages. ",
+        "Extra Information: 3 lecture/tutorial hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1817",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "10:00 AM",
+          "Location": "KC-BH107",
+          "Instructor": "S. Small",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. TOPIC: LA S\u00c9MIOTIQUE DU TEXTE. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): 1.0 French course in literature between French 3500-3799."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4821G - MORPHOLOGY IN FRENCH",
+      "Description": [
+        "Introduces the major theoretical and empirical problems relating to the structure of words. Classic morphological problems from French and other languages (derivation vs. inflection, wordhood, different types of morphemes) are used to shed light on the place of morphology in grammatical models, and the contributions of different theoretical approaches.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10714",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-3120",
+          "Instructor": "I. Paul",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 3810A/B or French 3830A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4830F - ADV PHONETICS & PHONOLOGY",
+      "Description": [
+        "Advanced study of acoustic and instrumental phonetics. Topics include segmental and prosodic aspects of French. Advanced study of French phonology, including autosegmental models and prosodic dimension of the language.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10715",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "UC-3120",
+          "Instructor": "F. Poire",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 3830A/B or permission of the Department of French Studies."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4900A - LANGUAGE (ADV LEV IV, SP TOP)",
+      "Description": [
+        "Study of specific problems in French language. ",
+        "Antirequisite(s) at Main campus: French 4901A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2656",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "BR-2001B",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or 1.0 course from French 3306A/B, French 3307A/B, French 3905A/B, French 3907A/B, French 3908A/B, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2656",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-2001A",
+          "Instructor": "V. Prat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or 1.0 course from French 3306A/B, French 3307A/B, French 3905A/B, French 3907A/B, French 3908A/B, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4900B - LANGUAGE (ADV LEV IV, SP TOP)",
+      "Description": [
+        "Study of specific problems in French language. ",
+        "Antirequisite(s) at Main campus: French 4901A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "1538",
+          "Days": [
+            "W",
+            "F"
+          ],
+          "Start Time": "10:00 AM",
+          "End Time": "11:30 AM",
+          "Location": "KC-BH107",
+          "Instructor": "C. Sandu",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or 1.0 course from French 3306A/B, French 3307A/B, French 3905A/B, French 3907A/B, French 3908A/B, or permission of the Department based on Placement Test. Placement Test results do not guarantee admission into the course. Written permission must be obtained from the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4901B - LANGUAGE ADV LVL 4, SPEC TOPIC",
+      "Description": [
+        "Study of specific problems in French language. ",
+        "Antirequisite(s) at Main campus: French 4900A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2657",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "4:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-UH30",
+          "Instructor": "H. Keupdijo",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or (both French 3305A/B and French 3306A/B)  or permission of the Department based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "2657",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "BR-UH30",
+          "Instructor": "H. Keupdijo",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or (both French 3305A/B and French 3306A/B)  or permission of the Department based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4902B - ADVANCED FRENCH LANGUAGE",
+      "Description": [
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2097",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or (both French 3305A/B and French 3306A/B)  or permission of the Department based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2097",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "3:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-W101",
+          "Instructor": "F. Szabo",
+          "Notes": [
+            "RESTRICTED TO STUDENTS REGISTERED AT AN AFFILIATED UNIVERSITY COLLEGE. ",
+            "REQUISITES: Prerequisite(s): French 3900 or French 3300 or (both French 3305A/B and French 3306A/B)  or permission of the Department based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "FRENCH 4903A - ADVANCED FRENCH COMMUNICATION",
+      "Description": [
+        "This course provides students with skills related to Advanced French Communication: fluency, vocabulary, listening skills, oral and written comprehension and production.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "530",
+          "Component": "LEC",
+          "Class Nbr": "11052",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "ONLINE SYNCHRONOUS. MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. ",
+            "REQUISITES: Prerequisite(s): French 3900 (or equivalent) with a minimum final grade of 75% or permission of the Department based on Placement Test."
+          ],
+          "Status": "Not Full",
+          "Campus": "Brescia",
+          "Delivery": "Distance Studies/Online"
+        }
+      ]
+    }
+  ]
+}

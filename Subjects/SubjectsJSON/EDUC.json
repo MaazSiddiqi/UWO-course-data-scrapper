@@ -1,0 +1,31 @@
+{
+  "Name": "Education",
+  "Code": "EDUC",
+  "Courses": [
+    {
+      "Name": "EDUC 2200E - PERSPECTIVES ON SCHOOLING",
+      "Description": [
+        "This course will consider various perceptions of the purpose and function of schooling, explore the culture of schools, and examine the characteristics and role of the teaching profession. The course is designed for students who are considering a teaching career, and for others interested in the social issues of schooling.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11698",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "FEB-2051",
+          "Instructor": ".",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

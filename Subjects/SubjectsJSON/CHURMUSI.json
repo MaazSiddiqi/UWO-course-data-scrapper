@@ -1,0 +1,32 @@
+{
+  "Name": "Church Music",
+  "Code": "CHURMUSI",
+  "Courses": [
+    {
+      "Name": "CHURMUSI 5222B - THEORY & PRACTICE MUSIC",
+      "Description": [
+        "The course combines a survey of the important theological, philosophical, and cultural notions of music and its use in the church with practical instruction in pastoral music (choosing appropriate hymns, music for special occasions, working with professional and amateur church musicians, employment issues).",
+        "Antirequisite(s): Theological Studies 3330F/G.",
+        "Extra Information:  3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2337",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

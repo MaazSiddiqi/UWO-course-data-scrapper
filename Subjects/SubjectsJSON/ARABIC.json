@@ -1,0 +1,264 @@
+{
+  "Name": "Arabic",
+  "Code": "ARABIC",
+  "Courses": [
+    {
+      "Name": "ARABIC 1030 - ARABIC FOR BEGINNERS",
+      "Description": [
+        "For students with no previous knowledge of Arabic, this course introduces spoken and written Modern Standard Arabic with emphasis on the development of communicative skills. Prepares students for progression directly to Arabic 2250. ",
+        "Antirequisite(s): Grade 12U Arabic and Arabic 1035. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "3829",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "CROSS-LISTED WITH ARABIC 1035 001."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "12494",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "CROSS-LISTED WITH ARABIC 1035 002."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 1035 - BEGINNER ARABIC",
+      "Description": [
+        "For students with some background in Arabic (heritage speakers), this course develops communicative skills and the ability to use Modern Standard Arabic. Prepares students for progression into Arabic 2250. Students are enrolled on the basis of a placement test.",
+        "Antirequisite(s): Grade 12U Arabic and Arabic 1030. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6141",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "UCC-59",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "CROSS-LISTED WITH ARABIC 1030 001"
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "LEC",
+          "Class Nbr": "12495",
+          "Days": [
+            "Tu",
+            "Th"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-54B",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "CROSS-LISTED WITH ARABIC 1030 002."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 1070A - QURANIC ARABIC FOR BEGINNERS",
+      "Description": [
+        "An introduction to Quranic Arabic for beginners with no previous knowledge of the Arabic language. Learn the script of the Qur\u2019an, acquire core vocabulary necessary to understand short Quranic chapters, and dive into basic grammar of classical Arabic.",
+        "Extra Information: 3 hours.",
+        "Note: Those with any Arabic language background must see Instructor to determine eligibility for course."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2057",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "HC-A1",
+          "Instructor": "Y. Kharrat",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 2050A - ARABIC SPEAKING SKILLS",
+      "Description": [
+        "The course is designed to enable students to use Arabic in real-life situations by developing oral communication skills. The course methodology focuses on practice in speaking Arabic through guided conversations, group discussions, and informal talking. Upon successful completion of this course the students will have improved their spoken fluency, their accuracy in the language and their confidence in speaking by discussing various issues directly in Arabic.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2280",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-V214",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "STUDENTS WITH PRIOR CLASSROOM EXPERIENCE WITH THE ARABIC LANGUAGE SHOULD NOT ENROLL IN THIS COURSE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 2080A - INTERMEDIATE QURANIC ARABIC",
+      "Description": [
+        "This course builds upon Quranic Arabic for Beginners 1070A/B. The focus is to expand Quranic vocabulary and to acquire a familiarity with more complex grammatical structures through studying Quranic texts. By the end of this course, students will have acquired the key principles of Quranic grammar.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "10355",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "HC-V214",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Arabic 1070A/B, or permission of the instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 2250 - INTERMEDIATE ARABIC",
+      "Description": [
+        "This course is designed to build upon skills in reading and speaking Arabic developed in earlier courses. Students will gain increased vocabulary and a greater understanding of more complex grammatical structures. They will be able to approach prose, fiction, and non-fiction written in the language. ",
+        "Extra Information: 4 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "4271",
+          "Days": [
+            "M",
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UCC-61",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): Arabic 1030, Arabic 1035 or Grade 12U Arabic, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 3260B - READINGS FROM THE QUR'AN",
+      "Description": [
+        "Readings from the Qur'an is a study in classical Arabic. Its main focus is the vocabulary frequently encountered in the Qur'an. The course objective is to equip the student with the skills necessary to understand the grammar, vocabulary, and syntactical and morphological structure of the Qur'an.",
+        "Antirequisite(s): Arabic 5260A/B.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2256",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "HC-A1",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH ARABIC 5260B. ",
+            "REQUISITES: Prerequisite(s): Arabic 2250 or permission of instructor."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "ARABIC 5260B - READINGS FROM THE QUR'AN",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2255",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "HC-A1",
+          "Instructor": "Y. Kharrat",
+          "Notes": [
+            "MAIN CAMPUS STUDENTS REQUIRE HOME FACULTY PERMISSION. CROSS-LISTED WITH ARABIC 3260B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option selected="" value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+1   Results <br/><br/><br/>
+<h4>MEDHINFO 4980E - SEMINAR &amp; RESEARCH PROJECT</h4>
+<p class="font-md"><b>Course Description:</b> Major research project and weekly seminar course for the Honours Specialization in Medical Health Informatics. Includes: i) theory and practice of research methodology and critical appraisal of research literature, ii) an independent research project supervised by faculty, and iii) preparation of a research proposal and final written research project report.
+
+Extra Information: Minimum 12 laboratory hours per week plus 3 seminar hours per week.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6569</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+</td>
+<td>
+		                                        C. Castellani<br/>
+		                                            P. Shooshtari<br/>
+</td>
+<td>
+		                                       RESTRICTED TO YR 4 HONS SPECIALIZATION IN MEDICAL HEALTH INFORMATICS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Registration in Year 4 of an Honours Specialization in Medical Health Informatics. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

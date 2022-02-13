@@ -1,0 +1,1932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option selected="" value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+23   Results <br/><br/><br/>
+<h4>ARTHUM 1020E - INTRO TO THE ARTS &amp; HUMANITIES</h4>
+<p class="font-md"><b>Course Description:</b> A combined historical and thematic survey of select fields that comprise the Humanities and the various approaches and methods they employ in furthering our understanding of the human experience. The various forms of communication used in the arts will also be examined. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5838</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												UC-3110 
+											</td>
+<td>
+		                                        H. Fielding<br/>
+		                                            L. De Looze<br/>
+</td>
+<td>
+		                                       RESTRICTED TO STUDENTS ENROLLED IN THE SCHOOL FOR ADVANCED STUDIES IN THE ARTS AND HUMANITIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Admission to the School for Advanced Studies in Arts and Humanities 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 2200E - CRITICAL THEORIES - ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course addresses contemporary theories and historical approaches currently used in the Arts and Humanities. The course aims to provide a foundation for critical thought by exploring how different disciplines understand and interpret texts, objects, and historical contexts. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6161</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												UC-3110 
+											</td>
+<td>
+		                                        A. Robin<br/>
+		                                            L. De Looze<br/>
+</td>
+<td>
+		                                       RESTRICTED TO STUDENTS ENROLLED IN THE SCHOOL FOR ADVANCED STUDIES IN THE ARTS AND HUMANITIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 75% or higher in Arts and Humanities 1020E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 2220F - EFFECTIVE CMN IN THE ARTS&amp;HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course examines the critical forms and strategies of writing and speaking in the Arts and Humanities by studying the principles and practices of rhetoric, argumentation, stylistic clarity, editing/rewriting, with an eye to students' professional as well as academic development. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7619</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												TC-342 
+											</td>
+<td>
+		                                        M. Arntfield 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS ENROLLED IN THE SCHOOL FOR ADVANCED STUDIES IN THE ARTS AND HUMANITIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 75% or higher in Arts and Humanities 1020E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 2230G - DIGITAL TOOLS, DIGITAL LIT</h4>
+<p class="font-md"><b>Course Description:</b> This course examines the evolution of information systems and the impact of digital technologies on research in the Arts and Humanities through a hands-on examination of databases, search engines, and online archives; text mining and analysis tools; visualization, bibliography and citation software; social media, blogging, and website design and creation.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>6122</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												FNB-2220 
+											</td>
+<td>
+		                                        R. Skinner 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS ENROLLED IN THE SCHOOL FOR ADVANCED STUDIES IN THE ARTS AND HUMANITIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 75% or higher in Arts and Humanities 1020E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 2290F - RSCH TPCS IN ARTS &amp; HUMANITIES</h4>
+<p class="font-md"><b>Course Description:</b> An examination of scholarly methods applied to a specific research topic or area.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12498</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       REGISTRATION BY PERMISSION ONLY 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 75% or higher in Arts and Humanities 1020E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3000A - INTERNSHIP</h4>
+<p class="font-md"><b>Course Description:</b> Academic Internship may be paid or unpaid, credit internship for up to four months, or a minimum of 140 hours. Students may pursue an internship within an approved institution or industry related to their module within the Faculty of Arts and Humanities.
+
+Extra Information: International students should consult with the Faculty’s academic counselling
+office to confirm eligibility. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9985</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Registration in the third or fourth year of either a Major or Specialization within the Faculty of Arts and Humanities, with a cumulative average of at least 70% and no failures. Approval of the Department and Dean’s Office of the Arts and Humanities. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3000B - INTERNSHIP</h4>
+<p class="font-md"><b>Course Description:</b> Academic Internship may be paid or unpaid, credit internship for up to four months, or a minimum of 140 hours. Students may pursue an internship within an approved institution or industry related to their module within the Faculty of Arts and Humanities.
+
+Extra Information: International students should consult with the Faculty’s academic counselling
+office to confirm eligibility. The student is required to a) maintain a suitable level of performance in the position as verified by the employer through evaluations and b) submit a mid-term as well as a final report, demonstrating how the experience gained through the internship relates to his/her coursework and program of study.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10049</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Registration in the third or fourth year of either a Major or Specialization within the Faculty of Arts and Humanities, with a cumulative average of at least 70% and no failures. Approval of the Department and Dean’s Office of the Arts and Humanities. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3380Y - PROFESS &amp; COMMUNITY PRACTICES</h4>
+<p class="font-md"><b>Course Description:</b> This online course introduces students to the critical and research skills and practical tools required to 1) engage in experiential learning, 2) comport oneself in a professional manner in preparation for the job market and related contexts, and 3) plan a community-based project and the presentation of its outcomes.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>650</td>
+<td>LEC</td>
+<td>9794</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        B. Bruce 
+		                                    </td>
+<td>
+		                                       ONLINE COURSE. RESTRICTED TO STUDENTS ENROLLED IN THE ARTS AND HUMANITIES MODULE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													Distance Studies/Online
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3390G - SPC TPS IN ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7620</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												AHB-2B04 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ENGLISH 3204G AND WOMEN'S STUDIES 3324G. TOPIC: CRITICAL RACE THEORY. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3391G - SPC TPS IN ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8779</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												UC-1225 
+											</td>
+<td>
+		                                        R. Pogorzelski 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH CLASSICS 3905G. TOPIC: CLASSICAL RECEPTION STUDIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8779</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												UC-1225 
+											</td>
+<td>
+		                                        R. Pogorzelski 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH CLASSICS 3905G. TOPIC: CLASSICAL RECEPTION STUDIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3392F - SPC TPS IN ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>8860</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												TC-341 
+											</td>
+<td>
+		                                        K. Stanley 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ENGLISH 3480F. TOPIC: READING AMERICA NOW. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3392G - SPC TPS IN ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9869</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												SH-2317 
+											</td>
+<td>
+		                                        H. Boyi 
+		                                    </td>
+<td>
+		                                       EXPERIENTIAL LEARNING COURSE. CONTACT THE DEPT OF FRENCH STUDIES FOR INFORMATION ON THE APPLICATION PROCEDURE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3393F - SPC TPS IN THE ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7621</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>8:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-1B08 
+											</td>
+<td>
+		                                        C. Viger 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ART PHILOSOPHY 3420F. TOPIC: THE PHILOSOPHY OF PSYCHOLOGY. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7621</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-1B08 
+											</td>
+<td>
+		                                        C. Viger 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ART PHILOSOPHY 3420F. TOPIC: THE PHILOSOPHY OF PSYCHOLOGY. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 3393G - SPC TPS IN THE ARTS &amp; HUM</h4>
+<p class="font-md"><b>Course Description:</b> This course offers students an intensive and engaged learning experience by focusing on the research expertise of one of the School's Fellows. Students will study the practical issues and approaches to research in the Arts and Humanities. The course encourages self-directed study, and may include travel to an international location.
+
+Extra Information: 3 lecture hours. Note: Please consult the Faculty for current course offering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10626</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												PAB-34 
+											</td>
+<td>
+		                                        I. Coyote 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH ENGLISH 2099G. TOPIC: MUNRO CHAIR IN CREATIVITY. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4410E - INTEGRATED SEMINAR</h4>
+<p class="font-md"><b>Course Description:</b> This capstone seminar centres on a specific theme or hot topic, chosen by a specific Visiting Fellow, to be examined from various disciplinary and methodological perspectives in the Arts and Humanities. Students can 
+expect to travel to a national or international site to undertake intensive fieldwork. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7292</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												STVH-3101 
+											</td>
+<td>
+		                                        D. Garnhum<br/>
+		                                            A. Suksi<br/>
+</td>
+<td>
+		                                       RESTRICTED TO STUDENTS ENROLLED IN THE SCHOOL FOR ADVANCED STUDIES IN THE ARTS AND HUMANITIES. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4490F - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors.
+
+Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7322</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4491F - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors.
+
+Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7323</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4492G - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors.
+
+Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7324</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4493G - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors.
+
+Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7325</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4494W - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors. Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9638</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>ARTHUM 4494X - EXPERIENTIAL LEARNING</h4>
+<p class="font-md"><b>Course Description:</b> This course focuses on the advanced development of critical and research skills to prepare students for postgraduate study. Please consult the Faculty for current offerings. Students can also elect to undertake a research, teaching, or unpaid internship in a professional field to prepare for jobs in the private and public sectors. Note: A detailed proposal of the internship must be submitted to the School's Director for approval prior to registering in the course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9639</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Arts and Humanities 2200E, Arts and Humanities 2220F/G, Arts and Humanities 2230F/G. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

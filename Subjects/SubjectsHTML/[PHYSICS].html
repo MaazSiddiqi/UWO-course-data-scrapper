@@ -1,0 +1,4592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option selected="" value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+78   Results <br/><br/><br/>
+<h4>PHYSICS 0011A - INTRODUCTORY PHYSICS I</h4>
+<p class="font-md"><b>Course Description:</b> An introductory course in physics covering the foundation principles of kinematics, force and motion, work and energy, linear momentum, rotation, torque and angular momentum, fluids, oscillations, and waves. Physics 0011A/B and Physics 0012A/B in combination are equivalent to the Ontario Grade 12U level Physics.
+
+Antirequisite(s): Ontario High School SPH4U, Physics 0010, any university-level Physics course.
+
+Extra Information: 2 lecture hours, 3 laboratory/tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2695</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												BR-303 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS IN PRELIMINARY YEAR. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): High School Physics (Grade 11 Advanced Level or equivalent) or permission of the Dean, and registration in the Preliminary Year program at Brescia University College. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>531</td>
+<td>LAB</td>
+<td>2696</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												BR-2006 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 0012B - INTRODUCTORY PHYSICS II</h4>
+<p class="font-md"><b>Course Description:</b> This course explores gravitation, electric circuits, electric fields and potential, magnetic fields and electromagnetic induction. Physics 0011A/B and Physics 0012A/B in combination are equivalent to the Ontario Grade 12U level Physics.
+
+Antirequisite(s): Ontario High School SPH4U or equivalent, Physics 0010, any university-level Physics course.
+
+Extra Information: 2 lecture hours, 3 laboratory/tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>530</td>
+<td>LEC</td>
+<td>2697</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>6:30 PM</td>
+<td>
+												BR-303 
+											</td>
+<td>
+		                                        D. Henadeerage Don 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS IN PRELIMINARY YEAR. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 0011A/B or permission of the Dean, and registration in the Preliminary Year program at Brescia University College. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>531</td>
+<td>LAB</td>
+<td>2698</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>4:30 PM</td>
+<td>7:30 PM</td>
+<td>
+												BR-2006 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Brescia
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1101A - INTRODUCTION TO PHYSICS I</h4>
+<p class="font-md"><b>Course Description:</b> An introductory algebra-based course in physics covering the foundation principles of kinematics, forces, conservation of energy and momentum, torque, equilibrium, geometric optics and optical instruments. Fundamental physics concepts are introduced with examples from biological applications.
+
+Antirequisite(s): Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10259</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												AHB-1R40 
+											</td>
+<td>
+		                                        T. Poepping 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Pre- or Corequisite(s): Grade 12U Advanced Functions (MHF4U) or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>10260</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>10261</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>10262</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1102B - INTRODUCTION TO PHYSICS II</h4>
+<p class="font-md"><b>Course Description:</b> An introductory algebra-based course in physics covering the foundation principles of oscillations and waves, fluids, electricity, and magnetism. Fundamental physics concepts are introduced with examples from biological applications.
+
+Antirequisite(s): Physics 1202A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory hours.
+Note: This course is not suitable for entry into programs in Physics and Astronomy or for admission to the Bachelor of Medical Sciences program.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10263</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HSB-40 
+											</td>
+<td>
+		                                        B. Tudose 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One of Physics 1101A/B, Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, or Physics 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>10264</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>12424</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>12425</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1201A - PHYSICS FOR THE SCIENCES I</h4>
+<p class="font-md"><b>Course Description:</b> An introductory laboratory-based course in physics covering the foundational principles of kinematics, force and motion, energy, linear momentum, rotational motion, torque, equilibrium, angular momentum, geometric optics and optical instruments. Fundamental physics concepts are introduced with examples in physical, biological, and medical processes to develop students’ problem-solving skills.
+
+Antirequisite(s): Physics 1101A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours. 
+Note: This course, together with Physics 1202A/B, is a suitable prerequisite for modules having an introductory physics requirement (including modules in the Faculty of Science, modules offered by the basic Medical Science departments, and professional schools requiring a calculus-based laboratory course in physics).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10265</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												NS-145 
+											</td>
+<td>
+		                                        E. Wong 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Pre-or Corequisite(s): Grade 12U Calculus and Vectors (MCV4U) or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>10266</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												NS-145 
+											</td>
+<td>
+		                                        E. Wong 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Pre-or Corequisite(s): Grade 12U Calculus and Vectors (MCV4U) or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>10267</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>10268</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>10269</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>10270</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>LAB</td>
+<td>10271</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>LAB</td>
+<td>10272</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>LAB</td>
+<td>10273</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1202B - PHYSICS FOR THE SCIENCES II</h4>
+<p class="font-md"><b>Course Description:</b> An introductory laboratory-based course in physics covering the foundational principles of oscillations, waves, fluids, electric fields and potential, DC circuits, magnetic fields, and magnetic induction. Fundamental physics concepts are introduced with examples in physical, biological, and medical processes to develop students’ problem-solving skills.
+
+Antirequisite(s): Physics 1102A/B, Physics 1402A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.
+Note: This course, together with Physics 1201A/B, is a suitable prerequisite for modules having an introductory physics requirement (including modules in the Faculty of Science, modules offered by the basic Medical Science departments, and professional schools requiring a calculus-based laboratory course in physics).</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>10274</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												NCB-101 
+											</td>
+<td>
+		                                        J. Cami 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One of Physics 1201A/B, Physics 1401A/B or Physics 1501A/B, or a minimum mark of 80% in Physics 1101A/B, or the former Physics 1028A/B or Physics 1301A/B.
+Pre-or Corequisite(s): Calculus 1000A/B or Calculus 1500A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>10275</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												NS-145 
+											</td>
+<td>
+		                                        J. Cami 
+		                                    </td>
+<td>
+		                                       SEE THE FACULTY OF SCIENCE ACADEMIC COUNSELLING FAQS FOR GUIDANCE ON CHOOSING A PHYSICS COURSE https://www.uwo.ca/sci/counselling/pdf/Western_yr1physics_2021.pdf 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): One of Physics 1201A/B, Physics 1401A/B or Physics 1501A/B, or a minimum mark of 80% in Physics 1101A/B, or the former Physics 1028A/B or Physics 1301A/B.
+Pre-or Corequisite(s): Calculus 1000A/B or Calculus 1500A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>12426</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>12427</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>12428</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>12429</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>007</td>
+<td>LAB</td>
+<td>12430</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>008</td>
+<td>LAB</td>
+<td>12431</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>009</td>
+<td>LAB</td>
+<td>12432</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1401A - PHYSICS FOR ENG STDNTS I</h4>
+<p class="font-md"><b>Course Description:</b> An introductory calculus-based laboratory course in physics covering the foundational principles of kinematics, force and motion, energy, linear momentum, rotation, torque and angular momentum, gravitation, fluids. 
+
+Antirequisite(s): Physics 1021, Physics 1101A/B, Physics 1201A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.
+Note: Registration is restricted to students in the Faculty of Engineering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5098</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-1R40 
+											</td>
+<td>
+		                                        S. Mittler 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED IN THE FACULTY OF ENGINEERING. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Grade 12U Calculus and Vectors (MCV4U) or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>5099</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												MC-110 
+											</td>
+<td>
+		                                        S. Mittler 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED IN THE FACULTY OF ENGINEERING. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Grade 12U Calculus and Vectors (MCV4U) or Mathematics 0110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>5100</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>5101</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>5102</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>6194</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1402B - PHYSICS FOR ENG STDNTS II</h4>
+<p class="font-md"><b>Course Description:</b> An introductory calculus-based laboratory course in physics covering the foundational principles of oscillations, waves, electric fields and potential, DC circuits, magnetic fields, magnetic induction.
+
+Antirequisite(s): Physics 1021, Physics 1102A/B, Physics 1202A/B, Physics 1502A/B, the former Physics 1029A/B, the former Physics 1302A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.
+Note: Registration is restricted to students in the Faculty of Engineering.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5103</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-1R40 
+											</td>
+<td>
+		                                        S. Metchev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED IN THE FACULTY OF ENGINEERING. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1401A/B or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LEC</td>
+<td>5104</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												NSC-1 
+											</td>
+<td>
+		                                        S. Metchev 
+		                                    </td>
+<td>
+		                                       RESTRICTED TO STUDENTS REGISTERED IN THE FACULTY OF ENGINEERING. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1401A/B or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>5105</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>5106</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>12:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>5107</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>006</td>
+<td>LAB</td>
+<td>6193</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:00 PM</td>
+<td>9:00 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1501A - ENRICHED INTRO PHYSICS I</h4>
+<p class="font-md"><b>Course Description:</b> A calculus-based laboratory course for students intending to pursue further studies in science, particularly the physical sciences. Newton's laws, energy, linear momentum, rotations and angular momentum, gravitation and planetary motion.
+
+Antirequisite(s): Physics 1021, Physics 1101A/B, Physics 1201A/B, Physics 1401A/B, the former Physics 1028A/B, the former Physics 1301A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.
+Note: This course, together with Physics 1502A/B, is a suitable prerequisite for all modules in the Faculty of Science, for all modules offered by the basic medical science departments and for professional schools having a Physics requirement.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5108</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        P. Wiegert 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Grade 12U Physics (SPH4U); Grade 12U Calculus and Vectors (MCV4U) or Mathematics 0110A/B. 
+
+Corequisite(s): Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B. The former Applied Mathematics 1412A/B or the former Applied Mathematics 1413 can be used in place of Numerical and Mathematical Methods 1412A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>5109</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 1502B - ENRICHED INTRO PHYSICS II</h4>
+<p class="font-md"><b>Course Description:</b> A calculus-based laboratory course for students intending to pursue further studies in science, particularly the physical sciences. Relativity, the electromagnetic interaction, the strong and weak interactions, oscillations and waves.
+
+Antirequisite(s): Physics 1021, Physics 1102A/B, Physics 1202A/B, Physics 1402A/B, the former Physics 1029A/B, the former Physics 1302A/B.
+
+Extra Information: 3 lecture hours, 3 laboratory/tutorial hours.
+Note: This course, together with Physics 1501A/B, is a suitable prerequisite for all modules in the Faculty of Science, for modules offered by the basic medical science departments and for professional schools having a Physics requirement.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5110</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        S. Gallagher 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): one of Physics 1501A/B (preferred) or Physics 1201A/B or Physics 1401A/B, or the former Physics 1301A/B, or a minimum mark of 80% in the former Physics 1028A/B; Calculus 1000A/B or Calculus 1500A/B or Applied Mathematics 1412A/B. 
+
+Corequisite(s): Calculus 1501A/B (preferred) or Calculus 1301A/B or Numerical and Mathematical Methods 1414A/B.  The former Applied Mathematics 1414A/B or the former Applied Mathematics 1413 can be used in place of Numerical and Mathematical Methods 1414A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>5111</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        S. Nene 
+		                                    </td>
+<td>
+		                                       HELD IN MSA 2220, 2230, 2240 AND 2250. CONTACT DEPARTMENT. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2070B - UNDERSTNDNG EARTH'S ATMOSPHERE</h4>
+<p class="font-md"><b>Course Description:</b> This course is designed for non-science students and examines the atmosphere in which we live, how it affects our everyday life, and how we in turn, as the technologically dominant earth-borne species, affect it. Atmospheric phenomena such as wind, temperature, composition, precipitation and electricity are used to illustrate basic physical principles.
+
+Antirequisite(s): Physics 1101A/B, Physics 1201A/B, Physics 1401A/B, Physics 1501A/B, the former Physics 1028A/B, the former Physics 1301A/B.
+
+Extra Information: 2 lecture hours.  May not be taken for credit by students in the Faculty of Science.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12421</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>8:30 PM</td>
+<td>
+												PAB-117 
+											</td>
+<td>
+		                                        M. Zinke-Allmang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2101A - INTERMEDIATE PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> Maxwell's equations, electromagnetic waves and induction, geometric optics, the propagation of light, thermal properties of matter and the laws of thermodynamics.
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4124</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												B&amp;GS-0153 
+											</td>
+<td>
+		                                        M. Campbell 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1201A/B or Physics 1401A/B or Physics 1501A/B or the former Physics 1301A/B, each with a minimum mark of 60%, or the former Physics 1028A/B with a minimum mark of 80%; Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1302A/B, each with a minimum mark of 60%, or the former Physics 1029A/B with a minimum mark of 80%; a minimum mark of 60% in each of (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B) and (Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B), or in the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B and Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4137</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SSC-2032 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2102B - INTRO TO MODERN PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> Introduction to quantum mechanics, wave-particle duality, atomic physics, nuclear physics, particle physics and the origins of the universe. 
+
+Extra Information: 3 lecture hours, 1 tutorial hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4125</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												MC-105B 
+											</td>
+<td>
+		                                        E. Peeters 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1201A/B or Physics 1401A/B or Physics 1501A/B or the former Physics 1301A/B, each with a minimum mark of 60%, or the former Physics 1028A/B with a minimum mark of 80%; Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1302A/B, each with a minimum mark of 60%, or the former Physics 1029A/B with a minimum mark of 80%; a minimum mark of 60% in each of (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B) and (Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B), or in the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B and Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>TUT</td>
+<td>4138</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SSC-2032 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2110A - OSCILLATIONS &amp; WAVES</h4>
+<p class="font-md"><b>Course Description:</b> A unified treatment of oscillatory and wave motion, with examples from mechanics, electromagnetism, optics and materials science. Topics include simple harmonic motion, forced oscillations and resonance, coupled oscillations, transverse waves on strings and in crystals, longitudinal waves in gases and solids, electromagnetic waves, Fourier methods, nonlinear oscillations and chaos.
+
+Extra Information: 3 lecture hours, 2 laboratory/tutorial hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7688</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        P. Barmby 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1201A/B or Physics 1401A/B or Physics 1501A/B or the former Physics 1301A/B, each with a minimum mark of 60%, or the former Physics 1028A/B with a minimum mark of 80%; Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1302A/B, each with a minimum mark of 60%, or the former Physics 1029A/B with a minimum mark of 80%; a minimum mark of 60% in each of (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B) and (Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B), or in the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B and Calculus 1301A/B. 
+
+Pre-or Corequisite(s): Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>7689</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2910G - INTRO TO PHYSICAL MEASUREMENT</h4>
+<p class="font-md"><b>Course Description:</b> Students will gain an introduction to experimental techniques through experiments on electricity and magnetism, and modern physics. Concurrent lectures will cover circuit theory and experimental design.
+
+Extra Information: 3 lecture hours, 3 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7690</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												SSC-3026 
+											</td>
+<td>
+		                                        G. Fanchini 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1201A/B or Physics 1401A/B or Physics 1501A/B or the former Physics 1301A/B, each with a minimum mark of 60%, or the former Physics 1028A/B with a minimum mark of 80%; Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1302A/B, each with a minimum mark of 60%, or the former Physics 1029A/B with a minimum mark of 80%; a minimum mark of 60% in each of (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B) and (Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B), or in the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B and Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>7690</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												SSC-3026 
+											</td>
+<td>
+		                                        G. Fanchini 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 1201A/B or Physics 1401A/B or Physics 1501A/B or the former Physics 1301A/B, each with a minimum mark of 60%, or the former Physics 1028A/B with a minimum mark of 80%; Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1302A/B, each with a minimum mark of 60%, or the former Physics 1029A/B with a minimum mark of 80%; a minimum mark of 60% in each of (Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or the former Applied Mathematics 1412A/B) and (Calculus 1301A/B or Calculus 1501A/B or Numerical and Mathematical Methods 1414A/B or the former Applied Mathematics 1414A/B), or in the former Applied Mathematics 1413. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B and Calculus 1301A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>7691</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>6:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>003</td>
+<td>LAB</td>
+<td>7692</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>004</td>
+<td>LAB</td>
+<td>7693</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>005</td>
+<td>LAB</td>
+<td>7694</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>3:30 PM</td>
+<td>
+</td>
+<td>
+		                                        . 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 2950Y - YEAR 2 SEMINAR</h4>
+<p class="font-md"><b>Course Description:</b> A forum for students to meet the third and fourth year students and faculty in an informal setting. We will discuss research areas, practise giving and critiquing talks, and provide information on careers.
+
+Extra Information: 1 lecture hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3804</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        S. Gallagher<br/>
+		                                            P. Wiegert<br/>
+</td>
+<td>
+		                                       CROSS-LISTED WITH PHYSICS 3950Y AND PHYSICS 4950Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3151A - CLASSICAL MECHANICS I</h4>
+<p class="font-md"><b>Course Description:</b> This course provides students with the tools to tackle more complex problems than those covered in introductory mechanics. D'Alembert's principle, principle of least action, Lagrange's equations, Hamilton's equations, Poisson brackets, canonical transformations, central forces, rigid bodies, oscillations. Optional topics including: special relativity, Hamilton-Jacobi theory, constrained systems, field theory.
+
+Antirequisite(s): Applied Mathematics 3151A/B.   
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4126</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>10:30 AM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        G. Fanchini 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): (Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1029A/B or the former Physics 1302A/B), or Integrated Science 1001X; Calculus 2303A/B or Calculus 2503A/B or Numerical and Mathematical Methods 2276A/B or Numerical and Mathematical Methods 2277A/B or the former Applied Mathematics 2276A/B or the former Applied Mathematics 2277A/B; Applied Mathematics 2402A or Numerical and Mathematical Methods 2270A/B or the former Applied Mathematics 2270A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4126</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												AHB-2B02 
+											</td>
+<td>
+		                                        G. Fanchini 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): (Physics 1202A/B or Physics 1402A/B or Physics 1502A/B or the former Physics 1029A/B or the former Physics 1302A/B), or Integrated Science 1001X; Calculus 2303A/B or Calculus 2503A/B or Numerical and Mathematical Methods 2276A/B or Numerical and Mathematical Methods 2277A/B or the former Applied Mathematics 2276A/B or the former Applied Mathematics 2277A/B; Applied Mathematics 2402A or Numerical and Mathematical Methods 2270A/B or the former Applied Mathematics 2270A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3200B - QUANTUM MECHANICS 1</h4>
+<p class="font-md"><b>Course Description:</b> The Schrodinger equation in one dimension, wave packets, stationary states, the harmonic oscillator, the postulates of Quantum Mechanics, operators and eigenvalue equations, angular momentum, the hydrogen atom.
+
+Antirequisite(s): Chemistry 3374A/B.   
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4262</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        A. Soddu 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former Applied Mathematics 1411A/B; Physics 2101A/B and Physics 2102A/B; Physics 2110A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3300A - ELECTROMAGNETIC THEORY I</h4>
+<p class="font-md"><b>Course Description:</b> A study of static electric and magnetic fields using vector calculus; time varying electric and magnetic fields, Maxwell's equations, electric and magnetic fields in matter.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4263</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        M. Campbell 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2101A/B and Physics 2102A/B; Calculus 2302A/B or Calculus 2502A/B or Numerical and Mathematical Methods 2276A/B or Numerical and Mathematical Methods 2277A/B or the former Applied Mathematics 2276A/B or the former Applied Mathematics 2277A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4263</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        M. Campbell 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2101A/B and Physics 2102A/B; Calculus 2302A/B or Calculus 2502A/B or Numerical and Mathematical Methods 2276A/B or Numerical and Mathematical Methods 2277A/B or the former Applied Mathematics 2276A/B or the former Applied Mathematics 2277A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3400B - INTRODUCTN TO THERMAL PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> Thermodynamics applied to classical and quantum systems. Thermodynamic laws, interactions, engines, phase transformations of pure substances, Boltzmann statistics, simple quantum systems. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4185</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-148 
+											</td>
+<td>
+		                                        A. Ouriadov 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2101A/B and Physics 2102A/B, or Physics 2128A/B and Physics 2129A/B; Physics 2110A/B or the former Physics 2900E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3900G - SENIOR PHYSICS LABORATORY</h4>
+<p class="font-md"><b>Course Description:</b> A senior physics laboratory designed to familiarize the student with the basic concepts of modern physics, with emphasis on the development of experimental skills and including an introduction to computer programming and its use in experimental analysis. 
+
+Extra Information: 6 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5454</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        T. Poepping 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH PHYSICS 4910G. HELD IN PAB 130. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2910F/G, or the former Physics 2900E. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3926F - COMPUTER SIMULATNS IN PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> A project-oriented computation course using applications of numerical methods to problems in medical physics, science of materials, atmospheric physics and astrophysics. Projects will involve choosing a physical problem, posing scientific questions, and implementing a computer simulation. Techniques for programming, analysis, and presentation will be developed.
+
+Antirequisite(s): The former Applied Mathematics 3911F/G. 
+
+Extra Information: 3 lecture hours, 2 laboratory hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>5455</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        P. Barmby 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): (Physics 1202A/B, Physics 1402A/B, Physics 1502A/B or the former Physics 1302A/B); one of Calculus 2303A/B, or Calculus 2503A/B, Numerical and Mathematical Methods 2276A/B, Numerical and Mathematical Methods 2277A/B, the former Applied Mathematics 2276A/B, the former Applied Mathematics 2277A/B. Integrated Science 1001X with a minimum mark of 60% can be used in place of Physics 1202A/B. 
+
+Pre-or Corequisite(s): Applied Mathematics 2402A/B or Numerical and Mathematical Methods 2270A/B or the former Applied Mathematics 2270A/B; and Physics 2110A/B or Applied Mathematics 2814F/G or Statistical Sciences 2864A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>002</td>
+<td>LAB</td>
+<td>5456</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        P. Barmby 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 3950Y - YEAR 3 SEMINAR</h4>
+<p class="font-md"><b>Course Description:</b> A forum for students to meet the second and fourth year students and faculty in an informal setting. We will discuss research areas, practise giving and critiquing talks, and provide information on careers. 
+
+Extra Information: 1 lecture hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3805</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        P. Wiegert<br/>
+		                                            S. Gallagher<br/>
+</td>
+<td>
+		                                       CROSS-LISTED WITH PHYSICS 2950Y AND PHYSICS 4950Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4251A - QUANTUM PHYSICS II</h4>
+<p class="font-md"><b>Course Description:</b> Potential scattering, spin, addition of angular momenta, stationary and time-dependent perturbation theory, systems of identical particles, applications to atomic, molecular, solid state, nuclear, particle and atmospheric physics.
+
+Antirequisite(s): The former Applied Mathematics 4251A. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4264</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												SSC-3024 
+											</td>
+<td>
+		                                        A. Soddu 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 3200A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4351B - ELECTROMAGNETIC THEORY II</h4>
+<p class="font-md"><b>Course Description:</b> Maxwell's equations; conservation laws; electromagnetic waves and waveguides; electromagnetic radiation; relativistic formulation of electrodynamics.
+
+Antirequisite(s): The former Applied Mathematics 4351A/B.   
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>4420</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												PAB-117 
+											</td>
+<td>
+		                                        T. Sigut 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 3300A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4662A - MAGNETIC RESONANCE IMAGING</h4>
+<p class="font-md"><b>Course Description:</b> Concepts from electromagnetic theory, quantum mechanics and statistical mechanics will be applied to illuminate the principles and techniques of nuclear magnetic resonance (NMR). Applications of NMR to materials science, chemistry, and medicine will be discussed. 
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9329</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        B. Chronik 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2102A/B or Physics 2129A/B or Medical Biophysics 2129A/B, or permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4672B - RADIOLOGICAL PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to the instrumentation and techniques of radiation therapy.
+
+Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12422</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												PAB-34 
+											</td>
+<td>
+		                                        E. Wong 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Corequisite(s): Physics 3300A/B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4910G - ADVANCED PHYSICS PROJECT</h4>
+<p class="font-md"><b>Course Description:</b> A research project in advanced experimental, theoretical or computational physics under faculty supervision. It is intended to provide students with experience in the design, implementation and presentation of a physics experiment.
+
+Extra Information: 6 hours.
+Note: Though this course and Physics 4999E Honours Thesis Project are not antirequisites, the project undertaken for Physics 4910F/G must be distinctly different from that of Physics 4999E, if applicable.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>9328</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>5:30 PM</td>
+<td>
+</td>
+<td>
+		                                        T. Poepping 
+		                                    </td>
+<td>
+		                                       CROSS-LISTED WITH PHYSICS 3900G. HELD IN PAB 130. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Physics 2101A/B, Physics 2110A/B, Physics 2910F/G, with a minimum mark of 72% in each; and permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4931B - SPECIAL TOPICS IN PHYSICS</h4>
+<p class="font-md"><b>Course Description:</b> Extra Information: 3 lecture hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>12423</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        W. Hocking 
+		                                    </td>
+<td>
+		                                       COURSE DAY AND TIME TBA. PERMISSION OF DEPARTMENT REQUIRED. TOPIC: PLASMA PHYSICS. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Permission of the Department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4950Y - YEAR 4 SEMINAR</h4>
+<p class="font-md"><b>Course Description:</b> A forum for students to meet the second and third year students and faculty in an informal setting. We will discuss research areas, practise giving and critiquing talks, and provide information on careers. 
+
+Extra Information: 1 lecture hour.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3806</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												PAB-106 
+											</td>
+<td>
+		                                        P. Wiegert<br/>
+		                                            S. Gallagher<br/>
+</td>
+<td>
+		                                       CROSS-LISTED WITH PHYSICS 2950Y AND PHYSICS 3950Y. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>PHYSICS 4999E - HON RESEARCH</h4>
+<p class="font-md"><b>Course Description:</b> The student will work on a research project, either experimental or theoretical, under faculty supervision, and present the results in a written report and in a seminar. 
+
+Extra Information: 1.0 course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>001</td>
+<td>LEC</td>
+<td>3566</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>1:30 PM</td>
+<td>
+												PAB-150 
+											</td>
+<td>
+		                                        G. Fanchini 
+		                                    </td>
+<td>
+<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Registration in the fourth year of an Honours Physics program. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Main
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

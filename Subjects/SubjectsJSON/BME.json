@@ -1,0 +1,223 @@
+{
+  "Name": "Biomedical Engineering",
+  "Code": "BME",
+  "Courses": [
+    {
+      "Name": "BME 3201A - FUNDAMENTALS OF BME DESIGN",
+      "Description": [
+        "The objective of this course is to develop design skills and tools used in Biomedical Engineering. Integration of the engineering and life sciences will be illustrated by presenting design principles for medical devices and systems. Emphasis will be placed on engineering design for the cardiovascular and musculoskeletal systems.",
+        "Antirequisite(s): MME 4470A/B.",
+        "Extra Information: 3 lecture hours. Restricted to students registered in a Biomedical Engineering degree program."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9181",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "SEB-3109",
+          "Instructor": "E. Lalone",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Completion of the first-year curriculum in the Faculty of Engineering with a year-weighted average of at least 80%."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BME 3301A - NEURAL SYSTEMS ENGINEERING",
+      "Description": [
+        "Engineering principles relevant to the study of neurophysiology, neural modeling, and the design of neural systems for diagnostic, interventional, and rehabilitation applications. Course topics will include EEG and EMG systems, functional MRI and other neural imaging technologies, braincomputer interfaces, and neural prosthetics.",
+        "Extra Information: 3 lecture hours per week, 3 additional hours, 4 times per term."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10207",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": "M. Khaki",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B.",
+            "Corequisite(s): ECE 4455A/B, Physiology 2130."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10207",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "ACEB-1415",
+          "Instructor": "M. Khaki",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B.",
+            "Corequisite(s): ECE 4455A/B, Physiology 2130."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10207",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "ACEB-1420",
+          "Instructor": "M. Khaki",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B.",
+            "Corequisite(s): ECE 4455A/B, Physiology 2130."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "10208",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "ACEB-2400",
+          "Instructor": "M. Khaki",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BME 3303B - CELLULAR SYSTEMS ENGINEERING",
+      "Description": [
+        "This course introduces key topics in interdisciplinary biomedical engineering involving the investigation or application of cell-based systems. Students will learn to integrate engineering design principles and mathematical models with knowledge of applied cellular and molecular biology to characterize, understand and optimize cellular responses within 3-D engineered microenvironments.",
+        "Extra Information: 3 lecture hours per week, 3 additional hours, 4 times per term."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10209",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "SEB-2099",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B, Biology 1202B, Biochemistry 2280A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10209",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-2099",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B, Biology 1202B, Biochemistry 2280A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10209",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "ACEB-1415",
+          "Instructor": ".",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): BME 3201A/B, Biology 1202B, Biochemistry 2280A."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "003",
+          "Component": "LAB",
+          "Class Nbr": "10210",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "",
+          "Instructor": ".",
+          "Notes": [
+            "HELD IN TEB 420B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "BME 4400 - BME RESEARCH PROJECT",
+      "Description": [
+        "A major independent research project in biomedical engineering performed in collaboration with a faculty supervisor. Lectures and online modules on laboratory safety, human and animal research ethics, scientific integrity, experimental design, medical statistics, literature searching tools, and scientific communication. Two oral presentations and a written report are required.",
+        "Antirequisite(s): CBE 4415, CBE 4425, MME 4410.",
+        "Extra Information: 2 lecture hours, 10 laboratory hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10211",
+          "Days": [],
+          "Start Time": "",
+          "End Time": "",
+          "Location": "",
+          "Instructor": "",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): Registration in the final year of a Biomedical Engineering program."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

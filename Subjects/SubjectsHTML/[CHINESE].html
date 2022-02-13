@@ -1,0 +1,2634 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Western Timetables</title>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="screen" rel="stylesheet"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap.css" media="print" rel="stylesheet"/>
+<!-- Responsive CSS -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/secure/timetables/templates/bootstrap/css/bootstrap-responsive.css" rel="stylesheet"/>
+<!-- Custom CSS -->
+<link href="/secure/timetables/templates/bootstrap/css/custom.css" rel="stylesheet"/>
+<style type="text/css">
+		@media print {
+		    .for-screen {display: none;}
+		}
+	</style>
+<script type="text/javascript">
+<!--
+    _CF_checksearchform = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+<body>
+<script src="/secure/timetables/templates/jquery/jquery-latest.js"></script>
+<script src="/secure/timetables/templates/bootstrap/js/bootstrap.min.js"></script>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="for-screen">
+<!-- Heading Logo - timetable title -->
+<div class="page-header">
+<h1>
+<img src="../templates/images/Western_Logo.jpg"/> Undergraduate
+                    <small class="resizeSmall"> Fall/Winter Academic Timetable 2021/2022</small>
+</h1>
+</div>
+</div><!--end of .span12-->
+<div class="for-screen" id="searchForm">
+<div class="alert alert-info">
+<span class="icon-info-sign"></span>
+				The Academic Timetable is subject to change. Continue to monitor the
+				<a href="https://registrar.uwo.ca/" rel="noreferrer" target="_blank">Office of the Registrar</a> website for any updates to Fall/Winter course registration.
+				<br/><br/>
+<b>Online Learning Notice</b><br/>
+<em>
+					Please note: For courses delivered in an online format, include an online component, or are required to pivot online, students must have a reliable
+					internet connection and computer that are compatible with online learning system requirements. Some courses may also require the use of a remote
+					proctoring platform to ensure assessments are taken fairly in accordance with Western's policy on Scholastic Discipline for Undergraduate Students
+					and Scholastic Discipline for Graduate Students. Please refer to the course syllabus for further information.
+				</em>
+</div>
+<!-- Search Form -->
+<form action="ttindex.cfm" class="form-horizontal" id="searchform" method="post" name="searchform" onsubmit="return _CF_checksearchform(this)">
+<fieldset>
+<legend>Search</legend>
+<div class="control-group">
+<label class="control-label" for="inputSubject">Subject:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputSubject" name="subject"><option value="">All Subjects
+									
+										</option><option value="ACTURSCI"> Actuarial Science 
+										</option><option value="AMERICAN"> American Studies 
+										</option><option value="ADS"> Analytics and Decision Science 
+										</option><option value="ANATCELL"> Anatomy and Cell Biology 
+										</option><option value="ANTHRO"> Anthropology 
+										</option><option value="APPLMATH"> Applied Mathematics 
+										</option><option value="ARABIC"> Arabic 
+										</option><option value="AH"> Art History 
+										</option><option value="ARTHUM"> Arts and Humanities 
+										</option><option value="ASTRONOM"> Astronomy 
+										</option><option value="BIBLSTUD"> Biblical Studies 
+										</option><option value="BIOCHEM"> Biochemistry 
+										</option><option value="BIOLOGY"> Biology 
+										</option><option value="BME"> Biomedical Engineering 
+										</option><option value="BIOSTATS"> Biostatistics 
+										</option><option value="MTP-TVSN"> Broadcasting-TV Fanshawe 
+										</option><option value="BUSINESS"> Business Administration 
+										</option><option value="CALCULUS"> Calculus 
+										</option><option value="CGS"> Centre for Global Studies 
+										</option><option value="CBE"> Chem &amp; Biochem Engineering 
+										</option><option value="CHEMBIO"> Chemical Biology 
+										</option><option value="CHEM"> Chemistry 
+										</option><option value="CSI"> Childhood &amp; Social Institutns 
+										</option><option selected="" value="CHINESE"> Chinese 
+										</option><option value="CHURCH"> Church History 
+										</option><option value="CHURLAW"> Church Law 
+										</option><option value="CHURMUSI"> Church Music 
+										</option><option value="CEE"> Civil &amp; Envrnmntl Engineering 
+										</option><option value="CLASSICS"> Classical Studies 
+										</option><option value="CMBPROG"> Combined Program Enrollment 
+										</option><option value="COMMSCI"> Communication Sci &amp; Disorders 
+										</option><option value="COMPLIT"> Comparative Lit &amp; Culture 
+										</option><option value="COMPSCI"> Computer Science 
+										</option><option value="CA"> Creative Arts 
+										</option><option value="DANCE"> Dance 
+										</option><option value="DATASCI"> Data Science 
+										</option><option value="MTP-DEVL"> Development - Fanshawe 
+										</option><option value="DIGICOMM"> Digital Communication 
+										</option><option value="DIGIHUM"> Digital Humanities 
+										</option><option value="DISABST"> Disability Studies 
+										</option><option value="EARTHSCI"> Earth Sciences 
+										</option><option value="ECONOMIC"> Economics 
+										</option><option value="EDUC"> Education 
+										</option><option value="EELC"> Education English Language Cen 
+										</option><option value="ECE"> Elect &amp; Computer Engineering 
+										</option><option value="ELI"> Engineering Leadership &amp; Innov 
+										</option><option value="ENGSCI"> Engineering Science 
+										</option><option value="ENGLISH"> English 
+										</option><option value="ENVIRSCI"> Environmental Science 
+										</option><option value="EPID"> Epidemiology 
+										</option><option value="EPIDEMIO"> Epidemiology &amp; Biostatistics 
+										</option><option value="FIMS"> FIMS 
+										</option><option value="FAMLYSTU"> Family Studies &amp; Human Develop 
+										</option><option value="FLDEDUC"> Field Education 
+										</option><option value="MTP-FILM"> Film - Fanshawe 
+										</option><option value="FILM"> Film Studies 
+										</option><option value="FINMOD"> Financial Modelling 
+										</option><option value="FOODNUTR"> Foods and Nutrition 
+										</option><option value="FRENCH"> French 
+										</option><option value="GSWS"> Gender, Sexuality, &amp; Womens St 
+										</option><option value="GEOGRAPH"> Geography 
+										</option><option value="GERMAN"> German 
+										</option><option value="GGB"> Global Great Books 
+										</option><option value="GLE"> Governance,Leadership &amp; Ethics 
+										</option><option value="GREEK"> Greek 
+										</option><option value="GPE"> Green Process Engineering 
+										</option><option value="HEALTSCI"> Health Sciences 
+										</option><option value="HEBREW"> Hebrew 
+										</option><option value="HISTTHEO"> Historical Theology 
+										</option><option value="HISTORY"> History 
+										</option><option value="HISTSCI"> History of Science 
+										</option><option value="HOMILET"> Homiletics 
+										</option><option value="HUMANECO"> Human Ecology 
+										</option><option value="HUMANRS"> Human Rights Studies 
+										</option><option value="INDIGSTU"> Indigenous Studies 
+										</option><option value="IE"> Integrated Engineering 
+										</option><option value="INTEGSCI"> Integrated Science 
+										</option><option value="ICC"> Intercultural Communications 
+										</option><option value="INTERDIS"> Interdisciplinary Studies 
+										</option><option value="INTREL"> International Relations 
+										</option><option value="ITALIAN"> Italian 
+										</option><option value="JAPANESE"> Japanese 
+										</option><option value="JEWISH"> Jewish Studies 
+										</option><option value="MTP-BRJR"> Journalism-Broadcasting Fanshw 
+										</option><option value="KINESIOL"> Kinesiology 
+										</option><option value="LATIN"> Latin 
+										</option><option value="LAW"> Law 
+										</option><option value="LS"> Leadership Studies 
+										</option><option value="LINGUIST"> Linguistics 
+										</option><option value="LITURST"> Liturgical Studies 
+										</option><option value="LITURGIC"> Liturgics 
+										</option><option value="MOS"> Management &amp; Organizational St 
+										</option><option value="MTP-MKTG"> Marketing - Fanshawe 
+										</option><option value="MATH"> Mathematics 
+										</option><option value="MME"> Mech &amp; Materials Engineering 
+										</option><option value="MSE"> Mechatronic Systems Engineerin 
+										</option><option value="MIT"> Media, Information &amp;Technocult 
+										</option><option value="MBI"> Medical Bioinformatics 
+										</option><option value="MEDBIO"> Medical Biophysics 
+										</option><option value="MEDHINFO"> Medical Health Informatics 
+										</option><option value="MEDSCIEN"> Medical Sciences 
+										</option><option value="MEDIEVAL"> Medieval Studies 
+										</option><option value="MICROIMM"> Microbiology &amp; Immunology 
+										</option><option value="MORALTHE"> Moral Theology 
+										</option><option value="MTP-MMED"> Multimed Dsgn &amp; Prod Fanshawe 
+										</option><option value="MCS"> Museum and Curatorial Studies 
+										</option><option value="MUSIC"> Music 
+										</option><option value="NEURO"> Neuroscience 
+										</option><option value="NMM"> Numerical &amp; Mathematical Methd 
+										</option><option value="NURSING"> Nursing 
+										</option><option value="ONEHEALT"> One Health 
+										</option><option value="PASTTHEO"> Pastoral Theology 
+										</option><option value="PATHOL"> Pathology 
+										</option><option value="PHARM"> Pharmacology 
+										</option><option value="PHILST"> Philosophical Studies 
+										</option><option value="PHILOSOP"> Philosophy 
+										</option><option value="PHYSICS"> Physics 
+										</option><option value="PHYSIOL"> Physiology 
+										</option><option value="PHYSPHRM"> Physiology and Pharmacology 
+										</option><option value="POLISCI"> Political Science 
+										</option><option value="PPE"> Politics, Philosophy, Economic 
+										</option><option value="PSYCHOL"> Psychology 
+										</option><option value="REHABSCI"> Rehabilitation Sciences 
+										</option><option value="RELEDUC"> Religious Education 
+										</option><option value="RELSTUD"> Religious Studies 
+										</option><option value="SACRTHEO"> Sacramental Theology 
+										</option><option value="SCHOLARS"> Scholars Electives 
+										</option><option value="SCIENCE"> Science 
+										</option><option value="SOCLJUST"> Social Justice &amp; Peace Studies 
+										</option><option value="SOCSCI"> Social Science 
+										</option><option value="SOCWORK"> Social Work 
+										</option><option value="SOCIOLOG"> Sociology 
+										</option><option value="SE"> Software Engineering 
+										</option><option value="SPANISH"> Spanish 
+										</option><option value="SPEECH"> Speech 
+										</option><option value="SPIRTHEO"> Spiritual Theology 
+										</option><option value="STATS"> Statistical Sciences 
+										</option><option value="SA"> Studio Art 
+										</option><option value="SYSTHEO"> Systematic Theology 
+										</option><option value="THANAT"> Thanatology 
+										</option><option value="THEATRE"> Theatre Studies 
+										</option><option value="THEOETH"> Theological Ethics 
+										</option><option value="THEOLST"> Theological Studies 
+										</option><option value="THESIS"> Thesis 
+										</option><option value="TJ"> Transitional Justice 
+										</option><option value="WTC"> Western Thought &amp; Civilization 
+										</option><option value="WORLDLIT"> World Literatures and Cultures 
+										</option><option value="WRITING"> Writing 
+								</option></select>
+<label class="control-label span2" for="inputDesignation">Course Suffix:</label>
+<select class="span6" id="inputDesignation" name="Designation">
+<option selected="" value="Any">Any (any suffix)</option>
+<option value="Full">Full Course Not Designated As An Essay Course (no suffix)</option>
+<option value="E">Essay Full Course (E)</option>
+<option value="A">First Term Half-Course (A)</option>
+<option value="B">Second Term Half-Course (B)</option>
+<option value="F">First Term Essay Half-Course (F)</option>
+<option value="G">Second Term Essay Half-Course (G)</option>
+<option value="Q">First Term First Quarter Course (Q)</option>
+<option value="R">First Term Second Quarter Course (R)</option>
+<option value="S">Second Term First Quarter Course (S)</option>
+<option value="T">Second Term Second Quarter Course (T)</option>
+<option value="W">First Term Full Course (full course offered in one term) (W)</option>
+<option value="X">Second Term Full Course (full course offered in one term)  (X)</option>
+<option value="Y">Half-Course Offered In Other Than A Regular Session (Y)</option>
+<option value="Z">Essay Half-Course Offered In Other Than A Regular Session (Z)</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputCatalognbr">Course Number:</label>
+<div class="controls controls-row">
+<input class="span3" id="inputCatalognbr" maxlength="5" name="catalognbr" placeholder="eg. 1001" size="9" type="text" value=""/>
+<label class="control-label span2" for="inputCourseType">Course Delivery Type:</label>
+<select class="span2" id="inputCourseType" name="CourseTime">
+<option selected="" value="All">All
+				 </option><option value="inPerson">In Person
+				 </option><option value="Blended">Blended
+                                 </option><option value="Distance">Distance Studies/Online
+				
+                                </option></select>
+<div class="span4"><input id="inputStatus" name="Status" type="checkbox" value="Not Full"/> Show only courses open for registration.
+				<br/>*Note: may not be an accurate reflection during paper add/drop. </div>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputComponent">Component:</label>
+<div class="controls controls-row">
+<select class="span3" id="inputComponent" name="Component">
+<option value="All">All</option>
+<option value="LEC">Lecture</option>
+<option value="TUT">Tutorial</option>
+<option value="LAB">Laboratory</option>
+</select>
+<label class="control-label span2" for="inputTime">Starting Time:</label>
+<select class="span2" id="inputTime" name="time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 08:00:00'}">8:00 am</option>
+<option value="{ts '1900-01-01 08:30:00'}">8:30 am</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+</select>
+<label class="control-label span2" for="inputTime">Ending Time:</label>
+<select class="span2" id="inputTime" name="end_time">
+<option selected="" value="">All</option>
+<option value="{ts '1900-01-01 09:00:00'}">9:00 am</option>
+<option value="{ts '1900-01-01 09:30:00'}">9:30 am</option>
+<option value="{ts '1900-01-01 10:00:00'}">10:00 am</option>
+<option value="{ts '1900-01-01 10:30:00'}">10:30 am</option>
+<option value="{ts '1900-01-01 11:00:00'}">11:00 am</option>
+<option value="{ts '1900-01-01 11:30:00'}">11:30 am</option>
+<option value="{ts '1900-01-01 12:00:00'}">12:00 pm</option>
+<option value="{ts '1900-01-01 12:30:00'}">12:30 pm</option>
+<option value="{ts '1900-01-01 13:00:00'}">1:00 pm</option>
+<option value="{ts '1900-01-01 13:30:00'}">1:30 pm</option>
+<option value="{ts '1900-01-01 14:00:00'}">2:00 pm</option>
+<option value="{ts '1900-01-01 14:30:00'}">2:30 pm</option>
+<option value="{ts '1900-01-01 15:00:00'}">3:00 pm</option>
+<option value="{ts '1900-01-01 15:30:00'}">3:30 pm</option>
+<option value="{ts '1900-01-01 16:00:00'}">4:00 pm</option>
+<option value="{ts '1900-01-01 16:30:00'}">4:30 pm</option>
+<option value="{ts '1900-01-01 17:00:00'}">5:00 pm</option>
+<option value="{ts '1900-01-01 17:30:00'}">5:30 pm</option>
+<option value="{ts '1900-01-01 18:00:00'}">6:00 pm</option>
+<option value="{ts '1900-01-01 18:30:00'}">6:30 pm</option>
+<option value="{ts '1900-01-01 19:00:00'}">7:00 pm</option>
+<option value="{ts '1900-01-01 19:30:00'}">7:30 pm</option>
+<option value="{ts '1900-01-01 20:00:00'}">8:00 pm</option>
+<option value="{ts '1900-01-01 20:30:00'}">8:30 pm</option>
+<option value="{ts '1900-01-01 21:00:00'}">9:00 pm</option>
+<option value="{ts '1900-01-01 21:30:00'}">9:30 pm</option>
+<option value="{ts '1900-01-01 22:00:00'}">10:00 pm</option>
+</select>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="inputDay">Day of Class:</label>
+<div class="controls controls-row">
+<div class="span3">
+<div class="span2">  Mon<br/><input checked="" id="inputDay" name="day" type="checkbox" value="m"/> </div>
+<div class="span2">  Tue<br/><input checked="" id="inputDay" name="day" type="checkbox" value="tu"/> </div>
+<div class="span2">  Wed<br/><input checked="" id="inputDay" name="day" type="checkbox" value="w"/> </div>
+<div class="span2">  Thu<br/><input checked="" id="inputDay" name="day" type="checkbox" value="th"/> </div>
+<div class="span2">  Fri<br/><input checked="" id="inputDay" name="day" type="checkbox" value="f"/> </div>
+</div>
+<label class="control-label span2" for="inputCampus">Campus:</label>
+<select class="span2" id="inputCampus" name="LocationCode">
+<option selected="" value="Any">Any</option>
+<option value="KC">King's</option>
+<option value="HC">Huron</option>
+<option value="UW">Main</option>
+<option value="BR">Brescia</option>
+</select>
+<button autofocus="" class="btn btn-info span2" type="submit">Submit</button>
+</div>
+</div>
+<input name="command" type="hidden" value="search"/>
+</fieldset>
+</form>
+</div><!-- end of .span12 -->
+<div class="span12">
+<!-- Search Results - timetable -->
+
+38   Results <br/><br/><br/>
+<h4>CHINESE 1150 - BEGINNERS' CHINESE I</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to oral and written standard Chinese for students with no previous knowledge of the language and no previous exposure to Chinese culture. Students will learn approximately 400 characters, 40 sentence structures, basic grammar, and will be able to write short passages and conduct brief, informal dialogues. The pinyin romanization system will be introduced. Prepares students for progression to Chinese 2250. 
+
+Antirequisite(s): Chinese 1151, Chinese 1152A/B, Chinese 1153A/B, Grade 12U Chinese or equivalent.
+
+Extra Information: 4 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2004</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-W17 
+											</td>
+<td>
+		                                        Y. Lu 
+		                                    </td>
+<td>
+		                                       FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 1151 - CHINESE I</h4>
+<p class="font-md"><b>Course Description:</b> An introduction to oral and written standard Chinese for students with no previous knowledge of the language. Students will learn approximately 400 characters, 40 sentence structures, basic grammar, and will be able to write short passages and conduct brief, informal dialogues. The pinyin romanization system will be introduced. 
+ 
+Antirequisite(s): Chinese 1150, Chinese 1152A/B, Chinese 1153A/B; Grade 12U Chinese or equivalent.  
+
+Extra Information: 4 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2364</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-W112 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 1650G - PERSPECTIVES ON CHINA</h4>
+<p class="font-md"><b>Course Description:</b> An examination of China as it emerges in the era of globalization. Contents include territory, people, society, language, science and technology, development and sustainability. Analysis of dominant and diverse realities will provide an essential basis for an appreciation of continuity and change in China. Students will learn how to access major sources of information and critically to evaluate perspectives and debates. Taught in English.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2054</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-W18 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2054</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-W18 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 1651F - CHINESE SYMBOLS &amp; ICONS</h4>
+<p class="font-md"><b>Course Description:</b> This course surveys traditional symbols and icons still prevalent in China's everyday life, ranging from "yin-yang", "dragon", "mandarin ducks" and "the double-happiness", to "the three stars", "Lord Guan" and "Avalokitesvara" (Guanyin). Treating these symbols and icons as image-signifiers, the course illustrates the socio-historical contexts that have shaped major symbolism in China. Students will gain a basic understanding of Chinese culture and develop skills in critical examination of cultural phenomena. Taught in English.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2036</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-H221 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2036</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-H221 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+</td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2240F - UNDRSTNDNG CHNSE BUS CULTURE 1</h4>
+<p class="font-md"><b>Course Description:</b> An intensive study of contemporary language and socio-cultural issues and topics involved in domestic and international businesses in China. Discussion of selected readings from print and internet resources will help the student to gain language and cultural skills crucial to understanding business interactions in China. 
+ 
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2037</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2037</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2241G - UNDRSTNDNG CHNSE BUS CULTURE 2</h4>
+<p class="font-md"><b>Course Description:</b> An intensive study of spoken and non-verbal communication and practices in the cultural context of contemporary Chinese business. Discussion of real cases will help the student to develop an awareness of cultural nuances involved in doing business with the Chinese in China.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2038</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2038</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2242F - RPRSNTV WRKS IN TRAD CHNSE LIT</h4>
+<p class="font-md"><b>Course Description:</b> A survey of major works of prose by pre-modern Chinese writers. This course focuses on reading texts and analyzing their textual structure, aesthetic values, and historical contexts. Attention will also be paid to the evolution of the Chinese language from the Classical to the vernacular.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1934</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>1934</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2244G - RPRSNTATV WRKS MOD CHINESE LIT</h4>
+<p class="font-md"><b>Course Description:</b> A survey of major works of prose by modern Chinese writers. Selected works will be discussed in relation to the writers' ideas of political involvement, social change, revolution and the function of literature. Events that have shaped modern Chinese history and society will also be examined.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2089</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-A1 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2089</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HC-A1 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2245F - CINEMA IN THE CHINESE MAINLAND</h4>
+<p class="font-md"><b>Course Description:</b> This course examines representative films produced in major historical periods in the Chinese Mainland, with an emphasis on issues of nationalism and national identity, as well as cultural, social, and political changes occurred and are occurring in 20th century and contemporary China.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2099</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        L. He 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2246G - CHINESE CINEMA IN TAIWAN &amp; HK</h4>
+<p class="font-md"><b>Course Description:</b> This course examines representative films produced in major historical periods in Taiwan and Hong Kong, with an emphasis on issues of nationalism and national identity, as well as cultural, social, and political changes occurred and are occurring in 20th century and contemporary Taiwan and Hong Kong.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2098</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-H220 
+											</td>
+<td>
+		                                        L. He 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2247F - CHINESE CITIES &amp; CHINESE CLTR</h4>
+<p class="font-md"><b>Course Description:</b> In an interdisciplinary approach, this course will examine major ancient and modern Chinese cities, with a focus on the city's form and function as an aesthetic symbol in Chinese culture, exploring the city's significant role in the making of China's cultural identity.
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2365</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-A1 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2365</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-A1 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2250 - BEGINNERS' CHINESE 2</h4>
+<p class="font-md"><b>Course Description:</b> A course in standard Chinese and a continuation of Chinese 1150. Students will build on skills in reading, writing, and speaking developed in earlier courses. They will gain an increased vocabulary (approximately 1000 characters) and a greater understanding of more complex grammatical structures. The pinyin romanization system will be used.
+ 
+Antirequisite(s): Chinese 2252A/B, Chinese 2253A/B. 
+
+Extra Information: 4 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2035</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-W6 
+											</td>
+<td>
+		                                        L. He 
+		                                    </td>
+<td>
+		                                       FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 1150 or Chinese 1151, or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2601A - POL &amp; SCL-ECON FND MOD CHINA</h4>
+<p class="font-md"><b>Course Description:</b> A survey of the social, political, and economic factors that shape modern China. Taught in English.
+  
+Antirequisite(s): The former Centre of Global Studies 2202A/B. 
+
+Extra Information: 3 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2090</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2090</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2602B - CULTURAL FND OF MODERN CHINA</h4>
+<p class="font-md"><b>Course Description:</b> A survey of the artistic, philosophical, and religious factors that shape modern China. Taught in English.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2366</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HC-H111 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2366</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-H111 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 2650G - FIC &amp; TRD CHINESE SOCIETY</h4>
+<p class="font-md"><b>Course Description:</b> A study of the philosophical, cultural, and political aspects of traditional Chinese society through the reading of narrative texts, short stories, and novels. Literature of various genres and historical periods will be considered to illustrate the thought patterns, popular beliefs, and daily lives characteristic of traditional China. Taught in English.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>11551</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>6:30 PM</td>
+<td>9:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>11551</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td></td>
+<td></td>
+<td>
+</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3340A - BUSINESS CHINESE I</h4>
+<p class="font-md"><b>Course Description:</b> This course is intended for students who can read and write Modern Standard Chinese. Students will develop specific knowledge and skills in business communication in Chinese. Business etiquette and protocol will be discussed. Translation and competence in interpretation will be fostered by the study of business terms, documents, and practices. 
+ 
+Extra Information: 4 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2005</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-W18 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3341B - BUSINESS CHINESE 2</h4>
+<p class="font-md"><b>Course Description:</b> This course is intended for students who can read and write Modern Standard Chinese. Students will study business terms, communication styles and formats, and acquire linguistic and cultural knowledge for conducting business in Chinese. Students will develop competence through practical experience in reading and writing market reports and analysing contracts. 
+
+Extra Information: 4 hours</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2368</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-W17 
+											</td>
+<td>
+		                                        C. Gordon 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3350 - CHINESE 3</h4>
+<p class="font-md"><b>Course Description:</b> A third-level course in standard Chinese. Advanced conversation, written composition, listening and speaking skills, and translation techniques will be emphasized. Students will learn all the basic grammatical patterns and gain a larger vocabulary (approximately 1600 characters). Selections from newspapers and short essays will be incorporated.
+ 
+Antirequisite(s): Chinese 3352A/B, Chinese 3353A/B. 
+
+Extra Information: 4 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2091</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%">Tu</td>
+<td width="10%"> </td>
+<td width="10%">Th</td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>4:30 PM</td>
+<td>
+												HC-W17 
+											</td>
+<td>
+		                                        L. He 
+		                                    </td>
+<td>
+		                                       FULL STATUS INDICATES PLACEMENT/SPECIAL PERMISSION REQUIRED AT: https://huronatwestern.ca/programs/arts-social-science/chinese-courses-placement/ 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 2250 or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3655G - CHINESE THEATRE &amp; CULTURE</h4>
+<p class="font-md"><b>Course Description:</b> This course will offer an overview of traditional Chinese theatre from the 13th Century to the early 20th Century. Seeing traditional Chinese theatre as a form of popular entertainment developed across ages in its changing cultural contexts, this course will discuss a number of themes prevalent in Chinese theatre, with special attention to their economic and socio-political backgrounds, as well as their ideological implications. Literary and performing conventions of traditional Chinese theatre will also be examined. Taught in English.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2369</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>2:30 PM</td>
+<td>3:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2369</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>3:30 PM</td>
+<td>5:30 PM</td>
+<td>
+												HC-W106 
+											</td>
+<td>
+		                                        G. Liu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3951G - SPECIAL TOPIC IN CHINA STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics selected by the instructor. Consult the Department of French and Asian Studies.
+ 
+Extra Information: 3 hours, 0.5 course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2370</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        Y. Lu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2370</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        Y. Lu 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 3952F - SPECIAL TOPIC IN CHINA STUDIES</h4>
+<p class="font-md"><b>Course Description:</b> Topics selected by the instructor. Consult the Department of French and Asian Studies.
+ 
+Extra Information: 3 hours, 0.5 course.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2371</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>12:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-W18 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2371</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>1:30 PM</td>
+<td>2:30 PM</td>
+<td>
+												HC-W18 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): 1.0 Essay course from Category A or B. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 4440A - BUSINESS TRANSLATION 1</h4>
+<p class="font-md"><b>Course Description:</b> English and Chinese translation with fundamentals of theory and practice for oral and written business-oriented communication. Reflective conversation and intensive practice sessions help students obtain insights and techniques to avoid common translation pitfalls and to develop the skills for more natural and accurate translations in business Chinese and English.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2032</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>12:30 PM</td>
+<td>
+												HC-W17 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 3340A/B or Chinese 3341A/B or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2032</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">F</td>
+</tr>
+</table>
+</td>
+<td>11:30 AM</td>
+<td>1:30 PM</td>
+<td>
+												HC-W17 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 3340A/B or Chinese 3341A/B or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+<h4>CHINESE 4441B - BUSINESS TRANSLATION 2</h4>
+<p class="font-md"><b>Course Description:</b> Chinese and English translation to deepen understanding of theory and to enhance language proficiency in business-oriented communication. This course continues Chinese 4440A/B Business Translation 1. Students build competence through analyzing texts and deploying strategies to resolve issues encountered in translating a variety of authentic and increasingly complex business documents.
+
+Extra Information: 3 hours.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th width="8%">Section</th>
+<th width="8%">Component</th>
+<th width="7%">Class Nbr</th>
+<th width="10%">Days</th>
+<th width="8%">Start Time</th>
+<th width="8%">End Time</th>
+<th width="9%">Location</th>
+<th width="9%">Instructor</th>
+<th>Requisites and Constraints</th>
+<th width="6%">Status</th>
+<th width="5%">Campus</th>
+<th width="8%">Delivery Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2158</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%">M</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>10:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 4440A/B or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+<tr>
+<td>550</td>
+<td>LEC</td>
+<td>2158</td>
+<td>
+<table class="daysTable">
+<tr>
+<td width="10%"> </td>
+<td width="10%"> </td>
+<td width="10%">W</td>
+<td width="10%"> </td>
+<td width="10%"> </td>
+</tr>
+</table>
+</td>
+<td>9:30 AM</td>
+<td>11:30 AM</td>
+<td>
+												HC-W108 
+											</td>
+<td>
+		                                        Y. Zhang 
+		                                    </td>
+<td>
+		                                       PRIORITY TO HURON UNIVERSITY COLLEGE STUDENTS OR STUDENTS ENROLLED IN CHINESE STUDIES, CHINA STUDIES, CHINESE BUSINESS COMMUNICATIONS, OR EAST ASIA STUDIES MODULES. JULY 28 PRIORITY CHANGE: ACCESS TO ALL STUDENTS. WAIT LIST OPTION AVAILABLE. 
+															
+															<div class="clearfix"></div>
+<b>REQUISITES:</b> Prerequisite(s): Chinese 4440A/B or permission of the department. 
+
+		                                        
+		                                    </td>
+<td>
+		                                        
+		                                            Not Full
+		                                        
+		                                    </td>
+<td>
+												
+													Huron
+												
+											</td>
+<td>
+												
+													In Person
+												
+											</td>
+</tr>
+</tbody>
+</table>
+</div><!-- end of .span12 -->
+</div> <!--End of .row-fluid-->
+</div><!-- End of .container-fluid -->
+</body></html>

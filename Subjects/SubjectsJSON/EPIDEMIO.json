@@ -1,0 +1,34 @@
+{
+  "Name": "Epidemiology & Biostatistics",
+  "Code": "EPIDEMIO",
+  "Courses": [
+    {
+      "Name": "EPIDEMIO 4900E - RESEARCH PROJECT & SEMINAR",
+      "Description": [
+        "An applied research course in which students use skills in identifying and clarifying a research question, methodologically critical review of literature, identifying data sources, conducting appropriate statistical analyses, interpreting results, and presenting findings orally, in posters, and in written technical reports or journal manuscripts.",
+        "Extra Information: 10 hours per week."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "6329",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "NCB-293",
+          "Instructor": "N. Klar",
+          "Notes": [
+            "RESTRICTED TO YEAR 4 HONORS SPECIALIZATION IN EPIDEMIOLOGY AND BIOSTATISTICS. ",
+            "REQUISITES: Prerequisite(s): Biostatistics 3110B and Epidemiology 3210B, with marks of at least 70% in each; and registration in an Honours Specialization in Epidemiology and Biostatistics."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

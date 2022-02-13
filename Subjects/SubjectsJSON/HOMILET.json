@@ -1,0 +1,58 @@
+{
+  "Name": "Homiletics",
+  "Code": "HOMILET",
+  "Courses": [
+    {
+      "Name": "HOMILET 5204A - THEO & PRACTICE PREACHING",
+      "Description": [
+        "An introduction to the theology, art, and practice of preaching God\u00bfs word.  Students will read extensively in the discipline, preach regularly, and submit their sermons for critique and comment.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "2276",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:00 PM",
+          "Location": "HC-W104",
+          "Instructor": "R. Townshend",
+          "Notes": [
+            "REQUISITES: Prerequisite(s):  Biblical Studies 5101a/b, Biblical Studies 5110a/b, Biblical Studies 5120a/b and 5116a/b."
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HOMILET 5305B - CONTINUATION OF HOMILETIC",
+      "Description": [],
+      "Components": [
+        {
+          "Section": "550",
+          "Component": "LEC",
+          "Class Nbr": "1990",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "8:30 AM",
+          "End Time": "11:00 AM",
+          "Location": "HC-W2",
+          "Instructor": "J. Crittenden",
+          "Notes": [
+            "RESTRICTED TO THEOLOGY MASTERS STUDENTS AT HURON. ",
+            "REQUISITES: Prerequisite: Homiletics 5204A/B"
+          ],
+          "Status": "Not Full",
+          "Campus": "Huron",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

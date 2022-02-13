@@ -1,0 +1,75 @@
+{
+  "Name": "Medieval Studies",
+  "Code": "MEDIEVAL",
+  "Courses": [
+    {
+      "Name": "MEDIEVAL 1022 - INTRO TO MEDIEVAL STUDIES",
+      "Description": [
+        "This course will introduce civilization and thought in Europe and the Mediterranean between 400 and 1500, with emphasis on the medieval roots of many modern institutions and attitudes, including philosophy, technology, law, governance, courtly love and attitudes to women, warfare, art and archaeology, Christianity and Islam, literature, music and coinage.",
+        "Antirequisite(s): Medieval Studies 1025A/B, Medieval Studies 1026A/B, and the former Medieval Studies 1020E. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5841",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "SEB-2100",
+          "Instructor": "R. Moll",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "5841",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "SEB-2100",
+          "Instructor": "R. Moll",
+          "Notes": [],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "MEDIEVAL 3022F - INTRO TO MEDIEVAL MANUSCRIPTS",
+      "Description": [
+        "Using materials available in the Rare Books Room and from private collections, this course will familiarize students with the investigation of medieval manuscripts. It will introduce medieval scripts, the description of a medieval manuscript, issues of provenance and date, and the decoration used. Students will consider the preparation of ink and pigments, and the kinds of illumination and decoration available through the medieval period. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "10749",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "4:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": "J. Grier",
+          "Notes": [
+            "REQUISITES: Prerequisite(s): 70% or higher in 1.0, Medieval Studies 1022, or both Medieval Studies 1025A/B and Medieval Studies 1026A/B, or the former Medieval Studies 1020E."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

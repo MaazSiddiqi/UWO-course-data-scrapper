@@ -1,0 +1,62 @@
+{
+  "Name": "Human Rights Studies",
+  "Code": "HUMANRS",
+  "Courses": [
+    {
+      "Name": "HUMANRS 2800E - INTRODUCTION TO HUMAN RIGHTS",
+      "Description": [
+        "This course examines the historical development and philosophical foundations of human rights, and the efficacy of legal, diplomatic and political frameworks designed to protect human rights. Topics include women\u2019s rights; the rights of minorities; refugees and displaced persons; remedies for human rights violations in domestic and international law.",
+        "Extra Information: 3 hours, 1.0 course.",
+        "(King's)"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3144",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "2:30 PM",
+          "Location": "KC-BH102",
+          "Instructor": "R. Ventresca",
+          "Notes": [
+            "REQUISITES: Prerequisites(s): 0.5 essay course at the first year level in any discipline."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "HUMANRS 2900F - RIGHTS IN CANADA",
+      "Description": [
+        "This course explores the historical and political context in which Human Rights are recognized as a discourse in Canadian society. It examines the complexity of human rights and the contradictory forces which have led to successes and failures in protecting minorities in this country.",
+        "Extra Information: 3 hours, 0.5 course.",
+        "(King's)"
+      ],
+      "Components": [
+        {
+          "Section": "570",
+          "Component": "LEC",
+          "Class Nbr": "3145",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "KC-W174",
+          "Instructor": "S. Bangarth",
+          "Notes": [
+            "REQUISITES: Prerequisites(s): 0.5 essay course at the first year level in any discipline."
+          ],
+          "Status": "Not Full",
+          "Campus": "King's",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

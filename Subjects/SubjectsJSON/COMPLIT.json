@@ -1,0 +1,381 @@
+{
+  "Name": "Comparative Lit & Culture",
+  "Code": "COMPLIT",
+  "Courses": [
+    {
+      "Name": "COMPLIT 1010 - EAST TO WEST & NORTH TO SOUTH",
+      "Description": [
+        "Explore the roots of today\u2019s global world through a selection of writers, artists, and works that have shaped, challenged, and connected civilizations, past and present. Study cross-cultural patterns and exchanges while on a journey of discovery that will take you from Europe to Asia, from Africa to the Americas.",
+        "Antirequisite(s): World Literatures and Cultures 1030, Comparative Literature and Culture 1050E.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11289",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH WORLDLIT 1030."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11289",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "11:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "AHB-2B04",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH WORLDLIT 1030."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2108B - SP TOPICS COMP LIT & CULTURE",
+      "Description": [
+        "Please consult the Department for current offerings.",
+        "Antirequisite(s): The former CLC 2191F/G - 2194F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11830",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "2:30 PM",
+          "End Time": "5:30 PM",
+          "Location": "AHB-1B02",
+          "Instructor": "V. Jara",
+          "Notes": [
+            "SCREENING WILL BE HELD VIRTUALLY, LECTURE WILL BE IN-PERSON. CROSS-LISTED WITH FILM 2194B AND GSWS 2246B. TOPIC: WORK LITERATURE AND FILM: WOMEN AND THE ENVIRONMENT."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2129A - MEXICO CITY",
+      "Description": [
+        "Examine Mexico City through its history of continuous transformations from Aztec empire to the megalopolis it is today. Identify traces of the various pasts in the city's contemporary urban landscape and daily life, through art, film and literature. Comparisons to other Latin American cities will be drawn.",
+        "Antirequisite(s): Spanish 2102A/B.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11328",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH ARTHUM 2692F AND SPANISH 2102A. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11328",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "HSB-236",
+          "Instructor": "A. Robin",
+          "Notes": [
+            "CROSS-LISTED WITH ARTHUM 2692F AND SPANISH 2102A. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2131A - ROME: THE ETERNAL CITY",
+      "Description": [
+        "Discover Rome and its unique contribution to Western arts and culture. Understand its prominent role in the global political and religious environments. Identify and map traces of the past in the city's contemporary urban landscape and daily life.",
+        "Antirequisite(s): Italian 2242F/G.",
+        "Extra Information: 2 hours. Note: Taught in English."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11338",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "WIRB-1130",
+          "Instructor": "L. Pocci",
+          "Notes": [
+            "CROSS-LISTED WITH ITALIAN 2242F. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2150B - CREATE AND CONNECT! CEL+",
+      "Description": [
+        "Students curate a space for the conjuring of print and digital publications of poetry, prose, podcasts, short films, as well as a space for community engagement. We study artifacts from around the globe; introduce, develop and make use of key concepts; and participate in hands-on cultural production workshops.",
+        "Antirequisite(s): Spanish 3505A/B.",
+        "Extra Information: 3 hours (2-hour lecture in English + 1-hour tutorial in English for students in Comparative Literature / 1-hour tutorial in Spanish for students in Spanish)."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12361",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "MC-17",
+          "Instructor": "F. Quintanilla",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH 3505B. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "12362",
+          "Days": [
+            "Th"
+          ],
+          "Start Time": "7:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "LWH-2205",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2291G - SPEC TOPIC IN COMP LIT & CULTR",
+      "Description": [
+        "Please consult Department for current offering. ",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11619",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "5:30 PM",
+          "End Time": "8:30 PM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH icc 2200G AND GERMAN 2260G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): World Literatures and Cultures 1030, CLC 1010, or CLC 1040 or CLC 1050E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2500G - BRIDGING CLASSROOM & COMMUNITY",
+      "Description": [
+        "Develop intercultural competence by examining individual experiences of learning and maintaining language and of integrating cultural heritage. Connect in-class learning about language acquisition, identity, memory and related issues with service-learning projects in London or the surrounding region.",
+        "Antirequisite(s): German 2500F/G, Italian 2500F/G, Spanish 2500F/G, Intercultural Communications 2500F/G.",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11310",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "11:30 AM",
+          "Location": "UC-1110",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/ITALIAN 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): World Literatures and Cultures 1030, CLC 1010, or CLC 1040 or CLC 1050E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11310",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "10:30 AM",
+          "Location": "",
+          "Instructor": "A. Borchert",
+          "Notes": [
+            "CROSS-LISTED WITH ICC 2500G/GERMAN 2500G/ITALIAN 2500G/SPANISH 2500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): World Literatures and Cultures 1030, CLC 1010, or CLC 1040 or CLC 1050E or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 2700G - WORLD CULTURES, GLOBAL SCREENS",
+      "Description": [
+        "Looking at a body of audiovisual texts from the Middle East, Asia, Latin America, Africa and Oceania, this course aims to expose students to a wide range of questions and debates about culture, identity and representation, while also relating these matters to ideas about transnational media and global (art) cinemas.",
+        "Antirequisite(s): Spanish 2700F/G; Comparative Literature and Culture 2107A/B or Spanish 2901A/B or Film Studies 2195A/B offered in Fall 2017.",
+        "Extra Information: 2-hour Lecture + Screenings. Taught in English."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "9332",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "1:30 PM",
+          "End Time": "3:30 PM",
+          "Location": "UC-1401",
+          "Instructor": "C. Burucua",
+          "Notes": [
+            "SCREENING WILL BE HELD VIRTUALLY, LECTURE WILL BE IN-PERSON. CROSS-LISTED WITH SPAN 2700G AND FILM 2191G. WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 3340G - MEDIEVAL LITERATURE & CULTURE",
+      "Description": [
+        "Study the renaissance of the 12th century which revitalized intellectual life in Europe, and the first great works of chivalry and romantic love in their cultural context. Gain knowledge of medieval castle architecture, fashion, food, travel, medicine, sexuality, courtly love, and the hunt in text and image.",
+        "Antirequisite(s): The former German 4451F/G.",
+        "Extra Information: 3 lecture hours. Counts towards Medieval Studies modules."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11315",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "2:30 PM",
+          "Location": "UCC-63",
+          "Instructor": "M. Adamson",
+          "Notes": [
+            "CROSS-LISTED WITH GERMAN 3341G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): World Literatures and Cultures 1030, or CLC 1010, or CLC 1040 or CLC 1050E, or Medieval Studies 1022, Medieval Studies 1025A/B or Medieval Studies 1026A/B or permission of the Department.",
+            "Pre-or Corequisite(s): CLC 2200F/G, CLC 3300F/G, or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        },
+        {
+          "Section": "002",
+          "Component": "TUT",
+          "Class Nbr": "11316",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "12:30 PM",
+          "End Time": "1:30 PM",
+          "Location": "STVH-3166",
+          "Instructor": ".",
+          "Notes": [
+            "WAIT LIST OPTION AVAILABLE."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "COMPLIT 4500G - SENIOR RESEARCH PROJECT",
+      "Description": [
+        "In this advanced seminar, students develop their own research project with a specific historical or geographical perspective centred on a designated general theme. Students work in conjunction with peers and professors and choose their own medium of presentation ranging from the traditional to the experimental.",
+        "Antirequisite(s): German 4500F/G, Italian 4500F/G, Spanish 4500F/G.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11336",
+          "Days": [
+            "M"
+          ],
+          "Start Time": "6:30 PM",
+          "End Time": "9:30 PM",
+          "Location": "STVH-1155",
+          "Instructor": "M. Adamson",
+          "Notes": [
+            "CROSS-LISTED WITH SPANISH/GERMAN/ITALIAN 4500G. WAIT LIST OPTION AVAILABLE. ",
+            "REQUISITES: Prerequisite(s): CLC 2200F/G, CLC 3300F/G or permission of the Department."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}

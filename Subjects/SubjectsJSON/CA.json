@@ -1,0 +1,116 @@
+{
+  "Name": "Creative Arts",
+  "Code": "CA",
+  "Courses": [
+    {
+      "Name": "CA 1020A - INTRODUCTION TO CREATIVE ARTS",
+      "Description": [
+        "Students will be introduced to critical ways of thinking about creativity and creative practice across a range of disciplines in the arts, music, and media. Topics covered may include: what creativity looks like; where creativity comes from; who can be creative; and why creativity matters.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11790",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-3210",
+          "Instructor": "B. Chiasson",
+          "Notes": [
+            "PRIORITY TO YR 1 & 2 FIMS, MUSIC AND ARTS & HUMANITIES STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 1 & 2 STUDENTS."
+          ],
+          "Status": "Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CA 1020B - INTRODUCTION TO CREATIVE ARTS",
+      "Description": [
+        "Students will be introduced to critical ways of thinking about creativity and creative practice across a range of disciplines in the arts, music, and media. Topics covered may include: what creativity looks like; where creativity comes from; who can be creative; and why creativity matters.",
+        "Extra Information: 3 hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "11791",
+          "Days": [
+            "W"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-3210",
+          "Instructor": "B. Chiasson",
+          "Notes": [
+            "PRIORITY TO YR 1 & 2 FIMS, MUSIC AND ARTS & HUMANITIES STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 1 & 2 STUDENTS."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CA 2100A - CREATIVITY IN THE 21ST CENTURY",
+      "Description": [
+        "This course uses case studies to explore creativity within a contemporary context. How have creativity and creative practices responded to and been shaped by the social, technological, political, and environmental challenges we face in the first decades of the twenty-first century? Topics may include\u00a0labour, affect, entrepreneurialism, the gig economy.\u00a0",
+        "Extra Information: 3 lecture hours."
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12122",
+          "Days": [
+            "F"
+          ],
+          "Start Time": "10:30 AM",
+          "End Time": "1:30 PM",
+          "Location": "FNB-2240",
+          "Instructor": "B. Chiasson",
+          "Notes": [
+            "PRIORITY TO YR 2 FIMS, MUSIC AND ARTS & HUMANITIES STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 2 STUDENTS. ",
+            "REQUISITES: Pre-or Corequisite(s): Creative Arts 1020A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    },
+    {
+      "Name": "CA 2200A - SOUND, IMAGE, TEXT I",
+      "Description": [
+        "This course introduces students to key critical concepts related to creative practices. It explores these concepts through the practical integration students\u2019 existing skills and creative practices, allowing them to explore collaborative creative practice in the context of classroom exercises and projects. This is a critically informed, practice-based course.\u00a0",
+        "Extra Information: 3 lecture hours. Must be taken in year 2 of the Creative Arts and Production program.\u00a0"
+      ],
+      "Components": [
+        {
+          "Section": "001",
+          "Component": "LEC",
+          "Class Nbr": "12123",
+          "Days": [
+            "Tu"
+          ],
+          "Start Time": "9:30 AM",
+          "End Time": "12:30 PM",
+          "Location": "FNB-3210",
+          "Instructor": "B. Chiasson",
+          "Notes": [
+            "PRIORITY TO YR  2 FIMS, MUSIC AND ARTS & HUMANITIES STUDENTS. JULY 28 PRIORITY CHANGE: ACCESS TO ALL YR 2 STUDENTS. ",
+            "REQUISITES: Pre-or Corequisite(s): Creative Arts 1020A/B."
+          ],
+          "Status": "Not Full",
+          "Campus": "Main",
+          "Delivery": "In Person"
+        }
+      ]
+    }
+  ]
+}
